@@ -1,15 +1,11 @@
 <div align="center">
 
-# Digital Art Gallery
-
-## Trending Collections on OpenSea
-
-| Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
-|---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|
-| **Images** | ![Image](https://i.seadn.io/s/raw/files/326bef8c980a67daa25bdb820e6137e7.jpg?w=500&auto=format?w=200&auto=format) | Images  | <details><summary>Link</summary>[Images](https://opensea.io/collection/images-48)</details> |
-| **sfgadfs** | ![Image](https://i.seadn.io/s/raw/files/9e14bc9a1ff68bf515351e803f133b2f.jpg?w=500&auto=format?w=200&auto=format) | fad | <details><summary>Link</summary>[sfgadfs](https://opensea.io/collection/sfgadfs)</details> |
-| **Zora** | ![Image](https://i.seadn.io/s/raw/files/5218da0ef03476a69cd266cd6b5245cd.jpg?w=500&auto=format?w=200&auto=format) | Zora ball | <details><summary>Link</summary>[Zora](https://opensea.io/collection/zora-9017)</details> |
-| **changfa** | ![Image](https://i.seadn.io/s/raw/files/53e53469d5a58968fed652b249ef6f5a.jpg?w=500&auto=format?w=200&auto=format) | mein | <details><summary>Link</summary>[changfa](https://opensea.io/collection/changfa)</details> |
-| **<details><summary>@holaviola Creator Token on Drakula.app</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[@holaviola Creator Token on Drakula.app](https://opensea.io/collection/holaviola-creator-token-on-drakula-app)</details> |
+| Collection Name | Image | Description | OpenSea Link |
+|-----------------|-------|-------------|--------------|
+| 黄昏 | ![Image](https://i.seadn.io/s/raw/files/3601cde98e0f0a394cdad2e0b30626ba.jpg?w=500&auto=format) | 黄昏中孤独的树 | [https://opensea.io/collection/huang-hun-2](https://opensea.io/collection/huang-hun-2) |
+| 0xa71be91d67fb8bd8b11ebcb37f50d30b65741a54 | ![Image](https://i.seadn.io/s/raw/files/1d6bee39aad0cf03fb921d3a928ad1e6.gif?w=500&auto=format) | 2100 | [https://opensea.io/collection/0xa71be91d67fb8bd8b11ebcb37f50d30b65741a54](https://opensea.io/collection/0xa71be91d67fb8bd8b11ebcb37f50d30b65741a54) |
+| Outdoors SoCal | ![Image](https://i.seadn.io/s/raw/files/ed7f44e090e03946f53de948563d20c3.jpg?w=500&auto=format) |  | [https://opensea.io/collection/outdoors-socal](https://opensea.io/collection/outdoors-socal) |
+| Sky | ![Image](https://i.seadn.io/s/raw/files/5ddf4c74b20db3b75612b71da30da440.jpg?w=500&auto=format) |  | [https://opensea.io/collection/sky-704](https://opensea.io/collection/sky-704) |
+| Harold Fabric | ![Image](https://i.seadn.io/s/raw/files/ee94328b3d27be7a4ca52f64c34bfb70.jpg?w=500&auto=format) |  | [https://opensea.io/collection/harold-fabric](https://opensea.io/collection/harold-fabric) |
 
 </div>
