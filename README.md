@@ -6,10 +6,10 @@
 
 | Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
 |---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|
-| **1.0 license.** | ![Image](https://i.seadn.io/s/raw/files/4977ff43a0d877bb081fbb2889654d2f.jpg?w=500&auto=format?w=200&auto=format) |  1.0 license. | <details><summary>Link</summary>[1.0 license.](https://opensea.io/collection/1-0-license)</details> |
-| **Joker** | ![Image](https://i.seadn.io/s/raw/files/6325db4691235afd4589d95fc299f8fa.png?w=500&auto=format?w=200&auto=format) | Diamond | <details><summary>Link</summary>[Joker](https://opensea.io/collection/joker-375)</details> |
-| **<details><summary>Lens Collect | Profile #180564 - Publication #227</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #180564 - Publication #227](https://opensea.io/collection/lens-collect-profile-180564-publication-227)</details> |
-| **<details><summary>BoomLand - Hunters</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[BoomLand - Hunters](https://opensea.io/collection/boomland-hunters-63)</details> |
-| **convenient** | ![Image](https://i.seadn.io/s/raw/files/a9ad28cca33878cd4a759f692848d60c.jpg?w=500&auto=format?w=200&auto=format) | convenient | <details><summary>Link</summary>[convenient](https://opensea.io/collection/convenient-8)</details> |
+| **xiangqinxiagai** | ![Image](https://i.seadn.io/s/raw/files/fac9da5c169a642bfb62719a003b68c1.jpg?w=500&auto=format?w=200&auto=format) | deyijiaren | <details><summary>Link</summary>[xiangqinxiagai](https://opensea.io/collection/xiangqinxiagai)</details> |
+| **<details><summary>Lens Collect | Profile #330187 - Publication #8</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #330187 - Publication #8](https://opensea.io/collection/lens-collect-profile-330187-publication-8)</details> |
+| **<details><summary>YakolBakol on polygon#23</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[YakolBakol on polygon#23](https://opensea.io/collection/yakolbakol-on-polygon-23)</details> |
+| **<details><summary>Shock President Clarity</summary>** | ![Image](https://i.seadn.io/s/raw/files/e39070a417734169138186490c330691.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Shock President Clarity](https://opensea.io/collection/shock-president-clarity)</details> |
+| **ART permissive** | ![Image](https://i.seadn.io/s/raw/files/943953467946b5864d657fe5fc8914c6.png?w=500&auto=format?w=200&auto=format) | ART permissive | <details><summary>Link</summary>[ART permissive](https://opensea.io/collection/art-permissive)</details> |
 
 </div>
