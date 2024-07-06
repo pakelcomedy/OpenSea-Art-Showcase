@@ -1,11 +1,15 @@
 <div align="center">
 
-| Collection Name | Image | Description | OpenSea Link |
-|-----------------|-------|-------------|--------------|
-| 黄昏 | ![Image](https://i.seadn.io/s/raw/files/3601cde98e0f0a394cdad2e0b30626ba.jpg?w=500&auto=format) | 黄昏中孤独的树 | [https://opensea.io/collection/huang-hun-2](https://opensea.io/collection/huang-hun-2) |
-| 0xa71be91d67fb8bd8b11ebcb37f50d30b65741a54 | ![Image](https://i.seadn.io/s/raw/files/1d6bee39aad0cf03fb921d3a928ad1e6.gif?w=500&auto=format) | 2100 | [https://opensea.io/collection/0xa71be91d67fb8bd8b11ebcb37f50d30b65741a54](https://opensea.io/collection/0xa71be91d67fb8bd8b11ebcb37f50d30b65741a54) |
-| Outdoors SoCal | ![Image](https://i.seadn.io/s/raw/files/ed7f44e090e03946f53de948563d20c3.jpg?w=500&auto=format) |  | [https://opensea.io/collection/outdoors-socal](https://opensea.io/collection/outdoors-socal) |
-| Sky | ![Image](https://i.seadn.io/s/raw/files/5ddf4c74b20db3b75612b71da30da440.jpg?w=500&auto=format) |  | [https://opensea.io/collection/sky-704](https://opensea.io/collection/sky-704) |
-| Harold Fabric | ![Image](https://i.seadn.io/s/raw/files/ee94328b3d27be7a4ca52f64c34bfb70.jpg?w=500&auto=format) |  | [https://opensea.io/collection/harold-fabric](https://opensea.io/collection/harold-fabric) |
+# Digital Art Gallery
+
+## Trending Collections on OpenSea
+
+| Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
+|---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|
+| **Bro76 - Member** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Bro76 - Member](https://opensea.io/collection/bro76-member)</details> |
+| **information** | ![Image](https://i.seadn.io/s/raw/files/b167be7f0a4c4b6dd3f5f02ee899ade2.jpg?w=500&auto=format?w=200&auto=format) | information | <details><summary>Link</summary>[information](https://opensea.io/collection/information-15)</details> |
+| **Madnesz** | ![Image](https://i.seadn.io/s/raw/files/5ba15b016c6cffb79127152c2c1b6b14.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Madnesz](https://opensea.io/collection/madnesz)</details> |
+| **projects** | ![Image](https://i.seadn.io/s/raw/files/15088c73e365c168a75307a8f3b1362b.jpg?w=500&auto=format?w=200&auto=format) | projects  | <details><summary>Link</summary>[projects](https://opensea.io/collection/projects-12)</details> |
+| **Fire Mint** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Fire Mint](https://opensea.io/collection/fire-mint)</details> |
 
 </div>
