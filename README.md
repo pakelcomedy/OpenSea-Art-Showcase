@@ -6,10 +6,10 @@
 
 | Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
 |---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>MythicMoney Masterpieces</summary>** | ![Image](https://i.seadn.io/s/raw/files/13ba210806cca5272a1a5d467e57be60.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MythicMoney Masterpieces](https://opensea.io/collection/mythicmoney-masterpieces)</details> |
-| **Terenity** | ![Image](https://i.seadn.io/s/raw/files/687aa7c12c214bea3af3d637ce7658ff.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Terenity](https://opensea.io/collection/terenity)</details> |
-| **Lera - Member** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Lera - Member](https://opensea.io/collection/lera-member)</details> |
-| **<details><summary>Pb Weblog Citysearch</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Pb Weblog Citysearch](https://opensea.io/collection/pb-weblog-citysearch)</details> |
-| **ANIMALS BAND** | ![Image](https://i.seadn.io/s/raw/files/b42536baebe5edd3b42a920d54e6c8a2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ANIMALS BAND](https://opensea.io/collection/animals-band-1)</details> |
+| **3q4** | ![Image](https://i.seadn.io/s/raw/files/8e15f5a89e5922638ec653ae4a81f08b.jpg?w=500&auto=format?w=200&auto=format) | qw4h | <details><summary>Link</summary>[3q4](https://opensea.io/collection/3q4)</details> |
+| **Oh love** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Oh love](https://opensea.io/collection/oh-love)</details> |
+| **<details><summary>Lens Collect | Profile #303418 - Publication #57</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #303418 - Publication #57](https://opensea.io/collection/lens-collect-profile-303418-publication-57)</details> |
+| **DESIGN AYGON** | ![Image](https://i.seadn.io/s/raw/files/5c2811dd7294737fb5044104e4c0efce.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DESIGN AYGON](https://opensea.io/collection/design-aygon-6)</details> |
+| **<details><summary>0x131273 - Member</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[0x131273 - Member](https://opensea.io/collection/0x131273-member)</details> |
 
 </div>
