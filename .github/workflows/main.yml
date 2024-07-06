@@ -1,0 +1,35 @@
+name: Update Digital Art Gallery
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
+jobs:
+  update-gallery:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Replace with your Python version
+        
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests  # Ensure requests library is installed
+      
+      - name: Run Python script to update gallery
+        env:
+          OPENSEA_API_KEY: ${{ secrets.OPENSEA_API_KEY }}  # Use the secret here
+        run: python /path/to/your/update_art_gallery.py  # Replace with actual path
+
+      - name: Commit and push updated README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update Digital Art Gallery"
+          git push
