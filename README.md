@@ -6,11 +6,10 @@
 
 | Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
 |---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|
-| **MP3** | ![Image](https://i.seadn.io/s/raw/files/211d88b939ad5a4c82ee9440bf5e590f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MP3](https://opensea.io/collection/mp3-10)</details> |
-| **time** | ![Image](https://i.seadn.io/s/raw/files/a9948ac4276698d9da47ce4e0f93e1c6.jpg?w=500&auto=format?w=200&auto=format) | 
-For a long time | <details><summary>Link</summary>[time](https://opensea.io/collection/time-265)</details> |
-| **GAME** | ![Image](https://i.seadn.io/s/raw/files/a8a2c0a88f9c97ecb9746d169ffb566b.png?w=500&auto=format?w=200&auto=format) | GAME | <details><summary>Link</summary>[GAME](https://opensea.io/collection/game-209)</details> |
-| **GlacierSeekers** | ![Image](https://i.seadn.io/s/raw/files/d193d66322e91094f538a6cdeee13f94.jpg?w=500&auto=format?w=200&auto=format) | GlacierSeekers | <details><summary>Link</summary>[GlacierSeekers](https://opensea.io/collection/glacierseekers)</details> |
-| **mountain life** | ![Image](https://i.seadn.io/s/raw/files/9eac96037128aee829316fe0994209da.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mountain life](https://opensea.io/collection/mountain-life-3)</details> |
+| **Ava Turner** | ![Image](https://i.seadn.io/s/raw/files/cd9105f6e273f870f897f503f2863f43.png?w=500&auto=format?w=200&auto=format) | Ava Turner | <details><summary>Link</summary>[Ava Turner](https://opensea.io/collection/ava-turner)</details> |
+| **Protocol Draft** | ![Image](https://i.seadn.io/s/raw/files/fc04e604e6267fb4d5ed7e43068f2754.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Protocol Draft](https://opensea.io/collection/protocol-draft)</details> |
+| **XD** | ![Image](https://i.seadn.io/s/raw/files/f43c74dca92a3c8a8914baee34521e46.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XD](https://opensea.io/collection/xd-87)</details> |
+| **Zora** | ![Image](https://i.seadn.io/s/raw/files/1be37b4a4a8159fcd94fa4fb0f418b14.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora](https://opensea.io/collection/zora-9035)</details> |
+| **Zora** | ![Image](https://i.seadn.io/s/raw/files/661aacb5a36a54c436af9e762d909215.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora](https://opensea.io/collection/zora-9034)</details> |
 
 </div>
