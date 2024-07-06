@@ -1,63 +1,62 @@
 import requests
 from datetime import datetime
 
-# Function to fetch trending NFT collections from OpenSea
 def fetch_trending_collections():
-    url = "https://api.opensea.io/api/v2/collections"
+    url = "https://api.opensea.io/api/v2/collections?limit=5&offset=0"
     headers = {
         "Accept": "application/json",
-        "X-API-KEY": "60c2cea4924d4cf195bff2225eddd514"  # Replace with your actual API key
+        "X-API-KEY": "60c2cea4924d4cf195bff2225eddd514"
     }
-    params = {
-        "order_by": "created_date",
-        "limit": 5  # Fetching the top 5 trending collections
-    }
+    
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()  # Raise an error for bad responses
+        data = response.json()
+        return data.get("collections", [])
+    except requests.exceptions.HTTPError as http_err:
+        print(f"HTTP error occurred: {http_err}")
+    except Exception as err:
+        print(f"Other error occurred: {err}")
 
-    response = requests.get(url, headers=headers, params=params)
-
-    if response.status_code == 200:
-        collections_data = response.json().get("collections", [])
-        return collections_data
-    else:
-        print(f"Failed to fetch collections. Status code: {response.status_code}")
-        return None
-
-# Function to format collections data in Markdown with HTML centering tags
-def format_collections_markdown(collections):
+def main():
+    collections = fetch_trending_collections()
+    
     if not collections:
-        return ""
+        print("No collections found.")
+        return
+    
+    # Markdown content generation
+    markdown_content = """\
+<div align="center">
 
-    markdown_content = "# <div align=\"center\">Digital Art Gallery</div>\n\n"
-    markdown_content += "## <div align=\"center\">Trending Collections on OpenSea</div>\n\n"
-    markdown_content += "<div align=\"center\">\n\n"
-    markdown_content += "| Collection Name | Image | Description | OpenSea Link |\n"
-    markdown_content += "|-----------------|-------|-------------|--------------|\n"
+# Digital Art Gallery
+
+## Trending Collections on OpenSea
+
+| Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
+|---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|"""
 
     for collection in collections:
-        collection_name = collection.get("name", "Unknown")
+        collection_name = collection.get("name", "")
         image_url = collection.get("image_url", "")
-        description = collection.get("description", "No description available.")
-        opensea_url = collection.get("opensea_url", "")
+        description = collection.get("description", "")
+        opensea_link = collection.get("opensea_url", "")
 
-        markdown_content += f"| {collection_name} | ![Image]({image_url}) | {description} | [{opensea_url}]({opensea_url}) |\n"
-
-    markdown_content += "\n</div>\n"
-
-    return markdown_content
-
-# Function to update README.md with formatted collections data
-def update_readme_with_collections(markdown_content):
-    with open("README.md", "w", encoding="utf-8") as readme_file:
-        readme_file.write(markdown_content)
-
+        if len(collection_name) > 15:
+            collection_name_summary = f"<details><summary>{collection_name}</summary>"
+        else:
+            collection_name_summary = collection_name
+        
+        # Constructing each row in the table
+        markdown_content += f"\n| **{collection_name_summary}** | ![Image]({image_url}?w=200&auto=format) | {description} | <details><summary>Link</summary>[{collection_name}]({opensea_link})</details> |"
+    
+    markdown_content += "\n\n</div>"
+    
+    # Writing to README.md
+    with open("README.md", "w", encoding="utf-8") as file:
+        file.write(markdown_content)
+    
     print("README.md updated successfully.")
-
-# Main function to fetch collections, format Markdown, and update README.md
-def main():
-    trending_collections = fetch_trending_collections()
-    if trending_collections:
-        markdown_content = format_collections_markdown(trending_collections)
-        update_readme_with_collections(markdown_content)
 
 if __name__ == "__main__":
     main()
