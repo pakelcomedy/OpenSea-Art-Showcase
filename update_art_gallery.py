@@ -1,11 +1,12 @@
+import os
 import requests
-from datetime import datetime
 
 def fetch_trending_collections():
     url = "https://api.opensea.io/api/v2/collections?limit=5&offset=0"
+    api_key = os.getenv('OPENSEA_API_KEY')
     headers = {
         "Accept": "application/json",
-        "X-API-KEY": "60c2cea4924d4cf195bff2225eddd514"
+        "X-API-KEY": api_key
     }
     
     try:
