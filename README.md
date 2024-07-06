@@ -6,10 +6,10 @@
 
 | Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
 |---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ava Turner** | ![Image](https://i.seadn.io/s/raw/files/cd9105f6e273f870f897f503f2863f43.png?w=500&auto=format?w=200&auto=format) | Ava Turner | <details><summary>Link</summary>[Ava Turner](https://opensea.io/collection/ava-turner)</details> |
-| **Protocol Draft** | ![Image](https://i.seadn.io/s/raw/files/fc04e604e6267fb4d5ed7e43068f2754.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Protocol Draft](https://opensea.io/collection/protocol-draft)</details> |
-| **XD** | ![Image](https://i.seadn.io/s/raw/files/f43c74dca92a3c8a8914baee34521e46.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XD](https://opensea.io/collection/xd-87)</details> |
-| **Zora** | ![Image](https://i.seadn.io/s/raw/files/1be37b4a4a8159fcd94fa4fb0f418b14.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora](https://opensea.io/collection/zora-9035)</details> |
-| **Zora** | ![Image](https://i.seadn.io/s/raw/files/661aacb5a36a54c436af9e762d909215.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora](https://opensea.io/collection/zora-9034)</details> |
+| **CryptoPunkz** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[CryptoPunkz](https://opensea.io/collection/cryptopunkz-7)</details> |
+| **<details><summary>Lens Collect | Profile #227005 - Publication #154</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #227005 - Publication #154](https://opensea.io/collection/lens-collect-profile-227005-publication-154)</details> |
+| **defiantAuroora** | ![Image](?w=200&auto=format) | Wonderful Jewel telling a story. | <details><summary>Link</summary>[defiantAuroora](https://opensea.io/collection/defiantauroora)</details> |
+| **<details><summary>Lens Collect | Profile #143257 - Publication #6942</summary>** | ![Image](https://i.seadn.io/s/raw/files/94442fc972f48092cfab7963277cf881.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #143257 - Publication #6942](https://opensea.io/collection/lens-collect-profile-143257-publication-6942)</details> |
+| **2859's Follower** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[2859's Follower](https://opensea.io/collection/2859-s-follower)</details> |
 
 </div>
