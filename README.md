@@ -6,10 +6,10 @@
 
 | Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
 |---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|
-| **3q4** | ![Image](https://i.seadn.io/s/raw/files/8e15f5a89e5922638ec653ae4a81f08b.jpg?w=500&auto=format?w=200&auto=format) | qw4h | <details><summary>Link</summary>[3q4](https://opensea.io/collection/3q4)</details> |
-| **Oh love** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Oh love](https://opensea.io/collection/oh-love)</details> |
-| **<details><summary>Lens Collect | Profile #303418 - Publication #57</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #303418 - Publication #57](https://opensea.io/collection/lens-collect-profile-303418-publication-57)</details> |
-| **DESIGN AYGON** | ![Image](https://i.seadn.io/s/raw/files/5c2811dd7294737fb5044104e4c0efce.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DESIGN AYGON](https://opensea.io/collection/design-aygon-6)</details> |
-| **<details><summary>0x131273 - Member</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[0x131273 - Member](https://opensea.io/collection/0x131273-member)</details> |
+| **Spring original** | ![Image](https://i.seadn.io/s/raw/files/606ebbddd99d250399ed31d41453bb3a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spring original](https://opensea.io/collection/spring-original)</details> |
+| **lovely mare** | ![Image](https://i.seadn.io/s/raw/files/9533c003af51fec3bc98ad5e0161865c.jpg?w=500&auto=format?w=200&auto=format) | lovely animal | <details><summary>Link</summary>[lovely mare](https://opensea.io/collection/lovely-mare)</details> |
+| **Love** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Love](https://opensea.io/collection/love-1241)</details> |
+| **<details><summary>Mad Terminator Max</summary>** | ![Image](?w=200&auto=format) | An unbending hero and a desperate fighter | <details><summary>Link</summary>[Mad Terminator Max](https://opensea.io/collection/mad-terminator-max)</details> |
+| **<details><summary>Universal Stallion Horse NFT</summary>** | ![Image](?w=200&auto=format) |  | <details><summary>Link</summary>[Universal Stallion Horse NFT](https://opensea.io/collection/universal-stallion-horse-nft-14)</details> |
 
 </div>
