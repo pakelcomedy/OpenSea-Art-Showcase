@@ -14,7 +14,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Replace with your Python version
+          python-version: '3.10.12'  # Replace with your Python version
         
       - name: Install dependencies
         run: |
@@ -24,7 +24,7 @@ jobs:
       - name: Run Python script to update gallery
         env:
           OPENSEA_API_KEY: ${{ secrets.OPENSEA_API_KEY }}  # Use the secret here
-        run: python /path/to/your/update_art_gallery.py  # Replace with actual path
+        run: python update_art_gallery.py  # Replace with actual path
 
       - name: Commit and push updated README
         run: |
