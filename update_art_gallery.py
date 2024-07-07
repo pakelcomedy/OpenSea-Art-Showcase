@@ -1,5 +1,6 @@
-import os
 import requests
+import os
+from datetime import datetime
 
 def is_image_valid(url):
     try:
@@ -10,10 +11,9 @@ def is_image_valid(url):
 
 def fetch_trending_collections():
     url = "https://api.opensea.io/api/v2/collections?limit=5&offset=0"
-    api_key = os.getenv('OPENSEA_API_KEY')
     headers = {
         "Accept": "application/json",
-        "X-API-KEY": api_key
+        "X-API-KEY": os.getenv("OPENSEA_API_KEY")
     }
     
     try:
@@ -41,8 +41,8 @@ def main():
 
 ## Trending Collections on OpenSea
 
-| Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
-|---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|"""
+| Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
+|---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|"""
 
     for collection in collections:
         collection_name = collection.get("name", "")
@@ -50,17 +50,14 @@ def main():
         description = collection.get("description", "")
         opensea_link = collection.get("opensea_url", "")
 
-        if len(collection_name) > 15:
-            collection_name_summary = f"<details><summary>{collection_name}</summary>"
-        else:
-            collection_name_summary = collection_name
-        
-        # Check if image URL is valid
         if is_image_valid(image_url):
+            if len(collection_name) > 15:
+                collection_name_summary = f"<details><summary>{collection_name}</summary>"
+            else:
+                collection_name_summary = collection_name
+            
             # Constructing each row in the table
             markdown_content += f"\n| **{collection_name_summary}** | ![Image]({image_url}?w=200&auto=format) | {description} | <details><summary>Link</summary>[{collection_name}]({opensea_link})</details> |"
-        else:
-            print(f"Skipping {collection_name} due to invalid image URL: {image_url}")
 
     markdown_content += "\n\n</div>"
     
