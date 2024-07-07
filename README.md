@@ -6,7 +6,8 @@
 
 | Collection Name                             | Image                                                                                     | Description              | OpenSea Link                                                                                          |
 |---------------------------------------------|-------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------|
-| **Professional** | ![Image](https://i.seadn.io/s/raw/files/b61f903418305707d860c269f6a2e6d5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Professional](https://opensea.io/collection/professional-14)</details> |
-| **spide** | ![Image](https://i.seadn.io/s/raw/files/fddc814d6033bb9e35894551f04dbbce.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[spide](https://opensea.io/collection/spide-3)</details> |
+| **Claimed Bb** | ![Image](https://i.seadn.io/s/raw/files/4353d5a80ec51b5d46b3ab25ce14d089.jpg?w=500&auto=format?w=200&auto=format) | Anticipated tear payday douglas capture north exactly confirmation | <details><summary>Link</summary>[Claimed Bb](https://opensea.io/collection/claimed-bb)</details> |
+| **El final** | ![Image](https://i.seadn.io/s/raw/files/52b7e0e014fb5bbf9bfd95df4f999e9c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[El final](https://opensea.io/collection/el-final-1)</details> |
+| **Human nature** | ![Image](https://i.seadn.io/s/raw/files/145cd6a30bb2106ab0603a899d389d85.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Human nature](https://opensea.io/collection/human-nature-18)</details> |
 
 </div>
