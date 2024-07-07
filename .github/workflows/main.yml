@@ -1,3 +1,4 @@
+
 name: Update README with Trending NFT Collections
 
 on:
@@ -23,42 +24,19 @@ jobs:
         python -m venv .venv
         . .venv/bin/activate
         pip install requests
-
     - name: Update README
       env:
         OPENSEA_API_KEY: ${{ secrets.OPENSEA_API_KEY }}
       run: |
         . .venv/bin/activate
         python update_art_gallery.py
-
-    - name: Configure Git
-      run: |
-        git config --global user.name 'pakelcomedy'
-        git config --global user.email 'danieldna1411@gmail.com'
-
-    - name: Check for local changes
-      id: check_changes
-      run: |
-        git diff --quiet || echo "Changes found in working directory"
-
-    - name: Stash local changes
-      if: steps.check_changes.outputs.stdout == 'Changes found in working directory'
-      run: |
-        git stash --include-untracked
-
-    - name: Pull latest changes from main branch
-      run: |
-        git pull origin main
-
-    - name: Apply stashed changes
-      if: steps.check_changes.outputs.stdout == 'Changes found in working directory'
-      run: |
-        git stash pop
-
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
+        git config --global user.name 'pakelcomedy'
+        git config --global user.email 'danieldna1411@gmail.com'
+        git pull origin main
         git add README.md
         git commit -m 'Update README with latest trending NFT collections'
         git push
