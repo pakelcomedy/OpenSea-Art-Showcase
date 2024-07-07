@@ -1,6 +1,5 @@
 import requests
 import os
-from datetime import datetime
 
 def is_image_valid(url):
     try:
