@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -31,13 +33,19 @@ jobs:
         . .venv/bin/activate
         python update_art_gallery.py
 
+    - name: Configure SSH
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config --global user.name 'pakelcomedy'
         git config --global user.email 'danieldna1411@gmail.com'
-        git pull origin main
         git add README.md
         git commit -m 'Update README with latest trending NFT collections'
-        git push
+        git push git@github.com:pakelcomedy/OpenSea-Art-Showcase.git main
