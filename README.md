@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>everything in our life is bubble</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/6180537e9a87ffc4b118cbdb969c509d.jpg?w=500&auto=format?w=200&auto=format) | Any increase is followed by a decrease | <details><summary>Link</summary>[everything in our life is bubble](https://opensea.io/collection/everything-in-our-life-is-bubble)</details> |
-| **SailorMoon** | ![Image](https://i.seadn.io/s/raw/files/6426348409dd7bfde8440f6bc132bb13.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SailorMoon](https://opensea.io/collection/sailormoon-6)</details> |
-| **E CUBE** | ![Image](https://i.seadn.io/s/raw/files/c6743361c38b408d2d6243def12166f6.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[E CUBE](https://opensea.io/collection/e-cube)</details> |
+| **<details><summary>Alcohol Vocals Notice</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/62de4b560b0ee8ed79a693269d36b6e1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Alcohol Vocals Notice](https://opensea.io/collection/alcohol-vocals-notice)</details> |
+| **People** | ![Image](https://i.seadn.io/s/raw/files/0eb409756500d58d7f3b6235459f66d3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[People](https://opensea.io/collection/people-276)</details> |
+| **Virra NFT FREE** | ![Image](https://i.seadn.io/s/raw/files/702d15f2ea9835edb9fe3bd1cd3e468f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Virra NFT FREE](https://opensea.io/collection/virra-nft-free)</details> |
 
 </div>
