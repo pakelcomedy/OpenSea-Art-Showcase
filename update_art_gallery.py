@@ -52,7 +52,7 @@ def main():
 
         if is_image_valid(image_url):
             if len(collection_name) > 15:
-                collection_name_summary = f"<details><summary>{collection_name}</summary>"
+                collection_name_summary = f"<details><summary>{collection_name}</summary></details>"
             else:
                 collection_name_summary = collection_name
             
