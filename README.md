@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ENJOY** | ![Image](https://i.seadn.io/s/raw/files/496e8604e97e76889aa87542d1c731a2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ENJOY](https://opensea.io/collection/enjoy-1801)</details> |
-| **Summer** | ![Image](https://i.seadn.io/s/raw/files/6a8711aa09901c54a9a015ec911f1991.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Summer](https://opensea.io/collection/summer-833)</details> |
-| **Rave in Grave** | ![Image](https://i.seadn.io/s/raw/files/4473fe3601a407421b11cf10989239e3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rave in Grave](https://opensea.io/collection/rave-in-grave)</details> |
-| **Skullers** | ![Image](https://i.seadn.io/s/raw/files/670d30cfc3ff86b92e0b4dc5feebf626.png?w=500&auto=format?w=200&auto=format) | ... | <details><summary>Link</summary>[Skullers](https://opensea.io/collection/skullers-3)</details> |
+| **Withdrawal** | ![Image](https://i.seadn.io/s/raw/files/6b10b761bf0f893e2d3133127c8190e3.jpg?w=500&auto=format?w=200&auto=format) | Warner julie elephant flexibility webmasters particles | <details><summary>Link</summary>[Withdrawal](https://opensea.io/collection/withdrawal-9)</details> |
+| **Gopnik** | ![Image](https://i.seadn.io/s/raw/files/e9204d4855905a3fb2e4a2bc20f09bdf.gif?w=500&auto=format?w=200&auto=format) | Gopnik | <details><summary>Link</summary>[Gopnik](https://opensea.io/collection/gopnik-5)</details> |
 
 </div>
