@@ -12,7 +12,7 @@ def fetch_trending_collections():
     url = "https://api.opensea.io/api/v2/collections?limit=5&offset=0"
     headers = {
         "Accept": "application/json",
-        "X-API-KEY": os.getenv("OPENSEA_API_KEY")
+        "X-API-KEY": os.getenv("OPENSEA_API_KEY")  # Fetch the API key from environment variables
     }
     
     try:
