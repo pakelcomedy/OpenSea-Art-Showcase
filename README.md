@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Bad Man** | ![Image](https://i.seadn.io/s/raw/files/92b17d529270887a4f3f9506ec472670.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bad Man](https://opensea.io/collection/bad-man-4)</details> |
-| **Genesis** | ![Image](https://i.seadn.io/s/raw/files/7851758289c1a85da3b047ca700f2ab1.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Genesis](https://opensea.io/collection/genesis-216)</details> |
-| **D0GE Club** | ![Image](https://i.seadn.io/s/raw/files/bde12273c5712cdcd8100c32d94d68f4.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[D0GE Club](https://opensea.io/collection/d0ge-club-93)</details> |
+| **knife** | ![Image](https://i.seadn.io/s/raw/files/531de6295b401888ce1603d252b45b39.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[knife](https://opensea.io/collection/knife-44)</details> |
+| **go** | ![Image](https://i.seadn.io/s/raw/files/5b8d236fbdb2be58ddb3d4f318df26eb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[go](https://opensea.io/collection/go-170)</details> |
+| **1$ and Control** | ![Image](https://i.seadn.io/s/raw/files/e46618ec8024268a605d7e9b0aa10594.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1$ and Control](https://opensea.io/collection/1-and-control)</details> |
 
 </div>
