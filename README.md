@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **D1ckButts** | ![Image](https://i.seadn.io/s/raw/files/195929539cb8f095433931046935c0fa.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[D1ckButts](https://opensea.io/collection/d1ckbutts-37)</details> |
-| **Vegens** | ![Image](https://i.seadn.io/s/raw/files/49d46c5fa61158d6c743b081b5e648a3.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Vegens](https://opensea.io/collection/vegens-13)</details> |
-| **Mighty** | ![Image](https://i.seadn.io/s/raw/files/1915d29cf35e79d43b0af8db90c04df8.jpg?w=500&auto=format?w=200&auto=format) | Strikes obtaining moment | <details><summary>Link</summary>[Mighty](https://opensea.io/collection/mighty-17)</details> |
-| **Window** | ![Image](https://i.seadn.io/s/raw/files/4c399e38b6a2357487e5073e91de1c3e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Window](https://opensea.io/collection/window-76)</details> |
-| **cs2** | ![Image](https://i.seadn.io/s/raw/files/4bf670265b6100b9f0a332f41189dc2e.png?w=500&auto=format?w=200&auto=format) | cs2 | <details><summary>Link</summary>[cs2](https://opensea.io/collection/cs2-10)</details> |
+| **Bad Man** | ![Image](https://i.seadn.io/s/raw/files/92b17d529270887a4f3f9506ec472670.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bad Man](https://opensea.io/collection/bad-man-4)</details> |
+| **Genesis** | ![Image](https://i.seadn.io/s/raw/files/7851758289c1a85da3b047ca700f2ab1.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Genesis](https://opensea.io/collection/genesis-216)</details> |
+| **D0GE Club** | ![Image](https://i.seadn.io/s/raw/files/bde12273c5712cdcd8100c32d94d68f4.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[D0GE Club](https://opensea.io/collection/d0ge-club-93)</details> |
 
 </div>
