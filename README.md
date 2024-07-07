@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **fruterry1** | ![Image](https://i.seadn.io/s/raw/files/f84a599d54ddd2f805aefd4127c2d653.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fruterry1](https://opensea.io/collection/fruterry1-641)</details> |
-| **<details><summary>Animated Roundie Upgrade</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/9aa84051349b493f42693af919ac2032.png?w=500&auto=format?w=200&auto=format) | Holders of an Animated Roundie Upgrade can redeem these to upgrade a single Roundie NFT of their choice. To redeem, visit the Roundies Discord and speak to a moderator. | <details><summary>Link</summary>[Animated Roundie Upgrade](https://opensea.io/collection/animated-roundie-upgrade-1)</details> |
+| **fruterry1** | ![Image](https://i.seadn.io/s/raw/files/b2b0b8cc4882efa19c2570de824787a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fruterry1](https://opensea.io/collection/fruterry1-654)</details> |
+| **Girls Magics** | ![Image](https://i.seadn.io/s/raw/files/eedfe05a51e00cffb1fa5af859b2b745.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Girls Magics](https://opensea.io/collection/girls-magics-2)</details> |
+| **<details><summary>Mcdonald Languages</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/15919d0b9367d1e8cb9817d4cd67da3e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mcdonald Languages](https://opensea.io/collection/mcdonald-languages)</details> |
 
 </div>
