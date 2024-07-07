@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Alcohol Vocals Notice</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/62de4b560b0ee8ed79a693269d36b6e1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Alcohol Vocals Notice](https://opensea.io/collection/alcohol-vocals-notice)</details> |
-| **People** | ![Image](https://i.seadn.io/s/raw/files/0eb409756500d58d7f3b6235459f66d3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[People](https://opensea.io/collection/people-276)</details> |
-| **Virra NFT FREE** | ![Image](https://i.seadn.io/s/raw/files/702d15f2ea9835edb9fe3bd1cd3e468f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Virra NFT FREE](https://opensea.io/collection/virra-nft-free)</details> |
+| **sea** | ![Image](https://i.seadn.io/s/raw/files/b78b7181c05a220941483c31526cdfb4.jpg?w=500&auto=format?w=200&auto=format) | like | <details><summary>Link</summary>[sea](https://opensea.io/collection/sea-795)</details> |
+| **Lucid Punks** | ![Image](https://i.seadn.io/s/raw/files/0eebb923c2c2d567f3312e297fd84941.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lucid Punks](https://opensea.io/collection/lucid-punks-88)</details> |
+| **zorox** | ![Image](https://i.seadn.io/s/raw/files/61d043c308013c59c30331ad1ed75b96.jpg?w=500&auto=format?w=200&auto=format) | razorox tomo | <details><summary>Link</summary>[zorox](https://opensea.io/collection/zorox-1)</details> |
+| **AP1CS** | ![Image](https://i.seadn.io/s/raw/files/92b20519f0823094e8d1de37aad75980.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AP1CS](https://opensea.io/collection/ap1cs-39)</details> |
 
 </div>
