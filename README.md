@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Yellow** | ![Image](https://i.seadn.io/s/raw/files/92ba2bfdd96a882f2d574d58cb388d11.gif?w=500&auto=format?w=200&auto=format) | Yellow | <details><summary>Link</summary>[Yellow](https://opensea.io/collection/yellow-161)</details> |
-| **summer2024** | ![Image](https://i.seadn.io/s/raw/files/080a527f10fdf7e9b0e03416640d4a21.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[summer2024](https://opensea.io/collection/summer2024-8)</details> |
-| **strong robot** | ![Image](https://i.seadn.io/s/raw/files/caed3ec1374654c7271f4b145b3d1b2e.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[strong robot](https://opensea.io/collection/strong-robot-9)</details> |
-| **red parten** | ![Image](https://i.seadn.io/s/raw/files/5160d267f3c67cf47bad3ec7be40af1d.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[red parten](https://opensea.io/collection/red-parten)</details> |
+| **esyr** | ![Image](https://i.seadn.io/s/raw/files/ce6631227ed88113395cb23a3265a2db.jpg?w=500&auto=format?w=200&auto=format) | e | <details><summary>Link</summary>[esyr](https://opensea.io/collection/esyr)</details> |
+| **sys** | ![Image](https://i.seadn.io/s/raw/files/a83df279cc6945f90150b1063f791b87.jpg?w=500&auto=format?w=200&auto=format) | s | <details><summary>Link</summary>[sys](https://opensea.io/collection/sys-12)</details> |
+| **mom** | ![Image](https://i.seadn.io/s/raw/files/a954e84b205889f38ff8c72e4a3ef83f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mom](https://opensea.io/collection/mom-75)</details> |
 
 </div>
