@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora** | ![Image](https://i.seadn.io/s/raw/files/690cdcec171ade6e691bba7d388589eb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora](https://opensea.io/collection/zora-9125)</details> |
-| **Zora** | ![Image](https://i.seadn.io/s/raw/files/61afb5877a1ffd85f0f94b9419fdcce0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora](https://opensea.io/collection/zora-9124)</details> |
-| **<details><summary>Prayer Terry Harold</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/330628e12ab4d8f35d90891e95a42950.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Prayer Terry Harold](https://opensea.io/collection/prayer-terry-harold)</details> |
-| **mashina** | ![Image](https://i.seadn.io/s/raw/files/8f8a9f9c62a41544337f9d9ca204078c.jpg?w=500&auto=format?w=200&auto=format) | mashina | <details><summary>Link</summary>[mashina](https://opensea.io/collection/mashina-13)</details> |
-| **Farm quest** | ![Image](https://i.seadn.io/s/raw/files/ba416ced3382f0609d04de9fed5c3e57.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Farm quest](https://opensea.io/collection/farm-quest)</details> |
+| **Yellow** | ![Image](https://i.seadn.io/s/raw/files/92ba2bfdd96a882f2d574d58cb388d11.gif?w=500&auto=format?w=200&auto=format) | Yellow | <details><summary>Link</summary>[Yellow](https://opensea.io/collection/yellow-161)</details> |
+| **summer2024** | ![Image](https://i.seadn.io/s/raw/files/080a527f10fdf7e9b0e03416640d4a21.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[summer2024](https://opensea.io/collection/summer2024-8)</details> |
+| **strong robot** | ![Image](https://i.seadn.io/s/raw/files/caed3ec1374654c7271f4b145b3d1b2e.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[strong robot](https://opensea.io/collection/strong-robot-9)</details> |
+| **red parten** | ![Image](https://i.seadn.io/s/raw/files/5160d267f3c67cf47bad3ec7be40af1d.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[red parten](https://opensea.io/collection/red-parten)</details> |
 
 </div>
