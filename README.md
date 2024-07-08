@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>20218's Follower</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[20218's Follower](https://opensea.io/collection/20218-s-follower)</details> |
-| **ShadowWolves** | ![Image](https://i.seadn.io/s/raw/files/4b7d1a9351097a98eeb55c14b5932a59.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ShadowWolves](https://opensea.io/collection/shadowwolves-95)</details> |
-| **ShadowWolves** | ![Image](https://i.seadn.io/s/raw/files/4b7d1a9351097a98eeb55c14b5932a59.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ShadowWolves](https://opensea.io/collection/shadowwolves-94)</details> |
-| **fly** | ![Image](https://i.seadn.io/s/raw/files/9e5d7fabd5c7daa0ba824c83beb9084d.jpg?w=500&auto=format?w=200&auto=format) | a flying girl | <details><summary>Link</summary>[fly](https://opensea.io/collection/fly-226)</details> |
-| **lovely** | ![Image](https://i.seadn.io/s/raw/files/d35a0d44bbfbae2f04a0e7672b5f4799.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lovely](https://opensea.io/collection/lovely-96)</details> |
+| **iky8tgl** | ![Image](https://i.seadn.io/s/raw/files/4ec4a45ef59fcf624e54ca74e63fc070.jpg?w=500&auto=format?w=200&auto=format) | 7uyrfl6le,5 | <details><summary>Link</summary>[iky8tgl](https://opensea.io/collection/iky8tgl)</details> |
+| **baTTLEarena** | ![Image](https://i.seadn.io/s/raw/files/2038a6e0800f41a9df9c13dbb30a8175.png?w=500&auto=format?w=200&auto=format) | baTTLEarena | <details><summary>Link</summary>[baTTLEarena](https://opensea.io/collection/battlearena)</details> |
+| **ig** | ![Image](https://i.seadn.io/s/raw/files/ce3df9199b3636f7e8384697dd7841cf.jpg?w=500&auto=format?w=200&auto=format) | hy, fytfr,lt6 | <details><summary>Link</summary>[ig](https://opensea.io/collection/ig-20)</details> |
 
 </div>
