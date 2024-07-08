@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **iky8tgl** | ![Image](https://i.seadn.io/s/raw/files/4ec4a45ef59fcf624e54ca74e63fc070.jpg?w=500&auto=format?w=200&auto=format) | 7uyrfl6le,5 | <details><summary>Link</summary>[iky8tgl](https://opensea.io/collection/iky8tgl)</details> |
-| **baTTLEarena** | ![Image](https://i.seadn.io/s/raw/files/2038a6e0800f41a9df9c13dbb30a8175.png?w=500&auto=format?w=200&auto=format) | baTTLEarena | <details><summary>Link</summary>[baTTLEarena](https://opensea.io/collection/battlearena)</details> |
-| **ig** | ![Image](https://i.seadn.io/s/raw/files/ce3df9199b3636f7e8384697dd7841cf.jpg?w=500&auto=format?w=200&auto=format) | hy, fytfr,lt6 | <details><summary>Link</summary>[ig](https://opensea.io/collection/ig-20)</details> |
+| **jnr4** | ![Image](https://i.seadn.io/s/raw/files/5673600a82a2b7416c25fbe634350b1f.png?w=500&auto=format?w=200&auto=format) | nw4r5wje5 | <details><summary>Link</summary>[jnr4](https://opensea.io/collection/jnr4)</details> |
+| **langman yinghua** | ![Image](https://i.seadn.io/s/raw/files/7f3d7005b93158060012a5c6e4d58261.jpg?w=500&auto=format?w=200&auto=format) | ruguoyoutian | <details><summary>Link</summary>[langman yinghua](https://opensea.io/collection/langman-yinghua)</details> |
+| **mkd5** | ![Image](https://i.seadn.io/s/raw/files/b52344c3fccf360aefd1aed8e56ae367.png?w=500&auto=format?w=200&auto=format) | ed6yke,l6 | <details><summary>Link</summary>[mkd5](https://opensea.io/collection/mkd5)</details> |
+| **<details><summary>24628's Follower</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[24628's Follower](https://opensea.io/collection/24628-s-follower)</details> |
 
 </div>
