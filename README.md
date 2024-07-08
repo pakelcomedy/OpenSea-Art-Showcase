@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **fruterry1** | ![Image](https://i.seadn.io/s/raw/files/b2b0b8cc4882efa19c2570de824787a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fruterry1](https://opensea.io/collection/fruterry1-654)</details> |
-| **Girls Magics** | ![Image](https://i.seadn.io/s/raw/files/eedfe05a51e00cffb1fa5af859b2b745.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Girls Magics](https://opensea.io/collection/girls-magics-2)</details> |
-| **<details><summary>Mcdonald Languages</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/15919d0b9367d1e8cb9817d4cd67da3e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mcdonald Languages](https://opensea.io/collection/mcdonald-languages)</details> |
+| **<details><summary>20218's Follower</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[20218's Follower](https://opensea.io/collection/20218-s-follower)</details> |
+| **ShadowWolves** | ![Image](https://i.seadn.io/s/raw/files/4b7d1a9351097a98eeb55c14b5932a59.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ShadowWolves](https://opensea.io/collection/shadowwolves-95)</details> |
+| **ShadowWolves** | ![Image](https://i.seadn.io/s/raw/files/4b7d1a9351097a98eeb55c14b5932a59.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ShadowWolves](https://opensea.io/collection/shadowwolves-94)</details> |
+| **fly** | ![Image](https://i.seadn.io/s/raw/files/9e5d7fabd5c7daa0ba824c83beb9084d.jpg?w=500&auto=format?w=200&auto=format) | a flying girl | <details><summary>Link</summary>[fly](https://opensea.io/collection/fly-226)</details> |
+| **lovely** | ![Image](https://i.seadn.io/s/raw/files/d35a0d44bbfbae2f04a0e7672b5f4799.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lovely](https://opensea.io/collection/lovely-96)</details> |
 
 </div>
