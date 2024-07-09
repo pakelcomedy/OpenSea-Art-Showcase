@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **athos** | ![Image](https://i.seadn.io/s/raw/files/00ed536ee8cfbc029f46b867b5e051fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[athos](https://opensea.io/collection/athos-4)</details> |
-| **Wiz3** | ![Image](https://i.seadn.io/s/raw/files/f9897374c6d548f95b9378c94f7b9a14.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Wiz3](https://opensea.io/collection/wiz3)</details> |
+| **Olivia** | ![Image](https://i.seadn.io/s/raw/files/d6fc604ac655042d3f874144bd39879b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Olivia](https://opensea.io/collection/olivia-32)</details> |
+| **ZoraSmartGirl** | ![Image](https://i.seadn.io/s/raw/files/ef22e815a6ce4c45068d660a9e45b96e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ZoraSmartGirl](https://opensea.io/collection/zorasmartgirl)</details> |
+| **MILADY MEMES** | ![Image](https://i.seadn.io/s/raw/files/2a194b961ecbc36b8d118172a70446d3.jpg?w=500&auto=format?w=200&auto=format) | Memes with legendary Milady NFT collection | <details><summary>Link</summary>[MILADY MEMES](https://opensea.io/collection/milady-memes)</details> |
 
 </div>
