@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Knee Reducing** | ![Image](https://i.seadn.io/s/raw/files/64e623cba5b9e788746f897d00958cc1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Knee Reducing](https://opensea.io/collection/knee-reducing)</details> |
-| **Anna** | ![Image](https://i.seadn.io/s/raw/files/c50692152b023db4381e28086dbdfb5d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Anna](https://opensea.io/collection/anna-157)</details> |
-| **Pengucks** | ![Image](https://i.seadn.io/s/raw/files/8eb719efb6428cc1109f58828f1ffc09.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pengucks](https://opensea.io/collection/pengucks)</details> |
-| **Silvercloak** | ![Image](https://i.seadn.io/s/raw/files/4f77a98e229cd122badaf9236703edb5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Silvercloak](https://opensea.io/collection/silvercloak)</details> |
+| **<details><summary>Facing Accessories</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/24739d786725cd6db6860c47b892d301.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Facing Accessories](https://opensea.io/collection/facing-accessories)</details> |
+| **<details><summary>Ownership Rhythm</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/692967a9b7b441dedaf716c608beafd8.jpg?w=500&auto=format?w=200&auto=format) | Masterpiece fiction potential | <details><summary>Link</summary>[Ownership Rhythm](https://opensea.io/collection/ownership-rhythm)</details> |
+| **euro24** | ![Image](https://i.seadn.io/s/raw/files/6a65d4087a18274b862118419db837f4.jpg?w=500&auto=format?w=200&auto=format) | euro24 | <details><summary>Link</summary>[euro24](https://opensea.io/collection/euro24-1)</details> |
 
 </div>
