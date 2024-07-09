@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CELLULAR** | ![Image](https://i.seadn.io/s/raw/files/b434d8dfd65854b78298bf4380aa4ae9.jpg?w=500&auto=format?w=200&auto=format) | Cellular is capturing ethereal essence of our interconnection of  our phones in the digital realm  | <details><summary>Link</summary>[CELLULAR](https://opensea.io/collection/cellular-8)</details> |
-| **Jung1e Fr1ends** | ![Image](https://i.seadn.io/s/raw/files/00db9f99dcd039c603d2a2395bbc5d47.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jung1e Fr1ends](https://opensea.io/collection/jung1e-fr1ends-81)</details> |
-| **The Dockery** | ![Image](https://i.seadn.io/s/raw/files/e37db2d06462d6e0796a72b649b68f45.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Dockery](https://opensea.io/collection/the-dockery)</details> |
-| **Crypto NeoGirls** | ![Image](https://i.seadn.io/s/raw/files/c4d910c239df2602d0c196f8561abebf.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crypto NeoGirls](https://opensea.io/collection/crypto-neogirls-52)</details> |
+| **rams** | ![Image](https://i.seadn.io/s/raw/files/d7fa3c6f89327e0e8673c81ed5ca8e81.jpg?w=500&auto=format?w=200&auto=format) | rams | <details><summary>Link</summary>[rams](https://opensea.io/collection/rams-5)</details> |
+| **<details><summary>Lens Collect | Profile #105878 - Publication #5382</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/d626ae3e3aa74d56aac4e698a04b3816.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #105878 - Publication #5382](https://opensea.io/collection/lens-collect-profile-105878-publication-5382)</details> |
+| **Reyes 2022-47** | ![Image](https://i.seadn.io/s/raw/files/1a381a623026c7cc539eaea0a6af6c1a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Reyes 2022-47](https://opensea.io/collection/reyes-2022-47)</details> |
+| **Happy Apes** | ![Image](https://i.seadn.io/s/raw/files/ba4768b10a467f347aea1eeaf3eede02.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Happy Apes](https://opensea.io/collection/happy-apes-58)</details> |
 
 </div>
