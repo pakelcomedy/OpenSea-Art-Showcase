@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **rollo43** | ![Image](https://i.seadn.io/s/raw/files/edf7201927703cfa04b5cc1c6531f1b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[rollo43](https://opensea.io/collection/rollo43)</details> |
-| **<details><summary>Paperback Journal Labeled</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/24fe335264ad4f355e29f7dc850ea7ae.jpg?w=500&auto=format?w=200&auto=format) | Accepted doctors fires lives occupied numeric repair | <details><summary>Link</summary>[Paperback Journal Labeled](https://opensea.io/collection/paperback-journal-labeled)</details> |
-| **Brainsick** | ![Image](https://i.seadn.io/s/raw/files/26d47766e430881f077acdec4e23a4b8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Brainsick](https://opensea.io/collection/brainsick-1)</details> |
-| **brooooo** | ![Image](https://i.seadn.io/s/raw/files/53f1da9d96ab0b1e96399497fc1b2282.jpg?w=500&auto=format?w=200&auto=format) | broooo | <details><summary>Link</summary>[brooooo](https://opensea.io/collection/brooooo-2)</details> |
+| **<details><summary>EIC Founders Club</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/852cc7f6bb27f9036b6e76959f97e6f6.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[EIC Founders Club](https://opensea.io/collection/eic-founders-club)</details> |
+| **Wisdom Hourly** | ![Image](https://i.seadn.io/s/raw/files/20af0b3089be12065b8aff13eb832d50.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Wisdom Hourly](https://opensea.io/collection/wisdom-hourly)</details> |
+| **<details><summary>Что это за токен?</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/260e456d2a6760cea1858c14ef8fc48a.png?w=500&auto=format?w=200&auto=format) | https://mirror.xyz/10/0x81738a80064aa564c3c0979742e66d66f3bd9b57 | <details><summary>Link</summary>[Что это за токен?](https://opensea.io/collection/chto-eto-za-token)</details> |
 
 </div>
