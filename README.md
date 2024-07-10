@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ctrl** | ![Image](https://i.seadn.io/s/raw/files/ff2154c628f8cfe3b6a7336dd053a9f1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ctrl](https://opensea.io/collection/ctrl-14)</details> |
+| **向往的生活** | ![Image](https://i.seadn.io/s/raw/files/5e73aee111449025deb056efa3c4587b.jpg?w=500&auto=format?w=200&auto=format) | 向往的生活 | <details><summary>Link</summary>[向往的生活](https://opensea.io/collection/xiang-wang-de-sheng-huo)</details> |
 
 </div>
