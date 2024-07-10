@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rimma** | ![Image](https://i.seadn.io/s/raw/files/871f0aab79fffae4ea554fcf185f5cd9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rimma](https://opensea.io/collection/rimma-5)</details> |
-| **Amend Procedure** | ![Image](https://i.seadn.io/s/raw/files/3c9c32b255825d4bed5a9739cc1ef66f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Amend Procedure](https://opensea.io/collection/amend-procedure)</details> |
-| **Crazy Line** | ![Image](https://i.seadn.io/s/raw/files/4cee67c0d176d1abbbec88f273e350b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crazy Line](https://opensea.io/collection/crazy-line-1)</details> |
-| **Happy** | ![Image](https://i.seadn.io/s/raw/files/b55fe359742d65a256ba5e0552983668.jpg?w=500&auto=format?w=200&auto=format) | Happy | <details><summary>Link</summary>[Happy](https://opensea.io/collection/happy-300)</details> |
-| **空** | ![Image](https://i.seadn.io/s/raw/files/6ad1a0b82989e707cb94777d88b26c79.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[空](https://opensea.io/collection/kong-63)</details> |
+| **oblako** | ![Image](https://i.seadn.io/s/raw/files/a6bc205d1fe36c06d20b6f46fdc17171.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[oblako](https://opensea.io/collection/oblako-8)</details> |
+| **Summer_Base** | ![Image](https://i.seadn.io/s/raw/files/8bac25e73fa6c2c5fca1fe028b58b8d2.jpg?w=500&auto=format?w=200&auto=format) | Summer_Base | <details><summary>Link</summary>[Summer_Base](https://opensea.io/collection/summer-base-6)</details> |
+| **Lingerie** | ![Image](https://i.seadn.io/s/raw/files/d8236a8f00ae94a6896b559562648652.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lingerie](https://opensea.io/collection/lingerie-20)</details> |
 
 </div>
