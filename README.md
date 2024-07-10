@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **wdaudaio** | ![Image](https://i.seadn.io/s/raw/files/e17faeea21085e2b6f382bbb53acce79.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wdaudaio](https://opensea.io/collection/wdaudaio)</details> |
-| **mario** | ![Image](https://i.seadn.io/s/raw/files/06021a9ffc5aeb2d3de8762162e7e9e1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mario](https://opensea.io/collection/mario-145)</details> |
-| **wdwyauiao** | ![Image](https://i.seadn.io/s/raw/files/4f27eee11dca148895014536d0f58ed0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wdwyauiao](https://opensea.io/collection/wdwyauiao)</details> |
+| **jhjdadhad** | ![Image](https://i.seadn.io/s/raw/files/0aec3e2d48b55e618e1be5556fcb1a67.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jhjdadhad](https://opensea.io/collection/jhjdadhad)</details> |
+| **kjwjdkad** | ![Image](https://i.seadn.io/s/raw/files/efc4a91aa09fa2ea08c37be6e5a404ff.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[kjwjdkad](https://opensea.io/collection/kjwjdkad)</details> |
 
 </div>
