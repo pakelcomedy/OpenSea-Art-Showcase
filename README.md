@@ -6,9 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **White as snow** | ![Image](https://i.seadn.io/s/raw/files/aa9d81d9dd0b5ac276c7041c12739a71.jpg?w=500&auto=format?w=200&auto=format) | A photograph of a pristine white landscape, with snow-capped mountains, snow-covered trees, and a frozen lake. The sun is shining brightly, and the air is crisp and clear. | <details><summary>Link</summary>[White as snow](https://opensea.io/collection/white-as-snow-1)</details> |
-| **Wrote** | ![Image](https://i.seadn.io/s/raw/files/b27321eb3b58377aa4406c0d325fc8db.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Wrote](https://opensea.io/collection/wrote-11)</details> |
-| **old doom** | ![Image](https://i.seadn.io/s/raw/files/89fdbaa75abec1ca39ab6d516e38df1f.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[old doom](https://opensea.io/collection/old-doom)</details> |
-| **<details><summary>ChopSaVVs 1155's</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/9bdf667447fb2bf8c4d5393142caefd3.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ChopSaVVs 1155's](https://opensea.io/collection/chopsavvs-1155-s)</details> |
+| **<details><summary>Winter Wonderland</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/8cdb47836d52577edd1375b329e58f91.jpg?w=500&auto=format?w=200&auto=format) | The enchanting and pristine beauty of winter scenes. | <details><summary>Link</summary>[Winter Wonderland](https://opensea.io/collection/winter-wonderland-17)</details> |
+| **<details><summary>Limited Over Summaries</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/db023cca106f4d8bd0080353feaed2d6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Limited Over Summaries](https://opensea.io/collection/limited-over-summaries)</details> |
+| **<details><summary>Exclusive Asian AI Girls Collection</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/ec3d6657b79e2109f4866a7ad58302df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Exclusive Asian AI Girls Collection](https://opensea.io/collection/exclusive-asian-ai-girls-collection)</details> |
+| **<details><summary>Skate Park's Closed (f/ Kaelin Ellis)</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/1b8991d60ea3ce2328efe6e5311087f5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Skate Park's Closed (f/ Kaelin Ellis)](https://opensea.io/collection/skate-park-s-closed-f-kaelin-ellis)</details> |
+| **<details><summary>Welcome to Wrexham</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/5b3355745210b7701ab297d2df5cd6d3.jpg?w=500&auto=format?w=200&auto=format) | Welcome to Wrexham (W2W) is a Bonding Curved ERC-1155 token created on mint.club.
+
+Backed by Wrapped Ether (WETH) on Base chain.
+
+https://mint.club/nft/base/W2W | <details><summary>Link</summary>[Welcome to Wrexham](https://opensea.io/collection/welcome-to-wrexham)</details> |
 
 </div>
