@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Coffee Cats** | ![Image](https://i.seadn.io/s/raw/files/97ebe42cb4177c53e8f35aec8a492b19.gif?w=500&auto=format?w=200&auto=format) | Cats who lowes coffee | <details><summary>Link</summary>[Coffee Cats](https://opensea.io/collection/coffee-cats-1)</details> |
-| **<details><summary>Xerox Jar Firewire</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/708dc5824a33c86ff67280a3ff82f371.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Xerox Jar Firewire](https://opensea.io/collection/xerox-jar-firewire)</details> |
-| **Intensity** | ![Image](https://i.seadn.io/s/raw/files/d0d424dde1668b55c40fe5debc873b75.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Intensity](https://opensea.io/collection/intensity-7)</details> |
+| **Asin** | ![Image](https://i.seadn.io/s/raw/files/ebb52373dd03a720640cba64b90697ee.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Asin](https://opensea.io/collection/asin-12)</details> |
+| **shuimu** | ![Image](https://i.seadn.io/s/raw/files/4873f7b669501a658f2b38c738fc84b0.jpg?w=500&auto=format?w=200&auto=format) | water mother | <details><summary>Link</summary>[shuimu](https://opensea.io/collection/shuimu-1)</details> |
+| **Jump** | ![Image](https://i.seadn.io/s/raw/files/2362772753ca3cd8094f7ad5d963b982.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jump](https://opensea.io/collection/jump-54)</details> |
 
 </div>
