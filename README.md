@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>World of Imagination</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/7a676cdcbf32dd4eeaf85f07ba0c5c3d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[World of Imagination](https://opensea.io/collection/world-of-imagination-1)</details> |
-| **<details><summary>BONSAI Pixel Art Collection</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/9baba2defda2f7a73e72cf9c88abe159.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BONSAI Pixel Art Collection](https://opensea.io/collection/bonsai-pixel-art-collection)</details> |
-| **CryptoMoms** | ![Image](https://i.seadn.io/s/raw/files/a1fb472495b8f93fffba0d2e11131908.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CryptoMoms](https://opensea.io/collection/cryptomoms-2)</details> |
+| **bamboo9** | ![Image](https://i.seadn.io/s/raw/files/10e3cb5b36ee841275533753f489125d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bamboo9](https://opensea.io/collection/bamboo9)</details> |
+| **Yamaha Rewards** | ![Image](https://i.seadn.io/s/raw/files/45928be0d191000627b9cc78dbd2463e.jpg?w=500&auto=format?w=200&auto=format) | Screening royal contemporary husband prospects like kilometers | <details><summary>Link</summary>[Yamaha Rewards](https://opensea.io/collection/yamaha-rewards)</details> |
 
 </div>
