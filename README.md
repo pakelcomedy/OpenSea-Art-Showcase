@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **binchuan** | ![Image](https://i.seadn.io/s/raw/files/d61cb18179b64018920eb5883b63edb3.webp?w=500&auto=format?w=200&auto=format) | binchuan | <details><summary>Link</summary>[binchuan](https://opensea.io/collection/binchuan)</details> |
+| **<details><summary>Exceed Introduced Tub</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/f3360a03ae4279271f005072a65adb02.jpg?w=500&auto=format?w=200&auto=format) | Postings herself finished less | <details><summary>Link</summary>[Exceed Introduced Tub](https://opensea.io/collection/exceed-introduced-tub)</details> |
+| **87654ew** | ![Image](https://i.seadn.io/s/raw/files/e6cb3cc0c55dfdb5c1ae841a1a1b827a.png?w=500&auto=format?w=200&auto=format) | 34erhtyejyte | <details><summary>Link</summary>[87654ew](https://opensea.io/collection/87654ew)</details> |
 
 </div>
