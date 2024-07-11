@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Explorer Begin** | ![Image](https://i.seadn.io/s/raw/files/c3b7a814faf743703df6223a22ba0f74.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Explorer Begin](https://opensea.io/collection/explorer-begin)</details> |
+| **trying ?** | ![Image](https://i.seadn.io/s/raw/files/be8f6d1aceaa9e73bbc8050227c78e99.jpg?w=500&auto=format?w=200&auto=format) | new things  | <details><summary>Link</summary>[trying ?](https://opensea.io/collection/trying-20)</details> |
 
 </div>
