@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **SHIB NFT #7975** | ![Image](https://i.seadn.io/s/raw/files/2022946a8f6206bd87dea8069194dcc4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SHIB NFT #7975](https://opensea.io/collection/shib-nft-7975)</details> |
-| **<details><summary>My Own collection</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/71ed15190e73ff2fdd83d6b0a539ccdd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[My Own collection](https://opensea.io/collection/my-own-collection-18)</details> |
+| **cute** | ![Image](https://i.seadn.io/s/raw/files/2d143889599cb053aa0fc5a5524fe024.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cute](https://opensea.io/collection/cute-240)</details> |
+| **<details><summary>Unidentified contract a972181e-09b7-400f-ae87-5f1668e841d2</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/ce0cc7a809fe5278691b4f468af2a9b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract a972181e-09b7-400f-ae87-5f1668e841d2](https://opensea.io/collection/unidentified-contract-a972181e-09b7-400f-ae87-5f16)</details> |
+| **Active cats** | ![Image](https://i.seadn.io/s/raw/files/e0cea5b617c48ca0cfe84d967e1d4c34.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Active cats](https://opensea.io/collection/active-cats-1)</details> |
+| **sala** | ![Image](https://i.seadn.io/s/raw/files/28c800af672e5cdef05e60823b7ae63a.jpg?w=500&auto=format?w=200&auto=format) | sala | <details><summary>Link</summary>[sala](https://opensea.io/collection/sala-7)</details> |
 
 </div>
