@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **bamboo9** | ![Image](https://i.seadn.io/s/raw/files/10e3cb5b36ee841275533753f489125d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bamboo9](https://opensea.io/collection/bamboo9)</details> |
-| **Yamaha Rewards** | ![Image](https://i.seadn.io/s/raw/files/45928be0d191000627b9cc78dbd2463e.jpg?w=500&auto=format?w=200&auto=format) | Screening royal contemporary husband prospects like kilometers | <details><summary>Link</summary>[Yamaha Rewards](https://opensea.io/collection/yamaha-rewards)</details> |
+| **bouquet6** | ![Image](https://i.seadn.io/s/raw/files/143a6f365d89314eeb6d7190d19d7c55.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bouquet6](https://opensea.io/collection/bouquet6)</details> |
+| **Thus Buck** | ![Image](https://i.seadn.io/s/raw/files/a0847073fbf5229091f2b8bf7cf17160.jpg?w=500&auto=format?w=200&auto=format) | Capable yo britannica richards psychology admitted | <details><summary>Link</summary>[Thus Buck](https://opensea.io/collection/thus-buck)</details> |
 
 </div>
