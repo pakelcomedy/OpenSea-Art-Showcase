@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Yr Divide Causing</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/9681a29660e639348e6a38d67ae22fb1.jpg?w=500&auto=format?w=200&auto=format) | Responding manage hypothetical pulled brokers nightlife prerequisite sells xl km | <details><summary>Link</summary>[Yr Divide Causing](https://opensea.io/collection/yr-divide-causing)</details> |
-| **Puffinverse** | ![Image](https://i.seadn.io/s/raw/files/ddbcd4b22c7e40fe2ebea3601b312d5e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Puffinverse](https://opensea.io/collection/puffinverse)</details> |
-| **Fading Memories** | ![Image](https://i.seadn.io/s/raw/files/b55f28d4d40e2875fa8ba5aff51b2494.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fading Memories](https://opensea.io/collection/fading-memories-5)</details> |
-| **DRAWINGSLK** | ![Image](https://i.seadn.io/s/raw/files/808afea1779ad87a33480e672c967895.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DRAWINGSLK](https://opensea.io/collection/drawingslk)</details> |
+| **<details><summary>Naturals Jets Rational</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/36aed605aa51dade020cb267a5a4c694.jpg?w=500&auto=format?w=200&auto=format) | Open dash birmingham | <details><summary>Link</summary>[Naturals Jets Rational](https://opensea.io/collection/naturals-jets-rational)</details> |
+| **addicted kids** | ![Image](https://i.seadn.io/s/raw/files/8f12b92c8f6ac6b4c0f84cc4f27739f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[addicted kids](https://opensea.io/collection/addicted-kids)</details> |
+| **Communities** | ![Image](https://i.seadn.io/s/raw/files/68e79e7319774eae2b14baa0e2f3de91.jpg?w=500&auto=format?w=200&auto=format) | Bug subdivision headline | <details><summary>Link</summary>[Communities](https://opensea.io/collection/communities-7)</details> |
 
 </div>
