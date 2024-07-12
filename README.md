@@ -6,10 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Robots** | ![Image](https://i.seadn.io/s/raw/files/f2ffea638311d9636c937e13b5bc44ef.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Robots](https://opensea.io/collection/robots-132)</details> |
-| **Spatial Drifts** | ![Image](https://i.seadn.io/s/raw/files/7497522c3d7c31f25c2a6995d2e1ef72.png?w=500&auto=format?w=200&auto=format) | Cute little animations involving the Spatials. | <details><summary>Link</summary>[Spatial Drifts](https://opensea.io/collection/spatial-drifts)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/c95c165915558ce2b97d56d6c96ef744.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-1326)</details> |
-| **<details><summary>Super Hoarder 2000</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/40f3a56327c40f683b71fcafa2ea9041.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Super Hoarder 2000](https://opensea.io/collection/super-hoarder-2000)</details> |
-| **Key Lime** | ![Image](https://i.seadn.io/s/raw/files/bda1ade97817d5bcac31e206cea218f4.png?w=500&auto=format?w=200&auto=format) | New demo mint | <details><summary>Link</summary>[Key Lime](https://opensea.io/collection/key-lime-1)</details> |
+| **<details><summary>Broken by Mel x Reddit Collectible Avatars</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/298824a3f575e86749a647a8f3111473.png?w=500&auto=format?w=200&auto=format) | This series was created by Reddit user Mel as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/Holiday_Claim_27/).
+
+Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
+
+[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
+
+[View the Previews Terms](https://www.redditinc.com/policies/previews-terms). | <details><summary>Link</summary>[Broken by Mel x Reddit Collectible Avatars](https://opensea.io/collection/broken-by-mel-x-reddit-collectible-avatars)</details> |
+| **<details><summary>Fantastical Beast</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/9d485c4bb27f2fccd5a017708cb83101.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fantastical Beast](https://opensea.io/collection/fantastical-beast)</details> |
+| **No espaço** | ![Image](https://i.seadn.io/s/raw/files/1d33778eafceff1e0d6b4b4eaa4790d0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[No espaço](https://opensea.io/collection/no-espaco)</details> |
 
 </div>
