@@ -6,6 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Translator Shanghai Silk</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/4db333ccb24d2b22832c79b1551bad7c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Translator Shanghai Silk](https://opensea.io/collection/translator-shanghai-silk)</details> |
+| **<details><summary>Splash by X x Reddit Collectible Avatars</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/80c934acffeb8176629c333b65f4e8b4.png?w=500&auto=format?w=200&auto=format) | This series was created by Reddit user X as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/Gudaxxx/).
+
+Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
+
+[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
+
+[View the Previews Terms](https://www.redditinc.com/policies/previews-terms). | <details><summary>Link</summary>[Splash by X x Reddit Collectible Avatars](https://opensea.io/collection/splash-by-x-x-reddit-collectible-avatars)</details> |
+| **<details><summary>MASTERM-2DNFT-001</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/f6ad1fdef454cb7aada257e49aa0eea7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MASTERM-2DNFT-001](https://opensea.io/collection/masterm-2dnft-001)</details> |
 
 </div>
