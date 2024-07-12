@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **yuwiaiidoa** | ![Image](https://i.seadn.io/s/raw/files/dbec245082160cb7f3dc8b1f15aacbda.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[yuwiaiidoa](https://opensea.io/collection/yuwiaiidoa)</details> |
-| **<details><summary>Artifacts Retreat 2024</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/5919a935f1a2569938cf1bc500a187a5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Artifacts Retreat 2024](https://opensea.io/collection/artifacts-retreat-2024)</details> |
+| **barbal** | ![Image](https://i.seadn.io/s/raw/files/aa0ed5d2cf7402632e5f70dc387621f4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[barbal](https://opensea.io/collection/barbal)</details> |
+| **Hyperstruc...** | ![Image](https://i.seadn.io/s/raw/files/d8d44596ef0d119634e975cfc0930d6c.png?w=500&auto=format?w=200&auto=format) | Hyperstructure | <details><summary>Link</summary>[Hyperstruc...](https://opensea.io/collection/hyperstruc-2)</details> |
+| **My first drop** | ![Image](https://i.seadn.io/s/raw/files/887546ffaf68d2bd998afa6608f091cd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[My first drop](https://opensea.io/collection/my-first-drop-20)</details> |
 
 </div>
