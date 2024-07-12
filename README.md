@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **cash** | ![Image](https://i.seadn.io/s/raw/files/082c0bb32b58e559b5def89ed42b9de0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cash](https://opensea.io/collection/cash-46)</details> |
+| **<details><summary>Translator Shanghai Silk</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/4db333ccb24d2b22832c79b1551bad7c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Translator Shanghai Silk](https://opensea.io/collection/translator-shanghai-silk)</details> |
 
 </div>
