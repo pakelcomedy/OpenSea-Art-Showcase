@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rl** | ![Image](https://i.seadn.io/s/raw/files/5f7c55343e13a3842ef6c1ffd4fe3fdf.jpg?w=500&auto=format?w=200&auto=format) | Partners retrieve televisions lonely desert fought sm | <details><summary>Link</summary>[Rl](https://opensea.io/collection/rl-6)</details> |
-| **Phones** | ![Image](https://i.seadn.io/s/raw/files/5e1380f3d525f66e5b56bbca5bd88fb3.jpg?w=500&auto=format?w=200&auto=format) | Adapters pensions en mag king marriage | <details><summary>Link</summary>[Phones](https://opensea.io/collection/phones-17)</details> |
-| **Mambo** | ![Image](https://i.seadn.io/s/raw/files/acb0d6b5ef92769ec1346cd74a306781.jpg?w=500&auto=format?w=200&auto=format) | Soft coral descending bouquet cards rod | <details><summary>Link</summary>[Mambo](https://opensea.io/collection/mambo-12)</details> |
+| **Dreamscapes** | ![Image](https://i.seadn.io/s/raw/files/ba26e26fc4e0dadb1a885cdd33de4b6a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dreamscapes](https://opensea.io/collection/dreamscapes-241)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/240ddeecae4a85e59f6f88886d7f42d4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-143)</details> |
+| **WOMAN NFT's** | ![Image](https://i.seadn.io/s/raw/files/1f70c801866eb12e69b6fe33fa07ebb5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WOMAN NFT's](https://opensea.io/collection/woman-nft-s)</details> |
 
 </div>
