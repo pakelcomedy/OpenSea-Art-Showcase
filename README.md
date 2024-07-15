@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>inclus wine and brewing</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/472bbb66bbfa86457dd879ada2aec185.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[inclus wine and brewing](https://opensea.io/collection/inclus-wine-and-brewing)</details> |
+| **<details><summary>31786's Follower</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[31786's Follower](https://opensea.io/collection/31786-s-follower)</details> |
+| **<details><summary>30307's Follower</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[30307's Follower](https://opensea.io/collection/30307-s-follower)</details> |
 
 </div>
