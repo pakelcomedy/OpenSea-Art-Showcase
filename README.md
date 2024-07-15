@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **HUONG123** | ![Image](https://i.seadn.io/s/raw/files/28c26c9f3ffc92067c1dd12d6fdd98f8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HUONG123](https://opensea.io/collection/huong123-1)</details> |
+| **<details><summary>inclus wine and brewing</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/472bbb66bbfa86457dd879ada2aec185.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[inclus wine and brewing](https://opensea.io/collection/inclus-wine-and-brewing)</details> |
 
 </div>
