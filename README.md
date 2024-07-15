@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>GRL POW3R Farcaster</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/092e705c848817159ece248ac50575e6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GRL POW3R Farcaster](https://opensea.io/collection/grl-pow3r-farcaster)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/ac6db2a1c6098225ae9ca91a10063414.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-1890)</details> |
-| **Df Savings** | ![Image](https://i.seadn.io/s/raw/files/b7716bc0e5c6e51523484d82cb15ada1.jpg?w=500&auto=format?w=200&auto=format) | How profession nasdaq con jewish | <details><summary>Link</summary>[Df Savings](https://opensea.io/collection/df-savings)</details> |
-| **<details><summary>31329's Follower</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[31329's Follower](https://opensea.io/collection/31329-s-follower)</details> |
+| **<details><summary>0x25db5ec860f08d7d198dfe91dc4cc4b186e367f7</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/d4e53ee3f26518ea0a052a14e2b045b1.jpg?w=500&auto=format?w=200&auto=format) | 1 | <details><summary>Link</summary>[0x25db5ec860f08d7d198dfe91dc4cc4b186e367f7](https://opensea.io/collection/0x25db5ec860f08d7d198dfe91dc4cc4b186e367f7)</details> |
+| **Kuruka** | ![Image](https://i.seadn.io/s/raw/files/f381d4bc3cb8fa65b62f471c6c25fa17.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Kuruka](https://opensea.io/collection/kuruka)</details> |
 
 </div>
