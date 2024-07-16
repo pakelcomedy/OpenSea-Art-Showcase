@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Tramadol Friendly</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/0560c396a50eba6d2a07748213358d1b.jpg?w=500&auto=format?w=200&auto=format) | Potential wires chevrolet glance tahoe categories thereafter | <details><summary>Link</summary>[Tramadol Friendly](https://opensea.io/collection/tramadol-friendly)</details> |
-| **<details><summary>Printable Ms Forces</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/5cc94512af7638148109fbcb0678084c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Printable Ms Forces](https://opensea.io/collection/printable-ms-forces)</details> |
-| **like** | ![Image](https://i.seadn.io/s/raw/files/a1a522acb5d31a145493988fe20a3715.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[like](https://opensea.io/collection/like-126)</details> |
+| **Photographer** | ![Image](https://i.seadn.io/s/raw/files/653ba91aaef4254749204ba48ed0d49b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Photographer](https://opensea.io/collection/photographer-18)</details> |
+| **Space** | ![Image](https://i.seadn.io/s/raw/files/345f28eea5bb91a0ad936d01f6375c29.png?w=500&auto=format?w=200&auto=format) | My NFT | <details><summary>Link</summary>[Space](https://opensea.io/collection/space-947)</details> |
+| **Mpegs** | ![Image](https://i.seadn.io/s/raw/files/9655de64e523410d2963d925987a45aa.jpg?w=500&auto=format?w=200&auto=format) | Notice excellence container mad | <details><summary>Link</summary>[Mpegs](https://opensea.io/collection/mpegs-5)</details> |
 
 </div>
