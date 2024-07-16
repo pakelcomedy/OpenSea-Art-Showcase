@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **fruterry1** | ![Image](https://i.seadn.io/s/raw/files/b449572887dcf4101609d28b77a7b85c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fruterry1](https://opensea.io/collection/fruterry1-759)</details> |
+| **<details><summary>33983's Follower</summary></details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[33983's Follower](https://opensea.io/collection/33983-s-follower)</details> |
 
 </div>
