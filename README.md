@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>10BNB Reward at...</summary>10BNB Reward at airdropbnb.lol  🎁</details>** | ![Image](https://i.seadn.io/s/raw/files/0c0d048163882a399ba24c6b0be3e2f2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10BNB Reward at airdropbnb.lol  🎁](https://opensea.io/collection/10bnb-reward-at-airdropbnb-lol-29)</details> |
+| **Amálya** | ![Image](https://i.seadn.io/s/raw/files/e102fba38d7a449bfeed38bd43dc7879.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Amálya](https://opensea.io/collection/amalya-1)</details> |
+| **Alexandra** | ![Image](https://i.seadn.io/s/raw/files/3d29e3640ebb817ebe5e2d2cf7e8813f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Alexandra](https://opensea.io/collection/alexandra-5)</details> |
 
 </div>
