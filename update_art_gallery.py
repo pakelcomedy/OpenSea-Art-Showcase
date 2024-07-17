@@ -51,9 +51,12 @@ def main():
 
         if is_image_valid(image_url):
             if len(collection_name) > 15:
-                collection_name_summary = f"<details><summary>{collection_name}</summary></details>"
+                collection_name_summary = f"<details><summary>{collection_name[:15]}...</summary>{collection_name}</details>"
             else:
                 collection_name_summary = collection_name
+
+            if len(description) > 30:
+                description = f"<details><summary>{description[:30]}...</summary>{description}</details>"
             
             # Constructing each row in the table
             markdown_content += f"\n| **{collection_name_summary}** | ![Image]({image_url}?w=200&auto=format) | {description} | <details><summary>Link</summary>[{collection_name}]({opensea_link})</details> |"
