@@ -36,7 +36,13 @@ jobs:
         git config --global user.name 'pakelcomedy'
         git config --global user.email 'danieldna1411@gmail.com'
 
-    - name: Stash changes
+    - name: Check for changes
+      id: git_status
+      run: |
+        git status --porcelain
+
+    - name: Stash changes if needed
+      if: steps.git_status.outputs.changes != ''
       run: |
         git stash
 
@@ -44,7 +50,8 @@ jobs:
       run: |
         git pull origin main
 
-    - name: Apply stash
+    - name: Apply stash if needed
+      if: steps.git_status.outputs.changes != ''
       run: |
         git stash pop
 
@@ -53,5 +60,5 @@ jobs:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git add README.md
-        git commit -m 'Update README with latest trending NFT collections'
+        git commit -m 'Update README with latest trending NFT collections' || echo "No changes to commit"
         git push origin main
