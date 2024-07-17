@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ECHOINSPACE** | ![Image](https://i.seadn.io/s/raw/files/f9c59409bb43f21f7ecdd8648713c4ae.png?w=500&auto=format?w=200&auto=format) | Time and matter captured in camera; thrown into the void as a pulsating echo. | <details><summary>Link</summary>[ECHOINSPACE](https://opensea.io/collection/echoinspace)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/2be9b1ae45cb984c897d6f38758a5574.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-2005)</details> |
 
 </div>
