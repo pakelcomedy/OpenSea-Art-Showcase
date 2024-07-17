@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **YOOO braaaa** | ![Image](https://i.seadn.io/s/raw/files/3258a3be9f27932c28bc9d6518ead95e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[YOOO braaaa](https://opensea.io/collection/yooo-braaaa)</details> |
-| **Donald Miggles** | ![Image](https://i.seadn.io/s/raw/files/05ac1ccec6f69b1673e189a94592393c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>A meme for supporting Mr. Dona...</summary>A meme for supporting Mr. Donald Trump to the US President.</details> | <details><summary>Link</summary>[Donald Miggles](https://opensea.io/collection/donald-miggles)</details> |
+| **<details><summary>Onchain Summer ...</summary>Onchain Summer 2024</details>** | ![Image](https://i.seadn.io/s/raw/files/0e4450c2ebb9fb7be0d25b1e6cead88f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Onchain Summer 2024](https://opensea.io/collection/onchain-summer-2024-15)</details> |
+| **ASICS** | ![Image](https://i.seadn.io/s/raw/files/b329df291e58b251260ebd6ae6ec703b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ASICS](https://opensea.io/collection/asics-1)</details> |
 
 </div>
