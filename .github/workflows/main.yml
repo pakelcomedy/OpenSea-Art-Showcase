@@ -31,10 +31,13 @@ jobs:
         . .venv/bin/activate
         python update_art_gallery.py
 
-    - name: Stash changes
+    - name: Configure Git
       run: |
         git config --global user.name 'pakelcomedy'
         git config --global user.email 'danieldna1411@gmail.com'
+
+    - name: Stash changes
+      run: |
         git stash
 
     - name: Pull latest changes
