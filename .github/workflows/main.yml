@@ -33,6 +33,8 @@ jobs:
 
     - name: Stash changes
       run: |
+        git config --global user.name 'pakelcomedy'
+        git config --global user.email 'danieldna1411@gmail.com'
         git stash
 
     - name: Pull latest changes
@@ -47,8 +49,6 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        git config --global user.name 'pakelcomedy'
-        git config --global user.email 'danieldna1411@gmail.com'
         git add README.md
         git commit -m 'Update README with latest trending NFT collections'
-        git push
+        git push origin main
