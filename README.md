@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Psychological S...</summary>Psychological Surfing</details>** | ![Image](https://i.seadn.io/s/raw/files/7b69cf8c7105e386e4d356a7b2c46ab2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Sanyo prayers refresh recorder...</summary>Sanyo prayers refresh recorder trained uncertainty sequence</details> | <details><summary>Link</summary>[Psychological Surfing](https://opensea.io/collection/psychological-surfing)</details> |
+| **Bidi bidi** | ![Image](https://i.seadn.io/s/raw/files/09823a0c48267bb4274531b83a04a08c.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bidi bidi](https://opensea.io/collection/bidi-bidi)</details> |
 
 </div>
