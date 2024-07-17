@@ -60,5 +60,5 @@ jobs:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git add README.md
-        git commit -m 'Update README with latest trending NFT collections' || echo "No changes to commit"
+        git commit -m 'Latest Trending NFT Collections 🚀' || echo "No changes to commit"
         git push origin main
