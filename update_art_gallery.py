@@ -1,35 +1,47 @@
 import requests
 import os
+import time
 
 def is_image_valid(url):
     try:
         response = requests.head(url)
         return response.status_code == 200
-    except requests.exceptions.RequestException:
+    except requests.exceptions.RequestException as e:
+        print(f"Image URL validation failed: {e}")
         return False
 
-def fetch_trending_collections():
+def fetch_trending_collections(retries=3, delay=5):
     url = "https://api.opensea.io/api/v2/collections?limit=5&offset=0"
     headers = {
         "Accept": "application/json",
         "X-API-KEY": os.getenv("OPENSEA_API_KEY")  # Fetch the API key from environment variables
     }
     
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()  # Raise an error for bad responses
-        data = response.json()
-        return data.get("collections", [])
-    except requests.exceptions.HTTPError as http_err:
-        print(f"HTTP error occurred: {http_err}")
-    except Exception as err:
-        print(f"Other error occurred: {err}")
+    for attempt in range(retries):
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()  # Raise an error for bad responses
+            data = response.json()
+            collections = data.get("collections", [])
+            if collections:
+                return collections
+            else:
+                print("No collections found in the response.")
+        except requests.exceptions.HTTPError as http_err:
+            print(f"HTTP error occurred: {http_err}")
+        except requests.exceptions.RequestException as req_err:
+            print(f"Request error occurred: {req_err}")
+        
+        print(f"Retrying... ({attempt + 1}/{retries})")
+        time.sleep(delay)
+    
+    return []
 
 def main():
     collections = fetch_trending_collections()
     
     if not collections:
-        print("No collections found.")
+        print("No collections found after retries.")
         return
     
     # Markdown content generation
