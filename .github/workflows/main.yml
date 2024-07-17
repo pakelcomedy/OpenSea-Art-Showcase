@@ -1,4 +1,3 @@
-
 name: Update README with Trending NFT Collections
 
 on:
@@ -24,19 +23,32 @@ jobs:
         python -m venv .venv
         . .venv/bin/activate
         pip install requests
+
     - name: Update README
       env:
         OPENSEA_API_KEY: ${{ secrets.OPENSEA_API_KEY }}
       run: |
         . .venv/bin/activate
         python update_art_gallery.py
+
+    - name: Stash changes
+      run: |
+        git stash
+
+    - name: Pull latest changes
+      run: |
+        git pull origin main
+
+    - name: Apply stash
+      run: |
+        git stash pop
+
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config --global user.name 'pakelcomedy'
         git config --global user.email 'danieldna1411@gmail.com'
-        git pull origin main
         git add README.md
         git commit -m 'Update README with latest trending NFT collections'
         git push
