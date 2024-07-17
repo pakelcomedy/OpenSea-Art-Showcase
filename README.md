@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Pig and crocodi...</summary>Pig and crocodile friendship</details>** | ![Image](https://i.seadn.io/s/raw/files/d47c5e27b4c39a5ac6d6afc8c0de1c85.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pig and crocodile friendship](https://opensea.io/collection/pig-and-crocodile-friendship)</details> |
+| **Pitah Imut** | ![Image](https://i.seadn.io/s/raw/files/ca39c4924c2df1ae5a385dd1e56ec58a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pitah Imut](https://opensea.io/collection/pitah-imut)</details> |
 
 </div>
