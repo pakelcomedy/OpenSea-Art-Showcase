@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Two birds with ...</summary>Two birds with one stone.</details>** | ![Image](https://i.seadn.io/s/raw/files/156e3596324799c986e871257062b950.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Two birds with one stone.](https://opensea.io/collection/two-birds-with-one-stone)</details> |
+| **<details><summary>BIGGARO: YOUNG ...</summary>BIGGARO: YOUNG GOKU</details>** | ![Image](https://i.seadn.io/s/raw/files/7e2bd10b162b93601efe537545c0d39d.jpg?w=500&auto=format?w=200&auto=format) | TRANSFORMATION  GOKU | <details><summary>Link</summary>[BIGGARO: YOUNG GOKU](https://opensea.io/collection/biggaro-young-goku)</details> |
 
 </div>
