@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>39359's Followe...</summary>39359's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[39359's Follower](https://opensea.io/collection/39359-s-follower)</details> |
-| **DS** | ![Image](https://i.seadn.io/s/raw/files/082c0bb32b58e559b5def89ed42b9de0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DS](https://opensea.io/collection/ds-206)</details> |
+| **sdsdf** | ![Image](https://raw.seadn.io/files/94314d3166c24bbd72f1d6195d4d2fe0.svg?w=200&auto=format) |  | <details><summary>Link</summary>[sdsdf](https://opensea.io/collection/sdsdf-12)</details> |
+| **K├╢nigsberg** | ![Image](https://i.seadn.io/s/raw/files/5be38a4297ade4dd05d33252d1fc7710.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[K├╢nigsberg](https://opensea.io/collection/k-nigsberg)</details> |
 
 </div>
