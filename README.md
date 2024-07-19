@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x1b53d5b989d80...</summary>0x1b53d5b989d805fa30dbd4bf1beec8acdede5e94</details>** | ![Image](https://i.seadn.io/s/raw/files/30b117e4c07d029376d1bbf2f3d62121.jpg?w=500&auto=format?w=200&auto=format) | 130 | <details><summary>Link</summary>[0x1b53d5b989d805fa30dbd4bf1beec8acdede5e94](https://opensea.io/collection/0x1b53d5b989d805fa30dbd4bf1beec8acdede5e94)</details> |
-| **<details><summary>SummitNavigator...</summary>SummitNavigators</details>** | ![Image](https://i.seadn.io/s/raw/files/27839f494705e84196c760d6316a2033.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SummitNavigators](https://opensea.io/collection/summitnavigators-2)</details> |
-| **Vagapos NFT** | ![Image](https://i.seadn.io/s/raw/files/80a6c473fcc13afdfdb163fb87d8592f.webp?w=500&auto=format?w=200&auto=format) | This is my NFT | <details><summary>Link</summary>[Vagapos NFT](https://opensea.io/collection/vagapos-nft)</details> |
+| **Baby** | ![Image](https://i.seadn.io/s/raw/files/05a2ed2dcfb34ef61d67fbe6c667c7f2.jpg?w=500&auto=format?w=200&auto=format) | Baby | <details><summary>Link</summary>[Baby](https://opensea.io/collection/baby-366)</details> |
+| **Diamond flower** | ![Image](https://i.seadn.io/s/raw/files/e26173e3a3e11f3cb1f5d3504c8cf013.jpg?w=500&auto=format?w=200&auto=format) | Diamond flower | <details><summary>Link</summary>[Diamond flower](https://opensea.io/collection/diamond-flower-1)</details> |
 
 </div>
