@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **sdsdf** | ![Image](https://raw.seadn.io/files/94314d3166c24bbd72f1d6195d4d2fe0.svg?w=200&auto=format) |  | <details><summary>Link</summary>[sdsdf](https://opensea.io/collection/sdsdf-12)</details> |
-| **K├╢nigsberg** | ![Image](https://i.seadn.io/s/raw/files/5be38a4297ade4dd05d33252d1fc7710.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[K├╢nigsberg](https://opensea.io/collection/k-nigsberg)</details> |
+| **<details><summary>38911's Followe...</summary>38911's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[38911's Follower](https://opensea.io/collection/38911-s-follower)</details> |
+| **<details><summary>RedDevilEquityN...</summary>RedDevilEquityNFT</details>** | ![Image](https://i.seadn.io/s/raw/files/17a6e02c4de1e68671e4f502096b605b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RedDevilEquityNFT](https://opensea.io/collection/reddevilequitynft)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/da34f531af58cb12bb593356b7b871f9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-2198)</details> |
 
 </div>
