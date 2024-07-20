@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/1d31cfe7e1edf4b8593d3c56a0fa219a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-2270)</details> |
-| **Pokémon** | ![Image](https://i.seadn.io/s/raw/files/3a835640c127821399940b23d29b98d9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pokémon](https://opensea.io/collection/pokemon-239)</details> |
-| **Colorful Punk** | ![Image](https://i.seadn.io/s/raw/files/a1430b315491b8c3d6fe7ce31adb1cd9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Colorful Punk](https://opensea.io/collection/colorful-punk)</details> |
+| **G** | ![Image](https://i.seadn.io/s/raw/files/14cd33597c7c9856ddbf2e3bb0e5aa76.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[G](https://opensea.io/collection/g-1042)</details> |
+| **<details><summary>Ethereal Planet...</summary>Ethereal Planetary Encounter</details>** | ![Image](https://i.seadn.io/s/raw/files/4a508a3d90f90bdf883770b2f3ac2bb1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereal Planetary Encounter](https://opensea.io/collection/ethereal-planetary-encounter)</details> |
 
 </div>
