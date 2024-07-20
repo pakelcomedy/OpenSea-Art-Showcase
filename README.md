@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **tfyutyu** | ![Image](https://i.seadn.io/s/raw/files/a015e6412cb5f24daf74fc537215801e.jpg?w=500&auto=format?w=200&auto=format) | tytyu7gyt | <details><summary>Link</summary>[tfyutyu](https://opensea.io/collection/tfyutyu)</details> |
-| **Star Wars** | ![Image](https://i.seadn.io/s/raw/files/461ad6e063616241bc874849dcb587cd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Star Wars](https://opensea.io/collection/star-wars-162)</details> |
+| **Polling_USA** | ![Image](https://i.seadn.io/s/raw/files/9eba45d310431f5ee75dc7833686287f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Polling_USA](https://opensea.io/collection/polling-usa)</details> |
+| **<details><summary>35773's Followe...</summary>35773's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[35773's Follower](https://opensea.io/collection/35773-s-follower)</details> |
 
 </div>
