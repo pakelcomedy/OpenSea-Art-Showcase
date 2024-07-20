@@ -6,7 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>10BNB Reward at...</summary>10BNB Reward at airdropbnb.lat  🎁</details>** | ![Image](https://i.seadn.io/s/raw/files/acf7cdc091459e6f7449aeb60a5f6d93.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10BNB Reward at airdropbnb.lat  🎁](https://opensea.io/collection/10bnb-reward-at-airdropbnb-lat-67)</details> |
-| **<details><summary>BIGGARO: NFT 2....</summary>BIGGARO: NFT 2.0 PUNK</details>** | ![Image](https://i.seadn.io/s/raw/files/5df2272df8c081a27d4d505930d695be.jpg?w=500&auto=format?w=200&auto=format) | MADAM CYBER ALERT | <details><summary>Link</summary>[BIGGARO: NFT 2.0 PUNK](https://opensea.io/collection/biggaro-nft-2-0-punk-4)</details> |
+| **<details><summary>How the Eagle F...</summary>How the Eagle Flies</details>** | ![Image](https://i.seadn.io/s/raw/files/16d0e5821c9622f300dd9e45961dfa5b.png?w=500&auto=format?w=200&auto=format) | <details><summary>WE'RE ALL IN THE HOT SEAT!
+
+So...</summary>WE'RE ALL IN THE HOT SEAT!
+
+Sometimes you win, sometimes you lose - such is how the Eagle flies. The important thing is that you keep going. Don't look down.
+
+Automatic drawing, digital, procreate - 4444 x 4444px, c. SEAN WILLIAMS, ART ONLY 2024-3033.</details> | <details><summary>Link</summary>[How the Eagle Flies](https://opensea.io/collection/how-the-eagle-flies)</details> |
 
 </div>
