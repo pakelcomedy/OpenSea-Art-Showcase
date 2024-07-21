@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **th** | ![Image](https://i.seadn.io/s/raw/files/216c534c99f4c44eef3481b54cdd167e.jpg?w=500&auto=format?w=200&auto=format) | thetantomato | <details><summary>Link</summary>[th](https://opensea.io/collection/th-81)</details> |
-| **Croc** | ![Image](https://i.seadn.io/s/raw/files/2da8c17720a08c687dbcda4465cd0615.jpg?w=500&auto=format?w=200&auto=format) | hungry | <details><summary>Link</summary>[Croc](https://opensea.io/collection/croc-18)</details> |
-| **planet** | ![Image](https://i.seadn.io/s/raw/files/6e80bcae4be95605f55c122cf1fbfdc7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[planet](https://opensea.io/collection/planet-261)</details> |
-| **kenmore_melony** | ![Image](https://i.seadn.io/s/raw/files/a56d278f2ff658d1afbc15007e9584db.png?w=500&auto=format?w=200&auto=format) | <details><summary>Born in Australia. Work worldw...</summary>Born in Australia. Work worldwide. Thanks to NFT</details> | <details><summary>Link</summary>[kenmore_melony](https://opensea.io/collection/kenmore-melony)</details> |
+| **enjoy enjoy** | ![Image](https://i.seadn.io/s/raw/files/2515c4d3c6a3d2d81e3b7ee8ed23977f.jpg?w=500&auto=format?w=200&auto=format) | nj | <details><summary>Link</summary>[enjoy enjoy](https://opensea.io/collection/enjoy-enjoy-11)</details> |
+| **<details><summary>1 ENJOY COLLECT...</summary>1 ENJOY COLLECTION</details>** | ![Image](https://i.seadn.io/s/raw/files/a481d480e2d78cc403de4e2123b9cd6b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Mint all nfts for 1 ENJOY each...</summary>Mint all nfts for 1 ENJOY each. THX !</details> | <details><summary>Link</summary>[1 ENJOY COLLECTION](https://opensea.io/collection/1-enjoy-collection-3)</details> |
 
 </div>
