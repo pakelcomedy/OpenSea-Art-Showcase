@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>38620's Followe...</summary>38620's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[38620's Follower](https://opensea.io/collection/38620-s-follower)</details> |
+| **Warrior Girls** | ![Image](https://i.seadn.io/s/raw/files/72b49ecd0c3db87bed4f2ec215e61e5b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Warrior Girls](https://opensea.io/collection/warrior-girls-4)</details> |
 
 </div>
