@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **screenshots** | ![Image](https://i.seadn.io/s/raw/files/79b966792357d1a46ac7a3bf0c4ab5b6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[screenshots](https://opensea.io/collection/screenshots-23)</details> |
+| **Test-NoKi** | ![Image](https://i.seadn.io/s/raw/files/c27a71ab4008c83eba9b554775aa12ca.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Test-NoKi](https://opensea.io/collection/test-noki)</details> |
 
 </div>
