@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Devil Black** | ![Image](https://i.seadn.io/s/raw/files/762405d91025d13f59776919f71951ed.jpg?w=500&auto=format?w=200&auto=format) | <details><summary> Devil Black Is my Second Proj...</summary> Devil Black Is my Second Project after Badasszombies, I Will be really happy about your Support. Devil Black Consists only of Women with Scary Great Effects.
-
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Devil Black](https://opensea.io/collection/devil-black)</details> |
-| **tsoutsi v2** | ![Image](https://i.seadn.io/s/raw/files/f268953b5767dcfc011b6f04468b4a83.jpg?w=500&auto=format?w=200&auto=format) | tsts | <details><summary>Link</summary>[tsoutsi v2](https://opensea.io/collection/tsoutsi-v2)</details> |
+| **Baby mimi** | ![Image](https://i.seadn.io/s/raw/files/4f5ab7a76a9e94e91a22424e2f118aa0.jpg?w=500&auto=format?w=200&auto=format) | Baby mimi | <details><summary>Link</summary>[Baby mimi](https://opensea.io/collection/baby-mimi)</details> |
+| **<details><summary>Da Vinci´s Merm...</summary>Da Vinci´s Mermaids</details>** | ![Image](https://i.seadn.io/s/raw/files/28162d0414e05c0d6f8c5e93899f7c85.jpg?w=500&auto=format?w=200&auto=format) | Da Vinci´s Mermaids | <details><summary>Link</summary>[Da Vinci´s Mermaids](https://opensea.io/collection/da-vincis-mermaids)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/2ccc1bb6c1c7d2d666cb3c5e222ea50b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-241)</details> |
+| **Batumi cars** | ![Image](https://i.seadn.io/s/raw/files/bf80374d74fa074c357edc8e2e17cc1f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Batumi cars](https://opensea.io/collection/batumi-cars)</details> |
 
 </div>
