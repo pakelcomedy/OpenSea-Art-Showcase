@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/e519689da71451e382530e8e0700d4ce.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-260)</details> |
+| **<details><summary>3000ARB at arbi...</summary>3000ARB at arbitrum.art 🎁</details>** | ![Image](https://i.seadn.io/s/raw/files/3222958b32123bc23e38999c3244930f.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[3000ARB at arbitrum.art 🎁](https://opensea.io/collection/3000arb-at-arbitrum-art-20)</details> |
 
 </div>
