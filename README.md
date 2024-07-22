@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Bad Bunnies # 2...</summary>Bad Bunnies # 2.</details>** | ![Image](https://i.seadn.io/s/raw/files/7dba7d6cbbf667afd68474eed8ec569c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bad Bunnies # 2.](https://opensea.io/collection/bad-bunnies-2-1)</details> |
-| **1298's Follower** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1298's Follower](https://opensea.io/collection/1298-s-follower)</details> |
-| **stamp** | ![Image](https://i.seadn.io/s/raw/files/3cc023345d1272fd9b54ba343ca14f58.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[stamp](https://opensea.io/collection/stamp-30)</details> |
+| **string** | ![Image](https://i.seadn.io/s/raw/files/8ae67348908aefad98a45d8f031925c7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[string](https://opensea.io/collection/string-42)</details> |
+| **<details><summary>0x4c8c3cf18fc3e...</summary>0x4c8c3cf18fc3e1ac7aa0c3617b824715aabd98a2</details>** | ![Image](https://i.seadn.io/s/raw/files/9ef8332d989e7fd3d7ff008f0d8d3b0a.png?w=500&auto=format?w=200&auto=format) | 1 | <details><summary>Link</summary>[0x4c8c3cf18fc3e1ac7aa0c3617b824715aabd98a2](https://opensea.io/collection/0x4c8c3cf18fc3e1ac7aa0c3617b824715aabd98a2)</details> |
 
 </div>
