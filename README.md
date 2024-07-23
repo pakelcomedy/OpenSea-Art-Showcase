@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x1ba3cf36b9122...</summary>0x1ba3cf36b9122cf9a72f16f4510b15d1e0f5de8a</details>** | ![Image](https://i.seadn.io/s/raw/files/804d3eed090d98c56c93f2d16c73c49e.jpg?w=500&auto=format?w=200&auto=format) | 125 | <details><summary>Link</summary>[0x1ba3cf36b9122cf9a72f16f4510b15d1e0f5de8a](https://opensea.io/collection/0x1ba3cf36b9122cf9a72f16f4510b15d1e0f5de8a)</details> |
+| **<details><summary>20101's Followe...</summary>20101's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[20101's Follower](https://opensea.io/collection/20101-s-follower)</details> |
+| **SHIBANI** | ![Image](https://i.seadn.io/s/raw/files/5d34419690cd1690c48176e8e3017033.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SHIBANI](https://opensea.io/collection/shibani)</details> |
 
 </div>
