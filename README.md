@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>32617's Followe...</summary>32617's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[32617's Follower](https://opensea.io/collection/32617-s-follower)</details> |
+| **Vertex** | ![Image](https://i.seadn.io/s/raw/files/81ad1fe9d3e1e2b70bd8ff8327b2e673.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Reaching the top of the digita...</summary>Reaching the top of the digital currency pyramid.</details> | <details><summary>Link</summary>[Vertex](https://opensea.io/collection/vertex-14)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/00deb959803ea2711d80b430786bf47c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-2403)</details> |
 
 </div>
