@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>47535's Followe...</summary>47535's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[47535's Follower](https://opensea.io/collection/47535-s-follower)</details> |
+| **ringo** | ![Image](https://i.seadn.io/s/raw/files/9b439bf60e5a29e28cd5e75a74d0100a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ringo](https://opensea.io/collection/ringo-6)</details> |
 
 </div>
