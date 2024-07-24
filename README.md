@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Das Vogelhaus** | ![Image](https://i.seadn.io/s/raw/files/d269477485f39a8fc7364ea1b919dbb7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Das Vogelhaus](https://opensea.io/collection/das-vogelhaus)</details> |
+| **<details><summary>My New Collecti...</summary>My New Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/99616f6940aef3b2a281bb921ffc2062.png?w=500&auto=format?w=200&auto=format) | <details><summary>A new collection with its own ...</summary>A new collection with its own dedicated smart contract</details> | <details><summary>Link</summary>[My New Collection](https://opensea.io/collection/my-new-collection-13497)</details> |
+| **<details><summary>My New Collecti...</summary>My New Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/99616f6940aef3b2a281bb921ffc2062.png?w=500&auto=format?w=200&auto=format) | <details><summary>A new collection with its own ...</summary>A new collection with its own dedicated smart contract</details> | <details><summary>Link</summary>[My New Collection](https://opensea.io/collection/my-new-collection-13496)</details> |
 
 </div>
