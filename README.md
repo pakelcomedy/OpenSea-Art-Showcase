@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>!! LIDO NFT #38...</summary>!! LIDO NFT #38448</details>** | ![Image](https://i.seadn.io/s/raw/files/53927e00926f5b611e57ec49fe2893d4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[!! LIDO NFT #38448](https://opensea.io/collection/lido-nft-38448)</details> |
-| **<details><summary>Ethereal Rebirt...</summary>Ethereal Rebirth</details>** | ![Image](https://i.seadn.io/s/raw/files/71383b09972f9073a1f1421b18bbcff2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereal Rebirth](https://opensea.io/collection/ethereal-rebirth)</details> |
-| **<details><summary>Stem Representa...</summary>Stem Representation</details>** | ![Image](https://i.seadn.io/s/raw/files/ba56461f881150c6284c843c2e93b058.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Stem Representation](https://opensea.io/collection/stem-representation)</details> |
+| **<details><summary>37914's Followe...</summary>37914's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[37914's Follower](https://opensea.io/collection/37914-s-follower)</details> |
+| **Flower Monster** | ![Image](https://i.seadn.io/s/raw/files/3ebbaf7531336ba1fb4d0f1d8f3a38ee.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Flower Monster](https://opensea.io/collection/flower-monster-1)</details> |
+| **Frye Daddy** | ![Image](https://i.seadn.io/s/raw/files/885c440f6343b939828c26d90e63e40f.jpg?w=500&auto=format?w=200&auto=format) | Gettin paid  | <details><summary>Link</summary>[Frye Daddy](https://opensea.io/collection/frye-daddy)</details> |
 
 </div>
