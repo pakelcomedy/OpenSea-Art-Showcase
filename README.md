@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **AMLOvers** | ![Image](https://i.seadn.io/s/raw/files/c5d665bc0cee9568e4304a050abe8eb1.png?w=500&auto=format?w=200&auto=format) | <details><summary>AMLOvers; una colección que ri...</summary>AMLOvers; una colección que rinde homenaje al presidente más carismático y exitoso en la historia moderna de México. Viva la 4T!</details> | <details><summary>Link</summary>[AMLOvers](https://opensea.io/collection/amlovers)</details> |
-| **<details><summary>HoshiBoshi Arie...</summary>HoshiBoshi Aries</details>** | ![Image](https://i.seadn.io/s/raw/files/71a3f850cfd9154cb16288f89d70b785.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HoshiBoshi Aries](https://opensea.io/collection/hoshiboshi-aries-36)</details> |
+| **dexterously** | ![Image](https://i.seadn.io/s/raw/files/54d7e63c9c64a8244f917f68fb13a56c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dexterously](https://opensea.io/collection/dexterously-1)</details> |
+| **<details><summary>46920's Followe...</summary>46920's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[46920's Follower](https://opensea.io/collection/46920-s-follower)</details> |
 
 </div>
