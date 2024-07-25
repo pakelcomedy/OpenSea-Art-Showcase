@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Tracy Apr** | ![Image](https://i.seadn.io/s/raw/files/9ce1ff64cf3a4e4e20db2fd8e9439a83.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tracy Apr](https://opensea.io/collection/tracy-apr)</details> |
-| **zorabora** | ![Image](https://i.seadn.io/s/raw/files/59d20eec717fadf91db05d76ce21bedc.jpg?w=500&auto=format?w=200&auto=format) | nft | <details><summary>Link</summary>[zorabora](https://opensea.io/collection/zorabora-4)</details> |
-| **<details><summary>39198's Followe...</summary>39198's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[39198's Follower](https://opensea.io/collection/39198-s-follower)</details> |
+| **640's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[640's Member](https://opensea.io/collection/640-s-member)</details> |
+| **Kompa2** | ![Image](https://i.seadn.io/s/raw/files/f7c973ee46fbc3b3a838ed94efa691be.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Kompa2](https://opensea.io/collection/kompa2)</details> |
+| **Unknown** | ![Image](https://i.seadn.io/s/raw/files/1578b608f701dcc3116651fe87088a3d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unknown](https://opensea.io/collection/unknown-171200)</details> |
+| **Alanit** | ![Image](https://i.seadn.io/s/raw/files/67ac6d856b9516a99b55546668ef288c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Alanit](https://opensea.io/collection/alanit)</details> |
 
 </div>
