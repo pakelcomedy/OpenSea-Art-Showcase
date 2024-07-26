@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **LIDO NFT #2792** | ![Image](https://i.seadn.io/s/raw/files/0a141a1ca29b511b23d160e18e8d666a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LIDO NFT #2792](https://opensea.io/collection/lido-nft-2792)</details> |
-| **LIDO NFT #4160** | ![Image](https://i.seadn.io/s/raw/files/0f20e325d6cd12f493c57eeec518364c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LIDO NFT #4160](https://opensea.io/collection/lido-nft-4160)</details> |
+| **Enjoy** | ![Image](https://i.seadn.io/gcs/files/d7dfee9fb440232fd74c2952b3b6e9af.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Enjoy](https://opensea.io/collection/enjoy-1947)</details> |
+| **Ferrari Bledaki** | ![Image](https://i.seadn.io/s/raw/files/d6318edc3fffdabe3f05f6c616c52230.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ferrari Bledaki](https://opensea.io/collection/ferrari-bledaki)</details> |
 
 </div>
