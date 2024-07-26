@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **clip title 4** | ![Image](https://i.seadn.io/s/raw/files/057abfae03e1d3316ff1bdbf2c1a21ed.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>this was clipped from danny's ...</summary>this was clipped from danny's Unlonely livestream</details> | <details><summary>Link</summary>[clip title 4](https://opensea.io/collection/clip-title-4)</details> |
-| **<details><summary>@carldoja club ...</summary>@carldoja club card</details>** | ![Image](https://i.seadn.io/s/raw/files/b09d1d7f730c5ef47edebf78fe6dfba4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[@carldoja club card](https://opensea.io/collection/carldoja-club-card)</details> |
+| **<details><summary>1ETH Reward at ...</summary>1ETH Reward at etherc.xyz 🎁</details>** | ![Image](https://i.seadn.io/s/raw/files/ee53cb2fd160583a29252060f99eb922.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1ETH Reward at etherc.xyz 🎁](https://opensea.io/collection/1eth-reward-at-etherc-xyz-61)</details> |
+| **<details><summary>41155's Followe...</summary>41155's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[41155's Follower](https://opensea.io/collection/41155-s-follower)</details> |
+| **People Base** | ![Image](https://i.seadn.io/s/raw/files/e59fb342d1dab7b07871c68d64655c2d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[People Base](https://opensea.io/collection/people-base)</details> |
 
 </div>
