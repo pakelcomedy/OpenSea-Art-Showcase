@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Versificatrix** | ![Image](https://i.seadn.io/s/raw/files/8703e59879c77fbbfcef78c4a490b55d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Versificatrix](https://opensea.io/collection/versificatrix)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 10355</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 10355](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-10355)</details> |
 
 </div>
