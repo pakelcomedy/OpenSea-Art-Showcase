@@ -6,8 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **tsouchi v9** | ![Image](https://i.seadn.io/s/raw/files/c97c015f1cf615499bfeef56595cd2ad.jpg?w=500&auto=format?w=200&auto=format) | dal | <details><summary>Link</summary>[tsouchi v9](https://opensea.io/collection/tsouchi-v9)</details> |
-| **gh** | ![Image](https://i.seadn.io/s/raw/files/ef0c207bb381a6056718eff1caa75a50.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[gh](https://opensea.io/collection/gh-324)</details> |
-| **deplouys** | ![Image](https://i.seadn.io/s/raw/files/73ff3c90287d4162d75eccb746345ec8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[deplouys](https://opensea.io/collection/deplouys)</details> |
+| **<details><summary>41179's Followe...</summary>41179's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[41179's Follower](https://opensea.io/collection/41179-s-follower)</details> |
 
 </div>
