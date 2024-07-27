@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/2383bfc0473d980561f4ff35ee583c4a.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-486)</details> |
-| **RiverVoyagers** | ![Image](https://i.seadn.io/s/raw/files/4ca825f7c350548e52f3b00d112ee3e4.jpg?w=500&auto=format?w=200&auto=format) | RiverVoyagers | <details><summary>Link</summary>[RiverVoyagers](https://opensea.io/collection/rivervoyagers)</details> |
-| **zorbaz** | ![Image](https://i.seadn.io/s/raw/files/1c16bb7f056bce644c90fcd6ebf4cd3b.png?w=500&auto=format?w=200&auto=format) | different zorb's | <details><summary>Link</summary>[zorbaz](https://opensea.io/collection/zorbaz-1)</details> |
+| **@hdr club** | ![Image](https://i.seadn.io/s/raw/files/0d94b73934793249a963282a70a043ba.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[@hdr club](https://opensea.io/collection/hdr-club)</details> |
+| **mysterybox** | ![Image](https://i.seadn.io/s/raw/files/e6f53280c176a5c8c9de6aee50f405ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mysterybox](https://opensea.io/collection/mysterybox-76)</details> |
+| **fruterry1** | ![Image](https://i.seadn.io/s/raw/files/bac8c38ca3460865ea59390390c549ae.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fruterry1](https://opensea.io/collection/fruterry1-808)</details> |
+| **green** | ![Image](https://i.seadn.io/s/raw/files/723e54a814d35aecddf7f172d5d30156.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[green](https://opensea.io/collection/green-405)</details> |
 
 </div>
