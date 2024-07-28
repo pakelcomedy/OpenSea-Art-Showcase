@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>TicketMeMembers...</summary>TicketMeMembership</details>** | ![Image](https://i.seadn.io/s/raw/files/cd5631e2a4e07d80e3136c265ae1e072.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TicketMeMembership](https://opensea.io/collection/ticketmemembership-1670)</details> |
-| **<details><summary>TicketMeMembers...</summary>TicketMeMembership</details>** | ![Image](https://i.seadn.io/s/raw/files/bff88dc3ac01d195899d83660757c80c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TicketMeMembership](https://opensea.io/collection/ticketmemembership-1669)</details> |
-| **<details><summary>TicketMeMembers...</summary>TicketMeMembership</details>** | ![Image](https://i.seadn.io/s/raw/files/4820a9734bc404b1c9c12be92ab65fca.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TicketMeMembership](https://opensea.io/collection/ticketmemembership-1668)</details> |
+| **Monkai** | ![Image](https://i.seadn.io/s/raw/files/2e846720083f93c49bf7f46f7ce37a59.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Monkai](https://opensea.io/collection/monkai-16)</details> |
+| **Latish** | ![Image](https://i.seadn.io/s/raw/files/113bd25772a17ff2748ec3ed83293a77.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Latish](https://opensea.io/collection/latish)</details> |
+| **RPE** | ![Image](https://i.seadn.io/s/raw/files/e3dfba9601cfc011c898636fcc39c7c6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RPE](https://opensea.io/collection/rpe-2)</details> |
 
 </div>
