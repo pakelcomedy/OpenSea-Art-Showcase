@@ -6,7 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora** | ![Image](https://i.seadn.io/s/raw/files/292b5a6a7a0c44a0d3ac86311c371428.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora](https://opensea.io/collection/zora-10334)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 10374</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 10374](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-10374)</details> |
+| **Cats** | ![Image](https://i.seadn.io/s/raw/files/97fdbcde543cf5466d73c4a37d784b1b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Cats
+
+Made with [NFTs2Me.com](...</summary>Cats
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Cats](https://opensea.io/collection/cats-1030)</details> |
+| **MARS** | ![Image](https://i.seadn.io/s/raw/files/6ba200d895fc5ada8e088366bfcad99d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MARS](https://opensea.io/collection/mars-187)</details> |
 
 </div>
