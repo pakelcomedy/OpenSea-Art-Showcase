@@ -6,12 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Viandal** | ![Image](https://i.seadn.io/s/raw/files/9753ab882cdb221a4370bfc2ad0c261e.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Viandal
+| **Suffering women** | ![Image](https://i.seadn.io/s/raw/files/c5ea0513ff3641cd7d8e72bcaa43e256.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Suffering women](https://opensea.io/collection/suffering-women)</details> |
+| **Dqt** | ![Image](https://i.seadn.io/s/raw/files/b7d389c8ce3e08914b128c3e9a32990a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Dqt
 
-Made with [NFTs2Me.co...</summary>Viandal
+Made with [NFTs2Me.com](h...</summary>Dqt
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Viandal](https://opensea.io/collection/viandal)</details> |
-| **<details><summary>50332's Followe...</summary>50332's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[50332's Follower](https://opensea.io/collection/50332-s-follower)</details> |
-| **<details><summary>Misunderstood M...</summary>Misunderstood Machines</details>** | ![Image](https://i.seadn.io/s/raw/files/ea48a5dbd1587bdf2f15857c3b93fc9f.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Misunderstood Machines](https://opensea.io/collection/misunderstood-machines)</details> |
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Dqt](https://opensea.io/collection/dqt-2)</details> |
+| **Snegir** | ![Image](https://i.seadn.io/s/raw/files/d26a88ba7db495137c6d6c2e946e4f59.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snegir](https://opensea.io/collection/snegir-1)</details> |
+| **Commissions** | ![Image](https://i.seadn.io/s/raw/files/bef6973c47952591f5ee186125e86365.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Commissions](https://opensea.io/collection/commissions-11)</details> |
+| **3/1000** | ![Image](https://i.seadn.io/s/raw/files/d12034c53a6f06e661c8034b17420fdc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[3/1000](https://opensea.io/collection/3-1000-1)</details> |
 
 </div>
