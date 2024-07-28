@@ -6,8 +6,22 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **NYMPH** | ![Image](https://i.seadn.io/s/raw/files/d1e97d365f8ff279b1830b3f0bb0a47f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NYMPH](https://opensea.io/collection/nymph-8)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 10380</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 10380](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-10380)</details> |
-| **Derevo** | ![Image](https://i.seadn.io/s/raw/files/465e5d0fe0b5c375fb2a3580f95b0a0b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Derevo](https://opensea.io/collection/derevo-22)</details> |
+| **Soin** | ![Image](https://i.seadn.io/s/raw/files/8e2e099fad371574bd748eb151ac712a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Soin
+
+Made with [NFTs2Me.com](...</summary>Soin
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Soin](https://opensea.io/collection/soin-1)</details> |
+| **<details><summary>39506's Followe...</summary>39506's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[39506's Follower](https://opensea.io/collection/39506-s-follower)</details> |
+| **Woan** | ![Image](https://i.seadn.io/s/raw/files/5241ff19d81c800ad29192edac84a14b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Woan
+
+Made with [NFTs2Me.com](...</summary>Woan
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Woan](https://opensea.io/collection/woan)</details> |
+| **<details><summary>49378's Followe...</summary>49378's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[49378's Follower](https://opensea.io/collection/49378-s-follower)</details> |
+| **Kammz** | ![Image](https://i.seadn.io/s/raw/files/feae2073f7432adc18909b4fbde2d0be.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Kammz
+
+Made with [NFTs2Me.com]...</summary>Kammz
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Kammz](https://opensea.io/collection/kammz)</details> |
 
 </div>
