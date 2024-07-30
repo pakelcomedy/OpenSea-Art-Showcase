@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **broadcast** | ![Image](https://i.seadn.io/s/raw/files/48760c72c60dd05204bbb8139362cb8a.jpg?w=500&auto=format?w=200&auto=format) | broadcast  | <details><summary>Link</summary>[broadcast](https://opensea.io/collection/broadcast-9)</details> |
-| **geological** | ![Image](https://i.seadn.io/s/raw/files/8d2279d89b5cf9fab3baac660dc1cfc1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[geological](https://opensea.io/collection/geological-7)</details> |
-| **venom** | ![Image](https://i.seadn.io/s/raw/files/b5528f8a865da1e2e1abcb2432f654a5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[venom](https://opensea.io/collection/venom-146)</details> |
+| **dewa** | ![Image](https://i.seadn.io/s/raw/files/e3df60efd69579965d2d3fac3819b597.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dewa](https://opensea.io/collection/dewa-132)</details> |
+| **jkuhkbb** | ![Image](https://i.seadn.io/s/raw/files/3aa570a0debfd66dd859591bef6d1aa4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jkuhkbb](https://opensea.io/collection/jkuhkbb)</details> |
 
 </div>
