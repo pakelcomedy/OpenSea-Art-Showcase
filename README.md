@@ -6,10 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **man dreams** | ![Image](https://i.seadn.io/s/raw/files/8e551f0a0e0cdaf42d93fd8934545856.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[man dreams](https://opensea.io/collection/man-dreams)</details> |
-| **<details><summary>Voxadelic Platf...</summary>Voxadelic Platforms Pack (Base)</details>** | ![Image](https://i.seadn.io/s/raw/files/3b74524a5c0f264885e8b9834c9f656c.png?w=500&auto=format?w=200&auto=format) | <details><summary>Created to be used in the Nift...</summary>Created to be used in the Nifty Island Time Trial Challenge
+| **<details><summary>Lil Nouns: VRGD...</summary>Lil Nouns: VRGDA, Trivia, and ETH CC 2024!</details>** | ![Image](https://i.seadn.io/s/raw/files/088fb68df847f07b489a04af3ada6b4e.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Lil Nouns: VRGDA, Trivia, and ...</summary>Lil Nouns: VRGDA, Trivia, and ETH CC 2024!
 
-</details> | <details><summary>Link</summary>[Voxadelic Platforms Pack (Base)](https://opensea.io/collection/voxadelic-platforms-pack-base)</details> |
-| **983's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[983's Member](https://opensea.io/collection/983-s-member)</details> |
+Read the full post on Paragraph: https://paragraph.xyz/@lilnouns/lil-nouns-vrgda-trivia-eth-cc-2024</details> | <details><summary>Link</summary>[Lil Nouns: VRGDA, Trivia, and ETH CC 2024!](https://opensea.io/collection/lil-nouns-vrgda-trivia-and-eth-cc-2024)</details> |
+| **<details><summary>BUCK CITY MISSO...</summary>BUCK CITY MISSOULA MONTANA</details>** | ![Image](https://i.seadn.io/s/raw/files/49f8b4bd8136fcd285aba122f80279a8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BUCK CITY MISSOULA MONTANA](https://opensea.io/collection/buck-city-missoula-montana)</details> |
+| **<details><summary>As above so bel...</summary>As above so below. REACH FOR THE STARS</details>** | ![Image](https://i.seadn.io/s/raw/files/bdcc28d4cb05b82cc6624c38167a3fa1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[As above so below. REACH FOR THE STARS](https://opensea.io/collection/as-above-so-below-reach-for-the-stars)</details> |
+| **smurfs** | ![Image](https://i.seadn.io/s/raw/files/1b57945d57c89067c49fe4d354206e64.jpg?w=500&auto=format?w=200&auto=format) | smurfs | <details><summary>Link</summary>[smurfs](https://opensea.io/collection/smurfs-19)</details> |
 
 </div>
