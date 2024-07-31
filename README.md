@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>far.cards - lev...</summary>far.cards - levingood</details>** | ![Image](https://i.seadn.io/s/raw/files/fd9b839ca7cf6f7b59175df43efb4982.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[far.cards - levingood](https://opensea.io/collection/far-cards-levingood)</details> |
-| **GaneshaToon** | ![Image](https://i.seadn.io/s/raw/files/9ce85aeb6f9e1fe1254f0344969b66f2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GaneshaToon](https://opensea.io/collection/ganeshatoon)</details> |
-| **girl** | ![Image](https://i.seadn.io/s/raw/files/e9518f76c17f2622cfae543b8d46da9c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[girl](https://opensea.io/collection/girl-1264)</details> |
+| **Красивое** | ![Image](https://i.seadn.io/s/raw/files/eb3c2ccdc74e2ab737ac495077726294.jpg?w=500&auto=format?w=200&auto=format) | номер 1 | <details><summary>Link</summary>[Красивое](https://opensea.io/collection/krasivoe)</details> |
+| **<details><summary>Amazing Landsca...</summary>Amazing Landscapes</details>** | ![Image](https://i.seadn.io/s/raw/files/b5dcbd0db1124a0bdc092282ea5c405b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Amazing Landscapes](https://opensea.io/collection/amazing-landscapes-4)</details> |
+| **Wistful Shadows** | ![Image](https://i.seadn.io/s/raw/files/371d2afab8224e1c734d6006614213fd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Wistful Shadows](https://opensea.io/collection/wistful-shadows)</details> |
 
 </div>
