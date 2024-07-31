@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Summer2024** | ![Image](https://i.seadn.io/s/raw/files/a2301959e059778081dd2909ed6d6a6b.png?w=500&auto=format?w=200&auto=format) | Summer NFT | <details><summary>Link</summary>[Summer2024](https://opensea.io/collection/summer2024-10)</details> |
-| **TCK** | ![Image](https://i.seadn.io/s/raw/files/d8f4c4465f27ebd03041dc388f22adcc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TCK](https://opensea.io/collection/tck-1)</details> |
+| **ulr7ik56u** | ![Image](https://i.seadn.io/s/raw/files/343523e111f1c19c15536e5790152518.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ulr7ik56u](https://opensea.io/collection/ulr7ik56u)</details> |
+| **Jungleland** | ![Image](https://i.seadn.io/s/raw/files/a1e5981b4e3493f17a9dccd71b50eec7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jungleland](https://opensea.io/collection/jungleland-1)</details> |
+| **tyk54ejf** | ![Image](https://i.seadn.io/s/raw/files/12373607eb748deceaa7e273b3445df7.jpg?w=500&auto=format?w=200&auto=format) | ertjerjg | <details><summary>Link</summary>[tyk54ejf](https://opensea.io/collection/tyk54ejf)</details> |
 
 </div>
