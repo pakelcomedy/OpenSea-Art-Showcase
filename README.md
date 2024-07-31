@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 10460</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 10460](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-10460)</details> |
-| **gmID silver** | ![Image](https://i.seadn.io/s/raw/files/00598e554d5016baac2ee71bb021b1c2.gif?w=500&auto=format?w=200&auto=format) | <details><summary>Your Gateway to Access gm.AI E...</summary>Your Gateway to Access gm.AI Ecosystem</details> | <details><summary>Link</summary>[gmID silver](https://opensea.io/collection/gmid-silver)</details> |
-| **840's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[840's Member](https://opensea.io/collection/840-s-member)</details> |
-| **839's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[839's Member](https://opensea.io/collection/839-s-member)</details> |
+| **hkg** | ![Image](https://i.seadn.io/s/raw/files/40f673807cc3f82772aa56be4213df83.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hkg](https://opensea.io/collection/hkg-5)</details> |
+| **Turtles Legends** | ![Image](https://i.seadn.io/s/raw/files/3b0af335c42e089375e5776c2aca53ab.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Turtles Legends](https://opensea.io/collection/turtles-legends)</details> |
+| **ZARR** | ![Image](https://i.seadn.io/s/raw/files/8b2b3ff7ba8a2d25d352f7ed45d406b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ZARR](https://opensea.io/collection/zarr)</details> |
+| **THE LEGENDS** | ![Image](https://i.seadn.io/s/raw/files/b6333b07c1347ca51c9c1333964366f5.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[THE LEGENDS](https://opensea.io/collection/the-legends-18)</details> |
 
 </div>
