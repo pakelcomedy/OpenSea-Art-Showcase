@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>61337's Followe...</summary>61337's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[61337's Follower](https://opensea.io/collection/61337-s-follower)</details> |
+| **jnu8i9** | ![Image](https://i.seadn.io/s/raw/files/dc55a3bceacd69b300f46fd9c9b4b0af.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jnu8i9](https://opensea.io/collection/jnu8i9)</details> |
 
 </div>
