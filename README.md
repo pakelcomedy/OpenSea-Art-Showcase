@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>65238's Followe...</summary>65238's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[65238's Follower](https://opensea.io/collection/65238-s-follower)</details> |
-| **<details><summary>Dragon Academy ...</summary>Dragon Academy Eggs</details>** | ![Image](https://i.seadn.io/s/raw/files/fab2e2836c5179ca2aab2c5fe06beddb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dragon Academy Eggs](https://opensea.io/collection/dragon-academy-eggs-1)</details> |
+| **Sol Baddies** | ![Image](https://i.seadn.io/s/raw/files/89c659aa94621b3fe5c1c5b80942bb27.png?w=500&auto=format?w=200&auto=format) | <details><summary>999 Sol Baddies coming to Sola...</summary>999 Sol Baddies coming to Solana </details> | <details><summary>Link</summary>[Sol Baddies](https://opensea.io/collection/sol-baddies)</details> |
 
 </div>
