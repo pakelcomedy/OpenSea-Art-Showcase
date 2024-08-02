@@ -6,9 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Saylors** | ![Image](https://i.seadn.io/s/raw/files/4926b58b2f8f0ce1139c84e52bcacff8.png?w=500&auto=format?w=200&auto=format) | Test collection for SEI | <details><summary>Link</summary>[Saylors](https://opensea.io/collection/saylors)</details> |
-| **<details><summary>Music NFT Works...</summary>Music NFT Workshop - Bogotá, Colombia</details>** | ![Image](https://i.seadn.io/s/raw/files/76e1e8e0ce894e9d76d771c6425332e0.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0xc6a2db...</summary>https://mirror.xyz/10/0xc6a2db19b98da3a5f3b5134d152d75cecbaac8ae</details> | <details><summary>Link</summary>[Music NFT Workshop - Bogotá, Colombia](https://opensea.io/collection/music-nft-workshop-bogota-colombia)</details> |
-| **<details><summary>69361's Followe...</summary>69361's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[69361's Follower](https://opensea.io/collection/69361-s-follower)</details> |
-| **<details><summary>Life Changes in...</summary>Life Changes in the Blink...</details>** | ![Image](https://i.seadn.io/s/raw/files/639c800907be1de7e69d22e3ff0dc131.png?w=500&auto=format?w=200&auto=format) | Nature vs. Culture | <details><summary>Link</summary>[Life Changes in the Blink...](https://opensea.io/collection/life-changes-in-the-blink)</details> |
+| **Based Frens** | ![Image](https://i.seadn.io/s/raw/files/e625c283bf6a4ab06f95b3532ac0ddc9.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Based Frens](https://opensea.io/collection/based-frens-6)</details> |
+| **1237's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1237's Member](https://opensea.io/collection/1237-s-member)</details> |
+| **DistrictEdenNFT** | ![Image](https://i.seadn.io/s/raw/files/b71f6311f9d00f607a1a21b9e6b41c5c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DistrictEdenNFT](https://opensea.io/collection/districtedennft)</details> |
+| **0xE5b3** | ![Image](https://i.seadn.io/s/raw/files/f0e6bdc672ae48490692991bb417f741.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Shiiib
+
+Read the full post on ...</summary>Shiiib
+
+Read the full post on Paragraph: https://paragraph.xyz/@0xe5b3d8f7480d0e591c626a61c8f991f08f58f15d/SR4iR0sKhCB74zoqg94z</details> | <details><summary>Link</summary>[0xE5b3](https://opensea.io/collection/0xe5b3)</details> |
+| **Dimensions** | ![Image](https://i.seadn.io/s/raw/files/758c0478037bae21c5b1edf5ce18a0d3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dimensions](https://opensea.io/collection/dimensions-14)</details> |
 
 </div>
