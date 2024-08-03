@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **coti** | ![Image](https://i.seadn.io/s/raw/files/9513c57002331f56bfb2e43c30317af5.jpg?w=500&auto=format?w=200&auto=format) | SUKIYAKI | <details><summary>Link</summary>[coti](https://opensea.io/collection/coti-5)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 10552</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 10552](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-10552)</details> |
+| **japan** | ![Image](https://i.seadn.io/s/raw/files/d9c272e22ad72fb24f240cf2423bf039.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[japan](https://opensea.io/collection/japan-184)</details> |
+| **Molekular** | ![Image](https://i.seadn.io/s/raw/files/2463d2eaca611168566a1963872e80a9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Molekular](https://opensea.io/collection/molekular)</details> |
+| **Runes Pups** | ![Image](https://i.seadn.io/s/raw/files/b9c197013dd121f7df208d9db04e85ad.png?w=500&auto=format?w=200&auto=format) | <details><summary>1 Runes Pups = 690,000 $RPUPS ...</summary>1 Runes Pups = 690,000 $RPUPS MEMECOIN AIRDROPS</details> | <details><summary>Link</summary>[Runes Pups](https://opensea.io/collection/runes-pups-1)</details> |
 
 </div>
