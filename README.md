@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Scottish Rite** | ![Image](https://i.seadn.io/s/raw/files/8dc6570d9e33d222fd8001a8c1b81add.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This is a symbol of a double h...</summary>This is a symbol of a double headed eagle which is the 32nd degree of the Scottish Rite </details> | <details><summary>Link</summary>[Scottish Rite](https://opensea.io/collection/scottish-rite)</details> |
-| **RPE** | ![Image](https://i.seadn.io/s/raw/files/e63d271de58055cd22f5c330eb3b8816.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RPE](https://opensea.io/collection/rpe-13)</details> |
+| **1271's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1271's Member](https://opensea.io/collection/1271-s-member)</details> |
+| **<details><summary>68793's Followe...</summary>68793's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[68793's Follower](https://opensea.io/collection/68793-s-follower)</details> |
+| **<details><summary>68104's Followe...</summary>68104's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[68104's Follower](https://opensea.io/collection/68104-s-follower)</details> |
+| **<details><summary>67445's Followe...</summary>67445's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[67445's Follower](https://opensea.io/collection/67445-s-follower)</details> |
 
 </div>
