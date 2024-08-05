@@ -6,10 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Django Unchaine...</summary>Django Unchained</details>** | ![Image](https://i.seadn.io/s/raw/files/515660701ad1832aad7c3d9f67b9ddb7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Chains break, freedom calls,
-S...</summary>Chains break, freedom calls,
-Silent ‘D’ rides through the night,
-Justice in his hands.</details> | <details><summary>Link</summary>[Django Unchained](https://opensea.io/collection/django-unchained-2)</details> |
-| **stik** | ![Image](https://i.seadn.io/s/raw/files/b305f16af02f0db042b220419df5e461.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[stik](https://opensea.io/collection/stik-3)</details> |
+| **<details><summary>77505's Followe...</summary>77505's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[77505's Follower](https://opensea.io/collection/77505-s-follower)</details> |
+| **<details><summary>far.cards - sas...</summary>far.cards - sashasasha</details>** | ![Image](https://i.seadn.io/s/raw/files/350f140b260a4827a1dd56e5bb8ca3e4.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - sashasasha (z78IOW...</summary>far.cards - sashasasha (z78IOWrTUgn7CVogM9I0uA==) is a Bonding Curved ERC-1155 token created on mint.club.
+
+Backed by Wrapped Ether (WETH) on Base chain.
+
+https://mint.club/nft/base/z78IOWrTUgn7CVogM9I0uA==</details> | <details><summary>Link</summary>[far.cards - sashasasha](https://opensea.io/collection/far-cards-sashasasha)</details> |
+| **<details><summary>73786's Followe...</summary>73786's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[73786's Follower](https://opensea.io/collection/73786-s-follower)</details> |
 
 </div>
