@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>31478's Followe...</summary>31478's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[31478's Follower](https://opensea.io/collection/31478-s-follower)</details> |
-| **<details><summary>79586's Followe...</summary>79586's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[79586's Follower](https://opensea.io/collection/79586-s-follower)</details> |
+| **ZET** | ![Image](https://i.seadn.io/s/raw/files/0953acfe327df13b53947a20a17b5b2e.jpg?w=500&auto=format?w=200&auto=format) | zetass | <details><summary>Link</summary>[ZET](https://opensea.io/collection/zet-3)</details> |
+| **Bankai** | ![Image](https://i.seadn.io/s/raw/files/2e846720083f93c49bf7f46f7ce37a59.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bankai](https://opensea.io/collection/bankai-24)</details> |
 
 </div>
