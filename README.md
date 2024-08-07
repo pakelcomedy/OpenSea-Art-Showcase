@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **efnwe** | ![Image](https://i.seadn.io/s/raw/files/87fdd57db4e5a1ce2f1c895c7187e386.jpg?w=500&auto=format?w=200&auto=format) | tygdv | <details><summary>Link</summary>[efnwe](https://opensea.io/collection/efnwe)</details> |
-| **ERDFG** | ![Image](https://i.seadn.io/s/raw/files/fe84eb923cc3caed1e0831f8351b97a9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ERDFG](https://opensea.io/collection/erdfg-6)</details> |
-| **shoe** | ![Image](https://i.seadn.io/s/raw/files/7d3afff08566acacac7979bd844f0d5e.jpg?w=500&auto=format?w=200&auto=format) | gewer | <details><summary>Link</summary>[shoe](https://opensea.io/collection/shoe-21)</details> |
-| **<details><summary>76607's Followe...</summary>76607's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[76607's Follower](https://opensea.io/collection/76607-s-follower)</details> |
+| **tour** | ![Image](https://i.seadn.io/s/raw/files/229d5b64e2ba1a3b41718b0f24cd3f6e.png?w=500&auto=format?w=200&auto=format) | po cempingu | <details><summary>Link</summary>[tour](https://opensea.io/collection/tour-21)</details> |
+| **<details><summary>80526's Followe...</summary>80526's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[80526's Follower](https://opensea.io/collection/80526-s-follower)</details> |
+| **Nadejda** | ![Image](https://i.seadn.io/s/raw/files/2f5aca07d8bd1c1fdf3131f4f3a908a9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nadejda](https://opensea.io/collection/nadejda-1)</details> |
+| **enjoy_louver_13** | ![Image](https://i.seadn.io/s/raw/files/f3cc9e6f69eb6f98731af6d9d64ebade.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[enjoy_louver_13](https://opensea.io/collection/enjoy-louver-13)</details> |
 
 </div>
