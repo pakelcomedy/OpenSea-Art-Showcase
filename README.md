@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Realistic Beaut...</summary>Realistic Beautiful</details>** | ![Image](https://i.seadn.io/s/raw/files/3d92596567e4d7638a25dd8c3fc2485e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Realistic Beautiful](https://opensea.io/collection/realistic-beautiful-36)</details> |
-| **Unknown** | ![Image](https://i.seadn.io/s/raw/files/42d293fe782cf59fbf8f1903e9928aae.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unknown](https://opensea.io/collection/unknown-172336)</details> |
+| **<details><summary>87089's Followe...</summary>87089's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[87089's Follower](https://opensea.io/collection/87089-s-follower)</details> |
+| **PcoNFT** | ![Image](https://i.seadn.io/s/raw/files/971d0f7e3be9f81b0812e24af0dc0929.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PcoNFT](https://opensea.io/collection/pconft-2)</details> |
+| **<details><summary>Exciting Advent...</summary>Exciting Adventures</details>** | ![Image](https://i.seadn.io/s/raw/files/3331c3f157bfdf9edc09dee42730ec0d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Exciting Adventures](https://opensea.io/collection/exciting-adventures)</details> |
 
 </div>
