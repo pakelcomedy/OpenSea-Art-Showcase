@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 10728</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 10728](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-10728)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/da7b3a8d5dbacedaf09e7f8105c19db5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-2870)</details> |
+| **1990's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1990's Member](https://opensea.io/collection/1990-s-member)</details> |
+| **<details><summary>86120's Followe...</summary>86120's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[86120's Follower](https://opensea.io/collection/86120-s-follower)</details> |
 
 </div>
