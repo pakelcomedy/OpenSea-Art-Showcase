@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Neighbor** | ![Image](https://i.seadn.io/s/raw/files/e6fb7f98773519e6d2072a1ac3af5cc6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Neighbor](https://opensea.io/collection/neighbor-10)</details> |
+| **<details><summary>85564's Followe...</summary>85564's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[85564's Follower](https://opensea.io/collection/85564-s-follower)</details> |
 
 </div>
