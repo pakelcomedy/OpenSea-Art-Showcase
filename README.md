@@ -6,6 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Studies Competi...</summary>Studies Competition</details>** | ![Image](https://i.seadn.io/s/raw/files/130043091c708f63c3d37fa1b2e3bcfa.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Going attachments href victims...</summary>Going attachments href victims l associated athletes signing</details> | <details><summary>Link</summary>[Studies Competition](https://opensea.io/collection/studies-competition)</details> |
+| **Tripura Sundari** | ![Image](https://i.seadn.io/s/raw/files/287ba7dccef8541a035a9c01be7d3a7b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tripura Sundari](https://opensea.io/collection/tripura-sundari)</details> |
+| **Cryptopunk base** | ![Image](https://i.seadn.io/s/raw/files/2da8b0f57adc7a52d492cf59b87bd4d3.jpg?w=500&auto=format?w=200&auto=format) | NFT base  | <details><summary>Link</summary>[Cryptopunk base](https://opensea.io/collection/cryptopunk-base-39)</details> |
+| **<details><summary>100078's Follow...</summary>100078's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[100078's Follower](https://opensea.io/collection/100078-s-follower)</details> |
 
 </div>
