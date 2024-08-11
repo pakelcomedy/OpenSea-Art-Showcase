@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **V. Buterin** | ![Image](https://i.seadn.io/s/raw/files/e629d1ea2cb300ecf3308885d730d616.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[V. Buterin](https://opensea.io/collection/v-buterin-21)</details> |
-| **Skwizzi** | ![Image](https://i.seadn.io/s/raw/files/8346ed98cc3366dc610a44532cfdb33e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Skwizzi](https://opensea.io/collection/skwizzi-9)</details> |
+| **Chos Demons** | ![Image](https://i.seadn.io/s/raw/files/0b848fd7cf08d5f59c67988ec1c9cd25.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chos Demons](https://opensea.io/collection/chos-demons-22)</details> |
 
 </div>
