@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>103081's Follow...</summary>103081's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[103081's Follower](https://opensea.io/collection/103081-s-follower)</details> |
-| **btc** | ![Image](https://i.seadn.io/s/raw/files/89360c9cc7b6d119635c2f6baf5a6c77.webp?w=500&auto=format?w=200&auto=format) | from beginning to end | <details><summary>Link</summary>[btc](https://opensea.io/collection/btc-950)</details> |
-| **ama ninja** | ![Image](https://i.seadn.io/s/raw/files/6ac7f77b7563d09fcd781a1b9155396c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ama ninja](https://opensea.io/collection/ama-ninja-1)</details> |
+| **<details><summary>See U at your M...</summary>See U at your Metaverse #003</details>** | ![Image](https://i.seadn.io/s/raw/files/46905536baf45bbfeadd32d91fce5a45.webp?w=500&auto=format?w=200&auto=format) | <details><summary>NFT Music 1st Album "Rahab's s...</summary>NFT Music 1st Album "Rahab's shadow is Sister Luka"の１曲からインスパイアされたNFTアート。</details> | <details><summary>Link</summary>[See U at your Metaverse #003](https://opensea.io/collection/see-u-at-your-metaverse-003-1)</details> |
+| **Unknown** | ![Image](https://i.seadn.io/s/raw/files/fff24123a2be006ad686b76fe519fd2f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unknown](https://opensea.io/collection/unknown-172684)</details> |
 
 </div>
