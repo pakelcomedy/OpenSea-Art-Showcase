@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>105144's Follow...</summary>105144's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[105144's Follower](https://opensea.io/collection/105144-s-follower)</details> |
-| **Non Velvet** | ![Image](https://i.seadn.io/s/raw/files/c327a8f164979286656507a002888e82.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Non Velvet](https://opensea.io/collection/non-velvet)</details> |
+| **My Library** | ![Image](https://i.seadn.io/s/raw/files/052265fddc445744e54ccc6fffe6cb18.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[My Library](https://opensea.io/collection/my-library-3)</details> |
+| **<details><summary>iconic women of...</summary>iconic women of the wwe</details>** | ![Image](https://i.seadn.io/s/raw/files/32f5237489c22d35ad58cb0df811a3d0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[iconic women of the wwe](https://opensea.io/collection/iconic-women-of-the-wwe)</details> |
 
 </div>
