@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BVN** | ![Image](https://i.seadn.io/s/raw/files/966bb0ad949339e750d019ca79c916e8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BVN](https://opensea.io/collection/bvn-9)</details> |
+| **Publication** | ![Image](https://i.seadn.io/s/raw/files/674a999b056fef0ea3fb221074ac8543.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Publication](https://opensea.io/collection/publication-8)</details> |
 
 </div>
