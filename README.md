@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **2359's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[2359's Member](https://opensea.io/collection/2359-s-member)</details> |
-| **Yieldnodes NFT** | ![Image](https://i.seadn.io/s/raw/files/d73d3a58ed23e90e7f5abab6168647ff.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Yieldnodes NFT](https://opensea.io/collection/yieldnodes-nft-83)</details> |
+| **Gang Infection** | ![Image](https://i.seadn.io/s/raw/files/ff2f8e7c5bf04dc7fa152b9804e0b992.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Detect occurs plaintiff intere...</summary>Detect occurs plaintiff interest custody</details> | <details><summary>Link</summary>[Gang Infection](https://opensea.io/collection/gang-infection)</details> |
+| **Bugatti** | ![Image](https://i.seadn.io/s/raw/files/b71fd641da1f0edab675c265bfc4b5d8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bugatti](https://opensea.io/collection/bugatti-35)</details> |
 
 </div>
