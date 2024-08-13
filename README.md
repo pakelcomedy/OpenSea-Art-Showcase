@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **2337's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[2337's Member](https://opensea.io/collection/2337-s-member)</details> |
-| **Ocean** | ![Image](https://i.seadn.io/s/raw/files/3c2aa75875f9b22ef2107c428dcfb9da.png?w=500&auto=format?w=200&auto=format) | Ocean | <details><summary>Link</summary>[Ocean](https://opensea.io/collection/ocean-330)</details> |
+| **BVN** | ![Image](https://i.seadn.io/s/raw/files/966bb0ad949339e750d019ca79c916e8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BVN](https://opensea.io/collection/bvn-9)</details> |
 
 </div>
