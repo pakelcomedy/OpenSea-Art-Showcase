@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **RAWTista** | ![Image](https://i.seadn.io/s/raw/files/e125ee22b8e76871ec123b4831813dbd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RAWTista](https://opensea.io/collection/rawtista)</details> |
-| **ocean** | ![Image](https://i.seadn.io/s/raw/files/090c46590b62dd807bcf977fba837c65.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ocean](https://opensea.io/collection/ocean-329)</details> |
+| **<details><summary>Neon Animals St...</summary>Neon Animals Strapped UP</details>** | ![Image](https://i.seadn.io/s/raw/files/465c7e351fa11a3b65d1f70cc9a531c6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Neon Animals Strapped UP](https://opensea.io/collection/neon-animals-strapped-up)</details> |
 
 </div>
