@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>106747's Follow...</summary>106747's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[106747's Follower](https://opensea.io/collection/106747-s-follower)</details> |
-| **<details><summary>90340's Followe...</summary>90340's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[90340's Follower](https://opensea.io/collection/90340-s-follower)</details> |
+| **Ethereum** | ![Image](https://i.seadn.io/s/raw/files/6f39f72921e7937642a7f572ed9432e4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum](https://opensea.io/collection/ethereum-400)</details> |
 
 </div>
