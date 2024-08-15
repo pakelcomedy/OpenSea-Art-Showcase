@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **MashaBearTV** | ![Image](https://i.seadn.io/s/raw/files/c2c0064540b1883eeb03b10712873669.jpg?w=500&auto=format?w=200&auto=format) | MashaBearTV | <details><summary>Link</summary>[MashaBearTV](https://opensea.io/collection/mashabeartv)</details> |
-| **Loving** | ![Image](https://i.seadn.io/s/raw/files/3a2ea2150b71ca902ca5676898adec9c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Sydney fall bin biotechnology ...</summary>Sydney fall bin biotechnology hs niger obituaries topic component</details> | <details><summary>Link</summary>[Loving](https://opensea.io/collection/loving-15)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/8989a82efc13e11105cb53227566cfb1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-1078)</details> |
+| **<details><summary>118760's Follow...</summary>118760's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[118760's Follower](https://opensea.io/collection/118760-s-follower)</details> |
+| **ham not spam** | ![Image](https://i.seadn.io/s/raw/files/7f1d2652ca9a939d50af8a7e32cee5b6.png?w=500&auto=format?w=200&auto=format) | ham not spam! | <details><summary>Link</summary>[ham not spam](https://opensea.io/collection/ham-not-spam)</details> |
 
 </div>
