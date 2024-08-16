@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-17526)</details> |
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-17525)</details> |
+| **Paintings** | ![Image](https://i.seadn.io/s/raw/files/596c820950e7688ac438a8fab668747f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Paintings](https://opensea.io/collection/paintings-178)</details> |
+| **<details><summary>Crisis Developm...</summary>Crisis Developments Blanket</details>** | ![Image](https://i.seadn.io/s/raw/files/60f85e18437c36436bfa629f3e856629.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Lithuania kathy vat agencies d...</summary>Lithuania kathy vat agencies decline rocky rules</details> | <details><summary>Link</summary>[Crisis Developments Blanket](https://opensea.io/collection/crisis-developments-blanket)</details> |
+| **<details><summary>121933's Follow...</summary>121933's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[121933's Follower](https://opensea.io/collection/121933-s-follower)</details> |
 
 </div>
