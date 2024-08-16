@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-18819)</details> |
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-18818)</details> |
-| **Test 44** | ![Image](https://i.seadn.io/s/raw/files/09d23be71c2542b3997beec14d65d8c9.webp?w=500&auto=format?w=200&auto=format) | Test 45 | <details><summary>Link</summary>[Test 44](https://opensea.io/collection/test-44-2)</details> |
+| **<details><summary>123560's Follow...</summary>123560's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[123560's Follower](https://opensea.io/collection/123560-s-follower)</details> |
+| **<details><summary>119200's Follow...</summary>119200's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[119200's Follower](https://opensea.io/collection/119200-s-follower)</details> |
+| **<details><summary>Coleccion Perso...</summary>Coleccion Personal</details>** | ![Image](https://i.seadn.io/s/raw/files/5fc58bf16f7a8d8369052b7df556374a.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Coleccion Personal](https://opensea.io/collection/coleccion-personal-1)</details> |
+| **<details><summary>123276's Follow...</summary>123276's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[123276's Follower](https://opensea.io/collection/123276-s-follower)</details> |
 
 </div>
