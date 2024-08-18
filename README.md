@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **UltimateDeAl** | ![Image](https://i.seadn.io/s/raw/files/3880a87294536e0e325c0fc688d52e42.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[UltimateDeAl](https://opensea.io/collection/ultimatedeal)</details> |
-| **Cheat** | ![Image](https://i.seadn.io/s/raw/files/3eaaeac544da3ef79f3998973bbf6944.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cheat](https://opensea.io/collection/cheat-16)</details> |
-| **<details><summary>Modified Modifi...</summary>Modified Modified Name</details>** | ![Image](https://i.seadn.io/s/raw/files/69bb4e64d48f735f149092ff297c844a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Modified Modified Name](https://opensea.io/collection/modified-modified-name)</details> |
+| **XA** | ![Image](https://i.seadn.io/s/raw/files/e99aaf97da0f60b9fe8e5aff021f802a.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XA](https://opensea.io/collection/xa-43)</details> |
+| **<details><summary>26934's Followe...</summary>26934's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[26934's Follower](https://opensea.io/collection/26934-s-follower)</details> |
+| **m00nh00d** | ![Image](https://i.seadn.io/s/raw/files/9a84c3a92db35e4b327ab58bfde9528f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[m00nh00d](https://opensea.io/collection/m00nh00d-12)</details> |
 
 </div>
