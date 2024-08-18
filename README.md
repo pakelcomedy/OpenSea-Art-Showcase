@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-25359)</details> |
-| **<details><summary>129868's Follow...</summary>129868's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[129868's Follower](https://opensea.io/collection/129868-s-follower)</details> |
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-25358)</details> |
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-25357)</details> |
+| **venik** | ![Image](https://i.seadn.io/s/raw/files/a848ffa0f63e48ca8ad06f7e75c87254.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[venik](https://opensea.io/collection/venik-1)</details> |
+| **Event** | ![Image](https://i.seadn.io/s/raw/files/fe15df8825b0cf5367e0da82c11ad713.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-34998)</details> |
+| **<details><summary>!Layerzero ZRO ...</summary>!Layerzero ZRO at : layerzero.pl</details>** | ![Image](https://i.seadn.io/s/raw/files/5becc6acbec11c49edc2494add937c24.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[!Layerzero ZRO at : layerzero.pl](https://opensea.io/collection/layerzero-zro-at-layerzero-pl-12)</details> |
+| **Event** | ![Image](https://i.seadn.io/s/raw/files/fe15df8825b0cf5367e0da82c11ad713.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-34997)</details> |
 
 </div>
