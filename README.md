@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Pfnks** | ![Image](https://i.seadn.io/s/raw/files/657ec14613952639ef1dc8bfb4b2eb9c.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pfnks](https://opensea.io/collection/pfnks-14)</details> |
+| **Mr.Giggle** | ![Image](https://i.seadn.io/s/raw/files/8690f75d18764b24063e03efe2738c1a.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mr.Giggle](https://opensea.io/collection/mr-giggle-11)</details> |
 
 </div>
