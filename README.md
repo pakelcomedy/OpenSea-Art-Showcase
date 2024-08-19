@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mr.Giggle** | ![Image](https://i.seadn.io/s/raw/files/8690f75d18764b24063e03efe2738c1a.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mr.Giggle](https://opensea.io/collection/mr-giggle-11)</details> |
+| **<details><summary>131709's Follow...</summary>131709's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[131709's Follower](https://opensea.io/collection/131709-s-follower)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 10960</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 10960](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-10960)</details> |
 
 </div>
