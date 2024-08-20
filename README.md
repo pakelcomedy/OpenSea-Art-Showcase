@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-1795)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-1794)</details> |
-| **Demon Wolf** | ![Image](https://i.seadn.io/s/raw/files/e7742121b1b9a37b432629c4783e5b47.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Demon Wolf](https://opensea.io/collection/demon-wolf-1)</details> |
+| **GTF** | ![Image](https://i.seadn.io/s/raw/files/fcd1b4b94e90149fd17f65855e940080.png?w=500&auto=format?w=200&auto=format) | GTF  | <details><summary>Link</summary>[GTF](https://opensea.io/collection/gtf-10)</details> |
+| **<details><summary>131210's Follow...</summary>131210's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[131210's Follower](https://opensea.io/collection/131210-s-follower)</details> |
 
 </div>
