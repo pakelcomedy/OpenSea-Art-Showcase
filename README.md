@@ -6,8 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-30278)</details> |
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-30277)</details> |
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-30276)</details> |
+| **@mohammed7 club** | ![Image](https://i.seadn.io/s/raw/files/c44f32914852517df2d48cea11df699d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[@mohammed7 club](https://opensea.io/collection/mohammed7-club)</details> |
 
 </div>
