@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **GTF** | ![Image](https://i.seadn.io/s/raw/files/fcd1b4b94e90149fd17f65855e940080.png?w=500&auto=format?w=200&auto=format) | GTF  | <details><summary>Link</summary>[GTF](https://opensea.io/collection/gtf-10)</details> |
-| **<details><summary>131210's Follow...</summary>131210's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[131210's Follower](https://opensea.io/collection/131210-s-follower)</details> |
+| **<details><summary>PLGNkingLionMas...</summary>PLGNkingLionMaster313</details>** | ![Image](https://i.seadn.io/s/raw/files/b8e26242c3fef3d30d5eb32569d6f12c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PLGNkingLionMaster313](https://opensea.io/collection/plgnkinglionmaster313)</details> |
+| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-29624)</details> |
+| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-29623)</details> |
+| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-29622)</details> |
 
 </div>
