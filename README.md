@@ -6,8 +6,27 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/9a8134490c5f20168e7c96253f10220e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3199)</details> |
-| **<details><summary>118426's Follow...</summary>118426's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[118426's Follower](https://opensea.io/collection/118426-s-follower)</details> |
-| **<details><summary>Motherboard Lau...</summary>Motherboard Laugh</details>** | ![Image](https://i.seadn.io/s/raw/files/e331dbfcdec82d55ed77c5b11caf05d8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Motherboard Laugh](https://opensea.io/collection/motherboard-laugh)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-843)</details> |
+| **<details><summary>ApuFrensNFT Gen...</summary>ApuFrensNFT Genesis</details>** | ![Image](https://i.seadn.io/s/raw/files/a933abfbf9c4f3458e2f5acc6f70bfcc.png?w=500&auto=format?w=200&auto=format) | <details><summary>✨ApuFrensNFT Genesis
+• 1337 Li...</summary>✨ApuFrensNFT Genesis
+• 1337 Limited Editions
+• Degen Eyes, Glowing Skin & Black Background: 7
+• Degen Eyes & White Background: 30
+• Degen Eyes & Grey Background: 300
+• Space Eyes & Blue Background: 1000
+• Royalties: 10% ZombieKing (artist)
+• Sales Proceeds: Dev & Marketing Wallet (multisig)
+• Rewards: YES (not financial advice, review local laws)
+---
+🐸 ApuFrensNFT 10k Collection
+• Apu Apustaja NFTs by ZombieKing & Frens
+• 10k Collection, Full-Body, Random-Gen
+• MINT SUMMER 2024 on Solana
+---
+ℹ️ Info
+ • x.com/ApuFrensNFT | ApuFrensNFT.com (NFT)
+ • x.com/ApuSolFrens | ApuFrens.com $APU/SOL (memecoin)</details> | <details><summary>Link</summary>[ApuFrensNFT Genesis](https://opensea.io/collection/apufrensnft-genesis)</details> |
+| **Event** | ![Image](https://i.seadn.io/s/raw/files/fe15df8825b0cf5367e0da82c11ad713.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-38695)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-842)</details> |
 
 </div>
