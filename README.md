@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event** | ![Image](https://i.seadn.io/s/raw/files/fe15df8825b0cf5367e0da82c11ad713.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-39099)</details> |
-| **Event** | ![Image](https://i.seadn.io/s/raw/files/fe15df8825b0cf5367e0da82c11ad713.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-39098)</details> |
-| **Event** | ![Image](https://i.seadn.io/s/raw/files/fe15df8825b0cf5367e0da82c11ad713.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-39097)</details> |
-| **Event** | ![Image](https://i.seadn.io/s/raw/files/fe15df8825b0cf5367e0da82c11ad713.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-39096)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-1431)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-1430)</details> |
 
 </div>
