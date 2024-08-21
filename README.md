@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11028</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11028](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11028)</details> |
-| **Event 2** | ![Image](https://i.seadn.io/s/raw/files/20ac66a2146d22b8084ced167cd3cd5a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 2](https://opensea.io/collection/event-2-4763)</details> |
+| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-35162)</details> |
+| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-35161)</details> |
+| **Event 2** | ![Image](https://i.seadn.io/s/raw/files/20ac66a2146d22b8084ced167cd3cd5a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 2](https://opensea.io/collection/event-2-4916)</details> |
+| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-35160)</details> |
 
 </div>
