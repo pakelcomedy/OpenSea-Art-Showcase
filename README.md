@@ -6,16 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Smolder by Don-...</summary>Smolder by Don-Q x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/0d1eb12b337d12344e56c1483d12d237.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user Don-Q as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/Don-QueHotas/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Smolder by Don-Q x Reddit Collectible Avatars](https://opensea.io/collection/smolder-by-don-q-x-reddit-collectible-avatars)</details> |
-| **Giko nfts** | ![Image](https://i.seadn.io/s/raw/files/8bbe82a76b7fd12d2fd37416f85e05bc.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Giko nfts first meme cat on in...</summary>Giko nfts first meme cat on internet 1998 
- * ∧__∧
- (  • Д • )
- /    づ $giko</details> | <details><summary>Link</summary>[Giko nfts](https://opensea.io/collection/giko-nfts-1)</details> |
+| **Hellman** | ![Image](https://i.seadn.io/s/raw/files/3f9006215e437060fa821dda2126ea82.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hellman](https://opensea.io/collection/hellman-4)</details> |
+| **Hacker TOSHI** | ![Image](https://i.seadn.io/s/raw/files/138806cd1845f664283b5aee8fffb87a.jpg?w=500&auto=format?w=200&auto=format) | Hacker TOSHI NFT | <details><summary>Link</summary>[Hacker TOSHI](https://opensea.io/collection/hacker-toshi)</details> |
+| **<details><summary>141745's Follow...</summary>141745's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[141745's Follower](https://opensea.io/collection/141745-s-follower)</details> |
 
 </div>
