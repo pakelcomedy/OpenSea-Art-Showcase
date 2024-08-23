@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **10 Collection** | ![Image](https://i.seadn.io/s/raw/files/3bc6956031bb11bedf7781ce98edce05.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 Collection](https://opensea.io/collection/10-collection-41590)</details> |
-| **TestAddress** | ![Image](https://i.seadn.io/s/raw/files/f97975e29b7344efcacef465bfd6e7d2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TestAddress](https://opensea.io/collection/testaddress)</details> |
-| **Shooting And** | ![Image](https://i.seadn.io/s/raw/files/dd2a5cc4d424f341ab3a7309c69fbdea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Shooting And](https://opensea.io/collection/shooting-and)</details> |
-| **Great** | ![Image](https://i.seadn.io/s/raw/files/8fb965f5074e21f5b09abd5245b76258.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Great](https://opensea.io/collection/great-102)</details> |
+| **<details><summary>Sample NFT Coll...</summary>Sample NFT Collection via API</details>** | ![Image](https://i.seadn.io/s/raw/files/613b82e68a14342d015503c7b5b185eb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sample NFT Collection via API](https://opensea.io/collection/sample-nft-collection-via-api-9)</details> |
+| **3161's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[3161's Member](https://opensea.io/collection/3161-s-member)</details> |
+| **BRUH** | ![Image](https://i.seadn.io/s/raw/files/58d8988afd0b6531d584e81b4414206e.png?w=500&auto=format?w=200&auto=format) | BRUH | <details><summary>Link</summary>[BRUH](https://opensea.io/collection/bruh-37)</details> |
 
 </div>
