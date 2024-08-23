@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Tertenant Coatl...</summary>Tertenant Coatless</details>** | ![Image](https://i.seadn.io/s/raw/files/8e45c0e965d21b7bd49c14ce5ab3066c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tertenant Coatless](https://opensea.io/collection/tertenant-coatless)</details> |
-| **SETI@HOME OG** | ![Image](https://i.seadn.io/s/raw/files/964369b6b171539313ca5974afc616d8.jpg?w=500&auto=format?w=200&auto=format) | OG member of SETI@HOME | <details><summary>Link</summary>[SETI@HOME OG](https://opensea.io/collection/seti-home-og)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11077</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11077](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11077)</details> |
 
 </div>
