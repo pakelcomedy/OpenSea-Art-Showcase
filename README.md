@@ -6,8 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>135616's Follow...</summary>135616's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[135616's Follower](https://opensea.io/collection/135616-s-follower)</details> |
-| **Summer Ꭺpеs** | ![Image](https://i.seadn.io/s/raw/files/79defc4f75082a1ad557e6a49521f952.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Summer Ꭺpеs](https://opensea.io/collection/summer-gopes-15)</details> |
-| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #119737 - Publication #689</details>** | ![Image](https://i.seadn.io/s/raw/files/86e576de3862786e145427afe496b1e5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #119737 - Publication #689](https://opensea.io/collection/lens-collect-profile-119737-publication-689)</details> |
+| **<details><summary>Abandoned Curio...</summary>Abandoned Curiosities</details>** | ![Image](https://i.seadn.io/s/raw/files/5113cc10e12c3eb9ec09953453b4c262.png?w=500&auto=format?w=200&auto=format) | <details><summary>Hi there! I'm [Sumit](https://...</summary>Hi there! I'm [Sumit](https://warpcast.com/sum), creator of [Outcasts](https://opensea.io/collection/outcasts-6) and [Outlands](https://opensea.io/collection/outlands-1).
+
+Abandoned Curiosities is an art subscription, where you get **one exclusive artwork** — check drops tab — airdropped to your wallet each month.
+
+If you opt-in for **6-months or more,** you will also get first access (allowlist, discounts) to my future projects. Also frees me to focus on creating my best work, so there's that too.</details> | <details><summary>Link</summary>[Abandoned Curiosities](https://opensea.io/collection/abandoned-curiosities-1)</details> |
+| **future test** | ![Image](https://i.seadn.io/s/raw/files/8aa275c201e06d027a4f4d98d822b2b8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[future test](https://opensea.io/collection/future-test-1)</details> |
 
 </div>
