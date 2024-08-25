@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event 2** | ![Image](https://i.seadn.io/s/raw/files/20ac66a2146d22b8084ced167cd3cd5a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 2](https://opensea.io/collection/event-2-16530)</details> |
-| **<details><summary>156259's Follow...</summary>156259's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[156259's Follower](https://opensea.io/collection/156259-s-follower)</details> |
-| **catt** | ![Image](https://i.seadn.io/s/raw/files/e40aa079ec7e67ed57a300e36eebe15c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[catt](https://opensea.io/collection/catt-37)</details> |
-| **Event 2** | ![Image](https://i.seadn.io/s/raw/files/20ac66a2146d22b8084ced167cd3cd5a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 2](https://opensea.io/collection/event-2-16529)</details> |
+| **x** | ![Image](https://i.seadn.io/s/raw/files/99f62771ec5cd162a2e292f40d23ec16.jpg?w=500&auto=format?w=200&auto=format) | x | <details><summary>Link</summary>[x](https://opensea.io/collection/x-451)</details> |
+| **Event 2** | ![Image](https://i.seadn.io/s/raw/files/20ac66a2146d22b8084ced167cd3cd5a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 2](https://opensea.io/collection/event-2-16770)</details> |
+| **<details><summary>MAGIC INTERNET ...</summary>MAGIC INTERNET MONEY</details>** | ![Image](https://i.seadn.io/s/raw/files/81774efc3759634a8610cc7d61ea49a4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MAGIC INTERNET MONEY](https://opensea.io/collection/magic-internet-money-9)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/0a81da1a336c489501e7b572de2bee62.jpg?w=500&auto=format?w=200&auto=format) | b | <details><summary>Link</summary>[b](https://opensea.io/collection/b-366)</details> |
 
 </div>
