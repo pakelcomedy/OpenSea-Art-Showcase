@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>$ZRO Token at h...</summary>$ZRO Token at https://zro.lat</details>** | ![Image](https://i.seadn.io/s/raw/files/8343eeb5f0ee669aba41e52d0fc50de5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$ZRO Token at https://zro.lat](https://opensea.io/collection/zro-token-at-https-zro-lat-12)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11153</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11153](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11153)</details> |
+| **HungryBera (HB)** | ![Image](https://i.seadn.io/s/raw/files/e8e8faebbca3a48b9bc754003372caf0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HungryBera (HB)](https://opensea.io/collection/hungrybera-hb)</details> |
 
 </div>
