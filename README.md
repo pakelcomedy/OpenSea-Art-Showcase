@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>164433's Follow...</summary>164433's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[164433's Follower](https://opensea.io/collection/164433-s-follower)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/98f42865dc920f0880fbb76290ff9acd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3334)</details> |
-| **<details><summary>165000's Follow...</summary>165000's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[165000's Follower](https://opensea.io/collection/165000-s-follower)</details> |
+| **The EYE** | ![Image](https://i.seadn.io/s/raw/files/edaee7771fc1419c1350590dbc73151e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The EYE](https://opensea.io/collection/the-eye-76)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-4653)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-4652)</details> |
+| **Deadman Pirate** | ![Image](https://i.seadn.io/s/raw/files/cbf155d6e1004e68e5c23f2f49ad5a14.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Deadman Pirate](https://opensea.io/collection/deadman-pirate)</details> |
 
 </div>
