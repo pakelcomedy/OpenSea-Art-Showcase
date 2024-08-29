@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>155125's Follow...</summary>155125's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[155125's Follower](https://opensea.io/collection/155125-s-follower)</details> |
-| **<details><summary>Original Amber ...</summary>Original Amber Nft</details>** | ![Image](https://i.seadn.io/s/raw/files/ff2439aec31aaca0aa01b5e00ec6765a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Original Amber Nft](https://opensea.io/collection/original-amber-nft)</details> |
-| **SK** | ![Image](https://i.seadn.io/s/raw/files/9f0810e43b2a169944e55c17c897b243.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SK](https://opensea.io/collection/sk-34)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-5623)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-5622)</details> |
+| **Roses** | ![Image](https://i.seadn.io/s/raw/files/f7c44424410799d5b9b4a917f9a44229.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Roses](https://opensea.io/collection/roses-135)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-5621)</details> |
+| **Halloween Ship** | ![Image](https://i.seadn.io/s/raw/files/fdad1c721511a209fe2e6c008c360f21.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Halloween Ship](https://opensea.io/collection/halloween-ship-6)</details> |
 
 </div>
