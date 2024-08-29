@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Denmark** | ![Image](https://i.seadn.io/s/raw/files/5a96c07b0d5891f2f3e376021a20730d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Denmark](https://opensea.io/collection/denmark-18)</details> |
-| **Sm0ke** | ![Image](https://i.seadn.io/s/raw/files/805830d50180ee6a51c8687d1228e032.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sm0ke](https://opensea.io/collection/sm0ke-88)</details> |
+| **<details><summary>Ethereal Foxes ...</summary>Ethereal Foxes of the Winter Realm</details>** | ![Image](https://i.seadn.io/s/raw/files/1758973133c7b4f2de10785698d8843f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereal Foxes of the Winter Realm](https://opensea.io/collection/ethereal-foxes-of-the-winter-realm-1)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11333</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11333](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11333)</details> |
+| **<details><summary>Beautiful natur...</summary>Beautiful nature</details>** | ![Image](https://i.seadn.io/s/raw/files/2f0ec26868f017fe2de038d58fae1a57.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Beautiful nature](https://opensea.io/collection/beautiful-nature-131)</details> |
 
 </div>
