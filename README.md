@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Funny pictures** | ![Image](https://i.seadn.io/s/raw/files/8dde1dc836beca2f6789b4bff517179f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Funny pictures](https://opensea.io/collection/funny-pictures-11)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-6433)</details> |
-| **<details><summary>175750's Follow...</summary>175750's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[175750's Follower](https://opensea.io/collection/175750-s-follower)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-6432)</details> |
+| **painting** | ![Image](https://i.seadn.io/s/raw/files/c34992d76fb0a6d42a11a67597182033.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[painting](https://opensea.io/collection/painting-282)</details> |
+| **fsokaaa** | ![Image](https://i.seadn.io/s/raw/files/f423718d415be9acda1d826cc9b645b3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fsokaaa](https://opensea.io/collection/fsokaaa)</details> |
+| **My NFT )** | ![Image](https://i.seadn.io/s/raw/files/4712631c5db8ecd871b25c3f2e506a74.jpg?w=500&auto=format?w=200&auto=format) | My NFT  )  | <details><summary>Link</summary>[My NFT )](https://opensea.io/collection/my-nft-615)</details> |
 
 </div>
