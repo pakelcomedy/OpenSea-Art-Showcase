@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **the park drums** | ![Image](https://i.seadn.io/s/raw/files/d117eb9a9cab5faf41a078a3ebacb62e.jpg?w=500&auto=format?w=200&auto=format) | drums on a friday ⌐Ⓗ-Ⓕ  | <details><summary>Link</summary>[the park drums](https://opensea.io/collection/the-park-drums)</details> |
-| **<details><summary>Farcaster's Rud...</summary>Farcaster's Rude Goldberg Machine</details>** | ![Image](https://i.seadn.io/s/raw/files/b72865516a4cddce6c6a8f1bf9fa589f.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Farcaster's Rude Goldberg Mach...</summary>Farcaster's Rude Goldberg Machine 
-
-Read the full post on Paragraph: https://onchainletters.xyz/miniapps</details> | <details><summary>Link</summary>[Farcaster's Rude Goldberg Machine](https://opensea.io/collection/farcaster-s-rude-goldberg-machine)</details> |
-| **Surfing Bidder** | ![Image](https://i.seadn.io/s/raw/files/9bd49067cd4f3a02d7597d37df891cd8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Surfing Bidder](https://opensea.io/collection/surfing-bidder)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11378</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11378](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11378)</details> |
+| **xd** | ![Image](https://i.seadn.io/s/raw/files/f274ea881352262819b1634fde6e14f6.jpg?w=500&auto=format?w=200&auto=format) | xd | <details><summary>Link</summary>[xd](https://opensea.io/collection/xd-93)</details> |
+| **Rifters: Exiles** | ![Image](https://i.seadn.io/s/raw/files/5205990adac5aeaf7e54e6325944066b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rifters: Exiles](https://opensea.io/collection/rifters-exiles-32)</details> |
 
 </div>
