@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>177494's Follow...</summary>177494's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[177494's Follower](https://opensea.io/collection/177494-s-follower)</details> |
-| **W01F** | ![Image](https://i.seadn.io/s/raw/files/013c9c78121bf0abf18397d71e6b272e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[W01F](https://opensea.io/collection/w01f-33)</details> |
-| **Frontier Dans** | ![Image](https://i.seadn.io/s/raw/files/cda0225e90085066524d99cb59e29ae9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Frontier Dans](https://opensea.io/collection/frontier-dans)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-7116)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-7115)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-7114)</details> |
+| **<details><summary>hotchocolaters....</summary>hotchocolaters.ae</details>** | ![Image](https://i.seadn.io/s/raw/files/17dedd077f9721b07487ef995f8aa353.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hotchocolaters.ae](https://opensea.io/collection/hotchocolaters-ae)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-7113)</details> |
 
 </div>
