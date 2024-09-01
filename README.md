@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sorare** | ![Image](https://i.seadn.io/s/raw/files/7a8c51d28eb9f2338db56e285579aa4f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sorare](https://opensea.io/collection/sorare-5)</details> |
-| **0N1 Force** | ![Image](https://i.seadn.io/s/raw/files/a25b33d896468f3de18c80e48f90a7a2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0N1 Force](https://opensea.io/collection/0n1-force-92)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/aa79f07fa6b1a602f44e14d420ff688c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3406)</details> |
+| **<details><summary>HAND DRAW NFT C...</summary>HAND DRAW NFT COLLECTION</details>** | ![Image](https://i.seadn.io/s/raw/files/7c927d72c75c0546a2375499bd1b004c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HAND DRAW NFT COLLECTION](https://opensea.io/collection/hand-draw-nft-collection)</details> |
+| **Ferrari F430** | ![Image](https://i.seadn.io/s/raw/files/f4d2218d4b5f9a8131d78599b3b72fd1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ferrari F430](https://opensea.io/collection/ferrari-f430-1)</details> |
 
 </div>
