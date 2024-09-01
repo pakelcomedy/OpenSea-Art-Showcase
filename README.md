@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Token Airdrop 1** | ![Image](https://i.seadn.io/s/raw/files/2071b13b1a75966a310fb81920a4d0e6.png?w=500&auto=format?w=200&auto=format) | <details><summary>A token airdrop takes place to...</summary>A token airdrop takes place today for all 25 holders.</details> | <details><summary>Link</summary>[Token Airdrop 1](https://opensea.io/collection/token-airdrop-1)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11412</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11412](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11412)</details> |
-| **<details><summary>parti d'en bas ...</summary>parti d'en bas short</details>** | ![Image](https://i.seadn.io/s/raw/files/5baafe2353aa1034261ae5580e598323.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>the full version is on soundxy...</summary>the full version is on soundxyz:
-https://www.sound.xyz/medmc/parti-den-bas</details> | <details><summary>Link</summary>[parti d'en bas short](https://opensea.io/collection/parti-d-en-bas-short)</details> |
+| **Sorare** | ![Image](https://i.seadn.io/s/raw/files/7a8c51d28eb9f2338db56e285579aa4f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sorare](https://opensea.io/collection/sorare-5)</details> |
+| **0N1 Force** | ![Image](https://i.seadn.io/s/raw/files/a25b33d896468f3de18c80e48f90a7a2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0N1 Force](https://opensea.io/collection/0n1-force-92)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/aa79f07fa6b1a602f44e14d420ff688c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3406)</details> |
 
 </div>
