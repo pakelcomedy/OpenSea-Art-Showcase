@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11404</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11404](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11404)</details> |
-| **Pen Amsterdam** | ![Image](https://i.seadn.io/s/raw/files/68c5b75e91f6a7bd6c0324faf8d99963.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pen Amsterdam](https://opensea.io/collection/pen-amsterdam)</details> |
+| **zora** | ![Image](https://i.seadn.io/s/raw/files/dc8e1215373c1fb3db584f6880defc89.webp?w=500&auto=format?w=200&auto=format) | crypto | <details><summary>Link</summary>[zora](https://opensea.io/collection/zora-10934)</details> |
+| **JGHF** | ![Image](https://i.seadn.io/s/raw/files/140d96c3105f7128e12d90098d0e6187.jpg?w=500&auto=format?w=200&auto=format) | jfkjhshskdhg | <details><summary>Link</summary>[JGHF](https://opensea.io/collection/jghf-1)</details> |
+| **The owl** | ![Image](https://i.seadn.io/s/raw/files/9cdb7750554da86f010a2b99e657fd2c.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The owl](https://opensea.io/collection/the-owl-22)</details> |
 
 </div>
