@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BsV4** | ![Image](https://i.seadn.io/s/raw/files/d8ffc6ee5d6719a6a3722eb111794ae6.jpg?w=500&auto=format?w=200&auto=format) | BsV4 | <details><summary>Link</summary>[BsV4](https://opensea.io/collection/bsv4)</details> |
-| **<details><summary>Tracker Superin...</summary>Tracker Superindifferent Carcinogenesis</details>** | ![Image](https://i.seadn.io/s/raw/files/f4c5a82a12ab54e11d376ac0f9dd49e7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tracker Superindifferent Carcinogenesis](https://opensea.io/collection/tracker-superindifferent-carcinogenesis)</details> |
+| **round one** | ![Image](https://i.seadn.io/s/raw/files/cb70ce6f0d8a8c54461d37799940c12e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[round one](https://opensea.io/collection/round-one-3)</details> |
+| **TrPandas** | ![Image](https://i.seadn.io/s/raw/files/60d09e5afd9cc23cb1ce0f43009cfe5e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TrPandas](https://opensea.io/collection/trpandas-91)</details> |
+| **<details><summary>160664's Follow...</summary>160664's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[160664's Follower](https://opensea.io/collection/160664-s-follower)</details> |
 
 </div>
