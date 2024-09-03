@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Weather Analyze** | ![Image](https://i.seadn.io/s/raw/files/b6f7331099491f40b8763d035dd16add.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Weather Analyze](https://opensea.io/collection/weather-analyze)</details> |
-| **The Cockpit** | ![Image](https://i.seadn.io/s/raw/files/fb704a8ba49200b9bd44f1891595f6cb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Cockpit](https://opensea.io/collection/the-cockpit-10)</details> |
-| **Marverse Lands** | ![Image](https://i.seadn.io/s/raw/files/3090af21169563a166361b4a2532d8c6.png?w=500&auto=format?w=200&auto=format) | <details><summary>This is a collection of Marver...</summary>This is a collection of Marverse NFTs</details> | <details><summary>Link</summary>[Marverse Lands](https://opensea.io/collection/marverse-lands-7)</details> |
+| **<details><summary>Space BLOBz Tie...</summary>Space BLOBz Tier C</details>** | ![Image](https://i.seadn.io/s/raw/files/c4cfa9d94063b6f8cb42350336231224.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Space BLOBz Tier C](https://opensea.io/collection/space-blobz-tier-c)</details> |
+| **<details><summary>Space BLOBz Tie...</summary>Space BLOBz Tier B</details>** | ![Image](https://i.seadn.io/s/raw/files/6f1380bde7933a1dd846c12470be5b34.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Space BLOBz Tier B](https://opensea.io/collection/space-blobz-tier-b)</details> |
+| **<details><summary>Space BLOBz Tie...</summary>Space BLOBz Tier A</details>** | ![Image](https://i.seadn.io/s/raw/files/555813e8077f85a5ca94618b70877349.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Space BLOBz Tier A](https://opensea.io/collection/space-blobz-tier-a)</details> |
 
 </div>
