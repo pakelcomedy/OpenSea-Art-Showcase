@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mashiaj** | ![Image](https://i.seadn.io/s/raw/files/74d25e90429c374a06572a5af3d5b54e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mashiaj](https://opensea.io/collection/mashiaj)</details> |
-| **<details><summary>188835's Follow...</summary>188835's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[188835's Follower](https://opensea.io/collection/188835-s-follower)</details> |
+| **<details><summary>brutal hamster ...</summary>brutal hamster holding a yellow-blue volleybal</details>** | ![Image](https://i.seadn.io/s/raw/files/e4d86d1d534d12657f8fc301c08b3477.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>brutal hamster holding a yello...</summary>brutal hamster holding a yellow-blue volleybal</details> | <details><summary>Link</summary>[brutal hamster holding a yellow-blue volleybal](https://opensea.io/collection/brutal-hamster-holding-a-yellow-blue-volleybal)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-10925)</details> |
+| **Khan** | ![Image](https://i.seadn.io/s/raw/files/7441e1443a0d5c14fa1769f4d0cfbffb.jpg?w=500&auto=format?w=200&auto=format) | Khan | <details><summary>Link</summary>[Khan](https://opensea.io/collection/khan-22)</details> |
 
 </div>
