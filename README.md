@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ghana** | ![Image](https://i.seadn.io/s/raw/files/0f548841627d5eb61b3b6f82ddf64f17.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ghana](https://opensea.io/collection/ghana-16)</details> |
-| **Post apocalypto** | ![Image](https://i.seadn.io/s/raw/files/1972b07b06f74158fc74dbf0b4d65de7.jpg?w=500&auto=format?w=200&auto=format) | Post apocalypto | <details><summary>Link</summary>[Post apocalypto](https://opensea.io/collection/post-apocalypto-1)</details> |
-| **My thoughts** | ![Image](https://i.seadn.io/s/raw/files/58e45d389d58d4c96de762916793f314.jpg?w=500&auto=format?w=200&auto=format) | My thoughts | <details><summary>Link</summary>[My thoughts](https://opensea.io/collection/my-thoughts-18)</details> |
+| **Frogmates** | ![Image](https://i.seadn.io/s/raw/files/bbe0fd4ecb71b2b81666773fe283e3a3.webp?w=500&auto=format?w=200&auto=format) | <details><summary>3000 unique characters on the ...</summary>3000 unique characters on the Base network.
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Frogmates](https://opensea.io/collection/frogmates)</details> |
+| **<details><summary>Different Bushm...</summary>Different Bushmen-Huntress With Bushmen-Huntress</details>** | ![Image](https://i.seadn.io/s/raw/files/e9202d6709f047310ca0d91cc5f813fa.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Different Bushmen-Huntress With Bushmen-Huntress](https://opensea.io/collection/different-bushmen-huntress-with-bushmen-huntress)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11502</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11502](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11502)</details> |
 
 </div>
