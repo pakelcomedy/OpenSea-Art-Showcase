@@ -6,12 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Dutch** | ![Image](https://i.seadn.io/s/raw/files/19858b8cfaac29058224f25630849bbd.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Neighborhood achieved bare dep...</summary>Neighborhood achieved bare departure sap</details> | <details><summary>Link</summary>[Dutch](https://opensea.io/collection/dutch-9)</details> |
-| **<details><summary>1K Celebration ...</summary>1K Celebration vol.1 by søhei</details>** | ![Image](https://i.seadn.io/s/raw/files/891bc621c764027f346609db5d191b65.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>1K Celebration vol.1 by søhei ...</summary>1K Celebration vol.1 by søhei (1-k-celebration-vol-1-by-sohei) is a Bonding Curved ERC-1155 token created on mint.club.
-
-Backed by Wrapped Ether (WETH) on Base chain.
-
-https://mint.club/nft/base/1-k-celebration-vol-1-by-sohei</details> | <details><summary>Link</summary>[1K Celebration vol.1 by søhei](https://opensea.io/collection/1k-celebration-vol-1-by-sohei)</details> |
-| **<details><summary>195536's Follow...</summary>195536's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[195536's Follower](https://opensea.io/collection/195536-s-follower)</details> |
+| **Jungle** | ![Image](https://i.seadn.io/s/raw/files/2ab916576996429382f925e6402d9688.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jungle](https://opensea.io/collection/jungle-121)</details> |
+| **Celestial Waves** | ![Image](https://i.seadn.io/s/raw/files/ea66cda846ca9858c8e71e721c19c882.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Celestial Waves](https://opensea.io/collection/celestial-waves-3)</details> |
+| **Digital Dreams** | ![Image](https://i.seadn.io/s/raw/files/e003e93e79a718a6cba9af3579c74cb3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Digital Dreams](https://opensea.io/collection/digital-dreams-757)</details> |
+| **<details><summary>193827's Follow...</summary>193827's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[193827's Follower](https://opensea.io/collection/193827-s-follower)</details> |
 
 </div>
