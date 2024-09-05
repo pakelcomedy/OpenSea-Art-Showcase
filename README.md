@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Shaping the Fut...</summary>Shaping the Future of NFT</details>** | ![Image](https://i.seadn.io/s/raw/files/643c3f9b87bd248930a10c9b399229b5.jpg?w=500&auto=format?w=200&auto=format) | Shaping the Future of NFT | <details><summary>Link</summary>[Shaping the Future of NFT](https://opensea.io/collection/shaping-the-future-of-nft)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-11680)</details> |
-| **<details><summary>191129's Follow...</summary>191129's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[191129's Follower](https://opensea.io/collection/191129-s-follower)</details> |
-| **Declaration** | ![Image](https://i.seadn.io/s/raw/files/32ec603e14cb87cb6ba423dc0b08f296.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Declaration](https://opensea.io/collection/declaration-8)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-11679)</details> |
+| **Last Dino** | ![Image](https://i.seadn.io/s/raw/files/8b34df111e41d6f75b59ab78dafe1615.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Last Dino](https://opensea.io/collection/last-dino-26)</details> |
+| **<details><summary>Garmin Distribu...</summary>Garmin Distribute</details>** | ![Image](https://i.seadn.io/s/raw/files/7720a1e2b35f55248600eef92b8afa8b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Garmin Distribute](https://opensea.io/collection/garmin-distribute)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-11744)</details> |
+| **ethereum** | ![Image](https://i.seadn.io/s/raw/files/0c51b0024fc0607a1c5da80c96b27276.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ethereum](https://opensea.io/collection/ethereum-720)</details> |
 
 </div>
