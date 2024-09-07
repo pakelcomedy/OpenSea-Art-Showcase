@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **nuhgytfrg** | ![Image](https://i.seadn.io/s/raw/files/639bd50b0782302aba2eec91b3db169d.png?w=500&auto=format?w=200&auto=format) | ikjuhygtfr | <details><summary>Link</summary>[nuhgytfrg](https://opensea.io/collection/nuhgytfrg)</details> |
-| **Crime** | ![Image](https://i.seadn.io/s/raw/files/da8afe0b6d8e3c931bd75e7cf9178c26.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Offers toolbar vegetables oppo...</summary>Offers toolbar vegetables opportunities pee</details> | <details><summary>Link</summary>[Crime](https://opensea.io/collection/crime-20)</details> |
-| **<details><summary>194229's Follow...</summary>194229's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[194229's Follower](https://opensea.io/collection/194229-s-follower)</details> |
-| **XCVDFGR** | ![Image](https://i.seadn.io/s/raw/files/cfc7c99eb9c11224e2b949279fdf21d8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XCVDFGR](https://opensea.io/collection/xcvdfgr-2)</details> |
+| **<details><summary>From Hrs Nickna...</summary>From Hrs Nickname</details>** | ![Image](https://i.seadn.io/s/raw/files/a11f3b2ffc484080fe400139d871056b.jpg?w=500&auto=format?w=200&auto=format) | As system displayed | <details><summary>Link</summary>[From Hrs Nickname](https://opensea.io/collection/from-hrs-nickname)</details> |
+| **DuVi** | ![Image](https://i.seadn.io/s/raw/files/856e06c75e9e566d0c5a4babbbd9bd0b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DuVi](https://opensea.io/collection/duvi-1)</details> |
 
 </div>
