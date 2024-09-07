@@ -6,7 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **L1l Penguins** | ![Image](https://i.seadn.io/s/raw/files/1d338be9005f344e6f7ef703855dd191.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[L1l Penguins](https://opensea.io/collection/l1l-penguins-201)</details> |
-| **<details><summary>191957's Follow...</summary>191957's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[191957's Follower](https://opensea.io/collection/191957-s-follower)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-14334)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-14333)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-14332)</details> |
+| **<details><summary>Banshee Blackja...</summary>Banshee Blackjack</details>** | ![Image](https://i.seadn.io/s/raw/files/9f4ede3e7c826d3087dbda0499cf63b7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Banshee Blackjack](https://opensea.io/collection/banshee-blackjack)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-14331)</details> |
 
 </div>
