@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>From Hrs Nickna...</summary>From Hrs Nickname</details>** | ![Image](https://i.seadn.io/s/raw/files/a11f3b2ffc484080fe400139d871056b.jpg?w=500&auto=format?w=200&auto=format) | As system displayed | <details><summary>Link</summary>[From Hrs Nickname](https://opensea.io/collection/from-hrs-nickname)</details> |
-| **DuVi** | ![Image](https://i.seadn.io/s/raw/files/856e06c75e9e566d0c5a4babbbd9bd0b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DuVi](https://opensea.io/collection/duvi-1)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-15141)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-15140)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-15139)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-15138)</details> |
 
 </div>
