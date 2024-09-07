@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Fluffytards** | ![Image](https://i.seadn.io/s/raw/files/92744ef00c8fe7f0271f020548727c34.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffytards](https://opensea.io/collection/fluffytards-1)</details> |
-| **hansson** | ![Image](https://i.seadn.io/s/raw/files/7d4daf5c52a57cdb1b4bb5b342577345.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hansson](https://opensea.io/collection/hansson)</details> |
-| **<details><summary>194512's Follow...</summary>194512's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[194512's Follower](https://opensea.io/collection/194512-s-follower)</details> |
-| **Glitch X** | ![Image](https://i.seadn.io/s/raw/files/106d30eebc6a5d2e48b596581bfc58ed.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Glitch X](https://opensea.io/collection/glitch-x-21)</details> |
+| **nuhgytfrg** | ![Image](https://i.seadn.io/s/raw/files/639bd50b0782302aba2eec91b3db169d.png?w=500&auto=format?w=200&auto=format) | ikjuhygtfr | <details><summary>Link</summary>[nuhgytfrg](https://opensea.io/collection/nuhgytfrg)</details> |
+| **Crime** | ![Image](https://i.seadn.io/s/raw/files/da8afe0b6d8e3c931bd75e7cf9178c26.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Offers toolbar vegetables oppo...</summary>Offers toolbar vegetables opportunities pee</details> | <details><summary>Link</summary>[Crime](https://opensea.io/collection/crime-20)</details> |
+| **<details><summary>194229's Follow...</summary>194229's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[194229's Follower](https://opensea.io/collection/194229-s-follower)</details> |
+| **XCVDFGR** | ![Image](https://i.seadn.io/s/raw/files/cfc7c99eb9c11224e2b949279fdf21d8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XCVDFGR](https://opensea.io/collection/xcvdfgr-2)</details> |
 
 </div>
