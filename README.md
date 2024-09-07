@@ -6,13 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Re:SSR No.19『Cy...</summary>Re:SSR No.19『Cyber City Girl・Savior2』特別版NFT</details>** | ![Image](https://i.seadn.io/s/raw/files/f1e412d0c3f8dc22b5d484ccb67f3721.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>私が来た！ 後は任せろ！
-
-タスクは投げ銭、先着1名様です！...</summary>私が来た！ 後は任せろ！
-
-タスクは投げ銭、先着1名様です！
-SSRのNFTが手に入るのはMooonだけ！
-活動を応援していただけたら嬉しいです☺️</details> | <details><summary>Link</summary>[Re:SSR No.19『Cyber City Girl・Savior2』特別版NFT](https://opensea.io/collection/re-ssr-no-19-cyber-city-girl-savior2-te-bie-ban-nf)</details> |
-| **hehexter** | ![Image](https://i.seadn.io/s/raw/files/4bdf1fb9b2ddd3b22664d52a0106d4bd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hehexter](https://opensea.io/collection/hehexter)</details> |
+| **Fluffytards** | ![Image](https://i.seadn.io/s/raw/files/92744ef00c8fe7f0271f020548727c34.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffytards](https://opensea.io/collection/fluffytards-1)</details> |
+| **hansson** | ![Image](https://i.seadn.io/s/raw/files/7d4daf5c52a57cdb1b4bb5b342577345.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hansson](https://opensea.io/collection/hansson)</details> |
+| **<details><summary>194512's Follow...</summary>194512's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[194512's Follower](https://opensea.io/collection/194512-s-follower)</details> |
+| **Glitch X** | ![Image](https://i.seadn.io/s/raw/files/106d30eebc6a5d2e48b596581bfc58ed.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Glitch X](https://opensea.io/collection/glitch-x-21)</details> |
 
 </div>
