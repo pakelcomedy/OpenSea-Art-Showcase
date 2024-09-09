@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ᑎIᑎᒍᗩ** | ![Image](https://i.seadn.io/s/raw/files/abcd1a791ab3ea0b4120925e5e3c19d2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ᑎIᑎᒍᗩ](https://opensea.io/collection/tiiticopo)</details> |
-| **Dozen** | ![Image](https://i.seadn.io/s/raw/files/31fa59843eb304d4d52d918c83e40e1d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Electro katrina marvel ot qual...</summary>Electro katrina marvel ot quality representations db always</details> | <details><summary>Link</summary>[Dozen](https://opensea.io/collection/dozen-19)</details> |
+| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #143257 - Publication #10811</details>** | ![Image](https://i.seadn.io/s/raw/files/b622a8c75e289ea518453acb6cd9c6e9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #143257 - Publication #10811](https://opensea.io/collection/lens-collect-profile-143257-publication-10811)</details> |
+| **My NFT** | ![Image](https://i.seadn.io/s/raw/files/c1d0650cbce65b556af8f3443f537988.jpg?w=500&auto=format?w=200&auto=format) | My NFT | <details><summary>Link</summary>[My NFT](https://opensea.io/collection/my-nft-662)</details> |
 
 </div>
