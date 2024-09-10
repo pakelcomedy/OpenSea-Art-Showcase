@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Owlbot Egg** | ![Image](https://i.seadn.io/s/raw/files/ac1730fe3715150d5244905d1378ff27.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Owlbot Egg](https://opensea.io/collection/owlbot-egg)</details> |
-| **<details><summary>213760's Follow...</summary>213760's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[213760's Follower](https://opensea.io/collection/213760-s-follower)</details> |
-| **<details><summary>0x9de1f21a507bb...</summary>0x9de1f21a507bb83812b029d90463ab64a224da1f</details>** | ![Image](https://i.seadn.io/s/raw/files/ed732199f0c41749b30473a79187ad89.jpg?w=500&auto=format?w=200&auto=format) | ??? | <details><summary>Link</summary>[0x9de1f21a507bb83812b029d90463ab64a224da1f](https://opensea.io/collection/0x9de1f21a507bb83812b029d90463ab64a224da1f)</details> |
+| **Hola** | ![Image](https://i.seadn.io/s/raw/files/b0b853b4a0ae66b5afbb1913602e3adf.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hola](https://opensea.io/collection/hola-141)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/4174f1732447021c43aea41efcf80a4f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-21463)</details> |
+| **MOnke Goblins** | ![Image](https://i.seadn.io/s/raw/files/8e4b6f7dc859b6317ffb4ba2c89df2db.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MOnke Goblins](https://opensea.io/collection/monke-goblins-92)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/4174f1732447021c43aea41efcf80a4f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-21462)</details> |
 
 </div>
