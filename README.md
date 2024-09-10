@@ -6,20 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>☆ Vanilla Ice B...</summary>☆ Vanilla Ice Baby ☆ by unbridled _apathy00 x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/6a1b336153b5967293d4339f8c4df2f3.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user unbridled _apathy00 as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/unbridled_apathy00/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[☆ Vanilla Ice Baby ☆ by unbridled _apathy00 x Reddit Collectible Avatars](https://opensea.io/collection/vanilla-ice-baby-by-unbridled-apathy00-x-reddit-co)</details> |
-| **Cultural** | ![Image](https://i.seadn.io/s/raw/files/f87bf10183bb73decd5dcaf544c46ee5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cultural](https://opensea.io/collection/cultural-16)</details> |
-| **<details><summary>The Goat by unb...</summary>The Goat by unbridled _apathy00 x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/dff6104e1b0b2022c876075e8c684cc3.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user unbridled _apathy00 as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/unbridled_apathy00/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[The Goat by unbridled _apathy00 x Reddit Collectible Avatars](https://opensea.io/collection/the-goat-by-unbridled-apathy00-x-reddit-collectibl)</details> |
+| **<details><summary>Recommended War...</summary>Recommended Warned</details>** | ![Image](https://i.seadn.io/s/raw/files/995bc14870dfb61eb5982b52c212d85b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Recommended Warned](https://opensea.io/collection/recommended-warned)</details> |
+| **<details><summary>188772's Follow...</summary>188772's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[188772's Follower](https://opensea.io/collection/188772-s-follower)</details> |
+| **The Create** | ![Image](https://i.seadn.io/s/raw/files/4cdb7de89105b6d33445ddf99ef5841c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Create](https://opensea.io/collection/the-create-1)</details> |
+| **Groups** | ![Image](https://i.seadn.io/s/raw/files/283e18617b584679dc687ba411cb1c90.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Everybody nl strengthening sox...</summary>Everybody nl strengthening sox reed example offensive describes</details> | <details><summary>Link</summary>[Groups](https://opensea.io/collection/groups-14)</details> |
+| **MURO** | ![Image](https://i.seadn.io/s/raw/files/f91a3af04f660d8138903531e137d6a6.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MURO](https://opensea.io/collection/muro-47)</details> |
 
 </div>
