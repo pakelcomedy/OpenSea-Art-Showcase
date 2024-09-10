@@ -6,13 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>dandelion spark...</summary>dandelion spark by _cleanshirt x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/5d9438eb0fc7fd94bb25316a737a40b9.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user _cleanshirt as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/_cleanshirt/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[dandelion spark by _cleanshirt x Reddit Collectible Avatars](https://opensea.io/collection/dandelion-spark-by-cleanshirt-x-reddit-collectible)</details> |
-| **Sonic** | ![Image](https://i.seadn.io/s/raw/files/bcf92cfb5933b500cd40133d311382ad.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sonic](https://opensea.io/collection/sonic-83)</details> |
+| **UXNK** | ![Image](https://i.seadn.io/s/raw/files/e91281b654743633113d5166899b4c7c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[UXNK](https://opensea.io/collection/uxnk-1)</details> |
+| **BTC** | ![Image](https://i.seadn.io/s/raw/files/12487ab0c82f6939ff062aeeb507ac26.png?w=500&auto=format?w=200&auto=format) | BTC | <details><summary>Link</summary>[BTC](https://opensea.io/collection/btc-978)</details> |
+| **QuantumIllyria** | ![Image](https://i.seadn.io/s/raw/files/2ee458beca1d1ce93956daccc9c63777.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[QuantumIllyria](https://opensea.io/collection/quantumillyria)</details> |
+| **wish duck** | ![Image](https://i.seadn.io/s/raw/files/cd4cd444dfaf4495b4cbf9b8b66f9362.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wish duck](https://opensea.io/collection/wish-duck)</details> |
+| **Indiana Blonde** | ![Image](https://i.seadn.io/s/raw/files/68f8258f5e7592a96764d522b38a2a6e.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Brass regularly wells menu tob...</summary>Brass regularly wells menu tobacco</details> | <details><summary>Link</summary>[Indiana Blonde](https://opensea.io/collection/indiana-blonde)</details> |
 
 </div>
