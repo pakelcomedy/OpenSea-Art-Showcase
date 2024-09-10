@@ -6,12 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **two broo car** | ![Image](https://i.seadn.io/s/raw/files/1a518d0be669be9e3fecbe4b81a68e91.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[two broo car](https://opensea.io/collection/two-broo-car)</details> |
-| **<details><summary>far.cards - kah...</summary>far.cards - kahiyang</details>** | ![Image](https://i.seadn.io/s/raw/files/b179fe1dc9e36c7949a726d6fbe0357d.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - kahiyang (Ug31fCuZ...</summary>far.cards - kahiyang (Ug31fCuZ52p0flKpUDEOoA==) is a Bonding Curved ERC-1155 token created on mint.club.
-
-Backed by Wrapped Ether (WETH) on Base chain.
-
-https://mint.club/nft/base/Ug31fCuZ52p0flKpUDEOoA==</details> | <details><summary>Link</summary>[far.cards - kahiyang](https://opensea.io/collection/far-cards-kahiyang)</details> |
-| **<details><summary>EVAN GIIA - WHE...</summary>EVAN GIIA - WHEN THE METEORS HIT</details>** | ![Image](https://i.seadn.io/s/raw/files/4636c4c99efc4028ca9f2b72be21cb57.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Created by EVAN GIIA on Sound....</summary>Created by EVAN GIIA on Sound. Leave a comment on the song at https://www.sound.xyz/evangiia/when-the-meteors-hit</details> | <details><summary>Link</summary>[EVAN GIIA - WHEN THE METEORS HIT](https://opensea.io/collection/evan-giia-when-the-meteors-hit)</details> |
+| **coffe** | ![Image](https://i.seadn.io/s/raw/files/c547cb187acfac60e9f48d77c1e1f0f5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[coffe](https://opensea.io/collection/coffe-49)</details> |
+| **Meringue roll** | ![Image](https://i.seadn.io/s/raw/files/8da58c26b84f3c742ae2460cd9bbb55f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Meringue roll](https://opensea.io/collection/meringue-roll)</details> |
+| **Enchantress** | ![Image](https://i.seadn.io/s/raw/files/d87ba9a419f72f015ea1f5ec9208c594.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Enchantress](https://opensea.io/collection/enchantress-7)</details> |
+| **Nishikawa-arts** | ![Image](https://i.seadn.io/s/raw/files/4f37f5f5367a19583f383b4685b74426.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nishikawa-arts](https://opensea.io/collection/nishikawa-arts)</details> |
 
 </div>
