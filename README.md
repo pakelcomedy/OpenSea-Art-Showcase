@@ -6,9 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/4174f1732447021c43aea41efcf80a4f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-22450)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/4174f1732447021c43aea41efcf80a4f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-22449)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/4174f1732447021c43aea41efcf80a4f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-22448)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/4174f1732447021c43aea41efcf80a4f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-22447)</details> |
+| **<details><summary>Custom Opepen b...</summary>Custom Opepen by Opepen Studio</details>** | ![Image](https://i.seadn.io/s/raw/files/b990508b3efb528ba6b364b39b28a4b4.png?w=500&auto=format?w=200&auto=format) | Dazzling Gem evoking emotions. | <details><summary>Link</summary>[Custom Opepen by Opepen Studio](https://opensea.io/collection/custom-opepen-by-opepen-studio-4323)</details> |
 
 </div>
