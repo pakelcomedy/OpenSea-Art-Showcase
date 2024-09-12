@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FuTuR** | ![Image](https://i.seadn.io/s/raw/files/7daa53277e67d360849aedf28b38cc36.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FuTuR](https://opensea.io/collection/futur-15)</details> |
-| **Dols** | ![Image](https://i.seadn.io/s/raw/files/efe2e6d83f38f86f3ca988508002163c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dols](https://opensea.io/collection/dols-2)</details> |
-| **Style Targets** | ![Image](https://i.seadn.io/s/raw/files/793f3084500a84d8a2aa3d2809d498bc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Style Targets](https://opensea.io/collection/style-targets)</details> |
+| **<details><summary>Lightweight Tru...</summary>Lightweight Truly</details>** | ![Image](https://i.seadn.io/s/raw/files/80444c6b8d8641939ccecc42c0ba3208.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Ch taken geological meetings l...</summary>Ch taken geological meetings leading uc goto filme</details> | <details><summary>Link</summary>[Lightweight Truly](https://opensea.io/collection/lightweight-truly)</details> |
+| **Ether Avatar** | ![Image](https://i.seadn.io/s/raw/files/5540bcab06bac52fa9839e9daaaaf07d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ether Avatar](https://opensea.io/collection/ether-avatar-180)</details> |
 
 </div>
