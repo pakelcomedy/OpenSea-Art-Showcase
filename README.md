@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/3eb2507d9eeeba8e931ee25ee82ec355.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-1875)</details> |
-| **<details><summary>Natural disaste...</summary>Natural disasters</details>** | ![Image](https://i.seadn.io/s/raw/files/b642dd340b33b5e1c78fb487e1feab9b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Natural disasters](https://opensea.io/collection/natural-disasters-8)</details> |
-| **NOT Ꭺpеs** | ![Image](https://i.seadn.io/s/raw/files/b4e03b576c8fa8ff7619104985dc884a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NOT Ꭺpеs](https://opensea.io/collection/not-gopes-37)</details> |
-| **namkcihnhoj** | ![Image](https://i.seadn.io/s/raw/files/cb07c0a1697506e901b485d1f18ba9ae.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[namkcihnhoj](https://opensea.io/collection/namkcihnhoj)</details> |
+| **FuTuR** | ![Image](https://i.seadn.io/s/raw/files/7daa53277e67d360849aedf28b38cc36.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FuTuR](https://opensea.io/collection/futur-15)</details> |
+| **Dols** | ![Image](https://i.seadn.io/s/raw/files/efe2e6d83f38f86f3ca988508002163c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dols](https://opensea.io/collection/dols-2)</details> |
+| **Style Targets** | ![Image](https://i.seadn.io/s/raw/files/793f3084500a84d8a2aa3d2809d498bc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Style Targets](https://opensea.io/collection/style-targets)</details> |
 
 </div>
