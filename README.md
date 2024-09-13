@@ -6,8 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>236906's Follow...</summary>236906's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[236906's Follower](https://opensea.io/collection/236906-s-follower)</details> |
-| **<details><summary>226601's Follow...</summary>226601's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[226601's Follower](https://opensea.io/collection/226601-s-follower)</details> |
-| **Bruhlya** | ![Image](https://i.seadn.io/s/raw/files/d33c2b59b65f622b10cd8f2982b2c5df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bruhlya](https://opensea.io/collection/bruhlya)</details> |
+| **<details><summary>MetaGalaxia_202...</summary>MetaGalaxia_202409131608</details>** | ![Image](https://i.seadn.io/s/raw/files/1de808630fe597d5f380905ac1cbcb9b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MetaGalaxia_202409131608](https://opensea.io/collection/metagalaxia-202409131608)</details> |
 
 </div>
