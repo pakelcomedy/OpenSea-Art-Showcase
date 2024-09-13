@@ -6,11 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Roses for Victo...</summary>Roses for Victoria</details>** | ![Image](https://i.seadn.io/s/raw/files/34e5dae3cd908b72a7f4e479cdf88986.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Immutable roses for Victoria.
-...</summary>Immutable roses for Victoria.
-
-🌹</details> | <details><summary>Link</summary>[Roses for Victoria](https://opensea.io/collection/roses-for-victoria)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/193089dab9e3b978f1d2ba8619f238b0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-1913)</details> |
-| **MathV** | ![Image](https://i.seadn.io/s/raw/files/5285f1753d6bc00417f75bcefcee89f8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MathV](https://opensea.io/collection/mathv-13)</details> |
+| **<details><summary>Bachelor Answer...</summary>Bachelor Answering</details>** | ![Image](https://i.seadn.io/s/raw/files/1ad9570462299346be98b0a04f092784.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Mumbai whom template tourist i...</summary>Mumbai whom template tourist ipod visit</details> | <details><summary>Link</summary>[Bachelor Answering](https://opensea.io/collection/bachelor-answering)</details> |
+| **<details><summary>Perfume Dam Car...</summary>Perfume Dam Cars</details>** | ![Image](https://i.seadn.io/s/raw/files/4b44a2f567b1101da94314f34e606f16.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Lt interventions naples emphas...</summary>Lt interventions naples emphasis</details> | <details><summary>Link</summary>[Perfume Dam Cars](https://opensea.io/collection/perfume-dam-cars)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11746</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11746](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11746)</details> |
 
 </div>
