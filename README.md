@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>240383's Follow...</summary>240383's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[240383's Follower](https://opensea.io/collection/240383-s-follower)</details> |
-| **Worldcat** | ![Image](https://i.seadn.io/s/raw/files/0085beccf08f0d0fc28c06dc3643d6cf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Worldcat](https://opensea.io/collection/worldcat-10)</details> |
-| **<details><summary>240385's Follow...</summary>240385's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[240385's Follower](https://opensea.io/collection/240385-s-follower)</details> |
-| **Best nft** | ![Image](https://i.seadn.io/s/raw/files/1d21ad7da01a2b7af0a5a5651d633287.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Best nft](https://opensea.io/collection/best-nft-54)</details> |
-| **<details><summary>240387's Follow...</summary>240387's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[240387's Follower](https://opensea.io/collection/240387-s-follower)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/f581c0caa082d80b766d70e4240105a4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3605)</details> |
+| **KnuckleHeadsOG** | ![Image](https://i.seadn.io/s/raw/files/34eab46379a9e0b09fdbb900d0147838.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[KnuckleHeadsOG](https://opensea.io/collection/knuckleheadsog-1)</details> |
+| **kenyan** | ![Image](https://i.seadn.io/s/raw/files/570e4ad614aba5b4b2a9d2ad12530d5a.jpg?w=500&auto=format?w=200&auto=format) | wildlife in kenya | <details><summary>Link</summary>[kenyan](https://opensea.io/collection/kenyan-1)</details> |
 
 </div>
