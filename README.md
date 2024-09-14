@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/f581c0caa082d80b766d70e4240105a4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3605)</details> |
-| **KnuckleHeadsOG** | ![Image](https://i.seadn.io/s/raw/files/34eab46379a9e0b09fdbb900d0147838.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[KnuckleHeadsOG](https://opensea.io/collection/knuckleheadsog-1)</details> |
-| **kenyan** | ![Image](https://i.seadn.io/s/raw/files/570e4ad614aba5b4b2a9d2ad12530d5a.jpg?w=500&auto=format?w=200&auto=format) | wildlife in kenya | <details><summary>Link</summary>[kenyan](https://opensea.io/collection/kenyan-1)</details> |
+| **Atlantic pink** | ![Image](https://i.seadn.io/s/raw/files/33ec0f5052c38e32becefd86ce0cc9b0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Atlantic pink](https://opensea.io/collection/atlantic-pink)</details> |
+| **Emy NFTs** | ![Image](https://i.seadn.io/s/raw/files/05cf8602d9e793de7ea6d63b3114a61f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Emy NFTs](https://opensea.io/collection/emy-nfts)</details> |
+| **<details><summary>The most expens...</summary>The most expensive cat breeds</details>** | ![Image](https://i.seadn.io/s/raw/files/abd79e955f04659a4f36fb9aefec8881.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The most expensive cat breeds](https://opensea.io/collection/the-most-expensive-cat-breeds)</details> |
+| **Journalists** | ![Image](https://i.seadn.io/s/raw/files/dac87e6c542f24783d837a7c4621f4a8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Journalists](https://opensea.io/collection/journalists-10)</details> |
 
 </div>
