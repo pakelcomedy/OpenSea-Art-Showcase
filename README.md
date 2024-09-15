@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CyberPastel** | ![Image](https://i.seadn.io/s/raw/files/8b3dda31e7f913ac81694cf6cb8ebbde.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CyberPastel](https://opensea.io/collection/cyberpastel)</details> |
-| **<details><summary>225106's Follow...</summary>225106's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[225106's Follower](https://opensea.io/collection/225106-s-follower)</details> |
-| **Night Express** | ![Image](https://i.seadn.io/s/raw/files/e0eacccc93afc34ad474f19c40f8131d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Night Express](https://opensea.io/collection/night-express)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11793</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11793](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11793)</details> |
+| **<details><summary>62230's Followe...</summary>62230's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[62230's Follower](https://opensea.io/collection/62230-s-follower)</details> |
+| **drugs** | ![Image](https://i.seadn.io/s/raw/files/d4ac1013197f03da313b615e98d297d4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[drugs](https://opensea.io/collection/drugs-23)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/ccbf30fe374acc29743ee43def6261e1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-1973)</details> |
 
 </div>
