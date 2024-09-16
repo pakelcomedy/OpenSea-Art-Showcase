@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **File Librarian** | ![Image](https://i.seadn.io/s/raw/files/2eec789cad4625ed49fef22086f9c83d.jpg?w=500&auto=format?w=200&auto=format) | Aye ing propecia crew | <details><summary>Link</summary>[File Librarian](https://opensea.io/collection/file-librarian)</details> |
-| **male** | ![Image](https://i.seadn.io/s/raw/files/904f9153f263ece252ceb9e6b4efbbe5.jpg?w=500&auto=format?w=200&auto=format) | male | <details><summary>Link</summary>[male](https://opensea.io/collection/male-19)</details> |
-| **Juventus** | ![Image](https://i.seadn.io/s/raw/files/23398c386b4733743b5bdd791f8497df.jpg?w=500&auto=format?w=200&auto=format) | Forza Juventus | <details><summary>Link</summary>[Juventus](https://opensea.io/collection/juventus-11)</details> |
-| **Pepels** | ![Image](https://i.seadn.io/s/raw/files/47f035fc85666fb61284469c6f0dc0c8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pepels](https://opensea.io/collection/pepels-2)</details> |
-| **<details><summary>Patryk Biernat ...</summary>Patryk Biernat 2</details>** | ![Image](https://i.seadn.io/s/raw/files/2c241e3bf2a39f81a137188c9041ad2f.jpg?w=500&auto=format?w=200&auto=format) | Dzialam nie spie | <details><summary>Link</summary>[Patryk Biernat 2](https://opensea.io/collection/patryk-biernat-2)</details> |
+| **Dream cars** | ![Image](https://i.seadn.io/s/raw/files/f19fde55aea66d54d7c5927b735cc399.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dream cars](https://opensea.io/collection/dream-cars-7)</details> |
+| **panda** | ![Image](https://i.seadn.io/s/raw/files/dc994a2e1cd67afbf9f78ae2676056b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[panda](https://opensea.io/collection/panda-705)</details> |
+| **Annex** | ![Image](https://i.seadn.io/s/raw/files/7cd456764aa0953c322eeabaf510005e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Annex](https://opensea.io/collection/annex-14)</details> |
+| **<details><summary>203100's Follow...</summary>203100's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[203100's Follower](https://opensea.io/collection/203100-s-follower)</details> |
 
 </div>
