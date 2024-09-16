@@ -6,6 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CPUNK** | ![Image](https://i.seadn.io/s/raw/files/f1ac945875044a6f618cf2f6fb7bf493.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CPUNK](https://opensea.io/collection/cpunk-5)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-32265)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-32264)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-32263)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-32262)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-32261)</details> |
 
 </div>
