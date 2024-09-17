@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Just building** | ![Image](https://i.seadn.io/s/raw/files/d0943c747bf3eed78ee6dc44b1658c54.png?w=500&auto=format?w=200&auto=format) | Just building | <details><summary>Link</summary>[Just building](https://opensea.io/collection/just-building-2)</details> |
-| **<details><summary>Pocket of money...</summary>Pocket of money!</details>** | ![Image](https://i.seadn.io/s/raw/files/d4436be45f4acf97b49e6efe0ac8bdee.webp?w=500&auto=format?w=200&auto=format) | Pocket of money! | <details><summary>Link</summary>[Pocket of money!](https://opensea.io/collection/pocket-of-money-1)</details> |
-| **Post boec** | ![Image](https://i.seadn.io/s/raw/files/258b5354b38f01ea2754857bdb3bf2f3.png?w=500&auto=format?w=200&auto=format) | Post boec | <details><summary>Link</summary>[Post boec](https://opensea.io/collection/post-boec)</details> |
-| **CAR** | ![Image](https://i.seadn.io/s/raw/files/f84b496200d3eb4eda2eb3e00ea09407.jpg?w=500&auto=format?w=200&auto=format) | Woooooow mint and enjoy art! | <details><summary>Link</summary>[CAR](https://opensea.io/collection/car-789)</details> |
+| **Zora Bulls** | ![Image](https://i.seadn.io/s/raw/files/17c785aab25a2e50a63c4c707554a0b4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora Bulls](https://opensea.io/collection/zora-bulls-4)</details> |
+| **Zeon** | ![Image](https://i.seadn.io/s/raw/files/d2806134ff7b6fc2eb38acef48d46388.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zeon](https://opensea.io/collection/zeon-5)</details> |
+| **stranger today** | ![Image](https://i.seadn.io/s/raw/files/0a02d66dd4021caaa2247fa69dbc0268.jpg?w=500&auto=format?w=200&auto=format) | stranger | <details><summary>Link</summary>[stranger today](https://opensea.io/collection/stranger-today)</details> |
+| **Enjoy Post** | ![Image](https://i.seadn.io/s/raw/files/7a8396363acb305126af1950e4bf94e8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Enjoy Post](https://opensea.io/collection/enjoy-post)</details> |
 
 </div>
