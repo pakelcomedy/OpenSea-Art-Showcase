@@ -6,12 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Elon** | ![Image](https://i.seadn.io/s/raw/files/572cafa6f2ebce0b5e6e12c3da969774.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Elon](https://opensea.io/collection/elon-106)</details> |
-| **<details><summary>far.cards - duc...</summary>far.cards - ductour</details>** | ![Image](https://i.seadn.io/s/raw/files/65aaf45901136c97c4a07fe87f362c49.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - ductour (2IFgvFjQR...</summary>far.cards - ductour (2IFgvFjQRrpbIqUObkjiUw==) is a Bonding Curved ERC-1155 token created on mint.club.
-
-Backed by Wrapped Ether (WETH) on Base chain.
-
-https://mint.club/nft/base/2IFgvFjQRrpbIqUObkjiUw==</details> | <details><summary>Link</summary>[far.cards - ductour](https://opensea.io/collection/far-cards-ductour)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/74748f5aa9efc27f7e0f2c66fd807f45.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-952)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-33333)</details> |
+| **<details><summary>185310's Follow...</summary>185310's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[185310's Follower](https://opensea.io/collection/185310-s-follower)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-33332)</details> |
+| **<details><summary>193276's Follow...</summary>193276's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[193276's Follower](https://opensea.io/collection/193276-s-follower)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-33331)</details> |
 
 </div>
