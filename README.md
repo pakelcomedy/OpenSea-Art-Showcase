@@ -6,13 +6,15 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **vibe** | ![Image](https://i.seadn.io/s/raw/files/cfd9703e7629d5212895ff24ec9f6fca.jpg?w=500&auto=format?w=200&auto=format) | pyuee. base. eth  | <details><summary>Link</summary>[vibe](https://opensea.io/collection/vibe-71)</details> |
-| **<details><summary>summer Celebrat...</summary>summer Celebrate</details>** | ![Image](https://i.seadn.io/s/raw/files/a6fa10c1835f185a7df2f8d64b7e57d2.jpg?w=500&auto=format?w=200&auto=format) | pyuee. base. eth  | <details><summary>Link</summary>[summer Celebrate](https://opensea.io/collection/summer-celebrate-1)</details> |
-| **<details><summary>we are endless ...</summary>we are endless summer</details>** | ![Image](https://i.seadn.io/s/raw/files/ce439bc892782d5ef9b2bc7a6f4329b4.jpg?w=500&auto=format?w=200&auto=format) | pyuee. base. eth  | <details><summary>Link</summary>[we are endless summer](https://opensea.io/collection/we-are-endless-summer)</details> |
-| **Ether Avatar** | ![Image](https://i.seadn.io/s/raw/files/0ebff8d269538bdadf914a5a4bdbff29.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Ether Avatar on 2024
+| **<details><summary>Spooky Wife by ...</summary>Spooky Wife by TONKO x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/5e9efdd3f90dd42203c0600cc2affaaa.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user TONKO as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/oknotonko/).
 
-Made wit...</summary>Ether Avatar on 2024
+Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Ether Avatar](https://opensea.io/collection/ether-avatar-227)</details> |
+[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
+
+[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Spooky Wife by TONKO x Reddit Collectible Avatars](https://opensea.io/collection/spooky-wife-by-tonko-x-reddit-collectible-avatars)</details> |
+| **<details><summary>240631's Follow...</summary>240631's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[240631's Follower](https://opensea.io/collection/240631-s-follower)</details> |
+| **<details><summary>248511's Follow...</summary>248511's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[248511's Follower](https://opensea.io/collection/248511-s-follower)</details> |
+| **N00t N00t** | ![Image](https://i.seadn.io/s/raw/files/cf76ee115d538b23f84bac073e627df4.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[N00t N00t](https://opensea.io/collection/n00t-n00t-4)</details> |
 
 </div>
