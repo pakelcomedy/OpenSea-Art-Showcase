@@ -6,10 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-33809)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-33808)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-33807)</details> |
-| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-33806)</details> |
-| **krishna nft** | ![Image](https://i.seadn.io/s/raw/files/1ecfb97a791f7a0cb7a7fe8769f05ab2.jpg?w=500&auto=format?w=200&auto=format) | krishna     nft | <details><summary>Link</summary>[krishna nft](https://opensea.io/collection/krishna-nft-1)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11935</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11935](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11935)</details> |
+| **The Nest** | ![Image](https://i.seadn.io/s/raw/files/3e980a81673f09fb3961dc03518603c9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Nest](https://opensea.io/collection/the-nest-4)</details> |
 
 </div>
