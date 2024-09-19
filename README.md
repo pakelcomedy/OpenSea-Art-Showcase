@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **My husky dog** | ![Image](https://i.seadn.io/s/raw/files/6e9fb4227eabd72271bdf05289ee6de3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[My husky dog](https://opensea.io/collection/my-husky-dog-2)</details> |
-| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9088</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9088](https://opensea.io/collection/open-ticketing-ecosystem-event-9088)</details> |
-| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9087</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9087](https://opensea.io/collection/open-ticketing-ecosystem-event-9087)</details> |
+| **BubbleEyes Pink** | ![Image](https://i.seadn.io/s/raw/files/65e0c02c6489eab1ebeb158328a8a1c1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BubbleEyes Pink](https://opensea.io/collection/bubbleeyes-pink)</details> |
+| **Bnt** | ![Image](https://i.seadn.io/s/raw/files/741cf71a2f412d87f325d4b2bc060fc8.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bnt](https://opensea.io/collection/bnt-5)</details> |
 
 </div>
