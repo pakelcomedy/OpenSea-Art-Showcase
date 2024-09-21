@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>The most expens...</summary>The most expensive clothes in the world</details>** | ![Image](https://i.seadn.io/s/raw/files/ba28a2f94bb3f95f964f6ac27c91ad6b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The most expensive clothes in the world](https://opensea.io/collection/the-most-expensive-clothes-in-the-world)</details> |
-| **Horn** | ![Image](https://i.seadn.io/s/raw/files/47c394bb4fc64157c86bdfe7307ae480.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Horn](https://opensea.io/collection/horn-17)</details> |
-| **N N** | ![Image](https://i.seadn.io/s/raw/files/cf76ee115d538b23f84bac073e627df4.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[N N](https://opensea.io/collection/n-n-7)</details> |
-| **Master** | ![Image](https://i.seadn.io/s/raw/files/3e8f023e9c8290c4dea31084d3c2143d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Master](https://opensea.io/collection/master-94)</details> |
-| **way** | ![Image](https://i.seadn.io/s/raw/files/0103ea749720597d55b1d18b0ea18522.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[way](https://opensea.io/collection/way-75)</details> |
+| **BUMPY ROAD** | ![Image](https://i.seadn.io/s/raw/files/03c8467c7c22014659a6ebea0a27ea58.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BUMPY ROAD](https://opensea.io/collection/bumpy-road-1)</details> |
+| **OmniHub logo** | ![Image](https://i.seadn.io/s/raw/files/7ec56b17226e6c1910dc7b45908e0419.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OmniHub logo](https://opensea.io/collection/omnihub-logo)</details> |
+| **Platforms** | ![Image](https://i.seadn.io/s/raw/files/6673fca26e0d42be0d05ac1929f8139d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Platforms](https://opensea.io/collection/platforms-12)</details> |
+| **Z** | ![Image](https://i.seadn.io/s/raw/files/c3e49e780c6358f85d55ba30ff6f03df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Z](https://opensea.io/collection/z-264)</details> |
+| **prosto** | ![Image](https://i.seadn.io/s/raw/files/4eba3f090afb1b80f4b84ebd8cb2a904.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[prosto](https://opensea.io/collection/prosto-20)</details> |
 
 </div>
