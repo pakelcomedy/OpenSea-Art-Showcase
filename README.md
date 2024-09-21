@@ -6,14 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>far.cards - ong...</summary>far.cards - ongchu8x</details>** | ![Image](https://i.seadn.io/s/raw/files/a09a38e22bcedc18e12b0cb336cb8b3f.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - ongchu8x (58zALlES...</summary>far.cards - ongchu8x (58zALlESZBb8kqrtzF0m7w==) is a Bonding Curved ERC-1155 token created on mint.club.
-
-Backed by Wrapped Ether (WETH) on Base chain.
-
-https://mint.club/nft/base/58zALlESZBb8kqrtzF0m7w==</details> | <details><summary>Link</summary>[far.cards - ongchu8x](https://opensea.io/collection/far-cards-ongchu8x)</details> |
-| **<details><summary>Our amra tree h...</summary>Our amra tree has caught amra</details>** | ![Image](https://i.seadn.io/s/raw/files/e76b7ac0e7d8006f1b962834e466c5db.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Our amra tree has caught amra](https://opensea.io/collection/our-amra-tree-has-caught-amra)</details> |
-| **Shutter** | ![Image](https://i.seadn.io/s/raw/files/ae20f0bbd5eac5983d6e605b73cf923e.jpg?w=500&auto=format?w=200&auto=format) | Shutter | <details><summary>Link</summary>[Shutter](https://opensea.io/collection/shutter-3)</details> |
-| **3950's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[3950's Member](https://opensea.io/collection/3950-s-member)</details> |
-| **Medieval** | ![Image](https://i.seadn.io/s/raw/files/54b2bab0a0ee45a98366753f8654c09e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Medieval](https://opensea.io/collection/medieval-31)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11997</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11997](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11997)</details> |
+| **king** | ![Image](https://i.seadn.io/s/raw/files/97dd3ff0068a71f2987106956bcf26ef.jpg?w=500&auto=format?w=200&auto=format) | flame | <details><summary>Link</summary>[king](https://opensea.io/collection/king-426)</details> |
+| **Severe** | ![Image](https://i.seadn.io/s/raw/files/efc055df9fa7d69d94242db355499062.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Severe](https://opensea.io/collection/severe-9)</details> |
+| **FOX POPE** | ![Image](https://i.seadn.io/s/raw/files/244cf8a3ebdbed4be4bb7f6de2485b61.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FOX POPE](https://opensea.io/collection/fox-pope)</details> |
+| **Cool Dog** | ![Image](https://i.seadn.io/s/raw/files/522bb3bcfae8d653255830021fb7fad7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cool Dog](https://opensea.io/collection/cool-dog-14)</details> |
 
 </div>
