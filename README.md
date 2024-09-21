@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BUMPY ROAD** | ![Image](https://i.seadn.io/s/raw/files/03c8467c7c22014659a6ebea0a27ea58.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BUMPY ROAD](https://opensea.io/collection/bumpy-road-1)</details> |
-| **OmniHub logo** | ![Image](https://i.seadn.io/s/raw/files/7ec56b17226e6c1910dc7b45908e0419.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OmniHub logo](https://opensea.io/collection/omnihub-logo)</details> |
-| **Platforms** | ![Image](https://i.seadn.io/s/raw/files/6673fca26e0d42be0d05ac1929f8139d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Platforms](https://opensea.io/collection/platforms-12)</details> |
-| **Z** | ![Image](https://i.seadn.io/s/raw/files/c3e49e780c6358f85d55ba30ff6f03df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Z](https://opensea.io/collection/z-264)</details> |
-| **prosto** | ![Image](https://i.seadn.io/s/raw/files/4eba3f090afb1b80f4b84ebd8cb2a904.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[prosto](https://opensea.io/collection/prosto-20)</details> |
+| **Makima** | ![Image](https://i.seadn.io/s/raw/files/5d599071ef50b8a921ed52cd577babd1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Makima](https://opensea.io/collection/makima-213)</details> |
+| **Giant** | ![Image](https://i.seadn.io/s/raw/files/9d4722770c444dbf82c9a6a7d053544b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Spam explorer vote czech excit...</summary>Spam explorer vote czech exciting mozilla</details> | <details><summary>Link</summary>[Giant](https://opensea.io/collection/giant-39)</details> |
+| **#8: Harmony Orb** | ![Image](https://i.seadn.io/s/raw/files/5689ea6e8640f5d8d6a0a4a8859b2e3b.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[#8: Harmony Orb](https://opensea.io/collection/8-harmony-orb)</details> |
 
 </div>
