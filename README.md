@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **papich** | ![Image](https://i.seadn.io/s/raw/files/a4d9e5de90e133ba653f478f6dd85bbb.jpg?w=500&auto=format?w=200&auto=format) | tolko pixelnii | <details><summary>Link</summary>[papich](https://opensea.io/collection/papich-14)</details> |
-| **Poly Factions** | ![Image](https://i.seadn.io/s/raw/files/d81cfcc5a17b8c754274fa8cbe5ba561.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Poly Factions](https://opensea.io/collection/poly-factions-131)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 11993</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 11993](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-11993)</details> |
+| **<details><summary>253405's Follow...</summary>253405's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[253405's Follower](https://opensea.io/collection/253405-s-follower)</details> |
+| **Base Ruggies** | ![Image](https://i.seadn.io/s/raw/files/a6c3306a077149563257f5c174cba7d0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>[MINT FREE / 10 WALLET](https:...</summary>[MINT FREE / 10 WALLET](https://www.scatter.art/collection/base-ruggies)
+
+
+The Ruggies Collection features 2,000 pixelated frogs on the Base.This PFP collection is all about art, good vibes, culture, and community.</details> | <details><summary>Link</summary>[Base Ruggies](https://opensea.io/collection/base-ruggies)</details> |
+| **<details><summary>Village mud roa...</summary>Village mud road surrounded by houses and trees</details>** | ![Image](https://i.seadn.io/s/raw/files/4041f13097229e3e0d23549d45650086.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Village mud road surrounded by houses and trees](https://opensea.io/collection/village-mud-road-surrounded-by-houses-and-trees)</details> |
+| **dfsdsdfh** | ![Image](https://i.seadn.io/s/raw/files/dcb6ffc2e345db3cf8c3aad7bc943341.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Nonprofit deals committee stat...</summary>Nonprofit deals committee static le</details> | <details><summary>Link</summary>[dfsdsdfh](https://opensea.io/collection/dfsdsdfh)</details> |
 
 </div>
