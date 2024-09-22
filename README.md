@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **nakji** | ![Image](https://i.seadn.io/s/raw/files/a5aa7469cebf3024441d6a4d777c0787.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nakji](https://opensea.io/collection/nakji)</details> |
-| **first** | ![Image](https://i.seadn.io/s/raw/files/a5aa7469cebf3024441d6a4d777c0787.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[first](https://opensea.io/collection/first-491)</details> |
-| **<details><summary>5 of the Most C...</summary>5 of the Most Creepy Monsters from Movies Created without computer graphics</details>** | ![Image](https://i.seadn.io/s/raw/files/702268f91bdb3604c279b69623aba784.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[5 of the Most Creepy Monsters from Movies Created without computer graphics](https://opensea.io/collection/5-of-the-most-creepy-monsters-from-movies-created)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/6f8f4d07712028a1ec5dba72b19cf8ab.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3700)</details> |
+| **MintRun - Cow** | ![Image](https://i.seadn.io/s/raw/files/d60dad789d9dfd66d9274d7f002278fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MintRun - Cow](https://opensea.io/collection/mintrun-cow)</details> |
+| **test-event** | ![Image](https://i.seadn.io/s/raw/files/d48e5bbe93092c30ce7dacf32dc1e036.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[test-event](https://opensea.io/collection/test-event-21)</details> |
+| **Feeling blue** | ![Image](https://i.seadn.io/s/raw/files/8234619fda315ab27058249953ed2d79.gif?w=500&auto=format?w=200&auto=format) | bluepyuee.base.eth | <details><summary>Link</summary>[Feeling blue](https://opensea.io/collection/feeling-blue-4)</details> |
 
 </div>
