@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/6f8f4d07712028a1ec5dba72b19cf8ab.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3700)</details> |
-| **MintRun - Cow** | ![Image](https://i.seadn.io/s/raw/files/d60dad789d9dfd66d9274d7f002278fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MintRun - Cow](https://opensea.io/collection/mintrun-cow)</details> |
-| **test-event** | ![Image](https://i.seadn.io/s/raw/files/d48e5bbe93092c30ce7dacf32dc1e036.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[test-event](https://opensea.io/collection/test-event-21)</details> |
-| **Feeling blue** | ![Image](https://i.seadn.io/s/raw/files/8234619fda315ab27058249953ed2d79.gif?w=500&auto=format?w=200&auto=format) | bluepyuee.base.eth | <details><summary>Link</summary>[Feeling blue](https://opensea.io/collection/feeling-blue-4)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12021</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12021](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12021)</details> |
+| **mylove** | ![Image](https://i.seadn.io/s/raw/files/7629a245b82418ad00921e0ea6fdc850.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>\
+<span>my favorite little mir...</summary>\
+<span>my favorite little miracle puppy</span></details> | <details><summary>Link</summary>[mylove](https://opensea.io/collection/mylove-39)</details> |
 
 </div>
