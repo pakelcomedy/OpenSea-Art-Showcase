@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9137</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9137](https://opensea.io/collection/open-ticketing-ecosystem-event-9137)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12052</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12052](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12052)</details> |
+| **Onchаin P8** | ![Image](https://i.seadn.io/s/raw/files/62717f4f0409b2bf0bbec35cb1134803.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Onchаin P8](https://opensea.io/collection/onchain-p8-6)</details> |
+| **adzor** | ![Image](https://i.seadn.io/s/raw/files/0a595424b1333818591051efe8df7757.jpg?w=500&auto=format?w=200&auto=format) | xxxx | <details><summary>Link</summary>[adzor](https://opensea.io/collection/adzor)</details> |
 
 </div>
