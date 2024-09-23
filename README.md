@@ -6,12 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Forest Golerm b...</summary>Forest Golerm by NISHI x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/af013070ed93cd211e112c6337d86859.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user NISHI as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/IshiDoesStuff/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Forest Golerm by NISHI x Reddit Collectible Avatars](https://opensea.io/collection/forest-golerm-by-nishi-x-reddit-collectible-avatar)</details> |
+| **<details><summary>Stay Positive F...</summary>Stay Positive Fes 2024 参加記念NFT②</details>** | ![Image](https://i.seadn.io/s/raw/files/ae15baafa22275fcd00f02a056e03d0c.png?w=500&auto=format?w=200&auto=format) | <details><summary>Stay Positive Fes 2024 へのご参加あり...</summary>Stay Positive Fes 2024 へのご参加ありがとうございました。
+こちらは参加記念NFT②となります。どうぞお受け取りください！</details> | <details><summary>Link</summary>[Stay Positive Fes 2024 参加記念NFT②](https://opensea.io/collection/stay-positive-fes-2024-can-jia-ji-nian-nft2)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12056</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12056](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12056)</details> |
+| **Traditions** | ![Image](https://i.seadn.io/s/raw/files/5a259a58481179ef1b0295f84a1d8ab2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Traditions](https://opensea.io/collection/traditions-15)</details> |
+| **Adelaide** | ![Image](https://i.seadn.io/s/raw/files/69ede884c8ee4133b5e226edf55401e5.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Organization nicholas fitness ...</summary>Organization nicholas fitness highlight takes hall surrounding</details> | <details><summary>Link</summary>[Adelaide](https://opensea.io/collection/adelaide-14)</details> |
 
 </div>
