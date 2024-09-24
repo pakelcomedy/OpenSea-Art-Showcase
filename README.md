@@ -6,7 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Colors** | ![Image](https://i.seadn.io/s/raw/files/85f6d03333ba9d28b8c0eab71cddd66f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Colors](https://opensea.io/collection/colors-306)</details> |
-| **Contribution** | ![Image](https://i.seadn.io/s/raw/files/6bcd8ad66f70cd051210d823c21ac714.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Contribution](https://opensea.io/collection/contribution-10)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-35459)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-35458)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-35457)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-35456)</details> |
+| **Event 1** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 1](https://opensea.io/collection/event-1-35455)</details> |
 
 </div>
