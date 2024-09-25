@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Heart** | ![Image](https://i.seadn.io/s/raw/files/c6860bd797fd2667b4ee17a9ca94cbab.png?w=500&auto=format?w=200&auto=format) | Heart | <details><summary>Link</summary>[Heart](https://opensea.io/collection/heart-282)</details> |
-| **Terms** | ![Image](https://i.seadn.io/s/raw/files/906058eb4a69eeb377f134c0b91b154e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Terms](https://opensea.io/collection/terms-15)</details> |
+| **<details><summary>Summer of 24: A...</summary>Summer of 24: A Season of Growth</details>** | ![Image](https://i.seadn.io/s/raw/files/36cf5b2ad10248b1760aeb05badfc9a0.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/8453/0x8e27...</summary>https://mirror.xyz/8453/0x8e27ca6a20f029c644a0b3c60a69e93509b0fdfc</details> | <details><summary>Link</summary>[Summer of 24: A Season of Growth](https://opensea.io/collection/summer-of-24-a-season-of-growth)</details> |
 
 </div>
