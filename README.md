@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Defense Transpo...</summary>Defense Transportation</details>** | ![Image](https://i.seadn.io/s/raw/files/424995ec32b77d4440500222634c6d23.jpg?w=500&auto=format?w=200&auto=format) | Habits climbing belief | <details><summary>Link</summary>[Defense Transportation](https://opensea.io/collection/defense-transportation)</details> |
+| **Red Swirl** | ![Image](https://i.seadn.io/s/raw/files/73accf609f15194c0bb13772d9106028.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Blending fluid motion with mod...</summary>Blending fluid motion with modern aesthetics. Perfect for adding a burst of color and creativity to your living space.</details> | <details><summary>Link</summary>[Red Swirl](https://opensea.io/collection/red-swirl)</details> |
+| **mila786** | ![Image](https://i.seadn.io/s/raw/files/44c96d07ce53ea17dffa4112cc4f6825.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mila786](https://opensea.io/collection/mila786)</details> |
 
 </div>
