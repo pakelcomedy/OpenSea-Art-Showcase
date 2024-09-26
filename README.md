@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>199675's Follow...</summary>199675's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[199675's Follower](https://opensea.io/collection/199675-s-follower)</details> |
-| **Mrrr** | ![Image](https://i.seadn.io/s/raw/files/f7b65f8c547140bc9ec4aeec3fc65c3d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mrrr](https://opensea.io/collection/mrrr-41)</details> |
-| **<details><summary>Invest in Open-...</summary>Invest in Open-Source</details>** | ![Image](https://i.seadn.io/s/raw/files/84ad232d0cf3b806bc33c051f0c71039.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0xb5555f...</summary>https://mirror.xyz/10/0xb5555f03b4499dccd71039b0e899642ccc04ee1a</details> | <details><summary>Link</summary>[Invest in Open-Source](https://opensea.io/collection/invest-in-open-source)</details> |
-| **dance** | ![Image](https://i.seadn.io/s/raw/files/cdeb017d81b8f584bc4bd11c519cae6b.png?w=500&auto=format?w=200&auto=format) | dance | <details><summary>Link</summary>[dance](https://opensea.io/collection/dance-140)</details> |
+| **<details><summary>252359's Follow...</summary>252359's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[252359's Follower](https://opensea.io/collection/252359-s-follower)</details> |
+| **llq** | ![Image](https://i.seadn.io/s/raw/files/0d5e2d1add88e30dc12c038e8fa22ed2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[llq](https://opensea.io/collection/llq-4)</details> |
+| **abbozzos** | ![Image](https://i.seadn.io/s/raw/files/0d3d1d8e855e092c4441ecb5b356ffd2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The clouds are painted with so...</summary>The clouds are painted with soft pastels, drifting lazily across the canvas of the evening sky.
+</details> | <details><summary>Link</summary>[abbozzos](https://opensea.io/collection/abbozzos)</details> |
+| **View** | ![Image](https://i.seadn.io/s/raw/files/359616c61b36c52a47172ad56131dcea.jpg?w=500&auto=format?w=200&auto=format) | View from the cave | <details><summary>Link</summary>[View](https://opensea.io/collection/view-182)</details> |
 
 </div>
