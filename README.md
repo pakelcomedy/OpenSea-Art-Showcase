@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12189</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12189](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12189)</details> |
-| **<details><summary>Soon we will wa...</summary>Soon we will wake</details>** | ![Image](https://i.seadn.io/s/raw/files/764dfec889b656649e8b9103c6273936.png?w=500&auto=format?w=200&auto=format) | Poetry | <details><summary>Link</summary>[Soon we will wake](https://opensea.io/collection/soon-we-will-wake)</details> |
-| **Ai or I** | ![Image](https://i.seadn.io/s/raw/files/552caca16badef02f5d6fe15f1fc1a87.jpg?w=500&auto=format?w=200&auto=format) | Poetry lmao | <details><summary>Link</summary>[Ai or I](https://opensea.io/collection/ai-or-i-1)</details> |
+| **<details><summary>trifectal oddit...</summary>trifectal oddity</details>** | ![Image](https://i.seadn.io/s/raw/files/6fa9fe6c45b5a5ce92f3e4c497da9246.png?w=500&auto=format?w=200&auto=format) | visual experiment | <details><summary>Link</summary>[trifectal oddity](https://opensea.io/collection/trifectal-oddity)</details> |
+| **GHO5T5** | ![Image](https://i.seadn.io/s/raw/files/65fd0a67b5f7aaf680ffaa3e3c2038ee.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GHO5T5](https://opensea.io/collection/gho5t5-55)</details> |
 
 </div>
