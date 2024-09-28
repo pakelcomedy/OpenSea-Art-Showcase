@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Kitty Crypto Ga...</summary>Kitty Crypto Gang</details>** | ![Image](https://i.seadn.io/s/raw/files/a30c297b91875f2ed2eb1c1390c30d95.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Kitty Crypto Gang](https://opensea.io/collection/kitty-crypto-gang-76)</details> |
+| **<details><summary>INITIAL & NUMBE...</summary>INITIAL & NUMBER</details>** | ![Image](https://i.seadn.io/s/raw/files/cd8a0d17b91b78ee1257334fa942a628.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[INITIAL & NUMBER](https://opensea.io/collection/initial-number)</details> |
 
 </div>
