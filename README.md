@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Carry on crypto** | ![Image](https://i.seadn.io/s/raw/files/0be992694923a4b1671c766ef66f6a40.gif?w=500&auto=format?w=200&auto=format) | BLUEPYUEE.CB.ID | <details><summary>Link</summary>[Carry on crypto](https://opensea.io/collection/carry-on-crypto)</details> |
-| **<details><summary>Lilyana's 10,00...</summary>Lilyana's 10,000 Songs</details>** | ![Image](https://i.seadn.io/s/raw/files/f0d7fa99d1907d948b091dcf23229a66.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lilyana's 10,000 Songs](https://opensea.io/collection/lilyana-s-10000-songs)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12202</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12202](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12202)</details> |
+| **DUBBZ NFT** | ![Image](https://i.seadn.io/s/raw/files/729d89b1c7e66adb9e8c972054567002.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Evolution of Gamefi, CLAIM NOW...</summary>Evolution of Gamefi, CLAIM NOW - dubbz.fun</details> | <details><summary>Link</summary>[DUBBZ NFT](https://opensea.io/collection/dubbz-nft)</details> |
 
 </div>
