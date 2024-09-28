@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event 2** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 2](https://opensea.io/collection/event-2-25069)</details> |
-| **Yopunks** | ![Image](https://i.seadn.io/s/raw/files/935b293c01cf6ec413c640d95e5e640d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Yopunks](https://opensea.io/collection/yopunks-1)</details> |
-| **PEACOCK GALLERY** | ![Image](https://i.seadn.io/s/raw/files/77861b51bdd4668c27b5efc8d87bb8d2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PEACOCK GALLERY](https://opensea.io/collection/peacock-gallery)</details> |
-| **Event 2** | ![Image](https://i.seadn.io/s/raw/files/9e738939485c3814870a68341a8049b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event 2](https://opensea.io/collection/event-2-25068)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12200</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12200](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12200)</details> |
+| **btc** | ![Image](https://i.seadn.io/s/raw/files/0acdad61f9d7421ca6c858763e51abad.gif?w=500&auto=format?w=200&auto=format) | btc | <details><summary>Link</summary>[btc](https://opensea.io/collection/btc-988)</details> |
 
 </div>
