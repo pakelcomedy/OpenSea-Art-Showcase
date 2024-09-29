@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>265380's Follow...</summary>265380's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[265380's Follower](https://opensea.io/collection/265380-s-follower)</details> |
-| **LucyPump** | ![Image](https://i.seadn.io/s/raw/files/1e2ff06a3b7e6a9c3f889d5764fc0870.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LucyPump](https://opensea.io/collection/lucypump)</details> |
+| **LVAAI-PANDA** | ![Image](https://i.seadn.io/s/raw/files/a14f7917fe3f29189f2ed36d6a528acd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LVAAI-PANDA](https://opensea.io/collection/lvaai-panda)</details> |
+| **<details><summary>The Backwoods H...</summary>The Backwoods Hero</details>** | ![Image](https://i.seadn.io/s/raw/files/181df5a8265592815a6e6dad339cd86c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Backwoods Hero](https://opensea.io/collection/the-backwoods-hero)</details> |
 
 </div>
