@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>sound like a pa...</summary>sound like a paradox</details>** | ![Image](https://i.seadn.io/s/raw/files/9795b30de6812a11850791c84d1c6ec0.png?w=500&auto=format?w=200&auto=format) | sound like a paradox | <details><summary>Link</summary>[sound like a paradox](https://opensea.io/collection/sound-like-a-paradox)</details> |
-| **Based Hoodies** | ![Image](https://i.seadn.io/s/raw/files/ff9e36c154ee17a8347575b05d73e09e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Based Hoodies](https://opensea.io/collection/based-hoodies-3)</details> |
-| **to the moon** | ![Image](https://i.seadn.io/s/raw/files/098cbec49f4b1b0b4e5fa8df44481ac6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[to the moon](https://opensea.io/collection/to-the-moon-317)</details> |
+| **Retro Rascals** | ![Image](https://i.seadn.io/s/raw/files/78bd69f18ae231ec94f7d66d18bcea79.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Retro Rascals](https://opensea.io/collection/retro-rascals-4)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/62738b59e4c6ea07265c7e05d86862d0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-2240)</details> |
 
 </div>
