@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Base pepe** | ![Image](https://i.seadn.io/s/raw/files/23c3c5392d8bebe7232f438e1cb55edc.gif?w=500&auto=format?w=200&auto=format) | Lasfen foundation  | <details><summary>Link</summary>[Base pepe](https://opensea.io/collection/base-pepe-128)</details> |
-| **Autumn Park** | ![Image](https://i.seadn.io/s/raw/files/dc314f46b88e88cf849c29047e254e6f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Autumn Park](https://opensea.io/collection/autumn-park-4)</details> |
-| **Earthquake** | ![Image](https://i.seadn.io/s/raw/files/971fbf229583c392543156159f981a13.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Earthquake](https://opensea.io/collection/earthquake-23)</details> |
-| **Curves** | ![Image](https://i.seadn.io/s/raw/files/2f434b01d05a23a608b7b24fca63dbcf.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Ages volunteer shortcuts con t...</summary>Ages volunteer shortcuts con thru</details> | <details><summary>Link</summary>[Curves](https://opensea.io/collection/curves-13)</details> |
+| **<details><summary>231799's Follow...</summary>231799's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[231799's Follower](https://opensea.io/collection/231799-s-follower)</details> |
+| **ople** | ![Image](https://i.seadn.io/s/raw/files/e064c8eba45e535d8fe0e887de6d6c34.jpg?w=500&auto=format?w=200&auto=format) | hh | <details><summary>Link</summary>[ople](https://opensea.io/collection/ople)</details> |
+| **Stormy euphory** | ![Image](https://i.seadn.io/s/raw/files/6fbfefd31b80fecd23682cddf48e3a76.png?w=500&auto=format?w=200&auto=format) | eye orgasm | <details><summary>Link</summary>[Stormy euphory](https://opensea.io/collection/stormy-euphory)</details> |
+| **<details><summary>Increasing Have...</summary>Increasing Haven</details>** | ![Image](https://i.seadn.io/s/raw/files/66b11b3ce5883111a6ebdf634382fea3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Increasing Haven](https://opensea.io/collection/increasing-haven)</details> |
 
 </div>
