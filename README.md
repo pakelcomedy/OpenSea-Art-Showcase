@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Retro Rascals** | ![Image](https://i.seadn.io/s/raw/files/78bd69f18ae231ec94f7d66d18bcea79.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Retro Rascals](https://opensea.io/collection/retro-rascals-4)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/62738b59e4c6ea07265c7e05d86862d0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-2240)</details> |
+| **autumn** | ![Image](https://i.seadn.io/s/raw/files/daca00cf9386745aae8a2885f32f7e72.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[autumn](https://opensea.io/collection/autumn-244)</details> |
+| **Disaster** | ![Image](https://i.seadn.io/s/raw/files/5991c75db00adb752b7fef1344afedbc.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Sentence doctrine mike prisone...</summary>Sentence doctrine mike prisoner joel lifetime hq</details> | <details><summary>Link</summary>[Disaster](https://opensea.io/collection/disaster-20)</details> |
+| **life** | ![Image](https://i.seadn.io/s/raw/files/a2fb949f2774e934bcd844de8a8d9ad1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[life](https://opensea.io/collection/life-856)</details> |
 
 </div>
