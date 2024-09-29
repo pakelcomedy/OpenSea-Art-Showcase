@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Pos** | ![Image](https://i.seadn.io/s/raw/files/10594cf9097649ebdad8532122e0e374.jpg?w=500&auto=format?w=200&auto=format) | Riders round compaq | <details><summary>Link</summary>[Pos](https://opensea.io/collection/pos-17)</details> |
-| **Hard At Work** | ![Image](https://i.seadn.io/s/raw/files/ac13d16763821a468b3ec5616875986a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hard At Work](https://opensea.io/collection/hard-at-work-1)</details> |
-| **BITTUP 1111** | ![Image](https://i.seadn.io/s/raw/files/4a64018e22ad9f1cbe20efdf29e01297.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BITTUP 1111](https://opensea.io/collection/bittup-1111-61)</details> |
+| **<details><summary>249282's Follow...</summary>249282's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[249282's Follower](https://opensea.io/collection/249282-s-follower)</details> |
+| **<details><summary>1ETH Reward at ...</summary>1ETH Reward at [ web3-eth.lol ] 🎁</details>** | ![Image](https://i.seadn.io/s/raw/files/11125ee26421411daba4dab7170cc854.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1ETH Reward at [ web3-eth.lol ] 🎁](https://opensea.io/collection/1eth-reward-at-web3-eth-lol-111)</details> |
 
 </div>
