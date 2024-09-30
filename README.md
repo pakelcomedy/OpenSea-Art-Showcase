@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>far.cards - sha...</summary>far.cards - shaziakamal</details>** | ![Image](https://i.seadn.io/s/raw/files/beebea7a9146335ae957f97cdc925307.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - shaziakamal (sCFmw...</summary>far.cards - shaziakamal (sCFmwyyTHMTJjnQZWaU3nQ==) is a Bonding Curved ERC-1155 token created on mint.club.
-
-Backed by Wrapped Ether (WETH) on Base chain.
-
-https://mint.club/nft/base/sCFmwyyTHMTJjnQZWaU3nQ==</details> | <details><summary>Link</summary>[far.cards - shaziakamal](https://opensea.io/collection/far-cards-shaziakamal)</details> |
+| **FCWL # !** | ![Image](https://i.seadn.io/s/raw/files/29104027523f01e2e0cd1284be17afb8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FCWL # !](https://opensea.io/collection/fcwl)</details> |
+| **Tree of Life** | ![Image](https://i.seadn.io/s/raw/files/c58c4e1e77296261e58ff24a6c5ddb2b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Street memories, Saint Grégoir...</summary>Street memories, Saint Grégoire, France, 23/09/2024</details> | <details><summary>Link</summary>[Tree of Life](https://opensea.io/collection/tree-of-life-128)</details> |
+| **Skull Varian** | ![Image](https://i.seadn.io/s/raw/files/11e9e915b5c8635f72f8b2039417d1ad.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Skull Varian](https://opensea.io/collection/skull-varian)</details> |
 
 </div>
