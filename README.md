@@ -6,9 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Anyi Anyi** | ![Image](https://i.seadn.io/s/raw/files/4ccdc98e6621dd2b96826c4f0e7f2c3a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>a photograph of Uri body paint...</summary>a photograph of Uri body painting done by Trinity Peshier during igbo day 2024 captured by me</details> | <details><summary>Link</summary>[Anyi Anyi](https://opensea.io/collection/anyi-anyi)</details> |
-| **ESCAPISM** | ![Image](https://i.seadn.io/s/raw/files/d75e77e2b73e95a0bf8fc401481ae0a6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ESCAPISM](https://opensea.io/collection/escapism-10)</details> |
-| **Scavenger Hunt** | ![Image](https://i.seadn.io/s/raw/files/34478825ca68686cea8cb073a7241520.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Scavenger Hunt](https://opensea.io/collection/scavenger-hunt-2)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/f330a04e549e652aa8ef8d5df1661da4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-2273)</details> |
+| **<details><summary>257877's Follow...</summary>257877's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[257877's Follower](https://opensea.io/collection/257877-s-follower)</details> |
+| **<details><summary>178443's Follow...</summary>178443's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[178443's Follower](https://opensea.io/collection/178443-s-follower)</details> |
+| **<details><summary>T.O.H the anime...</summary>T.O.H the anime hero</details>** | ![Image](https://i.seadn.io/s/raw/files/3fd2ca1fb9be5483f2c9da5d4e5712e6.png?w=500&auto=format?w=200&auto=format) | <details><summary>These are the anime heros 
+
+
+G...</summary>These are the anime heros 
+
+
+GEN 2 SOON!!!</details> | <details><summary>Link</summary>[T.O.H the anime hero](https://opensea.io/collection/t-o-h-the-anime-hero)</details> |
 
 </div>
