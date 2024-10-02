@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Whinny Rock** | ![Image](https://i.seadn.io/s/raw/files/38faadb44ab4b02c60d2d670e703f248.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Whinny Rock](https://opensea.io/collection/whinny-rock)</details> |
-| **I want!** | ![Image](https://i.seadn.io/s/raw/files/cd446c3aa822e9af3690ae2beffc4c86.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[I want!](https://opensea.io/collection/i-want-6)</details> |
-| **Neon** | ![Image](https://i.seadn.io/s/raw/files/87c044eecfe162ca89a99aba52644b51.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Neon](https://opensea.io/collection/neon-211)</details> |
+| **<details><summary>planet b2 91440...</summary>planet b2 9144022</details>** | ![Image](https://i.seadn.io/s/raw/files/8c10f4f50745e3ee6f643b3b9bfd8b62.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[planet b2 9144022](https://opensea.io/collection/planet-b2-9144022)</details> |
+| **BASE AIRDROP** | ![Image](https://i.seadn.io/s/raw/files/5a700f26519516eabc17bfaf35424f71.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BASE AIRDROP](https://opensea.io/collection/base-airdrop-206)</details> |
+| **Lightning** | ![Image](https://i.seadn.io/s/raw/files/316f4c0a599aa6df0571ad1fc5470308.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lightning](https://opensea.io/collection/lightning-92)</details> |
 
 </div>
