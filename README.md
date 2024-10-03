@@ -6,12 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **TOP** | ![Image](https://i.seadn.io/s/raw/files/9a7411e6f4057c748ef25ad50f468fdc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TOP](https://opensea.io/collection/top-189)</details> |
-| **A good laugh** | ![Image](https://i.seadn.io/s/raw/files/a62a466c77405c180556eb92df0ee01b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[A good laugh](https://opensea.io/collection/a-good-laugh)</details> |
-| **2. henlo, data!** | ![Image](https://i.seadn.io/s/raw/files/c5abf9fed952ef28c0f35800c5b2462b.webp?w=500&auto=format?w=200&auto=format) | <details><summary>2. henlo, data!
+| **Day 1/30** | ![Image](https://i.seadn.io/s/raw/files/3801581b9206af5a367a5d06ef27cc22.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>I started a 30 day October cha...</summary>I started a 30 day October challenge and this is day 1</details> | <details><summary>Link</summary>[Day 1/30](https://opensea.io/collection/day-1-30)</details> |
+| **<details><summary>DCODE by Demoni...</summary>DCODE by Demonic Tomato</details>** | ![Image](https://i.seadn.io/s/raw/files/92e027368545c2418ef55465aba6f90a.png?w=500&auto=format?w=200&auto=format) | <details><summary>Art is not a mirror to support...</summary>Art is not a mirror to support society, but a hammer to shape it into a code
 
-Read the full...</summary>2. henlo, data!
-
-Read the full post on Paragraph: https://cult.henlo.com/henlo-data</details> | <details><summary>Link</summary>[2. henlo, data!](https://opensea.io/collection/2-henlo-data-60)</details> |
+666 Art Code</details> | <details><summary>Link</summary>[DCODE by Demonic Tomato](https://opensea.io/collection/dcode-by-demonic-tomato)</details> |
 
 </div>
