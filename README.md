@@ -6,14 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Chik** | ![Image](https://i.seadn.io/s/raw/files/f316df781fc3232bfd5ebcaf166a3341.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chik](https://opensea.io/collection/chik-8)</details> |
-| **doggy** | ![Image](https://i.seadn.io/s/raw/files/b380777247bb90d021ed77e5931779fe.jpg?w=500&auto=format?w=200&auto=format) | doggy | <details><summary>Link</summary>[doggy](https://opensea.io/collection/doggy-275)</details> |
-| **<details><summary>Acrylic by Herm...</summary>Acrylic by Hermit Gamesmiths x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/a6e4aa9ff59a7970603c1a328a464c34.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user Hermit Gamesmiths as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/andhegames/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Acrylic by Hermit Gamesmiths x Reddit Collectible Avatars](https://opensea.io/collection/acrylic-by-hermit-gamesmiths-x-reddit-collectible)</details> |
+| **<details><summary>Complicated Thi...</summary>Complicated This</details>** | ![Image](https://i.seadn.io/s/raw/files/e160eaa05a146e1ee72475c870a36d1f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Complicated This](https://opensea.io/collection/complicated-this)</details> |
+| **<details><summary>Sleep Token Med...</summary>Sleep Token Medallion</details>** | ![Image](https://i.seadn.io/s/raw/files/797d2ba1a26d72493add3ca8c8d640a8.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Represents membership in the S...</summary>Represents membership in the Sleep Token Community.</details> | <details><summary>Link</summary>[Sleep Token Medallion](https://opensea.io/collection/sleep-token-medallion)</details> |
 
 </div>
