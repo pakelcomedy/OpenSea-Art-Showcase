@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Fashion_bots** | ![Image](https://i.seadn.io/s/raw/files/55f29d515d90132ec47de78f8cc663fb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fashion_bots](https://opensea.io/collection/fashion-bots-1)</details> |
-| **Gremlins** | ![Image](https://i.seadn.io/s/raw/files/acd43caa2c158a9678c3a111666d82a3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gremlins](https://opensea.io/collection/gremlins-236)</details> |
+| **<details><summary>Satoshi Genesis...</summary>Satoshi Genesis Block</details>** | ![Image](https://i.seadn.io/s/raw/files/58a6fbdea9c0bed549cfe8de5f055d5e.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Satoshi Genesis Block](https://opensea.io/collection/satoshi-genesis-block)</details> |
 
 </div>
