@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Icq Soma** | ![Image](https://i.seadn.io/s/raw/files/61e2fb741518ad80bed3de09bbc073b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Icq Soma](https://opensea.io/collection/icq-soma)</details> |
-| **luck** | ![Image](https://i.seadn.io/s/raw/files/5fbf7707f2b82ab1aae8040dde87d9ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[luck](https://opensea.io/collection/luck-73)</details> |
-| **miow** | ![Image](https://i.seadn.io/s/raw/files/b192f0d1c110168839b6cb4674f5be77.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[miow](https://opensea.io/collection/miow-4)</details> |
-| **<details><summary>247329's Follow...</summary>247329's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[247329's Follower](https://opensea.io/collection/247329-s-follower)</details> |
+| **CFI** | ![Image](https://i.seadn.io/s/raw/files/cc7c1c03bce05b3f16b752f509bb27af.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CFI](https://opensea.io/collection/cfi-1)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12335</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12335](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12335)</details> |
+| **ui** | ![Image](https://i.seadn.io/s/raw/files/9bf1fae426eccc54f78d4af479a2c9c7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ui](https://opensea.io/collection/ui-60)</details> |
 
 </div>
