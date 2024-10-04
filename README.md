@@ -6,6 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **0kita** | ![Image](https://i.seadn.io/s/raw/files/6115ab748765c4f07ef2722712e7a028.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0kita](https://opensea.io/collection/0kita-253)</details> |
+| **Alphabet『!』** | ![Image](https://i.seadn.io/s/raw/files/cf175edcd97ab760739330d7d9fb3628.png?w=500&auto=format?w=200&auto=format) | <details><summary>このNFTには、水戸部七絵さんのフォント作品を使用して、好き...</summary>このNFTには、水戸部七絵さんのフォント作品を使用して、好きな言葉を入力して、NFT作品として1回生成できる権利が付与されています。
+
+文字入力によるNFT作品化は、システムがリリース次第メールにてお知らせいたします。</details> | <details><summary>Link</summary>[Alphabet『!』](https://opensea.io/collection/alphabet-64)</details> |
 
 </div>
