@@ -6,27 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Greatest of all...</summary>Greatest of all time</details>** | ![Image](https://i.seadn.io/s/raw/files/4b245628aa3ac7c28154ac5a51c3307c.jpg?w=500&auto=format?w=200&auto=format) | THE GOAT | <details><summary>Link</summary>[Greatest of all time](https://opensea.io/collection/greatest-of-all-time-5)</details> |
-| **xlx** | ![Image](https://i.seadn.io/s/raw/files/5f05d47f73a5e7f3183766aee9b072e8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[xlx](https://opensea.io/collection/xlx-2)</details> |
-| **Bundle** | ![Image](https://i.seadn.io/s/raw/files/3d09a66c8b2ffef3dad2bd904c4820d2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bundle](https://opensea.io/collection/bundle-26)</details> |
-| **<details><summary>King of the For...</summary>King of the Forest</details>** | ![Image](https://i.seadn.io/s/raw/files/f6df947021e132beb9664848f2e73538.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[King of the Forest](https://opensea.io/collection/king-of-the-forest-45)</details> |
-| **<details><summary>Breathe Love: H...</summary>Breathe Love: Heart on Your Sleeve</details>** | ![Image](https://i.seadn.io/s/raw/files/25dcbdda7b43790dfaca4b458dde8347.png?w=500&auto=format?w=200&auto=format) | <details><summary>The world hurts
-I still feel t...</summary>The world hurts
-I still feel the pain 
-Mine mixing in
-Unable to break from it
-Separate myself
-
-Trying to work past
-Asking for help
-Getting lost in the movement
-Grasping at the unknown
-
-The loss of the grain in the sand
-Move on
-Release
-Let go
-
-Written freeform Stream of Consciousness by JacqueC 2024</details> | <details><summary>Link</summary>[Breathe Love: Heart on Your Sleeve](https://opensea.io/collection/breathe-love-heart-on-your-sleeve)</details> |
+| **<details><summary>FUCK A BORED AP...</summary>FUCK A BORED APE • MojoTheGhost x Christiano Covino</details>** | ![Image](https://i.seadn.io/s/raw/files/181395f17e4c95bb24b8b2aac16f01a2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FUCK A BORED APE • MojoTheGhost x Christiano Covino](https://opensea.io/collection/fuck-a-bored-ape-mojotheghost-x-christiano-covino)</details> |
+| **ShuiKessen2024** | ![Image](https://i.seadn.io/s/raw/files/a3186c0f10d16ff79368083aa33078e1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ShuiKessen2024](https://opensea.io/collection/shuikessen2024-1)</details> |
+| **<details><summary>Resort Controve...</summary>Resort Controversy</details>** | ![Image](https://i.seadn.io/s/raw/files/eda9a7186ce216c5ed58318d0584f6a0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Resort Controversy](https://opensea.io/collection/resort-controversy)</details> |
 
 </div>
