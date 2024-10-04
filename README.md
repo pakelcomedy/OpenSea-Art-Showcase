@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Alphabet『!』** | ![Image](https://i.seadn.io/s/raw/files/cf175edcd97ab760739330d7d9fb3628.png?w=500&auto=format?w=200&auto=format) | <details><summary>このNFTには、水戸部七絵さんのフォント作品を使用して、好き...</summary>このNFTには、水戸部七絵さんのフォント作品を使用して、好きな言葉を入力して、NFT作品として1回生成できる権利が付与されています。
-
-文字入力によるNFT作品化は、システムがリリース次第メールにてお知らせいたします。</details> | <details><summary>Link</summary>[Alphabet『!』](https://opensea.io/collection/alphabet-64)</details> |
+| **Elf elf** | ![Image](https://i.seadn.io/s/raw/files/f78c88071d53e28731a276d7c5856672.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Elf elf](https://opensea.io/collection/elf-elf)</details> |
+| **KOC Game** | ![Image](https://i.seadn.io/s/raw/files/ebd0c200cf8809a4c3a7d559a1ab6c06.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[KOC Game](https://opensea.io/collection/koc-game)</details> |
+| **The Gigglos** | ![Image](https://i.seadn.io/s/raw/files/923ae2a3940b2bf91ca15aed3271370d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Gigglos](https://opensea.io/collection/the-gigglos)</details> |
 
 </div>
