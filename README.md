@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **LIFE** | ![Image](https://i.seadn.io/s/raw/files/082c0bb32b58e559b5def89ed42b9de0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LIFE](https://opensea.io/collection/life-865)</details> |
-| **fujitsu joseph** | ![Image](https://i.seadn.io/s/raw/files/0d7375a3237a9664e91b37469e658761.jpg?w=500&auto=format?w=200&auto=format) | characters midwest plain | <details><summary>Link</summary>[fujitsu joseph](https://opensea.io/collection/fujitsu-joseph)</details> |
+| **Photo** | ![Image](https://i.seadn.io/s/raw/files/d9aa4698d79c7cf9b4cd53068791e231.jpg?w=500&auto=format?w=200&auto=format) | My live photo | <details><summary>Link</summary>[Photo](https://opensea.io/collection/photo-228)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/676e31f739b8873893e099ae9224afdd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-2323)</details> |
 
 </div>
