@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>299979's Follow...</summary>299979's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[299979's Follower](https://opensea.io/collection/299979-s-follower)</details> |
-| **<details><summary>299212's Follow...</summary>299212's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[299212's Follower](https://opensea.io/collection/299212-s-follower)</details> |
-| **<details><summary>299594's Follow...</summary>299594's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[299594's Follower](https://opensea.io/collection/299594-s-follower)</details> |
-| **Sentiniels** | ![Image](https://i.seadn.io/s/raw/files/55f0cec064d5a2c3ef00a6905e962ce1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sentiniels](https://opensea.io/collection/sentiniels-13)</details> |
+| **VeDrop** | ![Image](https://i.seadn.io/s/raw/files/642cb5caaf94633c937e29614369f5b4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[VeDrop](https://opensea.io/collection/vedrop)</details> |
+| **cuttlefish** | ![Image](https://i.seadn.io/s/raw/files/a1e384319a36d9e6ae92b1d5241701b5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cuttlefish](https://opensea.io/collection/cuttlefish-1)</details> |
+| **Dubai Sand** | ![Image](https://i.seadn.io/s/raw/files/e8739eb0365c671a5d4cf190074c0178.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dubai Sand](https://opensea.io/collection/dubai-sand)</details> |
 
 </div>
