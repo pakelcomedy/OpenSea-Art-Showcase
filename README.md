@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Work enjoy** | ![Image](https://i.seadn.io/s/raw/files/79f82feced95eb828295a8e32e95d282.jpg?w=500&auto=format?w=200&auto=format) | Work enjoy | <details><summary>Link</summary>[Work enjoy](https://opensea.io/collection/work-enjoy-1)</details> |
-| **Pixel Dragonz** | ![Image](https://i.seadn.io/s/raw/files/6905c3738e46711b20dd3ad5d2fcd89f.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Dragonz](https://opensea.io/collection/pixel-dragonz-232)</details> |
-| **Cheers** | ![Image](https://i.seadn.io/s/raw/files/14ad5e1c1faf73a56c256238ea680a76.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cheers](https://opensea.io/collection/cheers-49)</details> |
-| **Avatar** | ![Image](https://i.seadn.io/s/raw/files/06be52b8195bfffa85b976c7eaaf1d49.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Avatar](https://opensea.io/collection/avatar-311)</details> |
+| **Aerial Colored** | ![Image](https://i.seadn.io/s/raw/files/a29fa7018c4c4e586c0cf65d1e80c0be.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Aerial Colored](https://opensea.io/collection/aerial-colored)</details> |
+| **<details><summary>My Paintings C ...</summary>My Paintings C 1</details>** | ![Image](https://i.seadn.io/s/raw/files/8b7da5fe38129f2c4deebb862b2be88a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[My Paintings C 1](https://opensea.io/collection/my-paintings-c-1)</details> |
+| **Crystallized** | ![Image](https://i.seadn.io/s/raw/files/447713d4d7a861efb1408197042c0f90.png?w=500&auto=format?w=200&auto=format) | <details><summary>Crystallized frequencies in sp...</summary>Crystallized frequencies in space</details> | <details><summary>Link</summary>[Crystallized](https://opensea.io/collection/crystallized-1)</details> |
+| **Winter paint** | ![Image](https://i.seadn.io/s/raw/files/c632d3938382e963e91a6ba41fc7e7f7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Winter paint](https://opensea.io/collection/winter-paint)</details> |
+| **Box** | ![Image](https://i.seadn.io/s/raw/files/ec19a4d921ae8a210736f2f21f58e09a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Box](https://opensea.io/collection/box-199)</details> |
 
 </div>
