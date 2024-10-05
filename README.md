@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/04789f25e790c79b2f37a02050599434.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3818)</details> |
-| **3ETH.NET** | ![Image](https://i.seadn.io/s/raw/files/7ba7d8d7a96a9ef27aaf70920069ca68.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[3ETH.NET](https://opensea.io/collection/3eth-net-2)</details> |
-| **<details><summary>$GME Starry Nig...</summary>$GME Starry Night by $D741</details>** | ![Image](https://i.seadn.io/s/raw/files/a6dc599a0c92d8d49592c6e7f1bbbdda.gif?w=500&auto=format?w=200&auto=format) | 14741 | <details><summary>Link</summary>[$GME Starry Night by $D741](https://opensea.io/collection/gme-starry-night-by-d741)</details> |
-| **Everywhere** | ![Image](https://i.seadn.io/s/raw/files/f3de61e13458dcda3aaf1ea1d0ced31d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Everywhere](https://opensea.io/collection/everywhere-12)</details> |
-| **Bubble** | ![Image](https://i.seadn.io/s/raw/files/ab5a4beff57c3af6ab84707dfaabab8a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Children burke port dental enc...</summary>Children burke port dental encountered clips judicial looking certain me</details> | <details><summary>Link</summary>[Bubble](https://opensea.io/collection/bubble-114)</details> |
+| **Oops Before** | ![Image](https://i.seadn.io/s/raw/files/73cc09a80cd1abfb07525d00a3482a3b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Oops Before](https://opensea.io/collection/oops-before)</details> |
+| **<details><summary>167627's Follow...</summary>167627's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[167627's Follower](https://opensea.io/collection/167627-s-follower)</details> |
+| **0kita** | ![Image](https://i.seadn.io/s/raw/files/f59231c17486b96bdc2a899b3a1ad18d.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0kita](https://opensea.io/collection/0kita-257)</details> |
 
 </div>
