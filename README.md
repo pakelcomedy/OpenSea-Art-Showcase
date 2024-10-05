@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Journals** | ![Image](https://i.seadn.io/s/raw/files/494bc798dd45f0a1d90e840a1448aaa1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Journals](https://opensea.io/collection/journals-15)</details> |
-| **OK** | ![Image](https://i.seadn.io/s/raw/files/e497a8b18fc98b3b9b8c442b9b0c295e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OK](https://opensea.io/collection/ok-168)</details> |
-| **e100** | ![Image](https://i.seadn.io/s/raw/files/a40c618406c10e19d1cdeb4954c47d35.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[e100](https://opensea.io/collection/e100-1)</details> |
+| **<details><summary>Satoshi Birthda...</summary>Satoshi Birthday</details>** | ![Image](https://i.seadn.io/s/raw/files/7cc0fef042c320499c5aca249ebfaea6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Satoshi Birthday](https://opensea.io/collection/satoshi-birthday)</details> |
+| **ENStg1.0** | ![Image](https://i.seadn.io/s/raw/files/cfa0fd9994b9053738f286d5d8f95968.png?w=500&auto=format?w=200&auto=format) | これはテストコレクションです。 | <details><summary>Link</summary>[ENStg1.0](https://opensea.io/collection/enstg)</details> |
+| **<details><summary>61478's Followe...</summary>61478's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[61478's Follower](https://opensea.io/collection/61478-s-follower)</details> |
+| **Forge Religious** | ![Image](https://i.seadn.io/s/raw/files/eade7f970f03f5be4bcc4b4578f1586f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Forge Religious](https://opensea.io/collection/forge-religious)</details> |
 
 </div>
