@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Romance** | ![Image](https://i.seadn.io/s/raw/files/ab7fba4c6fad1ce2ae2f183f476bffe2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Romance](https://opensea.io/collection/romance-19)</details> |
-| **Big Wigs** | ![Image](https://i.seadn.io/s/raw/files/0d898af244785e74f2061ec9762c24e9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Big Wigs](https://opensea.io/collection/big-wigs-1)</details> |
+| **<details><summary>Chasing Meta #1...</summary>Chasing Meta #178: $Phi Soon 🪂 On Your Mark Get Set, Runes! 🔥</details>** | ![Image](https://i.seadn.io/s/raw/files/cd3cf280cb6edf04045449fe0ccf5535.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Chasing Meta #178: $Phi Soon 🪂...</summary>Chasing Meta #178: $Phi Soon 🪂 On Your Mark Get Set, Runes! 🔥
+
+Read the full post on Paragraph: https://paragraph.xyz/@chasingmeta/chasing-meta-178-dollarphi-soon-🪂-on-your-mark-get-set,-runes-🔥</details> | <details><summary>Link</summary>[Chasing Meta #178: $Phi Soon 🪂 On Your Mark Get Set, Runes! 🔥](https://opensea.io/collection/chasing-meta-178-phi-soon-on-your-mark-get-set-run)</details> |
 
 </div>
