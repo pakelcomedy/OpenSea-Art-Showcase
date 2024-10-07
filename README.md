@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ovols** | ![Image](https://i.seadn.io/s/raw/files/439a56e2fbaec5e1b5231d40580fa48a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ovols](https://opensea.io/collection/ovols-169)</details> |
-| **considered** | ![Image](https://i.seadn.io/s/raw/files/b471a6e8aa3a659eace4c797d1ce1ffa.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>apartments long textiles strea...</summary>apartments long textiles streams dealer wanna</details> | <details><summary>Link</summary>[considered](https://opensea.io/collection/considered-13)</details> |
+| **SHIB** | ![Image](https://i.seadn.io/s/raw/files/2d2a76d9e3d954c4529c61c83cd22f5d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SHIB](https://opensea.io/collection/shib-79)</details> |
+| **Dark Ζоrb** | ![Image](https://i.seadn.io/s/raw/files/925f3f2cb61e18fe19e6b8db6e794973.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dark Ζоrb](https://opensea.io/collection/dark-zorb-52)</details> |
+| **ze** | ![Image](https://i.seadn.io/s/raw/files/fbaad079f6b1eb81b0bbf33548e792e4.png?w=500&auto=format?w=200&auto=format) | dog | <details><summary>Link</summary>[ze](https://opensea.io/collection/ze-11)</details> |
 
 </div>
