@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Morning** | ![Image](https://i.seadn.io/s/raw/files/b30fb8a628b4b0ec56b7bcc5b574a12d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Morning](https://opensea.io/collection/morning-143)</details> |
-| **The War** | ![Image](https://i.seadn.io/s/raw/files/97c672f272b52a761b62eeb24d46dc2b.jpg?w=500&auto=format?w=200&auto=format) | Acylic painting of World War 2 | <details><summary>Link</summary>[The War](https://opensea.io/collection/the-war-5)</details> |
-| **<details><summary>Global Galaxy 1...</summary>Global Galaxy 10th Anniversary</details>** | ![Image](https://i.seadn.io/s/raw/files/26e06802123747c81abd36e0997ab6ec.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Global Galaxy 10th Anniversary](https://opensea.io/collection/global-galaxy-10th-anniversary)</details> |
-| **JPung NFT** | ![Image](https://i.seadn.io/s/raw/files/aa6f8dd94d81a4386122c6178fcf2940.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[JPung NFT](https://opensea.io/collection/jpung-nft-2)</details> |
+| **pd** | ![Image](https://i.seadn.io/s/raw/files/a6db6118b73f02990b365c21f77d7bd4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pd](https://opensea.io/collection/pd-56)</details> |
+| **dz** | ![Image](https://i.seadn.io/s/raw/files/5c53eaaaca9295de7bd3c280cc93d0a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dz](https://opensea.io/collection/dz-16)</details> |
+| **TicketMeEvent** | ![Image](https://i.seadn.io/s/raw/files/fb966d3ecc62982b90b786e3bddf251a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TicketMeEvent](https://opensea.io/collection/ticketmeevent-1293)</details> |
+| **Ripped Off** | ![Image](https://i.seadn.io/s/raw/files/ef878bec7c05789f8ca8a91ef635ccd6.png?w=500&auto=format?w=200&auto=format) | The fabric of time wears thin | <details><summary>Link</summary>[Ripped Off](https://opensea.io/collection/ripped-off)</details> |
+| **Deth Sled.** | ![Image](https://i.seadn.io/s/raw/files/1d52920cc5cd86fbe8f86e20f56ed031.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Deth Sled.](https://opensea.io/collection/deth-sled)</details> |
 
 </div>
