@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>348644's Follow...</summary>348644's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[348644's Follower](https://opensea.io/collection/348644-s-follower)</details> |
-| **hoon3** | ![Image](https://i.seadn.io/s/raw/files/d515c851b73b2ac6cf227fd284e3e52c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hoon3](https://opensea.io/collection/hoon3)</details> |
-| **ZBBSBT** | ![Image](https://i.seadn.io/s/raw/files/a9dfe109b2584f5b1e2679c7b5c786fa.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ZBBSBT](https://opensea.io/collection/zbbsbt-24)</details> |
-| **clouds** | ![Image](https://i.seadn.io/s/raw/files/cb63f9ab56d23f79fa98286cffba205a.jpg?w=500&auto=format?w=200&auto=format) | clouds | <details><summary>Link</summary>[clouds](https://opensea.io/collection/clouds-160)</details> |
-| **<details><summary>351226's Follow...</summary>351226's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[351226's Follower](https://opensea.io/collection/351226-s-follower)</details> |
+| **testwithbg** | ![Image](https://i.seadn.io/s/raw/files/48123d3aed6cf44b38a63235c78b9b23.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[testwithbg](https://opensea.io/collection/testwithbg)</details> |
+| **Sea** | ![Image](https://i.seadn.io/s/raw/files/e01ae058e5d9e71008eb1d480c7a5a48.jpg?w=500&auto=format?w=200&auto=format) | Sea with a pink sky | <details><summary>Link</summary>[Sea](https://opensea.io/collection/sea-957)</details> |
+| **ddee** | ![Image](https://i.seadn.io/s/raw/files/05f4f43565f9c041ce298f0aed2e5e4f.jpg?w=500&auto=format?w=200&auto=format) | eew | <details><summary>Link</summary>[ddee](https://opensea.io/collection/ddee-4)</details> |
+| **<details><summary>ChainbaseGenesi...</summary>ChainbaseGenesisSBT</details>** | ![Image](https://i.seadn.io/s/raw/files/b8b32388c22944cef529b63cdc294625.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ChainbaseGenesisSBT](https://opensea.io/collection/chainbasegenesissbt)</details> |
 
 </div>
