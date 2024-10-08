@@ -6,11 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CAU** | ![Image](https://i.seadn.io/s/raw/files/d47dd3dfbba93c3e412480592ca2be95.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAU](https://opensea.io/collection/cau-7)</details> |
-| **<details><summary>Rocket to the M...</summary>Rocket to the Moon #7</details>** | ![Image](https://i.seadn.io/s/raw/files/e996501126d833c9218822c802125480.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rocket to the Moon #7](https://opensea.io/collection/rocket-to-the-moon-7)</details> |
-| **<details><summary>BASE IN THE PLA...</summary>BASE IN THE PLACE</details>** | ![Image](https://i.seadn.io/s/raw/files/eb8a0a4d76dbfb2eb8e1aa110a056471.gif?w=500&auto=format?w=200&auto=format) | <details><summary>(BASE IN THE PLACE)
- THE NEVER...</summary>(BASE IN THE PLACE)
- THE NEVER ENDING STORY OF BASECHAIN THE FOREVER GROWING WORLD </details> | <details><summary>Link</summary>[BASE IN THE PLACE](https://opensea.io/collection/base-in-the-place)</details> |
-| **Pure Fantasy** | ![Image](https://i.seadn.io/s/raw/files/345c0916ded2ed8e990d2cdcef84b409.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pure Fantasy](https://opensea.io/collection/pure-fantasy)</details> |
+| **<details><summary>$1350,000 USDC ...</summary>$1350,000 USDC WON</details>** | ![Image](https://i.seadn.io/s/raw/files/d99235d4f02c0e4180ca0539ee36db3d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$1350,000 USDC WON](https://opensea.io/collection/1350000-usdc-won-157)</details> |
+| **<details><summary>Dirty Dingleber...</summary>Dirty Dingleberry Derek Decat</details>** | ![Image](https://i.seadn.io/s/raw/files/093d47b818690638991a5ec7d7ecc891.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dirty Dingleberry Derek Decat](https://opensea.io/collection/dirty-dingleberry-derek-decat-1)</details> |
+| **<details><summary>200946's Follow...</summary>200946's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[200946's Follower](https://opensea.io/collection/200946-s-follower)</details> |
+| **Becoming Pepe** | ![Image](https://i.seadn.io/s/raw/files/571597a4604cc9a5b03e4c40bc4c733c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Becoming Pepe](https://opensea.io/collection/becoming-pepe)</details> |
 
 </div>
