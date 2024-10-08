@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **IRI-DO NIGHT** | ![Image](https://i.seadn.io/s/raw/files/ccbdd72bdde3b24740785fd7d7dc57a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[IRI-DO NIGHT](https://opensea.io/collection/iri-do-night)</details> |
-| **4095's Member** | ![Image](https://i.seadn.io/s/raw/files/34916265a4cbe104c8cbceba492b3f99.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[4095's Member](https://opensea.io/collection/4095-s-member)</details> |
-| **jhg** | ![Image](https://i.seadn.io/s/raw/files/3669b0d6eabc249c54a028c7cfd1cd56.jpg?w=500&auto=format?w=200&auto=format) | jhg | <details><summary>Link</summary>[jhg](https://opensea.io/collection/jhg-60)</details> |
+| **<details><summary>1ETH VOUCHER 🎁 ...</summary>1ETH VOUCHER 🎁 [#130]</details>** | ![Image](https://i.seadn.io/s/raw/files/5838d22422cb6d3043134e097eff1fb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1ETH VOUCHER 🎁 [#130]](https://opensea.io/collection/1eth-voucher-130)</details> |
+| **<details><summary>260568's Follow...</summary>260568's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[260568's Follower](https://opensea.io/collection/260568-s-follower)</details> |
 
 </div>
