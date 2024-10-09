@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **first** | ![Image](https://i.seadn.io/s/raw/files/a92670e9617610b9bcfc4e637994685b.jpg?w=500&auto=format?w=200&auto=format) | scmr.sme | <details><summary>Link</summary>[first](https://opensea.io/collection/first-495)</details> |
-| **<details><summary>Supersigil - Tr...</summary>Supersigil - Trickster</details>** | ![Image](https://i.seadn.io/s/raw/files/71204586fe47aa9ab836f090d58fc0e9.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Created by Supersigil on Sound...</summary>Created by Supersigil on Sound. Leave a comment on the song at https://www.sound.xyz/sprsgl/trickster</details> | <details><summary>Link</summary>[Supersigil - Trickster](https://opensea.io/collection/supersigil-trickster)</details> |
-| **TESLARI** | ![Image](https://i.seadn.io/s/raw/files/946efc1b6999ef67aec0934debe1ed38.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TESLARI](https://opensea.io/collection/tslrii)</details> |
-| **Dinosaur Rex** | ![Image](https://i.seadn.io/s/raw/files/9a466aeb8747312d771c2ab51ea2a937.png?w=500&auto=format?w=200&auto=format) | Dinosaur Rex | <details><summary>Link</summary>[Dinosaur Rex](https://opensea.io/collection/dinosaur-rex-1)</details> |
+| **DogUp** | ![Image](https://i.seadn.io/s/raw/files/6718828cae108996ee53d387b978b29a.png?w=500&auto=format?w=200&auto=format) | my  | <details><summary>Link</summary>[DogUp](https://opensea.io/collection/dogup)</details> |
+| **nik7B7** | ![Image](https://i.seadn.io/s/raw/files/75f14a0e871194f8f4e252bf1c60c022.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nik7B7](https://opensea.io/collection/nik7b7)</details> |
+| **Dark Horror** | ![Image](https://i.seadn.io/s/raw/files/808b7adaa8e1c156a20798f641b80588.jpg?w=500&auto=format?w=200&auto=format) | Created in Zora  | <details><summary>Link</summary>[Dark Horror](https://opensea.io/collection/dark-horror-2)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/f0d6e40a630e439be22470e48c794702.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3899)</details> |
+| **Single Player** | ![Image](https://i.seadn.io/s/raw/files/43e76509b4874387605e4357b92ac184.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Single Player](https://opensea.io/collection/single-player)</details> |
 
 </div>
