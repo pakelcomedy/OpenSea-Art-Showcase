@@ -6,10 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **DogUp** | ![Image](https://i.seadn.io/s/raw/files/6718828cae108996ee53d387b978b29a.png?w=500&auto=format?w=200&auto=format) | my  | <details><summary>Link</summary>[DogUp](https://opensea.io/collection/dogup)</details> |
-| **nik7B7** | ![Image](https://i.seadn.io/s/raw/files/75f14a0e871194f8f4e252bf1c60c022.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nik7B7](https://opensea.io/collection/nik7b7)</details> |
-| **Dark Horror** | ![Image](https://i.seadn.io/s/raw/files/808b7adaa8e1c156a20798f641b80588.jpg?w=500&auto=format?w=200&auto=format) | Created in Zora  | <details><summary>Link</summary>[Dark Horror](https://opensea.io/collection/dark-horror-2)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/f0d6e40a630e439be22470e48c794702.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-3899)</details> |
-| **Single Player** | ![Image](https://i.seadn.io/s/raw/files/43e76509b4874387605e4357b92ac184.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Single Player](https://opensea.io/collection/single-player)</details> |
+| **Life Gallery** | ![Image](https://i.seadn.io/s/raw/files/a483d0dcffc4da9f2ed3cd94b9af04b5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Life Gallery](https://opensea.io/collection/life-gallery-1)</details> |
+| **<details><summary>The girl with t...</summary>The girl with the leaves</details>** | ![Image](https://i.seadn.io/s/raw/files/bf553774ce3cccc15b430d378e9901b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The girl with the leaves](https://opensea.io/collection/the-girl-with-the-leaves)</details> |
+| **Bibizyan Jora** | ![Image](https://i.seadn.io/s/raw/files/ecbe9df7262ff33df2a3de1d685db90b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Bibizyan Jora walks in the jun...</summary>Bibizyan Jora walks in the jungle
+</details> | <details><summary>Link</summary>[Bibizyan Jora](https://opensea.io/collection/bibizyan-jora)</details> |
+| **Lie** | ![Image](https://i.seadn.io/s/raw/files/2aa4ff5e673929bae903858bc7d661dc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lie](https://opensea.io/collection/lie-18)</details> |
+| **<details><summary>The test Collec...</summary>The test Collection bol</details>** | ![Image](https://i.seadn.io/s/raw/files/4093700d32a7f927ad2089bd9dd9d3bc.png?w=500&auto=format?w=200&auto=format) | The test Collection, new nft | <details><summary>Link</summary>[The test Collection bol](https://opensea.io/collection/the-test-collection-bol)</details> |
 
 </div>
