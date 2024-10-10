@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12390</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12390](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12390)</details> |
-| **Bright Bird** | ![Image](https://i.seadn.io/s/raw/files/89a3e6f4154cfd511b42f93acd25beb7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bright Bird](https://opensea.io/collection/bright-bird-1)</details> |
-| **Unwrap Grow** | ![Image](https://i.seadn.io/s/raw/files/7426aa31e1cdbdde530666d1b47e940b.jpg?w=500&auto=format?w=200&auto=format) | Conf des bottles | <details><summary>Link</summary>[Unwrap Grow](https://opensea.io/collection/unwrap-grow)</details> |
+| **jiretub** | ![Image](https://i.seadn.io/s/raw/files/2e9328db6e3f47e0e1cdec8dcd9628ab.jpg?w=500&auto=format?w=200&auto=format) | jiretub | <details><summary>Link</summary>[jiretub](https://opensea.io/collection/jiretub)</details> |
+| **s p r i** | ![Image](https://i.seadn.io/s/raw/files/5047942129581cfd9128789341daef66.png?w=500&auto=format?w=200&auto=format) | s p r i | <details><summary>Link</summary>[s p r i](https://opensea.io/collection/s-p-r-i)</details> |
+| **Felchou Collect** | ![Image](https://i.seadn.io/s/raw/files/3b1b7b462f4ed74d55c15caf75dd813e.png?w=500&auto=format?w=200&auto=format) | Yesss | <details><summary>Link</summary>[Felchou Collect](https://opensea.io/collection/felchou-collect)</details> |
+| **Crypto world** | ![Image](https://i.seadn.io/s/raw/files/a62d9c8d92eebf7e8ba23afcdb6ad356.jpg?w=500&auto=format?w=200&auto=format) | Crypto world | <details><summary>Link</summary>[Crypto world](https://opensea.io/collection/crypto-world-72)</details> |
+| **Dolphins!!!** | ![Image](https://i.seadn.io/s/raw/files/0c7af640c93c530d0fd77a49bbf69126.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dolphins!!!](https://opensea.io/collection/dolphins-28)</details> |
 
 </div>
