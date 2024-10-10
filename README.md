@@ -6,18 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **cat** | ![Image](https://i.seadn.io/s/raw/files/32c19133c925a40d4258e1e7b68e54da.jpg?w=500&auto=format?w=200&auto=format) | cat | <details><summary>Link</summary>[cat](https://opensea.io/collection/cat-3001)</details> |
-| **<details><summary>パジャマパーティー　2024....</summary>パジャマパーティー　2024.10.09</details>** | ![Image](https://i.seadn.io/s/raw/files/b8449746d87b87ce07775d9755faf983.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>パジャマパーティー　2024.10.09
-来場特典NFT 
-...</summary>パジャマパーティー　2024.10.09
-来場特典NFT 
-デザイン：hanna
-
-出演
-DJ gee
-ニッコー閣下
-ブドウちゃん </details> | <details><summary>Link</summary>[パジャマパーティー　2024.10.09](https://opensea.io/collection/paziyamapa-tei-2024-10-09)</details> |
-| **vegetables** | ![Image](https://i.seadn.io/s/raw/files/dc90084d88f6d3cdbe9a41fa9ac5d31b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[vegetables](https://opensea.io/collection/vegetables-45)</details> |
-| **Tajkun** | ![Image](https://i.seadn.io/s/raw/files/03c39679eb14b9cebd086967110a6dd3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tajkun](https://opensea.io/collection/tajkun)</details> |
+| **<details><summary>Autumn on the C...</summary>Autumn on the Chain</details>** | ![Image](https://i.seadn.io/s/raw/files/2995505814412217ac24140da83476b3.webp?w=500&auto=format?w=200&auto=format) | Autumn on the Chain | <details><summary>Link</summary>[Autumn on the Chain](https://opensea.io/collection/autumn-on-the-chain)</details> |
+| **<details><summary>Morpher SilverD...</summary>Morpher SilverDemo</details>** | ![Image](https://raw.seadn.io/files/0e39fb20157014ef3e82a89e0f241935.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Morpher SilverDemo](https://opensea.io/collection/morpher-silverdemo-1)</details> |
+| **Monkey light** | ![Image](https://i.seadn.io/s/raw/files/3ba78d4199895effc0d73ca701f72637.jpg?w=500&auto=format?w=200&auto=format) | Monkey light | <details><summary>Link</summary>[Monkey light](https://opensea.io/collection/monkey-light)</details> |
+| **Ninja** | ![Image](https://i.seadn.io/s/raw/files/8e2705ac0e710705ad826ed0a5a1d962.jpg?w=500&auto=format?w=200&auto=format) | Ninjas | <details><summary>Link</summary>[Ninja](https://opensea.io/collection/ninja-253)</details> |
+| **Wednesday Sku** | ![Image](https://i.seadn.io/s/raw/files/d00b71202c48e4d2ce1768840d60fc0e.jpg?w=500&auto=format?w=200&auto=format) | Bids ebay health fwd | <details><summary>Link</summary>[Wednesday Sku](https://opensea.io/collection/wednesday-sku)</details> |
 
 </div>
