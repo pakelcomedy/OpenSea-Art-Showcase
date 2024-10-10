@@ -6,13 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **bikearl** | ![Image](https://i.seadn.io/s/raw/files/f673e88a214df950f7f746db3db4ba75.webp?w=500&auto=format?w=200&auto=format) | <details><summary>bikearl
-
-Made with [NFTs2Me.co...</summary>bikearl
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[bikearl](https://opensea.io/collection/bikearl-1)</details> |
-| **L by L** | ![Image](https://i.seadn.io/s/raw/files/096ba766c139b29cbe50dbcf50608358.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[L by L](https://opensea.io/collection/l-by-l)</details> |
-| **Opty** | ![Image](https://i.seadn.io/s/raw/files/32fd65e2fb954595576cf58f6dd58ac5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Opty](https://opensea.io/collection/opty-32)</details> |
-| **Agents Extend** | ![Image](https://i.seadn.io/s/raw/files/4489f7987323c7bbf27b5fd7a67a11e4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Agents Extend](https://opensea.io/collection/agents-extend)</details> |
+| **<details><summary>243378's Follow...</summary>243378's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[243378's Follower](https://opensea.io/collection/243378-s-follower)</details> |
+| **<details><summary>Pixel Bored Ape...</summary>Pixel Bored Ape Gang Club Volume II</details>** | ![Image](https://i.seadn.io/s/raw/files/31340b2a1a9f6e7156916566910954f5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Bored Ape Gang Club Volume II](https://opensea.io/collection/pixel-bored-ape-gang-club-volume-ii)</details> |
+| **Glad to win** | ![Image](https://i.seadn.io/s/raw/files/433753862d453ad145406bc6f91f668b.jpg?w=500&auto=format?w=200&auto=format) | GW | <details><summary>Link</summary>[Glad to win](https://opensea.io/collection/glad-to-win)</details> |
+| **<details><summary>$1350,000 USDC ...</summary>$1350,000 USDC WON</details>** | ![Image](https://i.seadn.io/s/raw/files/d99235d4f02c0e4180ca0539ee36db3d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$1350,000 USDC WON](https://opensea.io/collection/1350000-usdc-won-186)</details> |
 
 </div>
