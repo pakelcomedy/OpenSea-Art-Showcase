@@ -6,9 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>279204's Follow...</summary>279204's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[279204's Follower](https://opensea.io/collection/279204-s-follower)</details> |
-| **<details><summary>197599's Follow...</summary>197599's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[197599's Follower](https://opensea.io/collection/197599-s-follower)</details> |
-| **Workflow** | ![Image](https://i.seadn.io/s/raw/files/243c0e7bf6c4f3b3b34f27d52dd68a78.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Workflow](https://opensea.io/collection/workflow-14)</details> |
-| **MyFloraDNA** | ![Image](https://i.seadn.io/s/raw/files/905b662f5e9c8338e16555bb6db322eb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MyFloraDNA](https://opensea.io/collection/myfloradna)</details> |
+| **<details><summary>How become an A...</summary>How become an AVS Operator on the Prima Materia Testnet.</details>** | ![Image](https://i.seadn.io/s/raw/files/79d80d7ee63d8c7c62938d0c3aa1164e.webp?w=500&auto=format?w=200&auto=format) | <details><summary>How become an AVS Operator on ...</summary>How become an AVS Operator on the Prima Materia Testnet.
+
+Read the full post on Paragraph: https://paragraph.xyz/@sarox.eth/how-become-an-avs-operator-on-the-prima-materia-testnet</details> | <details><summary>Link</summary>[How become an AVS Operator on the Prima Materia Testnet.](https://opensea.io/collection/how-become-an-avs-operator-on-the-prima-materia-te)</details> |
+| **ONE LEMON** | ![Image](https://i.seadn.io/s/raw/files/982485530766d4c5c6f8e71c069eb52e.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Road to first lemon...
+Altseas...</summary>Road to first lemon...
+Altseason is coming.</details> | <details><summary>Link</summary>[ONE LEMON](https://opensea.io/collection/one-lemon)</details> |
 
 </div>
