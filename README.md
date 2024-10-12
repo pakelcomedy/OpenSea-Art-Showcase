@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>1000 $ Reward 🎁...</summary>1000 $ Reward 🎁 [#255]</details>** | ![Image](https://i.seadn.io/s/raw/files/293bf5007c16653f404ea73c0ca6a7e4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1000 $ Reward 🎁 [#255]](https://opensea.io/collection/1000-reward-255)</details> |
-| **For my runinng** | ![Image](https://i.seadn.io/s/raw/files/1e4ea168bdeea2cc3054c083cea3c773.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[For my runinng](https://opensea.io/collection/for-my-runinng)</details> |
-| **<details><summary>1000 $ Reward 🎁...</summary>1000 $ Reward 🎁 [#831]</details>** | ![Image](https://i.seadn.io/s/raw/files/293bf5007c16653f404ea73c0ca6a7e4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1000 $ Reward 🎁 [#831]](https://opensea.io/collection/1000-reward-831)</details> |
-| **Future world** | ![Image](https://i.seadn.io/s/raw/files/c9fa6a92083f8644ac79eb24c2de3788.png?w=500&auto=format?w=200&auto=format) | Future world | <details><summary>Link</summary>[Future world](https://opensea.io/collection/future-world-37)</details> |
-| **ZORB moco** | ![Image](https://i.seadn.io/s/raw/files/75e593dcc3531557c1e38d928257a37a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ZORB moco](https://opensea.io/collection/zorb-moco)</details> |
+| **Fierce Ape** | ![Image](https://i.seadn.io/s/raw/files/54c11a2df80d047deff491cf1c27fde3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fierce Ape](https://opensea.io/collection/fierce-ape-1)</details> |
+| **btcgirl** | ![Image](https://i.seadn.io/s/raw/files/55d08c45432ec9d9f25358e691b578d7.png?w=500&auto=format?w=200&auto=format) | btcgirl | <details><summary>Link</summary>[btcgirl](https://opensea.io/collection/btcgirl-4)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/a1c06647d116f70b4fa571b97520d99d.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-2442)</details> |
+| **Manually** | ![Image](https://i.seadn.io/s/raw/files/f35b1d429f01e2f51cfad2ea810ecaf6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Manually](https://opensea.io/collection/points-boost)</details> |
 
 </div>
