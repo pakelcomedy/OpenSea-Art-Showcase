@@ -6,9 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ColaStyle** | ![Image](https://i.seadn.io/s/raw/files/6ae8f14707d6b34a6fd379473beaa87b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ColaStyle](https://opensea.io/collection/colastyle)</details> |
-| **Food one** | ![Image](https://i.seadn.io/s/raw/files/ce6f049ac5566a96549e1640c38ac17c.jpg?w=500&auto=format?w=200&auto=format) | Singk | <details><summary>Link</summary>[Food one](https://opensea.io/collection/food-one)</details> |
-| **<details><summary>1000 $ Reward 🎁...</summary>1000 $ Reward 🎁 [#413]</details>** | ![Image](https://i.seadn.io/s/raw/files/a594125deaa44edcaa85047073dd9f3c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1000 $ Reward 🎁 [#413]](https://opensea.io/collection/1000-reward-413-1)</details> |
-| **crew collages** | ![Image](https://i.seadn.io/s/raw/files/6e500cd02900d181812c966d2514cca9.png?w=500&auto=format?w=200&auto=format) | :3 | <details><summary>Link</summary>[crew collages](https://opensea.io/collection/crew-collages)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract e4833aab-55bd-4c8f-8dcf-b306aa430d1c</details>** | ![Image](https://i.seadn.io/s/raw/files/c463f659fb0a38f92be83f38377f6a0b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract e4833aab-55bd-4c8f-8dcf-b306aa430d1c](https://opensea.io/collection/unidentified-contract-e4833aab-55bd-4c8f-8dcf-b306)</details> |
+| **<details><summary>far.cards - mat...</summary>far.cards - mattfallah</details>** | ![Image](https://i.seadn.io/s/raw/files/0422a2c9381565211795d015346021e6.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - mattfallah (Adwvcl...</summary>far.cards - mattfallah (AdwvclMUCsAPjVrgpU7Ziw==) is a Bonding Curved ERC-1155 token created on mint.club.
+
+Backed by Wrapped Ether (WETH) on Base chain.
+
+https://mint.club/nft/base/AdwvclMUCsAPjVrgpU7Ziw==</details> | <details><summary>Link</summary>[far.cards - mattfallah](https://opensea.io/collection/far-cards-mattfallah)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12405</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12405](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12405)</details> |
+| **<details><summary>5th Optimism Ai...</summary>5th Optimism Airdrop at optimism-drop.net</details>** | ![Image](https://i.seadn.io/s/raw/files/7018544c5cb232cfaf1bc25666b45028.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[5th Optimism Airdrop at optimism-drop.net](https://opensea.io/collection/5th-optimism-airdrop-at-optimism-drop-net-38)</details> |
+| **Kups** | ![Image](https://i.seadn.io/s/raw/files/59ec1916275e743085fb1227965c4c3e.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Kups](https://opensea.io/collection/kups-225)</details> |
 
 </div>
