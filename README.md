@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>369202's Follow...</summary>369202's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[369202's Follower](https://opensea.io/collection/369202-s-follower)</details> |
+| **Eye** | ![Image](https://i.seadn.io/s/raw/files/fb4754689afe8a46013aa8898fc9c43d.jpg?w=500&auto=format?w=200&auto=format) | EYE | <details><summary>Link</summary>[Eye](https://opensea.io/collection/eye-296)</details> |
 
 </div>
