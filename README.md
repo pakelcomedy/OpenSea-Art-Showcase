@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Cranimus** | ![Image](https://i.seadn.io/s/raw/files/6d82c6b459968e717e549b7c5c15fff3.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cranimus](https://opensea.io/collection/cranimus-92)</details> |
-| **fw** | ![Image](https://i.seadn.io/s/raw/files/3d6e2a7cd33881b699f96db2a9ae0805.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fw](https://opensea.io/collection/fw-29)</details> |
-| **fcfgg** | ![Image](https://i.seadn.io/s/raw/files/9aa7ccf4a4b8f3d5944f3486faa8263a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fcfgg](https://opensea.io/collection/fcfgg)</details> |
-| **blove** | ![Image](https://i.seadn.io/s/raw/files/71939125828ca09507da323ad51e6843.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[blove](https://opensea.io/collection/blove-2)</details> |
+| **<details><summary>Happy Birth Day...</summary>Happy Birth Day Trust Wallet</details>** | ![Image](https://i.seadn.io/s/raw/files/573c917181edbfcd35e89a06ac916955.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Happy Birth Day Trust Wallet](https://opensea.io/collection/happy-birth-day-trust-wallet-12)</details> |
+| **ẞored Ape** | ![Image](https://i.seadn.io/s/raw/files/e2fd43fa9ac26345a4683ded78c20de5.gif?w=500&auto=format?w=200&auto=format) | NFT base  | <details><summary>Link</summary>[ẞored Ape](https://opensea.io/collection/ssored-ape-58)</details> |
+| **<details><summary>chef cooks birt...</summary>chef cooks birthday cake</details>** | ![Image](https://i.seadn.io/s/raw/files/2a360ae4d472c9efc82d827f8d205d66.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[chef cooks birthday cake](https://opensea.io/collection/chef-cooks-birthday-cake)</details> |
+| **<details><summary>America Trinida...</summary>America Trinidad</details>** | ![Image](https://i.seadn.io/s/raw/files/f252cc030112f384036b51cfa3174072.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[America Trinidad](https://opensea.io/collection/america-trinidad)</details> |
+| **ẞored Ape** | ![Image](https://i.seadn.io/s/raw/files/bf5fceae938f920f9de56672ea9e7221.jpg?w=500&auto=format?w=200&auto=format) | NFT base  | <details><summary>Link</summary>[ẞored Ape](https://opensea.io/collection/ssored-ape-57)</details> |
 
 </div>
