@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Release** | ![Image](https://i.seadn.io/s/raw/files/cea770bee21e634011390a75b9926e00.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Release](https://opensea.io/collection/release-23)</details> |
-| **SMK** | ![Image](https://i.seadn.io/s/raw/files/58439ac5a35837e7fff69ccbf4c41716.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SMK](https://opensea.io/collection/smk-8)</details> |
-| **Base.org** | ![Image](https://i.seadn.io/s/raw/files/e262ba93703a4521ae3bb4744d12bf25.png?w=500&auto=format?w=200&auto=format) | Welcome to the new Base.org | <details><summary>Link</summary>[Base.org](https://opensea.io/collection/base-org)</details> |
-| **<details><summary>370102's Follow...</summary>370102's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[370102's Follower](https://opensea.io/collection/370102-s-follower)</details> |
+| **Knight** | ![Image](https://i.seadn.io/s/raw/files/bd6ed945a5262b98c309674d61293729.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Knight](https://opensea.io/collection/knight-116)</details> |
+| **Editions** | ![Image](https://i.seadn.io/s/raw/files/afe5d916c3f0a63acbe63f46c8fd6082.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Editions](https://opensea.io/collection/editions-40)</details> |
+| **Daifuku World** | ![Image](https://i.seadn.io/s/raw/files/302ceeedc6f86a6379ccc770ec448929.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Daifuku World](https://opensea.io/collection/daifuku-world)</details> |
 
 </div>
