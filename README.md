@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Techniques Amou...</summary>Techniques Amount</details>** | ![Image](https://i.seadn.io/s/raw/files/6208296595d87477fcda76cc36509db1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Techniques Amount](https://opensea.io/collection/techniques-amount)</details> |
-| **<details><summary>$1350,000 USDC ...</summary>$1350,000 USDC WON</details>** | ![Image](https://i.seadn.io/s/raw/files/d99235d4f02c0e4180ca0539ee36db3d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$1350,000 USDC WON](https://opensea.io/collection/1350000-usdc-won-251)</details> |
-| **ma** | ![Image](https://i.seadn.io/s/raw/files/99f62771ec5cd162a2e292f40d23ec16.jpg?w=500&auto=format?w=200&auto=format) | ma | <details><summary>Link</summary>[ma](https://opensea.io/collection/ma-62)</details> |
-| **Cats Ed 2** | ![Image](https://i.seadn.io/s/raw/files/2a778528874afdd5d1d4b654dbb47804.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Only on REMX ! Hand painted ar...</summary>Only on REMX ! Hand painted art by Diegorobot</details> | <details><summary>Link</summary>[Cats Ed 2](https://opensea.io/collection/cats-ed-2)</details> |
+| **raj** | ![Image](https://i.seadn.io/s/raw/files/4599c7d39fb1a0827ea6167c9985edb0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[raj](https://opensea.io/collection/raj-9)</details> |
+| **<details><summary>Fairyland is Al...</summary>Fairyland is Alive</details>** | ![Image](https://i.seadn.io/s/raw/files/cba233e8c73ed3c5d9ca0f1447f36a89.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fairyland is Alive](https://opensea.io/collection/fairyland-is-alive)</details> |
 
 </div>
