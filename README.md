@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>150034's Follow...</summary>150034's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[150034's Follower](https://opensea.io/collection/150034-s-follower)</details> |
-| **Ludo Reputation** | ![Image](https://i.seadn.io/s/raw/files/24a1cfa7a8b1c6f44ecc887f2188a773.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ludo Reputation](https://opensea.io/collection/ludo-reputation)</details> |
-| **<details><summary>VaccuLar Implos...</summary>VaccuLar Implosion by KxMx Lane</details>** | ![Image](https://i.seadn.io/s/raw/files/f5df6dc4f637fd83117e99b08ec5e25e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[VaccuLar Implosion by KxMx Lane](https://opensea.io/collection/vaccular-implosion-by-kxmx-lane)</details> |
-| **Japan** | ![Image](https://i.seadn.io/s/raw/files/a0644562aebb01f9166421a75e8757e5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Japan](https://opensea.io/collection/japan-200)</details> |
+| **! 100 000 $ENA** | ![Image](https://i.seadn.io/s/raw/files/0333d74b51e8edb972b09fe8e55623a4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! 100 000 $ENA](https://opensea.io/collection/100-000-ena-50)</details> |
+| **asg** | ![Image](https://i.seadn.io/s/raw/files/022e8fcea01a86f68976e76d883c088e.png?w=500&auto=format?w=200&auto=format) | asdgfa | <details><summary>Link</summary>[asg](https://opensea.io/collection/asg-20)</details> |
+| **zkasino-eth** | ![Image](https://i.seadn.io/s/raw/files/a9924a0b135865cb75d78fc372363ee4.png?w=500&auto=format?w=200&auto=format) | sklzie | <details><summary>Link</summary>[zkasino-eth](https://opensea.io/collection/zkasino-eth)</details> |
+| **<details><summary>1000 $ Airdrop ...</summary>1000 $ Airdrop 🎁 [#7635]</details>** | ![Image](https://i.seadn.io/s/raw/files/bfcceed22671e6141c5eebe28f0f80eb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1000 $ Airdrop 🎁 [#7635]](https://opensea.io/collection/1000-airdrop-7635)</details> |
 
 </div>
