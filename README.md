@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ZORAxjt** | ![Image](https://i.seadn.io/s/raw/files/cb6dd165a614c7fef1789f048e3b5fa0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ZORAxjt](https://opensea.io/collection/zoraxjt)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/ed1f4cdfb7e4785f6b23dc016750795b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-2476)</details> |
-| **ZORAxom** | ![Image](https://i.seadn.io/s/raw/files/7cac3328663ace58473b68a4501e17f6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ZORAxom](https://opensea.io/collection/zoraxom)</details> |
-| **ZORAxmm** | ![Image](https://i.seadn.io/s/raw/files/f94e20eb46eb03e175290eac32aa3eb8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ZORAxmm](https://opensea.io/collection/zoraxmm)</details> |
+| **title** | ![Image](https://i.seadn.io/s/raw/files/df435a0dd25eef7cb425a468859882f0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[title](https://opensea.io/collection/title-81)</details> |
+| **Trusted Buy** | ![Image](https://i.seadn.io/s/raw/files/0ff204b607bd3c6057039daf888e26bd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trusted Buy](https://opensea.io/collection/trusted-buy)</details> |
+| **Anime Figures** | ![Image](https://i.seadn.io/s/raw/files/c0930c438aa12ca7e771131045ee720b.png?w=500&auto=format?w=200&auto=format) | Storytelling type | <details><summary>Link</summary>[Anime Figures](https://opensea.io/collection/anime-figures)</details> |
 
 </div>
