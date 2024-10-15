@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>277913's Follow...</summary>277913's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[277913's Follower](https://opensea.io/collection/277913-s-follower)</details> |
-| **ΖоrαQ** | ![Image](https://i.seadn.io/s/raw/files/60671a0acd8fe79e0b55ccf7ac8c6691.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ΖоrαQ](https://opensea.io/collection/zoraq-58)</details> |
+| **<details><summary>artew bands cay...</summary>artew bands cay#7</details>** | ![Image](https://i.seadn.io/s/raw/files/a1616579824f27885aaa91199b1bf6c3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[artew bands cay#7](https://opensea.io/collection/artew-bands-cay-7)</details> |
 
 </div>
