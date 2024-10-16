@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>artew bands cay...</summary>artew bands cay#7</details>** | ![Image](https://i.seadn.io/s/raw/files/a1616579824f27885aaa91199b1bf6c3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[artew bands cay#7](https://opensea.io/collection/artew-bands-cay-7)</details> |
+| **Kelkoo** | ![Image](https://i.seadn.io/s/raw/files/fdde78f26e5ffcaae03d465b2a5f94c1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Towards paris helena happy ass...</summary>Towards paris helena happy assume outstanding mounted</details> | <details><summary>Link</summary>[Kelkoo](https://opensea.io/collection/kelkoo-11)</details> |
+| **<details><summary>367967's Follow...</summary>367967's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[367967's Follower](https://opensea.io/collection/367967-s-follower)</details> |
 
 </div>
