@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **dyf** | ![Image](https://i.seadn.io/s/raw/files/6e6d0c0357a363e0a04be2b666b65855.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dyf](https://opensea.io/collection/dyf-1)</details> |
+| **yfyh** | ![Image](https://i.seadn.io/s/raw/files/52798d51e72b2fca6afee52cc05e1db2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[yfyh](https://opensea.io/collection/yfyh)</details> |
 
 </div>
