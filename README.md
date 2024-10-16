@@ -6,12 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Fragm3nted_Bein...</summary>Fragm3nted_Being</details>** | ![Image](https://i.seadn.io/s/raw/files/60a1162eda078a36e63c2f2996f8b326.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>It started from an image of a ...</summary>It started from an image of a hand sculpted glass Being. Ai image to prompt and further glitched, blended and digitally enhanced. 
-
-This Being is being torn between the physical and digital world, much like myself.
-
-I really enjoy making work like this daily and happy to share it here on remx
-
-#futurecraft</details> | <details><summary>Link</summary>[Fragm3nted_Being](https://opensea.io/collection/fragm3nted-being)</details> |
+| **Mrcan** | ![Image](https://i.seadn.io/s/raw/files/931ce4d4fbb6c9b4c38942381e5bc5a4.jpg?w=500&auto=format?w=200&auto=format) | Cano | <details><summary>Link</summary>[Mrcan](https://opensea.io/collection/mrcan-1)</details> |
+| **0rdinal Kubs** | ![Image](https://i.seadn.io/s/raw/files/bbac47d918edb6e5bd366c569cd98d1c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0rdinal Kubs](https://opensea.io/collection/0rdinal-kubs-346)</details> |
 
 </div>
