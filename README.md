@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Kelkoo** | ![Image](https://i.seadn.io/s/raw/files/fdde78f26e5ffcaae03d465b2a5f94c1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Towards paris helena happy ass...</summary>Towards paris helena happy assume outstanding mounted</details> | <details><summary>Link</summary>[Kelkoo](https://opensea.io/collection/kelkoo-11)</details> |
-| **<details><summary>367967's Follow...</summary>367967's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[367967's Follower](https://opensea.io/collection/367967-s-follower)</details> |
+| **wtf** | ![Image](https://i.seadn.io/s/raw/files/c6b3d42b923e996c1755d6a791ae0f7e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wtf](https://opensea.io/collection/wtf-163)</details> |
+| **inu** | ![Image](https://i.seadn.io/s/raw/files/f23c2325e514b278a1920ed0aa2619f1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[inu](https://opensea.io/collection/inu-14)</details> |
 
 </div>
