@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **test** | ![Image](https://i.seadn.io/s/raw/files/9b72dd89ab0bfd8c236b8988b8f93af2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[test](https://opensea.io/collection/test-6797)</details> |
-| **angel and tiger** | ![Image](https://i.seadn.io/s/raw/files/13fc621903d89c2a9327f06db782ebc5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[angel and tiger](https://opensea.io/collection/angel-and-tiger)</details> |
+| **<details><summary>409275's Follow...</summary>409275's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[409275's Follower](https://opensea.io/collection/409275-s-follower)</details> |
 
 </div>
