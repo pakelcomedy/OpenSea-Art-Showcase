@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Jugo de haca** | ![Image](https://i.seadn.io/s/raw/files/4c4b69af297d92bade896d1252b34015.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jugo de haca](https://opensea.io/collection/jugo-de-haca)</details> |
-| **ijouhbh** | ![Image](https://i.seadn.io/s/raw/files/04dece1e084183a77ca9053723e7e8b0.jpg?w=500&auto=format?w=200&auto=format) | hviyvy | <details><summary>Link</summary>[ijouhbh](https://opensea.io/collection/ijouhbh)</details> |
+| **Halloween Sh¡p** | ![Image](https://i.seadn.io/s/raw/files/fdad1c721511a209fe2e6c008c360f21.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Halloween Sh¡p](https://opensea.io/collection/halloween-sh-p-23)</details> |
+| **Essence** | ![Image](https://i.seadn.io/s/raw/files/177d28d1d2b808fad1f0321305d2cf05.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Essence](https://opensea.io/collection/essence-58)</details> |
 
 </div>
