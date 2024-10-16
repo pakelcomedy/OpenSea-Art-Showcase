@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Intricate And** | ![Image](https://i.seadn.io/s/raw/files/efadcff8a14f363578bbd0357ba752c5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Intricate And](https://opensea.io/collection/intricate-and)</details> |
-| **<details><summary>Kitty's Lifecha...</summary>Kitty's Lifechange</details>** | ![Image](https://i.seadn.io/s/raw/files/49cbc85bed24447c60d26bf2c06eace0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Kitty's Lifechange](https://opensea.io/collection/kitty-s-lifechange)</details> |
+| **<details><summary>354441's Follow...</summary>354441's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[354441's Follower](https://opensea.io/collection/354441-s-follower)</details> |
+| **<details><summary>Nicholas Willia...</summary>Nicholas William Gress</details>** | ![Image](https://i.seadn.io/s/raw/files/fbd70e537a173990799c6f5a8ad1a16f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nicholas William Gress](https://opensea.io/collection/nicholas-william-gress)</details> |
 
 </div>
