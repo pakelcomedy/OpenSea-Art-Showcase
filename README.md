@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>354441's Follow...</summary>354441's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[354441's Follower](https://opensea.io/collection/354441-s-follower)</details> |
-| **<details><summary>Nicholas Willia...</summary>Nicholas William Gress</details>** | ![Image](https://i.seadn.io/s/raw/files/fbd70e537a173990799c6f5a8ad1a16f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nicholas William Gress](https://opensea.io/collection/nicholas-william-gress)</details> |
+| **Jugo de haca** | ![Image](https://i.seadn.io/s/raw/files/4c4b69af297d92bade896d1252b34015.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jugo de haca](https://opensea.io/collection/jugo-de-haca)</details> |
+| **ijouhbh** | ![Image](https://i.seadn.io/s/raw/files/04dece1e084183a77ca9053723e7e8b0.jpg?w=500&auto=format?w=200&auto=format) | hviyvy | <details><summary>Link</summary>[ijouhbh](https://opensea.io/collection/ijouhbh)</details> |
 
 </div>
