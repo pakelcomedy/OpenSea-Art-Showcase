@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Internal Sunshi...</summary>Internal Sunshine</details>** | ![Image](https://i.seadn.io/s/raw/files/4a81cb621c79880d698dad44c31f962e.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Rendering of my internal sunsh...</summary>Rendering of my internal sunshine</details> | <details><summary>Link</summary>[Internal Sunshine](https://opensea.io/collection/internal-sunshine)</details> |
+| **<details><summary>280921's Follow...</summary>280921's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[280921's Follower](https://opensea.io/collection/280921-s-follower)</details> |
+| **<details><summary>216290's Follow...</summary>216290's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[216290's Follower](https://opensea.io/collection/216290-s-follower)</details> |
 
 </div>
