@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Beef Enjoying** | ![Image](https://i.seadn.io/s/raw/files/27a19dbd385f87d0ef7d2e6ffc19aec4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Beef Enjoying](https://opensea.io/collection/beef-enjoying)</details> |
+| **Sakura blot** | ![Image](https://i.seadn.io/s/raw/files/c7f1009f0e15a75f534e20528ad55813.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Sakura inspired blot created b...</summary>Sakura inspired blot created by biancaffg</details> | <details><summary>Link</summary>[Sakura blot](https://opensea.io/collection/sakura-blot)</details> |
 
 </div>
