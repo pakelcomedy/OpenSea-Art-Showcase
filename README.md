@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mea** | ![Image](https://i.seadn.io/s/raw/files/f6bef179a5976467d4f8b9de86d6a0d4.jpg?w=500&auto=format?w=200&auto=format) | Wong | <details><summary>Link</summary>[Mea](https://opensea.io/collection/mea-5)</details> |
+| **<details><summary>198694's Follow...</summary>198694's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[198694's Follower](https://opensea.io/collection/198694-s-follower)</details> |
 
 </div>
