@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Scorpion** | ![Image](https://i.seadn.io/s/raw/files/e7427d101af963f5c258f2ad4e6a773b.gif?w=500&auto=format?w=200&auto=format) | Best collection web3 Scc | <details><summary>Link</summary>[Scorpion](https://opensea.io/collection/scorpion-47)</details> |
-| **<details><summary>Mutants Beer Gr...</summary>Mutants Beer Grail Challenge (Apefest 2024 Boost)</details>** | ![Image](https://i.seadn.io/s/raw/files/308fb82991dcf043a5e87ce5d5a7138e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mutants Beer Grail Challenge (Apefest 2024 Boost)](https://opensea.io/collection/mutants-beer-grail-challenge-apefest-2024-boost-5)</details> |
-| **Carolina** | ![Image](https://i.seadn.io/s/raw/files/1c6b82ca79a8933c0a401811ccfb647d.jpg?w=500&auto=format?w=200&auto=format) | Carolina | <details><summary>Link</summary>[Carolina](https://opensea.io/collection/carolina-18)</details> |
+| **Big F** | ![Image](https://i.seadn.io/s/raw/files/49d052fe04622d984fe6bfaf3d2cb8d8.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Big F](https://opensea.io/collection/big-f-31)</details> |
+| **<details><summary>347640's Follow...</summary>347640's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[347640's Follower](https://opensea.io/collection/347640-s-follower)</details> |
+| **<details><summary>205989's Follow...</summary>205989's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[205989's Follower](https://opensea.io/collection/205989-s-follower)</details> |
 
 </div>
