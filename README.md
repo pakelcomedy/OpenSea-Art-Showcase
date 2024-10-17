@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sakura blot** | ![Image](https://i.seadn.io/s/raw/files/c7f1009f0e15a75f534e20528ad55813.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Sakura inspired blot created b...</summary>Sakura inspired blot created by biancaffg</details> | <details><summary>Link</summary>[Sakura blot](https://opensea.io/collection/sakura-blot)</details> |
+| **<details><summary>325786's Follow...</summary>325786's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[325786's Follower](https://opensea.io/collection/325786-s-follower)</details> |
 
 </div>
