@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **monkey 123** | ![Image](https://i.seadn.io/s/raw/files/7cfc73cc6a0006b2e279370e9f79af6c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[monkey 123](https://opensea.io/collection/monkey-123-4)</details> |
+| **<details><summary>370047's Follow...</summary>370047's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[370047's Follower](https://opensea.io/collection/370047-s-follower)</details> |
+| **<details><summary>368166's Follow...</summary>368166's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[368166's Follower](https://opensea.io/collection/368166-s-follower)</details> |
 
 </div>
