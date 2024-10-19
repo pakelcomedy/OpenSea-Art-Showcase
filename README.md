@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>2ETH Reward at ...</summary>2ETH Reward at t.ly/ldo</details>** | ![Image](https://i.seadn.io/s/raw/files/7aae7dcdf674bedf5c979aade3cae605.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[2ETH Reward at t.ly/ldo](https://opensea.io/collection/2eth-reward-at-t-ly-ldo-325)</details> |
+| **Seiyan** | ![Image](https://i.seadn.io/s/raw/files/6cafe95e8a14cf7d1f14b7d80d3f7ec4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Seiyan](https://opensea.io/collection/seiyan-4)</details> |
 
 </div>
