@@ -6,7 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **IT'S SO NICE!** | ![Image](https://i.seadn.io/s/raw/files/9a2b08d261dd9d8a82c065e8d34f7a2d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[IT'S SO NICE!](https://opensea.io/collection/it-s-so-nice)</details> |
-| **<details><summary>275148's Follow...</summary>275148's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[275148's Follower](https://opensea.io/collection/275148-s-follower)</details> |
+| **<details><summary>far.cards - net...</summary>far.cards - netral</details>** | ![Image](https://i.seadn.io/s/raw/files/954ad01fbbfdb93f6e274228bc634680.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - netral (EoudEeT3MI...</summary>far.cards - netral (EoudEeT3MI1qE7NBBqcG1Q==) is a Bonding Curved ERC-1155 token created on mint.club.
+
+Backed by Wrapped Ether (WETH) on Base chain.
+
+https://mint.club/nft/base/EoudEeT3MI1qE7NBBqcG1Q==</details> | <details><summary>Link</summary>[far.cards - netral](https://opensea.io/collection/far-cards-netral)</details> |
 
 </div>
