@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **TestContract1** | ![Image](https://i.seadn.io/s/raw/files/1be5ed84171f63f101fddf5d7dc64f5b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TestContract1](https://opensea.io/collection/testcontract1-1)</details> |
-| **<details><summary>Stop tipping ar...</summary>Stop tipping artists in valueless memecoins</details>** | ![Image](https://i.seadn.io/s/raw/files/ae67cd9ff5eb40d8bb2e046a0cd11527.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Stop tipping artists in valuel...</summary>Stop tipping artists in valueless memecoins
-
-Read the full post on Paragraph: https://ericprhodes.blog/stop-tipping-artists-in-valueless-memecoins</details> | <details><summary>Link</summary>[Stop tipping artists in valueless memecoins](https://opensea.io/collection/stop-tipping-artists-in-valueless-memecoins)</details> |
-| **sakura** | ![Image](https://i.seadn.io/s/raw/files/2bd7c6e49493967a02223e8ce69e17b2.jpg?w=500&auto=format?w=200&auto=format) | Mano | <details><summary>Link</summary>[sakura](https://opensea.io/collection/sakura-187)</details> |
+| **W¡ndy N¡ght** | ![Image](https://i.seadn.io/s/raw/files/738c99c137e291e9f58db903d1323b4f.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[W¡ndy N¡ght](https://opensea.io/collection/w-ndy-n-ght-31)</details> |
+| **<details><summary>$ZORIUM AIRDROP...</summary>$ZORIUM AIRDROP ROUND #1</details>** | ![Image](https://i.seadn.io/s/raw/files/845bdeb3ddfdc3584fadb32e4d9344e6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Round #1 airdrop for early hod...</summary>Round #1 airdrop for early hodlers! Mint now and bag 50,000 $ZORIUM tokens per NFT. Only the first 10K collectors get in—so stack those NFTs to pump your $ZORIUM bags. Don't miss this moonshot to boost your crypto stash!</details> | <details><summary>Link</summary>[$ZORIUM AIRDROP ROUND #1](https://opensea.io/collection/zorium-airdrop-round-1)</details> |
+| **Tigr** | ![Image](https://i.seadn.io/s/raw/files/5bbaa1ccfe58c94361e39110e330c24e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tigr](https://opensea.io/collection/tigr-63)</details> |
 
 </div>
