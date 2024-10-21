@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Bitcoin Blast** | ![Image](https://i.seadn.io/s/raw/files/4154599670749ebb0aca506f31a15fc0.jpg?w=500&auto=format?w=200&auto=format) | Bitcoin Blast | <details><summary>Link</summary>[Bitcoin Blast](https://opensea.io/collection/bitcoin-blast-1)</details> |
+| **<details><summary>DAOlab - Blockc...</summary>DAOlab - Blockchain fundamentos</details>** | ![Image](https://i.seadn.io/s/raw/files/0ffb05c1924009b4937aff451c789e30.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DAOlab - Blockchain fundamentos](https://opensea.io/collection/daolab-blockchain-fundamentos)</details> |
 
 </div>
