@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/86f4290856765b9a6327f27c8d4e47a2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-5306)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/1ef1b03e1637f0a91325e8ef5df9d1a8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4115)</details> |
-| **Degen Gorgs** | ![Image](https://i.seadn.io/s/raw/files/b1df9fe1697a9cf24648630ea4e143a3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Degen Gorgs](https://opensea.io/collection/degen-gorgs)</details> |
+| **Fighter** | ![Image](https://i.seadn.io/s/raw/files/3b7cff9ffd6b26813de8d0b3ac5337b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fighter](https://opensea.io/collection/fighter-48)</details> |
+| **FREEDOM I** | ![Image](https://i.seadn.io/s/raw/files/2a5813db16f923baf4cd40db123bb7e0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>multi-faceted collection of al...</summary>multi-faceted collection of all things freedom.
+FIGHTS, PROTESTS, VOICES, VIVA ALUTA etc.</details> | <details><summary>Link</summary>[FREEDOM I](https://opensea.io/collection/freedom-i-1)</details> |
+| **Stella** | ![Image](https://i.seadn.io/s/raw/files/855af54120e77ee1bb500d13662fa42f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Stella](https://opensea.io/collection/stella-42)</details> |
+| **Victoria** | ![Image](https://i.seadn.io/s/raw/files/cb7bd07a69b3437137b0e81aef802351.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Victoria](https://opensea.io/collection/victoria-62)</details> |
 
 </div>
