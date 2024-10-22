@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **:3** | ![Image](https://i.seadn.io/s/raw/files/911d74ac46dfcc174a6809a15e926965.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[:3](https://opensea.io/collection/3-102)</details> |
-| **apples** | ![Image](https://i.seadn.io/s/raw/files/6b4a0d4e9d434852c98f5394353e2907.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[apples](https://opensea.io/collection/apples-38)</details> |
+| **<details><summary>2ETH gift at lc...</summary>2ETH gift at lc.cx/ldo</details>** | ![Image](https://i.seadn.io/s/raw/files/fe50a273d2ae2ff8c584e12f8cc2171d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[2ETH gift at lc.cx/ldo](https://opensea.io/collection/2eth-gift-at-lc-cx-ldo-178)</details> |
+| **<details><summary>39614's Followe...</summary>39614's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[39614's Follower](https://opensea.io/collection/39614-s-follower)</details> |
 
 </div>
