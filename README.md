@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Velocity Alumin...</summary>Velocity Aluminium</details>** | ![Image](https://i.seadn.io/s/raw/files/1e5389e921f24d9f400d9d6e12e7e17e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Velocity Aluminium](https://opensea.io/collection/velocity-aluminium)</details> |
+| **glitch block** | ![Image](https://i.seadn.io/s/raw/files/7e64e8f38ce8b83028090733adf2baac.png?w=500&auto=format?w=200&auto=format) | glitch block | <details><summary>Link</summary>[glitch block](https://opensea.io/collection/glitch-block)</details> |
 
 </div>
