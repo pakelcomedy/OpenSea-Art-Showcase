@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Dragon Bull** | ![Image](https://i.seadn.io/s/raw/files/393321af36ce9474986a15e2a8bb9411.jpg?w=500&auto=format?w=200&auto=format) | Get ready to big bull run | <details><summary>Link</summary>[Dragon Bull](https://opensea.io/collection/dragon-bull-4)</details> |
-| **<details><summary>women footballe...</summary>women footballer</details>** | ![Image](https://i.seadn.io/s/raw/files/14e5d5c082ff0c3ae532cff3a6e3542e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[women footballer](https://opensea.io/collection/women-footballer)</details> |
-| **women** | ![Image](https://i.seadn.io/s/raw/files/3672fabb370d21d52129825134091d90.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[women](https://opensea.io/collection/women-220)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/86f4290856765b9a6327f27c8d4e47a2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-5306)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/1ef1b03e1637f0a91325e8ef5df9d1a8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4115)</details> |
+| **Degen Gorgs** | ![Image](https://i.seadn.io/s/raw/files/b1df9fe1697a9cf24648630ea4e143a3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Degen Gorgs](https://opensea.io/collection/degen-gorgs)</details> |
 
 </div>
