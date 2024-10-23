@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **d** | ![Image](https://i.seadn.io/s/raw/files/9946267b19a75a51a57fbff2c052fd0f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-1479)</details> |
-| **Dogs** | ![Image](https://i.seadn.io/s/raw/files/18370aab094dcce5bacef4e6464e0222.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dogs](https://opensea.io/collection/dogs-542)</details> |
-| **<details><summary>STANY Leadershi...</summary>STANY Leadership</details>** | ![Image](https://i.seadn.io/s/raw/files/59b79387d06a202a34c0d4199e784fb2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[STANY Leadership](https://opensea.io/collection/stany-leadership)</details> |
+| **Big Brother** | ![Image](https://i.seadn.io/s/raw/files/4acb8dca06a5cd974eaf6e4dd03fbb7e.jpg?w=500&auto=format?w=200&auto=format) | Chloe & Theo | <details><summary>Link</summary>[Big Brother](https://opensea.io/collection/big-brother-12)</details> |
+| **fook** | ![Image](https://i.seadn.io/s/raw/files/41d2b0899844267aae2ead87c4494b7e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fook](https://opensea.io/collection/fook-3)</details> |
+| **Serie Nordeste** | ![Image](https://i.seadn.io/s/raw/files/55ce47a60cd27eea97753fdbb13a5399.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Serie Nordeste](https://opensea.io/collection/serie-nordeste)</details> |
 
 </div>
