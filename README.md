@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/c8fd9393a0e254cf310314d718b8e053.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-5383)</details> |
-| **Exhale** | ![Image](https://i.seadn.io/s/raw/files/02784991e46fa61c4e9373d79048e81a.png?w=500&auto=format?w=200&auto=format) | Parfums | <details><summary>Link</summary>[Exhale](https://opensea.io/collection/exhale-4)</details> |
+| **Little face** | ![Image](https://i.seadn.io/s/raw/files/cf80a33be031eb12f62ca6388943c151.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The smallest face I've ever pa...</summary>The smallest face I've ever painted is smaller than my finger!</details> | <details><summary>Link</summary>[Little face](https://opensea.io/collection/little-face)</details> |
+| **77po** | ![Image](https://i.seadn.io/s/raw/files/81948e15f7cb588cc1e82843f28f0288.jpg?w=500&auto=format?w=200&auto=format) | 77op | <details><summary>Link</summary>[77po](https://opensea.io/collection/77po)</details> |
 
 </div>
