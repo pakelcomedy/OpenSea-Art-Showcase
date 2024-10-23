@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **lex** | ![Image](https://i.seadn.io/s/raw/files/d7b0a560de2a4970358eb44fe786c87e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lex](https://opensea.io/collection/lex-90)</details> |
-| **FUSIONARY** | ![Image](https://i.seadn.io/s/raw/files/89bf77e397622c32f62bbc095f4d55b1.jpg?w=500&auto=format?w=200&auto=format) | A World of Hybrid Creatures | <details><summary>Link</summary>[FUSIONARY](https://opensea.io/collection/fusionary)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/9946267b19a75a51a57fbff2c052fd0f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-1479)</details> |
+| **Dogs** | ![Image](https://i.seadn.io/s/raw/files/18370aab094dcce5bacef4e6464e0222.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dogs](https://opensea.io/collection/dogs-542)</details> |
+| **<details><summary>STANY Leadershi...</summary>STANY Leadership</details>** | ![Image](https://i.seadn.io/s/raw/files/59b79387d06a202a34c0d4199e784fb2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[STANY Leadership](https://opensea.io/collection/stany-leadership)</details> |
 
 </div>
