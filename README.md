@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **{Pearl}** | ![Image](https://i.seadn.io/s/raw/files/bd232a459c5435affdbf2fe28dc5e5cb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[{Pearl}](https://opensea.io/collection/pearl-99)</details> |
+| **SHIBAL FOR ZORA** | ![Image](https://i.seadn.io/s/raw/files/57b3abdf309ff0890ffa246f9217b941.jpg?w=500&auto=format?w=200&auto=format) | SHIBAL FOR ZORA | <details><summary>Link</summary>[SHIBAL FOR ZORA](https://opensea.io/collection/shibal-for-zora)</details> |
 
 </div>
