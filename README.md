@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **inu** | ![Image](https://i.seadn.io/s/raw/files/da97ce14fb54d86b679d57a49e0f3941.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[inu](https://opensea.io/collection/inu-16)</details> |
-| **Pixel Foxes** | ![Image](https://i.seadn.io/s/raw/files/531106ee65ca0a5362e9a16c29ce7e57.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Foxes](https://opensea.io/collection/pixel-foxes-328)</details> |
-| **Superchain** | ![Image](https://i.seadn.io/s/raw/files/f4ca52e01dd55356b3d0b59e9b906fb0.jpg?w=500&auto=format?w=200&auto=format) | Superchain | <details><summary>Link</summary>[Superchain](https://opensea.io/collection/superchain-48)</details> |
+| **salu** | ![Image](https://i.seadn.io/s/raw/files/b86be18c6ce0ad0c9758743046ca97eb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[salu](https://opensea.io/collection/salu-2)</details> |
+| **<details><summary>Celestial Pulse...</summary>Celestial Pulse: Through Light & Sound We Thrive</details>** | ![Image](https://i.seadn.io/s/raw/files/e4ab754733383f68698e8a4e1a1807c1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Celestial Pulse: Through Light & Sound We Thrive](https://opensea.io/collection/celestial-pulse-through-light-sound-we-thrive)</details> |
+| **Drops** | ![Image](https://i.seadn.io/s/raw/files/94108819d69207b46886aba0758912fe.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Drops](https://opensea.io/collection/drops-61)</details> |
+| **<details><summary>0xbf0a82b7c63ed...</summary>0xbf0a82b7c63ed25644826bb0448cc327e605bef4</details>** | ![Image](https://i.seadn.io/s/raw/files/c2cda80170f744fdf980b46b9e79e1da.jpg?w=500&auto=format?w=200&auto=format) | optimism | <details><summary>Link</summary>[0xbf0a82b7c63ed25644826bb0448cc327e605bef4](https://opensea.io/collection/0xbf0a82b7c63ed25644826bb0448cc327e605bef4)</details> |
 
 </div>
