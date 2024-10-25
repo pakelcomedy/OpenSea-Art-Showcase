@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FUJIYAMA SILVER** | ![Image](https://i.seadn.io/s/raw/files/66254f12cf355cfd1a520d361bca2f97.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FUJIYAMA SILVER](https://opensea.io/collection/fujiyama-silver)</details> |
+| **Bridge** | ![Image](https://i.seadn.io/s/raw/files/6731aa169cdb3ef3c772cdead8ee529a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bridge](https://opensea.io/collection/bridge-287)</details> |
 
 </div>
