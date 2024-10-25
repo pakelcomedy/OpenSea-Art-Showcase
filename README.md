@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12553</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12553](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12553)</details> |
+| **Halifax** | ![Image](https://i.seadn.io/s/raw/files/051cd428c3bd74ca12de73bf34a28f11.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Halifax](https://opensea.io/collection/halifax-14)</details> |
 
 </div>
