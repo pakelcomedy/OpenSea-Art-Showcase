@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **lutts** | ![Image](https://i.seadn.io/s/raw/files/a033e16876ab2c5bd6e7be4c49ae052b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lutts](https://opensea.io/collection/lutts)</details> |
+| **ART** | ![Image](https://i.seadn.io/s/raw/files/518fdedec8afb0c8009dfe4fb5417a7c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ART](https://opensea.io/collection/art-1318)</details> |
 
 </div>
