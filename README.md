@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **j** | ![Image](https://i.seadn.io/s/raw/files/1db0454cd5e7ae9f1dd543ffd6bed0dd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[j](https://opensea.io/collection/j-307)</details> |
-| **<details><summary>The flying robo...</summary>The flying robot</details>** | ![Image](https://i.seadn.io/s/raw/files/e30ff3fd3feb7d53c1f9b1da483ffde6.png?w=500&auto=format?w=200&auto=format) | The flying robot | <details><summary>Link</summary>[The flying robot](https://opensea.io/collection/the-flying-robot)</details> |
-| **Nature** | ![Image](https://i.seadn.io/s/raw/files/e9d657013a7a5998a8ffd657af4ac807.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nature](https://opensea.io/collection/nature-2631)</details> |
-| **Zora Leak** | ![Image](https://i.seadn.io/s/raw/files/3eb5aea41875ef7f523d18e3ddd0a29d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zora Leak](https://opensea.io/collection/zora-leak)</details> |
-| **whitemountain** | ![Image](https://i.seadn.io/s/raw/files/5ca5fbb157f32f2b729196db717c94cd.png?w=500&auto=format?w=200&auto=format) | whitemountain | <details><summary>Link</summary>[whitemountain](https://opensea.io/collection/whitemountain-1)</details> |
+| **EXIT THIS WAY** | ![Image](https://i.seadn.io/s/raw/files/299f47249a6c3a84107c6e10843a4f8c.jpg?w=500&auto=format?w=200&auto=format) | EXIT THIS WAY | <details><summary>Link</summary>[EXIT THIS WAY](https://opensea.io/collection/exit-this-way)</details> |
+| **sulta** | ![Image](https://i.seadn.io/s/raw/files/11705c63394d10f5968b5cc6b7bd69f4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sulta](https://opensea.io/collection/sulta-1)</details> |
+| **seggy** | ![Image](https://i.seadn.io/s/raw/files/8efc2cc425be5970ed0f4d2872e24186.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[seggy](https://opensea.io/collection/seggy)</details> |
+| **plover** | ![Image](https://i.seadn.io/s/raw/files/8277303b84a6bd471475ac8249a3da5b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[plover](https://opensea.io/collection/plover-1)</details> |
+| **I'm leaving.** | ![Image](https://i.seadn.io/s/raw/files/e1a9268be912bdf99a4262c64e30bf1e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[I'm leaving.](https://opensea.io/collection/i-m-leaving)</details> |
 
 </div>
