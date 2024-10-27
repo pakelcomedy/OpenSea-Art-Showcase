@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **EXIT THIS WAY** | ![Image](https://i.seadn.io/s/raw/files/299f47249a6c3a84107c6e10843a4f8c.jpg?w=500&auto=format?w=200&auto=format) | EXIT THIS WAY | <details><summary>Link</summary>[EXIT THIS WAY](https://opensea.io/collection/exit-this-way)</details> |
-| **sulta** | ![Image](https://i.seadn.io/s/raw/files/11705c63394d10f5968b5cc6b7bd69f4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sulta](https://opensea.io/collection/sulta-1)</details> |
-| **seggy** | ![Image](https://i.seadn.io/s/raw/files/8efc2cc425be5970ed0f4d2872e24186.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[seggy](https://opensea.io/collection/seggy)</details> |
-| **plover** | ![Image](https://i.seadn.io/s/raw/files/8277303b84a6bd471475ac8249a3da5b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[plover](https://opensea.io/collection/plover-1)</details> |
-| **I'm leaving.** | ![Image](https://i.seadn.io/s/raw/files/e1a9268be912bdf99a4262c64e30bf1e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[I'm leaving.](https://opensea.io/collection/i-m-leaving)</details> |
+| **Young Is** | ![Image](https://i.seadn.io/s/raw/files/780a122a02d8b275f448ae6030231951.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Young Is](https://opensea.io/collection/young-is)</details> |
+| **<details><summary>Synthverse Chro...</summary>Synthverse Chronicles</details>** | ![Image](https://i.seadn.io/s/raw/files/6e2b311593ba202cb2ba244cfdd53df1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Synthverse Chronicles](https://opensea.io/collection/synthverse-chronicles)</details> |
+| **<details><summary>Project Zenogak...</summary>Project Zenogakki</details>** | ![Image](https://i.seadn.io/s/raw/files/02c40e94acf9f49d09231e38f0bbc2ba.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Project Zenogakki](https://opensea.io/collection/project-zenogakki-157)</details> |
 
 </div>
