@@ -6,10 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mocuishle** | ![Image](https://i.seadn.io/s/raw/files/baf525f8d24e8dd8bfb3f78b15cef3c8.jpg?w=500&auto=format?w=200&auto=format) | Nature | <details><summary>Link</summary>[Mocuishle](https://opensea.io/collection/mocuishle-3)</details> |
-| **Fallen Apple** | ![Image](https://i.seadn.io/s/raw/files/6b1bf30508fd205b8ef14032cad316e2.png?w=500&auto=format?w=200&auto=format) | <details><summary>Fall/Autumn is the season for ...</summary>Fall/Autumn is the season for this cocktail - okay, anytime is fine!
-
-Cocktail recipes for interested mixologists to craft at home. 
-Cheers!  🥃</details> | <details><summary>Link</summary>[Fallen Apple](https://opensea.io/collection/fallen-apple)</details> |
+| **<details><summary>Eternal wealth,...</summary>Eternal wealth, luck, and happiness</details>** | ![Image](https://i.seadn.io/s/raw/files/352b84932c02dd391ba559f4b439b196.png?w=500&auto=format?w=200&auto=format) | <details><summary>The symbol of eternal wealth, ...</summary>The symbol of eternal wealth, luck, and happiness within this vast universe—a grand emblem of joy and monumental success. It represents the unceasing rise to the heights of glory and power, fulfilling every material and spiritual desire, brimming with strength and energy for growth, enduring forever alongside the boundless universe and the infinite expanse of space and time.</details> | <details><summary>Link</summary>[Eternal wealth, luck, and happiness](https://opensea.io/collection/eternal-wealth-luck-and-happiness)</details> |
 
 </div>
