@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Young Is** | ![Image](https://i.seadn.io/s/raw/files/780a122a02d8b275f448ae6030231951.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Young Is](https://opensea.io/collection/young-is)</details> |
-| **<details><summary>Synthverse Chro...</summary>Synthverse Chronicles</details>** | ![Image](https://i.seadn.io/s/raw/files/6e2b311593ba202cb2ba244cfdd53df1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Synthverse Chronicles](https://opensea.io/collection/synthverse-chronicles)</details> |
-| **<details><summary>Project Zenogak...</summary>Project Zenogakki</details>** | ![Image](https://i.seadn.io/s/raw/files/02c40e94acf9f49d09231e38f0bbc2ba.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Project Zenogakki](https://opensea.io/collection/project-zenogakki-157)</details> |
+| **Mocuishle** | ![Image](https://i.seadn.io/s/raw/files/baf525f8d24e8dd8bfb3f78b15cef3c8.jpg?w=500&auto=format?w=200&auto=format) | Nature | <details><summary>Link</summary>[Mocuishle](https://opensea.io/collection/mocuishle-3)</details> |
+| **Fallen Apple** | ![Image](https://i.seadn.io/s/raw/files/6b1bf30508fd205b8ef14032cad316e2.png?w=500&auto=format?w=200&auto=format) | <details><summary>Fall/Autumn is the season for ...</summary>Fall/Autumn is the season for this cocktail - okay, anytime is fine!
+
+Cocktail recipes for interested mixologists to craft at home. 
+Cheers!  🥃</details> | <details><summary>Link</summary>[Fallen Apple](https://opensea.io/collection/fallen-apple)</details> |
 
 </div>
