@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **my toy car** | ![Image](https://i.seadn.io/s/raw/files/e4d95e92585ff5772dfd66d4b197cebe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[my toy car](https://opensea.io/collection/my-toy-car)</details> |
-| **Fire** | ![Image](https://i.seadn.io/s/raw/files/2950125b980f6c69710bb2ae9bb0cea2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fire](https://opensea.io/collection/fire-527)</details> |
+| **Pumpkin Spider** | ![Image](https://i.seadn.io/s/raw/files/2ceab9dee0075e9fdae5940c0f3ef55f.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pumpkin Spider](https://opensea.io/collection/pumpkin-spider)</details> |
+| **<details><summary>462975's Follow...</summary>462975's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[462975's Follower](https://opensea.io/collection/462975-s-follower)</details> |
+| **<details><summary>462014's Follow...</summary>462014's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[462014's Follower](https://opensea.io/collection/462014-s-follower)</details> |
 
 </div>
