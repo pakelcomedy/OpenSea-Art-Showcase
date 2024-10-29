@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Boundaries** | ![Image](https://i.seadn.io/s/raw/files/9ab237be7fcd9f37a21f69af795e5270.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Boundaries](https://opensea.io/collection/boundaries-15)</details> |
-| **Not AI** | ![Image](https://i.seadn.io/s/raw/files/32d5994702c1003257a9dde73b883e8a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Not AI](https://opensea.io/collection/not-ai-2)</details> |
-| **halloween** | ![Image](https://i.seadn.io/s/raw/files/89b03400a62d6b28ba25a23096ae19e0.jpg?w=500&auto=format?w=200&auto=format) | halloween | <details><summary>Link</summary>[halloween](https://opensea.io/collection/halloween-204)</details> |
-| **arborb** | ![Image](https://i.seadn.io/s/raw/files/8f2e272b54f9cb66a650c65c600938d3.png?w=500&auto=format?w=200&auto=format) | :) | <details><summary>Link</summary>[arborb](https://opensea.io/collection/arborb)</details> |
+| **<details><summary>information cop...</summary>information copy</details>** | ![Image](https://i.seadn.io/s/raw/files/4d3b74ed43de99647bb33ea331312705.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>serial everything purchase bro...</summary>serial everything purchase brought</details> | <details><summary>Link</summary>[information copy](https://opensea.io/collection/information-copy)</details> |
+| **do** | ![Image](https://i.seadn.io/s/raw/files/9093c5287505789ac83faa6c64e589d5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[do](https://opensea.io/collection/do-35)</details> |
+| **Man** | ![Image](https://i.seadn.io/s/raw/files/26c565104df2652188d0c2362d154e1f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Man](https://opensea.io/collection/man-442)</details> |
+| **<details><summary>far.cards - toy...</summary>far.cards - toying247</details>** | ![Image](https://i.seadn.io/s/raw/files/701b218fb04c3b1cb100dbf2f2641769.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[far.cards - toying247](https://opensea.io/collection/far-cards-toying247)</details> |
 
 </div>
