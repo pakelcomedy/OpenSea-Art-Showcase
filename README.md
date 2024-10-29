@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Imagination!** | ![Image](https://i.seadn.io/s/raw/files/3af1934d45e3b56c9dc4f4bacd49a0c3.jpg?w=500&auto=format?w=200&auto=format) | Imagination! | <details><summary>Link</summary>[Imagination!](https://opensea.io/collection/imagination-183)</details> |
-| **OPTIMISM** | ![Image](https://i.seadn.io/s/raw/files/20fb8d1bf28e3edd3d9dec7518cf0b58.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Optimism is a Collective of co...</summary>Optimism is a Collective of companies, communities, and citizens working together to reward public goods and build a sustainable future for Ethereum</details> | <details><summary>Link</summary>[OPTIMISM](https://opensea.io/collection/optimism-129)</details> |
+| **<details><summary>0x96c0a77462270...</summary>0x96c0a774622707f9897b8b536af20413967066a3</details>** | ![Image](https://i.seadn.io/s/raw/files/12d620f5215fe3ed7d217dc27097d222.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x96c0a774622707f9897b8b536af20413967066a3](https://opensea.io/collection/0x96c0a774622707f9897b8b536af20413967066a3)</details> |
+| **HP in Octuber** | ![Image](https://i.seadn.io/s/raw/files/2cf70a787cc4a3e5b54d1a0405f6b977.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HP in Octuber](https://opensea.io/collection/hp-in-octuber)</details> |
 
 </div>
