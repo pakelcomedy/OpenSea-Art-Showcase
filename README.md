@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **daba** | ![Image](https://i.seadn.io/s/raw/files/980dfc1f03eff90aa0cb274fa0e92fa4.jpg?w=500&auto=format?w=200&auto=format) | daba | <details><summary>Link</summary>[daba](https://opensea.io/collection/daba-4)</details> |
-| **<details><summary>Don't miss this...</summary>Don't miss this chance!</details>** | ![Image](https://i.seadn.io/s/raw/files/16d9d25e173f6eacc09b918de9c3d719.png?w=500&auto=format?w=200&auto=format) | Don't miss this chance! | <details><summary>Link</summary>[Don't miss this chance!](https://opensea.io/collection/don-t-miss-this-chance-377)</details> |
-| **<details><summary>Don't miss this...</summary>Don't miss this chance!</details>** | ![Image](https://i.seadn.io/s/raw/files/16d9d25e173f6eacc09b918de9c3d719.png?w=500&auto=format?w=200&auto=format) | Don't miss this chance! | <details><summary>Link</summary>[Don't miss this chance!](https://opensea.io/collection/don-t-miss-this-chance-376)</details> |
+| **Scenery** | ![Image](https://i.seadn.io/s/raw/files/47bbad1f6572ddeaa8959d8e345ca2bd.png?w=500&auto=format?w=200&auto=format) | Scenery | <details><summary>Link</summary>[Scenery](https://opensea.io/collection/scenery-189)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/f3f400454489ae74927958d71b4ba00f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4228)</details> |
 
 </div>
