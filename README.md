@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Squirrels!** | ![Image](https://i.seadn.io/s/raw/files/689db996076e38d2eecf8e623da19513.jpg?w=500&auto=format?w=200&auto=format) | Squirrels break-fast! | <details><summary>Link</summary>[Squirrels!](https://opensea.io/collection/squirrels-13)</details> |
+| **TEST_NFT_3110** | ![Image](https://i.seadn.io/s/raw/files/0a9bc96d2d6877242860fe43b9cc391e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TEST_NFT_3110](https://opensea.io/collection/test-nft-3110)</details> |
 
 </div>
