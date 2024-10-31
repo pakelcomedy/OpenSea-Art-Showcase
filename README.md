@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Layer3 Art Camp...</summary>Layer3 Art Campaign: Diaspora Dreamscape 19</details>** | ![Image](https://i.seadn.io/s/raw/files/ac3023b45fa2a04610095cacf6f71c2d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Layer3 Art Campaign: Diaspora Dreamscape 19](https://opensea.io/collection/layer3-art-campaign-diaspora-dreamscape-19)</details> |
-| **CITADELLIA** | ![Image](https://i.seadn.io/s/raw/files/61808ea77c1efdfc8bec314e54287584.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CITADELLIA](https://opensea.io/collection/citadellia)</details> |
+| **Squirrels!** | ![Image](https://i.seadn.io/s/raw/files/689db996076e38d2eecf8e623da19513.jpg?w=500&auto=format?w=200&auto=format) | Squirrels break-fast! | <details><summary>Link</summary>[Squirrels!](https://opensea.io/collection/squirrels-13)</details> |
 
 </div>
