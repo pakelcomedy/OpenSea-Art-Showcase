@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **cn** | ![Image](https://i.seadn.io/s/raw/files/798d7588e3f7f83b9c30a7566b6a8624.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cn](https://opensea.io/collection/cn-29)</details> |
-| **Kurt** | ![Image](https://i.seadn.io/s/raw/files/4e74440c29296bc946e7af3583b9b702.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Moisture ultram sheets silence...</summary>Moisture ultram sheets silence throws</details> | <details><summary>Link</summary>[Kurt](https://opensea.io/collection/kurt-30)</details> |
+| **Plan B** | ![Image](https://i.seadn.io/s/raw/files/c1055626d01db3355d4397a1157c9263.jpg?w=500&auto=format?w=200&auto=format) | Booooo | <details><summary>Link</summary>[Plan B](https://opensea.io/collection/plan-b-12)</details> |
+| **we are** | ![Image](https://i.seadn.io/s/raw/files/1bf146db28da46167955891376534159.jpg?w=500&auto=format?w=200&auto=format) | We are the moon | <details><summary>Link</summary>[we are](https://opensea.io/collection/we-are-12)</details> |
 
 </div>
