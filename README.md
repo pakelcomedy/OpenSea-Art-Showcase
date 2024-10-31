@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Padel 233** | ![Image](https://i.seadn.io/s/raw/files/c4cdd943f68b5cfc08d3996c122e0751.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Padel 233](https://opensea.io/collection/padel-233)</details> |
-| **FghY** | ![Image](https://i.seadn.io/s/raw/files/1144a1c85325fd0f657aabc251bf4efe.jpg?w=500&auto=format?w=200&auto=format) | YuM | <details><summary>Link</summary>[FghY](https://opensea.io/collection/fghy-3)</details> |
-| **<details><summary>The dot make by...</summary>The dot make by paint</details>** | ![Image](https://i.seadn.io/s/raw/files/8b4cfbb1e3f81f21e10fc8c09c5615a4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The dot make by paint](https://opensea.io/collection/the-dot-make-by-paint)</details> |
+| **<details><summary>Sciences Stoppe...</summary>Sciences Stopped</details>** | ![Image](https://i.seadn.io/s/raw/files/048235ac6430c0271e9e1f1dfc373f63.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sciences Stopped](https://opensea.io/collection/sciences-stopped)</details> |
+| **I can do it** | ![Image](https://i.seadn.io/s/raw/files/354d43565f53fca0f1a97d0c495599da.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Sometimes we have to put maxim...</summary>Sometimes we have to put maximum effort into one step to achieve a small goal.</details> | <details><summary>Link</summary>[I can do it](https://opensea.io/collection/i-can-do-it-4)</details> |
+| **fifi** | ![Image](https://i.seadn.io/s/raw/files/37dd73b9337a568fe0e067945681b3cf.png?w=500&auto=format?w=200&auto=format) | ififi | <details><summary>Link</summary>[fifi](https://opensea.io/collection/fifi-17)</details> |
 
 </div>
