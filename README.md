@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Take this.** | ![Image](https://i.seadn.io/s/raw/files/f9bd25d8f4831bbcf9512152e5902515.jpg?w=500&auto=format?w=200&auto=format) | Take this. | <details><summary>Link</summary>[Take this.](https://opensea.io/collection/take-this-3)</details> |
-| **Haunted Miggles** | ![Image](https://i.seadn.io/s/raw/files/0c5efb019013c58bdda5162d0f524975.jpg?w=500&auto=format?w=200&auto=format) | On base | <details><summary>Link</summary>[Haunted Miggles](https://opensea.io/collection/haunted-miggles)</details> |
+| **PaintArt** | ![Image](https://i.seadn.io/s/raw/files/e6017191aa4443314852e3463acc0c99.png?w=500&auto=format?w=200&auto=format) | Art on paint | <details><summary>Link</summary>[PaintArt](https://opensea.io/collection/paintart-3)</details> |
+| **Meme Coin** | ![Image](https://i.seadn.io/s/raw/files/d70b60d1521bc8a634d7c3d7e3d28cf9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Meme Coin](https://opensea.io/collection/meme-coin-14)</details> |
 
 </div>
