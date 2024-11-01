@@ -6,10 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Nоun P8** | ![Image](https://i.seadn.io/s/raw/files/8d746ccc1b704a7bdb149947b52e84e2.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nоun P8](https://opensea.io/collection/noun-p8-23)</details> |
-| **The blue dress** | ![Image](https://i.seadn.io/s/raw/files/d63690c7b7139a2330bf406faf6238b4.jpg?w=500&auto=format?w=200&auto=format) | Photography by Me. 🖤 | <details><summary>Link</summary>[The blue dress](https://opensea.io/collection/the-blue-dress-1)</details> |
-| **Divine prophets** | ![Image](https://i.seadn.io/s/raw/files/0e8df136a6abba37892e3ab22bb89e86.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Divine prophets](https://opensea.io/collection/divine-prophets)</details> |
-| **<details><summary>Diploma Cigaret...</summary>Diploma Cigarettes</details>** | ![Image](https://i.seadn.io/s/raw/files/c9d3fb9f393d4c421bb6e3d65810141d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Diploma Cigarettes](https://opensea.io/collection/diploma-cigarettes)</details> |
-| **BaseZorb** | ![Image](https://i.seadn.io/s/raw/files/5dadd1e5810769677f73f8a8ae550fce.jpg?w=500&auto=format?w=200&auto=format) | BaseZorb | <details><summary>Link</summary>[BaseZorb](https://opensea.io/collection/basezorb-3)</details> |
+| **<details><summary>Labrador Retrie...</summary>Labrador Retriever Dog breed</details>** | ![Image](https://i.seadn.io/s/raw/files/cf8ef7dd0a1c5a6ece4f981bb855feb7.png?w=500&auto=format?w=200&auto=format) | <details><summary>Labrador Retriever
+Dog breed
+A...</summary>Labrador Retriever
+Dog breed
+A breed of dog. It was originally bred as a hunting hunting dog. Labradors are used in hunting, as guide dogs, rescue dogs, but mainly as companions. The breed originates on the island of Newfoundland on the east coast of Canada.</details> | <details><summary>Link</summary>[Labrador Retriever Dog breed](https://opensea.io/collection/labrador-retriever-dog-breed)</details> |
+| **<details><summary>r/avatartraders...</summary>r/avatartraders NFTs</details>** | ![Image](https://i.seadn.io/s/raw/files/e3087ad206c3e5a8da5e71756d441c2b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[r/avatartraders NFTs](https://opensea.io/collection/r-avatartraders-nfts)</details> |
+| **<details><summary>39500's Followe...</summary>39500's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[39500's Follower](https://opensea.io/collection/39500-s-follower)</details> |
 
 </div>
