@@ -6,36 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ARTCOIN** | ![Image](https://i.seadn.io/s/raw/files/60ecee562e99ef146c98760991854e0b.png?w=500&auto=format?w=200&auto=format) | <details><summary>ARTCOIN is :
-
-🚫 NOT YOUR AVERA...</summary>ARTCOIN is :
-
-🚫 NOT YOUR AVERAGE SHITCOIN 🚫
-
-Is an aesthetic experience on the internet and.. 
-
-The world's first intentionally unfair crypto launch. Making bad art profitable since 2024.
-We're proudly backed by:
-
-That guy from 4chan
-Your mom's Facebook friend who sells essential oils
-Three raccoons in a trenchcoat
-Trust us bro™️
-
-🏆 Features:
-
-Infinite supply (scarcity is for boomers)
-Zero utility (like most NFTs anyway)
-Terrible UI (it's not a bug, it's a feature)
-MS Paint certified
-Web 1.0 compatible
-
-💎 Remember: If you understand our whitepaper, you're probably wrong
-🔥 Coming soon™️ (or not)
-*This is not financial advice. This is barely advice at all.
-</details> | <details><summary>Link</summary>[ARTCOIN](https://opensea.io/collection/artcoin-3)</details> |
-| **NIRVANA** | ![Image](https://i.seadn.io/s/raw/files/ebdbd5484f6d2fe84beb75769904f632.jpg?w=500&auto=format?w=200&auto=format) | RESPECT AND HONOR | <details><summary>Link</summary>[NIRVANA](https://opensea.io/collection/nirvana-58)</details> |
-| **Shrim** | ![Image](https://i.seadn.io/s/raw/files/eaebb18020372e0b81d0b8a40ef61f61.jpg?w=500&auto=format?w=200&auto=format) | Shrim | <details><summary>Link</summary>[Shrim](https://opensea.io/collection/shrim)</details> |
-| **文贵先生诺亚方舟系列(1)** | ![Image](https://i.seadn.io/s/raw/files/a0f61a0a4c507693563fe52ebbd81048.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0x7b360f...</summary>https://mirror.xyz/10/0x7b360f5c1fb7cde66e50be6d452b038fdf82be11</details> | <details><summary>Link</summary>[文贵先生诺亚方舟系列(1)](https://opensea.io/collection/wen-gui-xian-sheng-nuo-ya-fang-zhou-xi-lie-1)</details> |
+| **<details><summary>0xee0069a2b83b2...</summary>0xee0069a2b83b2168796ccc87ab152f261b11fae7</details>** | ![Image](https://i.seadn.io/s/raw/files/f07f8d21b3dd646fec2828c5f577dc2e.jpg?w=500&auto=format?w=200&auto=format) | 5 | <details><summary>Link</summary>[0xee0069a2b83b2168796ccc87ab152f261b11fae7](https://opensea.io/collection/0xee0069a2b83b2168796ccc87ab152f261b11fae7)</details> |
+| **<details><summary>Mafia Accountan...</summary>Mafia Accountant</details>** | ![Image](https://i.seadn.io/s/raw/files/3262330e84078f6acf580aa317f6c31c.png?w=500&auto=format?w=200&auto=format) | Mafia accountant | <details><summary>Link</summary>[Mafia Accountant](https://opensea.io/collection/mafia-accountant)</details> |
+| **<details><summary>AI Clues Uncove...</summary>AI Clues Uncovered</details>** | ![Image](https://i.seadn.io/s/raw/files/694ddaabe39b4e336fb59d88aaef47b6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AI Clues Uncovered](https://opensea.io/collection/ai-clues-uncovered)</details> |
+| **<details><summary>Fluffy Demon Lo...</summary>Fluffy Demon Lord</details>** | ![Image](https://i.seadn.io/s/raw/files/efe46dbc46810d19292843ac90c7e523.webp?w=500&auto=format?w=200&auto=format) | <details><summary>In the grand, ominous hall bat...</summary>In the grand, ominous hall bathed in shadows and fiery red light, a powerful black cat with piercing red eyes sits regally on an ornate, dark throne. Around him gather a host of demonic minions, bowing in loyal submission, their twisted forms wreathed in smoke and flame.The cat, exuding authority and mystery, appears as the dark ruler of this underworld realm, with a fierce gaze that commands absolute devotion from his eerie followers.</details> | <details><summary>Link</summary>[Fluffy Demon Lord](https://opensea.io/collection/fluffy-demon-lord)</details> |
+| **Her** | ![Image](https://i.seadn.io/s/raw/files/c17e085b223e0f308dd905d69455f490.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Her](https://opensea.io/collection/her-111)</details> |
 
 </div>
