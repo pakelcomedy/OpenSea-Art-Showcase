@@ -6,12 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Labrador Retrie...</summary>Labrador Retriever Dog breed</details>** | ![Image](https://i.seadn.io/s/raw/files/cf8ef7dd0a1c5a6ece4f981bb855feb7.png?w=500&auto=format?w=200&auto=format) | <details><summary>Labrador Retriever
-Dog breed
-A...</summary>Labrador Retriever
-Dog breed
-A breed of dog. It was originally bred as a hunting hunting dog. Labradors are used in hunting, as guide dogs, rescue dogs, but mainly as companions. The breed originates on the island of Newfoundland on the east coast of Canada.</details> | <details><summary>Link</summary>[Labrador Retriever Dog breed](https://opensea.io/collection/labrador-retriever-dog-breed)</details> |
-| **<details><summary>r/avatartraders...</summary>r/avatartraders NFTs</details>** | ![Image](https://i.seadn.io/s/raw/files/e3087ad206c3e5a8da5e71756d441c2b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[r/avatartraders NFTs](https://opensea.io/collection/r-avatartraders-nfts)</details> |
-| **<details><summary>39500's Followe...</summary>39500's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[39500's Follower](https://opensea.io/collection/39500-s-follower)</details> |
+| **Veil of Crimson** | ![Image](https://i.seadn.io/s/raw/files/21b25bc437bae09b13372dbd41d62dd4.webp?w=500&auto=format?w=200&auto=format) | <details><summary>This artwork presents a striki...</summary>This artwork presents a striking image of a face emerging through a layer of intense red paint. The closed eyes and serene expression contrast with the vibrancy of the red, evoking themes of identity and transformation. Through a bold, singular color, it reflects the delicate line between concealment and revelation.</details> | <details><summary>Link</summary>[Veil of Crimson](https://opensea.io/collection/veil-of-crimson)</details> |
 
 </div>
