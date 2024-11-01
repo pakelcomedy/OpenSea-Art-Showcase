@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **shinobi** | ![Image](https://i.seadn.io/s/raw/files/94d1100dd084d970f473dd7aea722bc1.jpg?w=500&auto=format?w=200&auto=format) | shinobi | <details><summary>Link</summary>[shinobi](https://opensea.io/collection/shinobi-16)</details> |
-| **puertorico** | ![Image](https://i.seadn.io/s/raw/files/fd98c4215c87acd3a6ac9e30610c9a88.jpg?w=500&auto=format?w=200&auto=format) | puerto rico | <details><summary>Link</summary>[puertorico](https://opensea.io/collection/puertorico-1)</details> |
+| **Moxie art** | ![Image](https://i.seadn.io/s/raw/files/d022231e7aace68f0e4724a843527463.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Mint my nft to get my Ⓜ️oxie p...</summary>Mint my nft to get my Ⓜ️oxie pool 50.000. 
+</details> | <details><summary>Link</summary>[Moxie art](https://opensea.io/collection/moxie-art)</details> |
+| **<details><summary>Budyz Collectio...</summary>Budyz Collection V2</details>** | ![Image](https://i.seadn.io/s/raw/files/b4d9e5198c47b3b6ba04f11026ddb2bc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Budyz Collection V2](https://opensea.io/collection/budyz-collection-v2)</details> |
 
 </div>
