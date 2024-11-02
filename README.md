@@ -6,6 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Fog Whispering** | ![Image](https://i.seadn.io/s/raw/files/3f52ec6f8de7dab773cbfc89539c6f67.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The fog cloaks the familiar tr...</summary>The fog cloaks the familiar tree line , turning it into something poetic and almost otherworldly, inviting you to pause and listen to the whispers of the stillness.</details> | <details><summary>Link</summary>[Fog Whispering](https://opensea.io/collection/fog-whispering)</details> |
+| **Cats drawing** | ![Image](https://i.seadn.io/s/raw/files/d8fb005619b438f65a2a87317f67e263.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>My pencil drawing of Cats. 
+Me...</summary>My pencil drawing of Cats. 
+Medium: graphite and charcoal on paper + digital post production</details> | <details><summary>Link</summary>[Cats drawing](https://opensea.io/collection/cats-drawing)</details> |
+| **<details><summary>Beautifulest Oc...</summary>Beautifulest Octopus Dish</details>** | ![Image](https://i.seadn.io/s/raw/files/78e13024495685c4910f18a134de3a03.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Beautifulest Octopus Dish](https://opensea.io/collection/beautifulest-octopus-dish)</details> |
+| **Alpha Pass** | ![Image](https://i.seadn.io/s/raw/files/27c3c114f41ba244db8db41a2ce0a02b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Alpha Pass](https://opensea.io/collection/alpha-pass-23)</details> |
 
 </div>
