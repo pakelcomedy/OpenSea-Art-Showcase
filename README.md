@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Veiled Emotions** | ![Image](https://i.seadn.io/s/raw/files/f67324a1bbef4dcadd2e4b9a79b30ab9.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Veiled Emotions](https://opensea.io/collection/veiled-emotions-2)</details> |
-| **RE-GENZ** | ![Image](https://i.seadn.io/s/raw/files/9c9be3019398f8536d6fa15a6fd56b33.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RE-GENZ](https://opensea.io/collection/re-genz-5)</details> |
+| **170's Follower** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[170's Follower](https://opensea.io/collection/170-s-follower)</details> |
+| **<details><summary>Unhealthy veget...</summary>Unhealthy vegeteble</details>** | ![Image](https://i.seadn.io/s/raw/files/ee5dcd5f427a04269c5714fae06c5f08.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unhealthy vegeteble](https://opensea.io/collection/unhealthy-vegeteble)</details> |
 
 </div>
