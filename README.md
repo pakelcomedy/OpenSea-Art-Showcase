@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Quirv Graphics ...</summary>Quirv Graphics Design Square</details>** | ![Image](https://i.seadn.io/s/raw/files/9e46362ace14d377ecd396358b7505fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirv Graphics Design Square](https://opensea.io/collection/quirv-graphics-design-square-1)</details> |
-| **Autumn 3** | ![Image](https://i.seadn.io/s/raw/files/46eaf27e42df4ff166445363b8b184b5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Autumn 3](https://opensea.io/collection/autumn-3-3)</details> |
+| **Darkness** | ![Image](https://i.seadn.io/s/raw/files/aee93bceea571105bb9706212c6cb51e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Darkness](https://opensea.io/collection/darkness-140)</details> |
+| **<details><summary>Floating Realit...</summary>Floating Realities</details>** | ![Image](https://i.seadn.io/s/raw/files/f9391b0ee5b0df51dd0123dfd1858ff8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Floating Realities](https://opensea.io/collection/floating-realities)</details> |
 
 </div>
