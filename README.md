@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ZORA NFT** | ![Image](https://i.seadn.io/s/raw/files/907c8133e160279d733b642a3cda8a71.jpg?w=500&auto=format?w=200&auto=format) | The best CATs on Zora | <details><summary>Link</summary>[ZORA NFT](https://opensea.io/collection/zora-nft-152)</details> |
+| **Zora the goat** | ![Image](https://i.seadn.io/s/raw/files/e67090153a75353eeeb43b716a34fb7a.png?w=500&auto=format?w=200&auto=format) | By creators for creators  | <details><summary>Link</summary>[Zora the goat](https://opensea.io/collection/zora-the-goat)</details> |
 
 </div>
