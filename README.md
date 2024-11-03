@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Mosquée Hassan ...</summary>Mosquée Hassan II et Pleine Lune</details>** | ![Image](https://i.seadn.io/s/raw/files/ba52eb98f31d510020d54386eb444ef5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mosquée Hassan II et Pleine Lune](https://opensea.io/collection/mosquee-hassan-ii-et-pleine-lune)</details> |
-| **suii** | ![Image](https://i.seadn.io/s/raw/files/a7780b539b64b5be80626762c3689e6c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[suii](https://opensea.io/collection/suii-2)</details> |
+| **Halloween** | ![Image](https://i.seadn.io/s/raw/files/a1df9f9d9550f73bcd6979bd50a6daf0.jpg?w=500&auto=format?w=200&auto=format) | Halloween | <details><summary>Link</summary>[Halloween](https://opensea.io/collection/halloween-243)</details> |
+| **Lazy Du OG Pass** | ![Image](https://i.seadn.io/s/raw/files/f0cb03bfadfebb8f3715e17cf99291e7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lazy Du OG Pass](https://opensea.io/collection/lazy-du-og-pass)</details> |
+| **We Try Again** | ![Image](https://i.seadn.io/s/raw/files/1b927d9bc0b0bcd1e99eaa8069a15e20.jpg?w=500&auto=format?w=200&auto=format) | Just Web3 | <details><summary>Link</summary>[We Try Again](https://opensea.io/collection/we-try-again)</details> |
 
 </div>
