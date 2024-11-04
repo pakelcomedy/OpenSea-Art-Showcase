@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **It's sumer** | ![Image](https://i.seadn.io/s/raw/files/f61f2b678d89c651f9e578acf130fdda.jpg?w=500&auto=format?w=200&auto=format) | Anything to do with summer | <details><summary>Link</summary>[It's sumer](https://opensea.io/collection/it-s-sumer)</details> |
-| **<details><summary>Absurdity of No...</summary>Absurdity of Now</details>** | ![Image](https://i.seadn.io/s/raw/files/4572bc37b8472c418c45cc0d8ced7a18.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Absurdity of Now](https://opensea.io/collection/absurdity-of-now)</details> |
+| **<details><summary>Unconventional ...</summary>Unconventional Creativity</details>** | ![Image](https://i.seadn.io/s/raw/files/da041ff413553c6647c1380f07cf6564.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unconventional Creativity](https://opensea.io/collection/unconventional-creativity-1)</details> |
+| **Scenario** | ![Image](https://i.seadn.io/s/raw/files/eb56b4a84e7987fcdea4e611e9748042.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Scenario](https://opensea.io/collection/scenario-12)</details> |
 
 </div>
