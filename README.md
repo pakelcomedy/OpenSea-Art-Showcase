@@ -6,9 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Don't miss this...</summary>Don't miss this chance!</details>** | ![Image](https://i.seadn.io/s/raw/files/faaf43ce9974d64a13f145f3a8d69987.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Don't miss this chance!](https://opensea.io/collection/don-t-miss-this-chance-2210)</details> |
-| **<details><summary>Don't miss this...</summary>Don't miss this chance!</details>** | ![Image](https://i.seadn.io/s/raw/files/faaf43ce9974d64a13f145f3a8d69987.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Don't miss this chance!](https://opensea.io/collection/don-t-miss-this-chance-2209)</details> |
-| **<details><summary>Don't miss this...</summary>Don't miss this chance!</details>** | ![Image](https://i.seadn.io/s/raw/files/faaf43ce9974d64a13f145f3a8d69987.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Don't miss this chance!](https://opensea.io/collection/don-t-miss-this-chance-2208)</details> |
-| **<details><summary>Don't miss this...</summary>Don't miss this chance!</details>** | ![Image](https://i.seadn.io/s/raw/files/faaf43ce9974d64a13f145f3a8d69987.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Don't miss this chance!](https://opensea.io/collection/don-t-miss-this-chance-2207)</details> |
+| **J4** | ![Image](https://i.seadn.io/s/raw/files/e37a95a8575e2a63de9dbf25146611bc.jpg?w=500&auto=format?w=200&auto=format) | J4 | <details><summary>Link</summary>[J4](https://opensea.io/collection/j4-9)</details> |
 
 </div>
