@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-8347)</details> |
+| **peredok** | ![Image](https://i.seadn.io/s/raw/files/96486b5b70e62d16249d25bd909d775b.png?w=500&auto=format?w=200&auto=format) | peredok | <details><summary>Link</summary>[peredok](https://opensea.io/collection/peredok)</details> |
+| **Mr.G¡ggle** | ![Image](https://i.seadn.io/s/raw/files/8690f75d18764b24063e03efe2738c1a.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mr.G¡ggle](https://opensea.io/collection/mr-g-ggle-41)</details> |
 
 </div>
