@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **dgee** | ![Image](https://i.seadn.io/s/raw/files/7525a6ac1586af1db437ddc87ac26e9d.png?w=500&auto=format?w=200&auto=format) | dgee | <details><summary>Link</summary>[dgee](https://opensea.io/collection/dgee)</details> |
+| **<details><summary>Pixelated Realm...</summary>Pixelated Realm NFTS</details>** | ![Image](https://i.seadn.io/s/raw/files/11afd6aacc90a8a0790ecd65f8b11cef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixelated Realm NFTS](https://opensea.io/collection/pixelated-realm-nfts)</details> |
 
 </div>
