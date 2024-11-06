@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>King Kong of Sk...</summary>King Kong of Skull Island LAND</details>** | ![Image](https://i.seadn.io/s/raw/files/f12697f6961e1bd67e2bf076765f0a91.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[King Kong of Skull Island LAND](https://opensea.io/collection/king-kong-of-skull-island-land)</details> |
-| **TUTU** | ![Image](https://i.seadn.io/s/raw/files/793a6a427109ad7eb5fa9654af6dd459.jpg?w=500&auto=format?w=200&auto=format) | FRGRH | <details><summary>Link</summary>[TUTU](https://opensea.io/collection/tutu-45)</details> |
+| **GK-test** | ![Image](https://i.seadn.io/s/raw/files/9d8ec5381cf08ed4ae511a9d8eb7cc9c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GK-test](https://opensea.io/collection/gk-test)</details> |
+| **chjbjm** | ![Image](https://i.seadn.io/s/raw/files/d18da95f0a3e21c920483f1389339a58.png?w=500&auto=format?w=200&auto=format) | srfgfbjmbm, | <details><summary>Link</summary>[chjbjm](https://opensea.io/collection/chjbjm)</details> |
 
 </div>
