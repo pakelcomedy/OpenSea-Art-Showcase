@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **love** | ![Image](https://i.seadn.io/s/raw/files/5e616eef3aa6bf9f6fb130272263ddfb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[love](https://opensea.io/collection/love-1487)</details> |
-| **Arb in Paris** | ![Image](https://i.seadn.io/s/raw/files/5d18cebd6623d5b3f2ee33051785470c.jpg?w=500&auto=format?w=200&auto=format) | Arb in Paris NFT Colloection | <details><summary>Link</summary>[Arb in Paris](https://opensea.io/collection/arb-in-paris)</details> |
-| **aaads** | ![Image](https://i.seadn.io/s/raw/files/ccb5ac00f43aa5e5dd04df023341056e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[aaads](https://opensea.io/collection/aaads)</details> |
+| **gang itb** | ![Image](https://i.seadn.io/s/raw/files/7ca8e75203f4860ab049210027e09dcb.jpg?w=500&auto=format?w=200&auto=format) | gang itb | <details><summary>Link</summary>[gang itb](https://opensea.io/collection/gang-itb)</details> |
+| **<details><summary>cool game (joke...</summary>cool game (joke)</details>** | ![Image](https://i.seadn.io/s/raw/files/e2cb20a394f14318e4cf5a8aaeb73ad3.webp?w=500&auto=format?w=200&auto=format) | cool game (joke) | <details><summary>Link</summary>[cool game (joke)](https://opensea.io/collection/cool-game-joke)</details> |
 
 </div>
