@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Pazuzu** | ![Image](https://i.seadn.io/s/raw/files/ee66b8876e0a39c5e31df97d9030b0e4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pazuzu](https://opensea.io/collection/pazuzu-4)</details> |
-| **bEbE** | ![Image](https://i.seadn.io/s/raw/files/9042cb677dbbf7a899e91238e16911a0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bEbE](https://opensea.io/collection/bebe-37)</details> |
-| **CUB3** | ![Image](https://i.seadn.io/s/raw/files/0a7c1bf91bf112520f242079ae770a2f.png?w=500&auto=format?w=200&auto=format) | CUB3 | <details><summary>Link</summary>[CUB3](https://opensea.io/collection/cub3-1)</details> |
+| **green space 2** | ![Image](https://i.seadn.io/s/raw/files/37847b96b998789abdaa2ceaac377eb6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[green space 2](https://opensea.io/collection/green-space-2)</details> |
+| **<details><summary>254686's Follow...</summary>254686's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[254686's Follower](https://opensea.io/collection/254686-s-follower)</details> |
+| **vghvbjhbjhbj** | ![Image](https://i.seadn.io/s/raw/files/8a3e6f1b69191436c2cb8fde62b7ef83.png?w=500&auto=format?w=200&auto=format) | chvghvjvj | <details><summary>Link</summary>[vghvbjhbjhbj](https://opensea.io/collection/vghvbjhbjhbj)</details> |
+| **<details><summary>487352's Follow...</summary>487352's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[487352's Follower](https://opensea.io/collection/487352-s-follower)</details> |
 
 </div>
