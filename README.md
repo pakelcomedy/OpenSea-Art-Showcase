@@ -6,18 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Mandala-Artwork...</summary>Mandala-Artwork-0001-2023</details>** | ![Image](https://i.seadn.io/s/raw/files/daa53035fc4d053c764b9f97ff9cbafc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mandala-Artwork-0001-2023](https://opensea.io/collection/mandala-artwork-0001-2023)</details> |
-| **<details><summary>11/9 投銭ミント「黒いドレ...</summary>11/9 投銭ミント「黒いドレスの女性」開催案内</details>** | ![Image](https://i.seadn.io/s/raw/files/6aa2dbfc0a2872c4cf7cbcdc42476f2a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>11/9 投銭ミント「黒いドレスの女性」
+| **<details><summary>RAGE x SPEED by...</summary>RAGE x SPEED by Zack Aqua RCA's x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/c0655dcfb6643316ee930030ce862eed.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user Zack Aqua RCA's as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/Zeccarr/).
 
-小路でたたずむ黒...</summary>11/9 投銭ミント「黒いドレスの女性」
+Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
 
-小路でたたずむ黒いドレスの女性の作品です
-秋らしい植栽の色が、ドレスの黒色と対比になっています、また、女性の赤の差し色がモノクロの世界を華やかにしています
+[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
 
-投銭ミントですので、すみませんが、1POINT以上の投銭をお願いします
-
-
-
-</details> | <details><summary>Link</summary>[11/9 投銭ミント「黒いドレスの女性」開催案内](https://opensea.io/collection/11-9-tou-qian-minto-hei-idoresunonu-xing-kai-cui-a)</details> |
+[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[RAGE x SPEED by Zack Aqua RCA's x Reddit Collectible Avatars](https://opensea.io/collection/rage-x-speed-by-zack-aqua-rca-s-x-reddit-collectib)</details> |
+| **achine 2025** | ![Image](https://i.seadn.io/s/raw/files/9d10d11949601965849de313b20186b0.png?w=500&auto=format?w=200&auto=format) | achine 2025 | <details><summary>Link</summary>[achine 2025](https://opensea.io/collection/achine-2025)</details> |
+| **wolf lover#03** | ![Image](https://i.seadn.io/s/raw/files/338fb4aebd5d65aa82eb88e844db153a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wolf lover#03](https://opensea.io/collection/wolf-lover-03-1)</details> |
 
 </div>
