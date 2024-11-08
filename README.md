@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x85c90fd57342f...</summary>0x85c90fd57342f11d98be44c8c0f5a17eb0c8250a</details>** | ![Image](https://i.seadn.io/s/raw/files/2f34fc78d11ca7dda7286dc12b0d0022.jpg?w=500&auto=format?w=200&auto=format) | 152 | <details><summary>Link</summary>[0x85c90fd57342f11d98be44c8c0f5a17eb0c8250a](https://opensea.io/collection/0x85c90fd57342f11d98be44c8c0f5a17eb0c8250a)</details> |
-| **Bario Goggles** | ![Image](https://i.seadn.io/s/raw/files/7f9d34f58194669adad1d17d0902bd5b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Maecenas aliquam, elit non con...</summary>Maecenas aliquam, elit non consequat dictum, mauris nisl tincidunt nulla.</details> | <details><summary>Link</summary>[Bario Goggles](https://opensea.io/collection/bario-goggles)</details> |
-| **beach** | ![Image](https://i.seadn.io/s/raw/files/4c55e8d34deb32f4287a6aecb42d13fc.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[beach](https://opensea.io/collection/beach-349)</details> |
+| **Universe** | ![Image](https://i.seadn.io/s/raw/files/454950f23fdbca930c69ffb8e5761751.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Universe](https://opensea.io/collection/universe-318)</details> |
+| **Tx** | ![Image](https://i.seadn.io/s/raw/files/4e157e9c6cacab7f9b5b32155e452d3c.png?w=500&auto=format?w=200&auto=format) | ... | <details><summary>Link</summary>[Tx](https://opensea.io/collection/tx-18)</details> |
+| **<details><summary>Crypto Knight: ...</summary>Crypto Knight: Legend Reborn.</details>** | ![Image](https://i.seadn.io/s/raw/files/1d862b70fa5affe3854ae7fa4ae3ebf5.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crypto Knight: Legend Reborn.](https://opensea.io/collection/crypto-knight-legend-reborn)</details> |
 
 </div>
