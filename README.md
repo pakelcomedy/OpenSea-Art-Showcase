@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **청년단편선 3_2회차** | ![Image](https://i.seadn.io/s/raw/files/223a9d9ef4142ac9463f713756a95d68.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[청년단편선 3_2회차](https://opensea.io/collection/ceongnyeondanpyeonseon-3-2hoeca-1)</details> |
-| **Hosts Plumbing** | ![Image](https://i.seadn.io/s/raw/files/57d9cc8d84946b094dc91ebefa6bacd5.jpg?w=500&auto=format?w=200&auto=format) | Supplement succeed expires | <details><summary>Link</summary>[Hosts Plumbing](https://opensea.io/collection/hosts-plumbing)</details> |
+| **SAMOTHRACE** | ![Image](https://i.seadn.io/s/raw/files/24c95a66994854bd6a15527e5f89ae6c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SAMOTHRACE](https://opensea.io/collection/samothrace-2)</details> |
+| **Onchаin P8** | ![Image](https://i.seadn.io/s/raw/files/62717f4f0409b2bf0bbec35cb1134803.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Onchаin P8](https://opensea.io/collection/onchain-p8-33)</details> |
 
 </div>
