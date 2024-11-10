@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ladder** | ![Image](https://i.seadn.io/s/raw/files/a9beeebca647cb61b3ccfbbb5f1a2fdf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ladder](https://opensea.io/collection/ladder-33)</details> |
+| **DDFGERCXVD** | ![Image](https://i.seadn.io/s/raw/files/1f97964c6114235984cab034c7b8454d.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DDFGERCXVD](https://opensea.io/collection/ddfgercxvd-5)</details> |
 
 </div>
