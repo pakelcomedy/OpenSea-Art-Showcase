@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sumus** | ![Image](https://i.seadn.io/s/raw/files/895c082313f1e14f34b129f4da367b4b.webp?w=500&auto=format?w=200&auto=format) | Osssu | <details><summary>Link</summary>[Sumus](https://opensea.io/collection/sumus)</details> |
-| **c** | ![Image](https://i.seadn.io/s/raw/files/65a38bc56a9ee0dae612b9d6044c55ba.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[c](https://opensea.io/collection/c-561)</details> |
-| **<details><summary>panther and leo...</summary>panther and leopard</details>** | ![Image](https://i.seadn.io/s/raw/files/503c66373ac3b8f641e35462daa5852a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[panther and leopard](https://opensea.io/collection/panther-and-leopard)</details> |
-| **basedo** | ![Image](https://i.seadn.io/s/raw/files/e521ba03a12967db44fe213cb13617f9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[basedo](https://opensea.io/collection/basedo-1)</details> |
-| **basedo** | ![Image](https://i.seadn.io/s/raw/files/e521ba03a12967db44fe213cb13617f9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[basedo](https://opensea.io/collection/basedo)</details> |
+| **<details><summary>SO SIMPLE BUT D...</summary>SO SIMPLE BUT DEEP</details>** | ![Image](https://i.seadn.io/s/raw/files/5905ea62fe1a26bafbcf768b5db347c1.png?w=500&auto=format?w=200&auto=format) | FOR COMMISSINS YOU CAN DM ME! | <details><summary>Link</summary>[SO SIMPLE BUT DEEP](https://opensea.io/collection/so-simple-but-deep)</details> |
+| **BLST** | ![Image](https://i.seadn.io/s/raw/files/23fad389f9be456ff087f7ada7326332.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BLST](https://opensea.io/collection/blst-4)</details> |
+| **<details><summary>flowers in a va...</summary>flowers in a vase</details>** | ![Image](https://i.seadn.io/s/raw/files/211f6aed0db545cbaea2d7d4984201f5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[flowers in a vase](https://opensea.io/collection/flowers-in-a-vase-1)</details> |
 
 </div>
