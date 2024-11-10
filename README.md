@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **man** | ![Image](https://i.seadn.io/s/raw/files/471633ec4c947c9b4b4b554ad4d782fb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[man](https://opensea.io/collection/man-448)</details> |
+| **ladder** | ![Image](https://i.seadn.io/s/raw/files/a9beeebca647cb61b3ccfbbb5f1a2fdf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ladder](https://opensea.io/collection/ladder-33)</details> |
 
 </div>
