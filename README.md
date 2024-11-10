@@ -6,17 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Red Or Blue Dog...</summary>Red Or Blue Dogg Pill</details>** | ![Image](https://i.seadn.io/s/raw/files/43e8d39530e7eee40c5681e5dd953923.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>404 NFTs for ROB" 
-
-Official #...</summary>404 NFTs for ROB" 
-
-Official #ROB 404 #NFTCollection Project Roadmap white list 🔐🔥❤️‍🔥🔥💙❤️‍🔥🔥❤️‍🔥🔥💙🔥❤️‍🔥🔥💙🔥❤️‍🔥🔥💙🔥
-Address : E2XeMixPEF9oPd1xkr3ckvKwGNf43BgdddvBpAsM8LEz
-
-"Launching a project is like setting sail on uncharted waters; every mistake is a discovery, every failure a step towards success. Embrace the journey, for in the pursuit of what's never been done, you find the true essence of innovation." 
-
-This quote captures the spirit of venturing into new territories, li</details> | <details><summary>Link</summary>[Red Or Blue Dogg Pill](https://opensea.io/collection/red-or-blue-dogg-pill)</details> |
-| **tuio** | ![Image](https://i.seadn.io/s/raw/files/2dc1ac2eb2bcbd70501e024264b26a9d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[tuio](https://opensea.io/collection/tuio-2)</details> |
-| **­ 1** | ![Image](https://i.seadn.io/s/raw/files/55bfcb26195291c15791d65c52b1908e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[­ 1](https://opensea.io/collection/1-311)</details> |
+| **<details><summary>0xf2ae6a92d40df...</summary>0xf2ae6a92d40df544ddb400353f63c2b3f6ea73ac</details>** | ![Image](https://i.seadn.io/s/raw/files/7f3560910810ca676c01e0b4b3229986.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xf2ae6a92d40df544ddb400353f63c2b3f6ea73ac](https://opensea.io/collection/0xf2ae6a92d40df544ddb400353f63c2b3f6ea73ac)</details> |
+| **<details><summary>beauty in natur...</summary>beauty in nature</details>** | ![Image](https://i.seadn.io/s/raw/files/79766a104a16da800e50559c9489662b.webp?w=500&auto=format?w=200&auto=format) | beauty in nature | <details><summary>Link</summary>[beauty in nature](https://opensea.io/collection/beauty-in-nature-7)</details> |
 
 </div>
