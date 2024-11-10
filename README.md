@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>488373's Follow...</summary>488373's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[488373's Follower](https://opensea.io/collection/488373-s-follower)</details> |
-| **<details><summary>0x30cd89b9321db...</summary>0x30cd89b9321db5e1a1c57792d0ae2bef6c3226f7</details>** | ![Image](https://i.seadn.io/s/raw/files/5c4f7e5775e541deddffd897df7a8abb.png?w=500&auto=format?w=200&auto=format) | <details><summary>The most impressive weapon of ...</summary>The most impressive weapon of destruction is fire. It destroys completely and irrevocably</details> | <details><summary>Link</summary>[0x30cd89b9321db5e1a1c57792d0ae2bef6c3226f7](https://opensea.io/collection/0x30cd89b9321db5e1a1c57792d0ae2bef6c3226f7)</details> |
+| **<details><summary>life woman free...</summary>life woman freedom</details>** | ![Image](https://i.seadn.io/s/raw/files/7ac103586952329650b04305b8cde7c0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[life woman freedom](https://opensea.io/collection/life-woman-freedom)</details> |
+| **Milfa** | ![Image](https://i.seadn.io/s/raw/files/a3d8dc3062ff3d2e1bb4c3e2a3ab83ac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Milfa](https://opensea.io/collection/milfa-6)</details> |
 
 </div>
