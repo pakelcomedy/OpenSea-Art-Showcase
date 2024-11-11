@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **PIXELAO** | ![Image](https://i.seadn.io/s/raw/files/b63b5b13b20b9d86b14fc961bf225ad1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Pixelao is a free tool designe...</summary>Pixelao is a free tool designed by artists for artists. 
-A space to create pixel art and enjoy.
-Feel free in pixelao.com 
-The collection is of artworks made with pixelao.</details> | <details><summary>Link</summary>[PIXELAO](https://opensea.io/collection/pixelao-1)</details> |
+| **Abstract** | ![Image](https://i.seadn.io/s/raw/files/257b64117c39b9134c6adb3268c72c00.png?w=500&auto=format?w=200&auto=format) | Abstract | <details><summary>Link</summary>[Abstract](https://opensea.io/collection/abstract-645)</details> |
+| **QRZUKI** | ![Image](https://i.seadn.io/s/raw/files/24d85017c3fbddba266d82fbf98ea58c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[QRZUKI](https://opensea.io/collection/qrzuki-140)</details> |
 
 </div>
