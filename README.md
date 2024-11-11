@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Line Value 66** | ![Image](https://i.seadn.io/s/raw/files/24e06b3ea3d0d823ed59fab7fd84eb29.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Line Value 66](https://opensea.io/collection/line-value-66)</details> |
+| **Dwight** | ![Image](https://i.seadn.io/s/raw/files/6195859be89dc1b74030315ddccd4f44.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dwight](https://opensea.io/collection/dwight-4)</details> |
 
 </div>
