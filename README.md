@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **­ z** | ![Image](https://i.seadn.io/s/raw/files/b1adc851b52f3dc7811069917061eb6e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[­ z](https://opensea.io/collection/z-532)</details> |
+| **<details><summary>Moreau - Como m...</summary>Moreau - Como me gusta cuando me comen el coño</details>** | ![Image](https://i.seadn.io/s/raw/files/1d7d7828cc614c3ee3edb676921b56b6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Created by Moreau on Sound. Le...</summary>Created by Moreau on Sound. Leave a comment on the song at https://www.sound.xyz/moreau/como-me-gusta-cuando-me-comen-el-cono</details> | <details><summary>Link</summary>[Moreau - Como me gusta cuando me comen el coño](https://opensea.io/collection/moreau-como-me-gusta-cuando-me-comen-el-cono)</details> |
 
 </div>
