@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Dwight** | ![Image](https://i.seadn.io/s/raw/files/6195859be89dc1b74030315ddccd4f44.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dwight](https://opensea.io/collection/dwight-4)</details> |
+| **Archives Throw** | ![Image](https://i.seadn.io/s/raw/files/47bc1de7e1d7e1b509fc1595eb29bc62.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Archives Throw](https://opensea.io/collection/archives-throw)</details> |
 
 </div>
