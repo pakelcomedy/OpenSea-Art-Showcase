@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>nitokyou210 nic...</summary>nitokyou210 niconico Partner Pass</details>** | ![Image](https://i.seadn.io/s/raw/files/5ca20df833d9af245bbefbf7e02078c2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nitokyou210 niconico Partner Pass](https://opensea.io/collection/nitokyou210-niconico-partner-pass)</details> |
+| **Line Value 66** | ![Image](https://i.seadn.io/s/raw/files/24e06b3ea3d0d823ed59fab7fd84eb29.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Line Value 66](https://opensea.io/collection/line-value-66)</details> |
 
 </div>
