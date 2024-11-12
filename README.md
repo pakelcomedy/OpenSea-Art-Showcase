@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>If you don't ha...</summary>If you don't have money but time then farm these</details>** | ![Image](https://i.seadn.io/s/raw/files/7cffb336e161f03b59c029d4942ad05a.webp?w=500&auto=format?w=200&auto=format) | <details><summary>If you don't have money but ti...</summary>If you don't have money but time then farm these
-
-Read the full post on Paragraph: https://paragraph.xyz/@kalen/if-you-dont-have-money-but-time-then-farm-these</details> | <details><summary>Link</summary>[If you don't have money but time then farm these](https://opensea.io/collection/if-you-don-t-have-money-but-time-then-farm-these)</details> |
-| **­ x** | ![Image](https://i.seadn.io/s/raw/files/cb4c971c1445c63f69656c158d907bd2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[­ x](https://opensea.io/collection/x-767)</details> |
+| **<details><summary>cat and cat min...</summary>cat and cat mini</details>** | ![Image](https://i.seadn.io/s/raw/files/930bcd97ee2f3ba5c7299412e52380c4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cat and cat mini](https://opensea.io/collection/cat-and-cat-mini)</details> |
+| **<details><summary>The making of.....</summary>The making of...</details>** | ![Image](https://i.seadn.io/s/raw/files/8ea7b907427e8b65e3b69ae89a46938e.png?w=500&auto=format?w=200&auto=format) | I Don't Want to Pigeon Today | <details><summary>Link</summary>[The making of...](https://opensea.io/collection/the-making-of-1)</details> |
 
 </div>
