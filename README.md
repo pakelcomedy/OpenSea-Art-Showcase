@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **­ f** | ![Image](https://i.seadn.io/s/raw/files/8616d50e8e68098fd815c80658e00f52.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[­ f](https://opensea.io/collection/f-2039)</details> |
+| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9814</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9814](https://opensea.io/collection/open-ticketing-ecosystem-event-9814)</details> |
 
 </div>
