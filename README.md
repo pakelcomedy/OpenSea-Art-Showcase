@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **fdsfsddfs** | ![Image](https://i.seadn.io/s/raw/files/2655af66beec7aeaab6884b1806a0e2f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fdsfsddfs](https://opensea.io/collection/fdsfsddfs)</details> |
-| **Lone Wolf** | ![Image](https://i.seadn.io/s/raw/files/285d6f98b16b10f6dc862a3b7a30672b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lone Wolf](https://opensea.io/collection/lone-wolf-15)</details> |
-| **<details><summary>Desert walker I...</summary>Desert walker III</details>** | ![Image](https://i.seadn.io/s/raw/files/a0550503f60627a6a74c271709bdf702.jpg?w=500&auto=format?w=200&auto=format) | Character design exploration | <details><summary>Link</summary>[Desert walker III](https://opensea.io/collection/desert-walker-iii)</details> |
+| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9845</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9845](https://opensea.io/collection/open-ticketing-ecosystem-event-9845)</details> |
+| **<details><summary>LandScape & Cit...</summary>LandScape & CityScape Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/28e6bcf74a14a1e520f91a5395512865.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LandScape & CityScape Collection](https://opensea.io/collection/landscape-cityscape-collection-1)</details> |
 
 </div>
