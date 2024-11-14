@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9845</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9845](https://opensea.io/collection/open-ticketing-ecosystem-event-9845)</details> |
-| **<details><summary>LandScape & Cit...</summary>LandScape & CityScape Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/28e6bcf74a14a1e520f91a5395512865.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LandScape & CityScape Collection](https://opensea.io/collection/landscape-cityscape-collection-1)</details> |
+| **Designs Fotos** | ![Image](https://i.seadn.io/s/raw/files/6c54a4fb69d9e40f5a6079e8bc7ef521.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Eliminate toy languages talk d...</summary>Eliminate toy languages talk dimension cashiers employment</details> | <details><summary>Link</summary>[Designs Fotos](https://opensea.io/collection/designs-fotos)</details> |
+| **DEF13** | ![Image](https://i.seadn.io/s/raw/files/50b00629daabdd056edf7309663f9f58.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DEF13](https://opensea.io/collection/def13)</details> |
 
 </div>
