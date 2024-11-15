@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Wild Wonders** | ![Image](https://i.seadn.io/s/raw/files/50b6eb4e9baf463fedfaa5eae18484d9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Wild Wonders](https://opensea.io/collection/wild-wonders-4)</details> |
-| **BLSTE100** | ![Image](https://i.seadn.io/s/raw/files/70547909aea161dd71757798ba066ef3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BLSTE100](https://opensea.io/collection/blste100)</details> |
+| **PNUT** | ![Image](https://i.seadn.io/s/raw/files/51c1d8b7a761155ca5fd46c0d5b3d748.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PNUT](https://opensea.io/collection/pnut-15)</details> |
+| **<details><summary>[ #01239 ] Scan...</summary>[ #01239 ] Scan QR to claim rewards</details>** | ![Image](https://i.seadn.io/s/raw/files/d67e063ae03118c147cd183d24cf008a.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[[ #01239 ] Scan QR to claim rewards](https://opensea.io/collection/01239-scan-qr-to-claim-rewards)</details> |
+| **<details><summary>[ #01238 ] Scan...</summary>[ #01238 ] Scan QR to claim rewards</details>** | ![Image](https://i.seadn.io/s/raw/files/4324a3f36c168796d24e76c4313ce2a7.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[[ #01238 ] Scan QR to claim rewards](https://opensea.io/collection/01238-scan-qr-to-claim-rewards)</details> |
 
 </div>
