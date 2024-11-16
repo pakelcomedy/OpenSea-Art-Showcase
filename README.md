@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ggg** | ![Image](https://i.seadn.io/s/raw/files/74c82f4a7fde6aad187971298faff369.gif?w=500&auto=format?w=200&auto=format) | sgd | <details><summary>Link</summary>[ggg](https://opensea.io/collection/ggg-313)</details> |
+| **Siesta** | ![Image](https://i.seadn.io/s/raw/files/84236e3a78001ca55b80c24350417909.png?w=500&auto=format?w=200&auto=format) | <details><summary>The artwork was inspired by th...</summary>The artwork was inspired by the painting "Siesta" by Joaquín Sorolla and created in Midjourney for one open call.</details> | <details><summary>Link</summary>[Siesta](https://opensea.io/collection/siesta-7)</details> |
 
 </div>
