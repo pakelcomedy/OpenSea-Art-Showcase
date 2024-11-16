@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>sailsofthesea 0...</summary>sailsofthesea 05</details>** | ![Image](https://i.seadn.io/s/raw/files/610b8ec5a0653fb7bdd200ede5bab63b.jpg?w=500&auto=format?w=200&auto=format) | Sails of the sea 05 | <details><summary>Link</summary>[sailsofthesea 05](https://opensea.io/collection/sailsofthesea-05)</details> |
-| **uywtqshrtweah** | ![Image](https://i.seadn.io/s/raw/files/0461e3a04dd1272b1eb10452ae010c8f.jpg?w=500&auto=format?w=200&auto=format) | rtewarghag | <details><summary>Link</summary>[uywtqshrtweah](https://opensea.io/collection/uywtqshrtweah)</details> |
+| **Elise** | ![Image](https://i.seadn.io/s/raw/files/758dc0f3900d012f17127ea9c07417b4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Elise](https://opensea.io/collection/elise-8)</details> |
+| **WEN?** | ![Image](https://i.seadn.io/s/raw/files/2d562eff404ccf103a04d4d9cc54c4c4.jpg?w=500&auto=format?w=200&auto=format) | $ZORA? | <details><summary>Link</summary>[WEN?](https://opensea.io/collection/wen-98)</details> |
+| **fornyte** | ![Image](https://i.seadn.io/s/raw/files/09873f8c561bc11d9c22aff5e0b24f54.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fornyte](https://opensea.io/collection/fornyte)</details> |
 
 </div>
