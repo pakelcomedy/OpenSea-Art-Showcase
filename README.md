@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **#0 147 SCAN ME** | ![Image](https://i.seadn.io/s/raw/files/0cb5a731193a17d960504812fb885d15.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[#0 147 SCAN ME](https://opensea.io/collection/0-147-scan-me-3)</details> |
-| **#0 146 SCAN ME** | ![Image](https://i.seadn.io/s/raw/files/0cb5a731193a17d960504812fb885d15.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[#0 146 SCAN ME](https://opensea.io/collection/0-146-scan-me-3)</details> |
-| **<details><summary>Colors explosio...</summary>Colors explosion</details>** | ![Image](https://i.seadn.io/s/raw/files/b7c75c1cafd5a2a68c2c6eb967aa4494.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Colors explosion](https://opensea.io/collection/colors-explosion)</details> |
-| **Pepe Jungle** | ![Image](https://i.seadn.io/s/raw/files/f03589e9294780c5ca589832c3fc3579.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pepe Jungle](https://opensea.io/collection/pepe-jungle-1)</details> |
-| **BLA57** | ![Image](https://i.seadn.io/s/raw/files/71525f86d19cfaf05e3abb6477466364.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BLA57](https://opensea.io/collection/bla57)</details> |
+| **#0 265 SCAN ME** | ![Image](https://i.seadn.io/s/raw/files/0cb5a731193a17d960504812fb885d15.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[#0 265 SCAN ME](https://opensea.io/collection/0-265-scan-me-1)</details> |
+| **Universo005** | ![Image](https://i.seadn.io/s/raw/files/82070976ae71466cd1aee4ccf03a9839.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Universo005](https://opensea.io/collection/universo005)</details> |
+| **LFG GUYS** | ![Image](https://i.seadn.io/s/raw/files/bc33fca6eddbcacd2fca54312a62df8d.jpg?w=500&auto=format?w=200&auto=format) | bull market is here | <details><summary>Link</summary>[LFG GUYS](https://opensea.io/collection/lfg-guys)</details> |
 
 </div>
