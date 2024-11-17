@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Plarvas** | ![Image](https://i.seadn.io/s/raw/files/510c0338891abb6d01500acd8cbca508.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Plarvas](https://opensea.io/collection/plarvas-20)</details> |
+| **No-Undead** | ![Image](https://i.seadn.io/s/raw/files/4bed37365fabc27319b02830671ecf94.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[No-Undead](https://opensea.io/collection/no-undead-27)</details> |
 
 </div>
