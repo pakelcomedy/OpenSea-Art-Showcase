@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>BRETT x BASE My...</summary>BRETT x BASE Mystery Box #36,493</details>** | ![Image](https://i.seadn.io/s/raw/files/8099cfd094513e7740dbbb257184e375.gif?w=500&auto=format?w=200&auto=format) | <details><summary>Redeem for BRETT tokens at cnb...</summary>Redeem for BRETT tokens at cnbs.ly/BRETT</details> | <details><summary>Link</summary>[BRETT x BASE Mystery Box #36,493](https://opensea.io/collection/brett-x-base-mystery-box-36493)</details> |
+| **<details><summary>Normal Anime Co...</summary>Normal Anime Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/c26440cc57735c0bab01ed2846a4c517.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Normal Anime Collection](https://opensea.io/collection/normal-anime-collection)</details> |
 
 </div>
