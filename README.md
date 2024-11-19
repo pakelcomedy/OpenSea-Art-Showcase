@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Trrektz** | ![Image](https://i.seadn.io/s/raw/files/bdf69fa283ae49c25bdb63639dc3ebda.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trrektz](https://opensea.io/collection/trrektz-11)</details> |
-| **<details><summary>0x4dd1960289b79...</summary>0x4dd1960289b7955ffec2fe1d1784c3290f10be98</details>** | ![Image](https://i.seadn.io/s/raw/files/0b17eca97c80c2a47373054ef33e2cd6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x4dd1960289b7955ffec2fe1d1784c3290f10be98](https://opensea.io/collection/0x4dd1960289b7955ffec2fe1d1784c3290f10be98)</details> |
-| **Attester NFT** | ![Image](https://i.seadn.io/s/raw/files/ea1f69bce6d25a397ef9660313b9f231.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Attester NFT](https://opensea.io/collection/attester-nft-2)</details> |
+| **Shine_** | ![Image](https://i.seadn.io/s/raw/files/9792aa4b9c3d78a3150426cf1d75181d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Created with AI + Ps
+--
+See mo...</summary>Created with AI + Ps
+--
+See more by Hakan Biyiklioglu on Remx at remx.xyz/hakan-biyiklioglu</details> | <details><summary>Link</summary>[Shine_](https://opensea.io/collection/shine-70)</details> |
+| **Bons(ai)** | ![Image](https://i.seadn.io/s/raw/files/798960ba1c7340c44f45e36c0b81b0a3.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bons(ai)](https://opensea.io/collection/bons-ai-2)</details> |
+| **<details><summary>ATRIP - Ocean (...</summary>ATRIP - Ocean (with KAM-BU)</details>** | ![Image](https://i.seadn.io/s/raw/files/e6acc3a8bb85beb4beb2fdec65316aba.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Created by ATRIP on Sound. Lea...</summary>Created by ATRIP on Sound. Leave a comment on the song at https://www.sound.xyz/atrip/ocean-with-kambu</details> | <details><summary>Link</summary>[ATRIP - Ocean (with KAM-BU)](https://opensea.io/collection/atrip-ocean-with-kam-bu)</details> |
 
 </div>
