@@ -6,9 +6,17 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Gacha Galaxy: G...</summary>Gacha Galaxy: Gacha Keys</details>** | ![Image](https://i.seadn.io/s/raw/files/96e67e59b69c6b9104475c43a6dde1a3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gacha Galaxy: Gacha Keys](https://opensea.io/collection/gacha-galaxy-gacha-keys)</details> |
-| **fghs** | ![Image](https://i.seadn.io/s/raw/files/c59cb932849068fa99e8324e5eccb140.jpg?w=500&auto=format?w=200&auto=format) | hfgdty | <details><summary>Link</summary>[fghs](https://opensea.io/collection/fghs-14)</details> |
-| **<details><summary>A Quiet Symphon...</summary>A Quiet Symphony of Light and Shadow(for spark)</details>** | ![Image](https://i.seadn.io/s/raw/files/b75defc9f69160217d554cf7cf85b3f6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>A Quiet Symphony of Light and ...</summary>A Quiet Symphony of Light and Shadow(for spark)</details> | <details><summary>Link</summary>[A Quiet Symphony of Light and Shadow(for spark)](https://opensea.io/collection/a-quiet-symphony-of-light-and-shadow-for-spark)</details> |
-| **Everything ok** | ![Image](https://i.seadn.io/s/raw/files/850a8625fd071b3c7583f1684ff8b9fb.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Every situation in life is tem...</summary>Every situation in life is temporary. So, when life is going well, make sure you enjoy it and make the most of it. And when life is going badly, remember that it won't last forever and better days are on the way...</details> | <details><summary>Link</summary>[Everything ok](https://opensea.io/collection/everything-ok)</details> |
+| **Beauty** | ![Image](https://i.seadn.io/s/raw/files/206d78e989011fe7321980abd7591d0f.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Off the beaten path.
+
+[Okinawa...</summary>Off the beaten path.
+
+[Okinawa, Japan - 2024]
+--
+See more by Taylor Starr on Remx at remx.xyz/tstarr-starr</details> | <details><summary>Link</summary>[Beauty](https://opensea.io/collection/beauty-592)</details> |
+| **<details><summary>541525's Follow...</summary>541525's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[541525's Follower](https://opensea.io/collection/541525-s-follower)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-10005)</details> |
+| **<details><summary>Shattered Dream...</summary>Shattered Dreams</details>** | ![Image](https://i.seadn.io/s/raw/files/094f4334cacbe86659e6a348965ae69d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>A kaleidoscope of emotions unf...</summary>A kaleidoscope of emotions unfolds in Shattered Dreams, where fragments of light and shadow collide in a dynamic dance of color and texture. What dreams does this evoke in you?
+--
+See more by vijay_bharadvaj on Remx at remx.xyz/vijay-bharadvaj</details> | <details><summary>Link</summary>[Shattered Dreams](https://opensea.io/collection/shattered-dreams-8)</details> |
 
 </div>
