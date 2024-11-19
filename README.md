@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **new** | ![Image](https://i.seadn.io/s/raw/files/5549eee1c5fc863b447ac2cccd966395.jpg?w=500&auto=format?w=200&auto=format) | cats | <details><summary>Link</summary>[new](https://opensea.io/collection/new-580)</details> |
-| **AI Agent** | ![Image](https://i.seadn.io/s/raw/files/8a6d9a2821b9c3afcdca269f08c33bfe.jpg?w=500&auto=format?w=200&auto=format) | This is AI Agent | <details><summary>Link</summary>[AI Agent](https://opensea.io/collection/ai-agent-100)</details> |
-| **redhulk** | ![Image](https://i.seadn.io/s/raw/files/f37b96343f3a0cea93075f995efb2610.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>its very powerfull
-
-Made with ...</summary>its very powerfull
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[redhulk](https://opensea.io/collection/redhulk-1)</details> |
+| **Cute** | ![Image](https://i.seadn.io/s/raw/files/9d602e27b77c90f33b5a1461d03604e2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cute](https://opensea.io/collection/cute-294)</details> |
+| **a** | ![Image](https://i.seadn.io/s/raw/files/bcb77d53009534508f4c4babd5202e05.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[a](https://opensea.io/collection/a-1302)</details> |
+| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9895</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9895](https://opensea.io/collection/open-ticketing-ecosystem-event-9895)</details> |
 
 </div>
