@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Flowers** | ![Image](https://i.seadn.io/s/raw/files/919c32e46e62a9081bf3b9bda90f2e53.jpg?w=500&auto=format?w=200&auto=format) | Yellow Flowers | <details><summary>Link</summary>[Flowers](https://opensea.io/collection/flowers-1201)</details> |
-| **Sexy void sushi** | ![Image](https://i.seadn.io/s/raw/files/c0c2ea09ab4648887f492a49bea8e622.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sexy void sushi](https://opensea.io/collection/sexy-void-sushi)</details> |
-| **さｄｆ** | ![Image](https://i.seadn.io/s/raw/files/b572112808035a187c69c411f031252e.jpg?w=500&auto=format?w=200&auto=format) | ｈせｔ | <details><summary>Link</summary>[さｄｆ](https://opensea.io/collection/sadf-34)</details> |
+| **Bear vs Hunter** | ![Image](https://i.seadn.io/s/raw/files/dcb8ae0ab070adbe45c884faf548e15c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bear vs Hunter](https://opensea.io/collection/bear-vs-hunter)</details> |
+| **MyAiArt** | ![Image](https://i.seadn.io/s/raw/files/9768bc4ea914e060428947857fd5dff0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MyAiArt](https://opensea.io/collection/myaiart-2)</details> |
 
 </div>
