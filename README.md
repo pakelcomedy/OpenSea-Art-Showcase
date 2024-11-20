@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>THE MERGE'S DAD...</summary>THE MERGE'S DADDY</details>** | ![Image](https://i.seadn.io/s/raw/files/9efee34b247908873b1d2ac084dedb23.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[THE MERGE'S DADDY](https://opensea.io/collection/the-merge-s-daddy)</details> |
-| **Chubby Cattle** | ![Image](https://i.seadn.io/s/raw/files/a5a37873ba5b4c9d455cd4875a43f8b3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chubby Cattle](https://opensea.io/collection/chubby-cattle-21)</details> |
-| **NFT playground** | ![Image](https://i.seadn.io/s/raw/files/641219922a80c45dda26bad0ed0ec0f6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFT playground](https://opensea.io/collection/nft-playground-1)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/3069305bd5874c78bae6fe3a152218a4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4428)</details> |
+| **CASA LONG SRL** | ![Image](https://i.seadn.io/s/raw/files/f4b177911e9e5fa7c9aaa9a0c20f59af.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CASA LONG SRL](https://opensea.io/collection/casa-long-srl)</details> |
+| **White** | ![Image](https://i.seadn.io/s/raw/files/b3b6e4e9f72266fc1b2fd3ad29e7cb30.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[White](https://opensea.io/collection/white-262)</details> |
+| **<details><summary>0xfe33f464396f3...</summary>0xfe33f464396f3bdd0e02fdfeaa437fed442fdd9b</details>** | ![Image](https://i.seadn.io/s/raw/files/0b17eca97c80c2a47373054ef33e2cd6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xfe33f464396f3bdd0e02fdfeaa437fed442fdd9b](https://opensea.io/collection/0xfe33f464396f3bdd0e02fdfeaa437fed442fdd9b)</details> |
 
 </div>
