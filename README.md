@@ -6,11 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Behind The Hand...</summary>Behind The Handle X</details>** | ![Image](https://i.seadn.io/s/raw/files/000059a2fdb7be60c727b7b39cc7ebe8.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>a glimpse from the Annapurna c...</summary>a glimpse from the Annapurna circuit, creating so many memories and some new photos from these beautiful places.
-
-will be share the whole photo series
---
-See more by albertus pamungkas on Remx at remx.xyz/albertusp</details> | <details><summary>Link</summary>[Behind The Handle X](https://opensea.io/collection/behind-the-handle-x)</details> |
-| **Pеpе Zеn** | ![Image](https://i.seadn.io/s/raw/files/c6bce211378376012c42fd89b5b349b6.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pеpе Zеn](https://opensea.io/collection/pepe-zen-69)</details> |
+| **BP Red YC** | ![Image](https://i.seadn.io/s/raw/files/ed7fd93138eb91218fc1e2c4ffdb1c7f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BP Red YC](https://opensea.io/collection/bp-red-yc-40)</details> |
+| **Vacancies Thy** | ![Image](https://i.seadn.io/s/raw/files/1683077f3afdbc06d9bce32d88369a58.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Vacancies Thy](https://opensea.io/collection/vacancies-thy)</details> |
+| **PILLOIDS** | ![Image](https://i.seadn.io/s/raw/files/11821faab5010b2b535bce18dd1f35d0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PILLOIDS](https://opensea.io/collection/pilloids-19)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/6747f2e18c3344b1fcdff3bc930b6c73.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-3881)</details> |
 
 </div>
