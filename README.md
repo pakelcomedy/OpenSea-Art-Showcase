@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Collaboration o...</summary>Collaboration of two lives</details>** | ![Image](https://i.seadn.io/s/raw/files/e9e40beaae2a4b95c0902daf8fce722f.jpg?w=500&auto=format?w=200&auto=format) | Collaboration of two lives | <details><summary>Link</summary>[Collaboration of two lives](https://opensea.io/collection/collaboration-of-two-lives)</details> |
-| **CAMERA OPEN** | ![Image](https://i.seadn.io/s/raw/files/9e0ddaf252d7af7096f2c4f4e8c87740.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAMERA OPEN](https://opensea.io/collection/camera-open-392)</details> |
-| **CAMERA OPEN** | ![Image](https://i.seadn.io/s/raw/files/e9ea4061c06c944ef35ab1960d64a1cc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAMERA OPEN](https://opensea.io/collection/camera-open-391)</details> |
+| **dreamy nature** | ![Image](https://i.seadn.io/s/raw/files/aa173b1f6f48da47cfcce6bb8815703b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dreamy nature](https://opensea.io/collection/dreamy-nature-1)</details> |
+| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12614</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12614](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12614)</details> |
 
 </div>
