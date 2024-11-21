@@ -6,7 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x0e6e637a0d98c...</summary>0x0e6e637a0d98c5b2cd460dc91a134450a7e21283</details>** | ![Image](https://i.seadn.io/s/raw/files/421e3cbfd26a744dd5ad246c9222cb45.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x0e6e637a0d98c5b2cd460dc91a134450a7e21283](https://opensea.io/collection/0x0e6e637a0d98c5b2cd460dc91a134450a7e21283)</details> |
-| **<details><summary># UP $5,000 TO ...</summary># UP $5,000 TO $50,000</details>** | ![Image](https://i.seadn.io/s/raw/files/ec15735b918640f5887a1905f81236e9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[# UP $5,000 TO $50,000](https://opensea.io/collection/up-5000-to-50000-908)</details> |
+| **Hello World** | ![Image](https://i.seadn.io/s/raw/files/0f879cd23bcfcb31e207c9d6a6e312f5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hello World](https://opensea.io/collection/hello-world-336)</details> |
+| **<details><summary>far.cards - era...</summary>far.cards - eraa</details>** | ![Image](https://i.seadn.io/s/raw/files/35583b7561509e23584a3bddb9ccccbd.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - eraa (zCKKPhawgp0D...</summary>far.cards - eraa (zCKKPhawgp0DupX5jykObA==) is a Bonding Curved ERC-1155 token created on mint.club.
+
+Backed by Wrapped Ether (WETH) on Base chain.
+
+https://mint.club/nft/base/zCKKPhawgp0DupX5jykObA==</details> | <details><summary>Link</summary>[far.cards - eraa](https://opensea.io/collection/far-cards-eraa)</details> |
 
 </div>
