@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **𝓗𝔂𝓹3𝓻 𝓓𝓻𝓲𝓯𝓽𝓮𝓻** | ![Image](https://i.seadn.io/s/raw/files/baa47947481cecf15f8f9f9811758a8b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[𝓗𝔂𝓹3𝓻 𝓓𝓻𝓲𝓯𝓽𝓮𝓻](https://opensea.io/collection/hyp3r-drifter-173)</details> |
-| **KAYA** | ![Image](https://i.seadn.io/s/raw/files/a82489bd29c0d651873d0ab149eee1e6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[KAYA](https://opensea.io/collection/kaya-11)</details> |
-| **Unknown** | ![Image](https://i.seadn.io/s/raw/files/78e23620c6af8f88f9004d9b7141f1af.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unknown](https://opensea.io/collection/unknown-173564)</details> |
+| **<details><summary>Thinking Models...</summary>Thinking Models for Metagovernance</details>** | ![Image](https://i.seadn.io/s/raw/files/94e18f76ef9bdc6002405dfa34e50379.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0xcc2642...</summary>https://mirror.xyz/10/0xcc264248ac41f870cf3acaf0621f79ac22e87e8e</details> | <details><summary>Link</summary>[Thinking Models for Metagovernance](https://opensea.io/collection/thinking-models-for-metagovernance)</details> |
+| **Mad dudes** | ![Image](https://i.seadn.io/s/raw/files/a8c92a974991bda1fa16cc67e54fc02b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mad dudes](https://opensea.io/collection/mad-dudes)</details> |
+| **Robos** | ![Image](https://i.seadn.io/s/raw/files/0a44328ce28ec6a4aadbffab50bee68d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Robos](https://opensea.io/collection/robos-9)</details> |
 
 </div>
