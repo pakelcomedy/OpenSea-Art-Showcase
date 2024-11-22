@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>543205's Follow...</summary>543205's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[543205's Follower](https://opensea.io/collection/543205-s-follower)</details> |
-| **<details><summary>543214's Follow...</summary>543214's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[543214's Follower](https://opensea.io/collection/543214-s-follower)</details> |
+| **vgrc** | ![Image](https://i.seadn.io/s/raw/files/9d88539e451b88311e9aef79d5720323.jpg?w=500&auto=format?w=200&auto=format) | xrf4t | <details><summary>Link</summary>[vgrc](https://opensea.io/collection/vgrc)</details> |
+| **jgvb** | ![Image](https://i.seadn.io/s/raw/files/193b605fb1e5932695ba8239b89b687b.jpg?w=500&auto=format?w=200&auto=format) | yvh | <details><summary>Link</summary>[jgvb](https://opensea.io/collection/jgvb)</details> |
 
 </div>
