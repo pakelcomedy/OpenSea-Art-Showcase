@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Thinking Models...</summary>Thinking Models for Metagovernance</details>** | ![Image](https://i.seadn.io/s/raw/files/94e18f76ef9bdc6002405dfa34e50379.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0xcc2642...</summary>https://mirror.xyz/10/0xcc264248ac41f870cf3acaf0621f79ac22e87e8e</details> | <details><summary>Link</summary>[Thinking Models for Metagovernance](https://opensea.io/collection/thinking-models-for-metagovernance)</details> |
-| **Mad dudes** | ![Image](https://i.seadn.io/s/raw/files/a8c92a974991bda1fa16cc67e54fc02b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mad dudes](https://opensea.io/collection/mad-dudes)</details> |
-| **Robos** | ![Image](https://i.seadn.io/s/raw/files/0a44328ce28ec6a4aadbffab50bee68d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Robos](https://opensea.io/collection/robos-9)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/08cd3380ba16430a9e43a4216d45568c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-3950)</details> |
+| **jhgjgh** | ![Image](https://i.seadn.io/s/raw/files/fed23e4de18e30ce658b375e350f3c8e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jhgjgh](https://opensea.io/collection/jhgjgh-6)</details> |
+| **MP4** | ![Image](https://i.seadn.io/s/raw/files/aab19fc2bd4cddbf21de8ac873ceb651.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MP4](https://opensea.io/collection/mp4-6)</details> |
+| **VGOD** | ![Image](https://i.seadn.io/s/raw/files/993c6f6a8e6fb6721224569a888004ca.png?w=500&auto=format?w=200&auto=format) | vVv | <details><summary>Link</summary>[VGOD](https://opensea.io/collection/vgod-2)</details> |
 
 </div>
