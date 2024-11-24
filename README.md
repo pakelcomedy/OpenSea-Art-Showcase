@@ -6,12 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>another one (no...</summary>another one (no. 3)</details>** | ![Image](https://i.seadn.io/s/raw/files/ef3a336393f961001789ac9573b55bf4.webp?w=500&auto=format?w=200&auto=format) | <details><summary>another one (no. 3)
-
-Read the ...</summary>another one (no. 3)
-
-Read the full post on Paragraph: https://paragraph.xyz/@proxystudio.eth/newsletter-3</details> | <details><summary>Link</summary>[another one (no. 3)](https://opensea.io/collection/another-one-no-3)</details> |
-| **<details><summary>! [#] AutoETH 2...</summary>! [#] AutoETH 2455</details>** | ![Image](https://i.seadn.io/s/raw/files/1465cd76029d012511d4efde382d16ac.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [#] AutoETH 2455](https://opensea.io/collection/autoeth-2455)</details> |
-| **<details><summary>0xb2a564524b046...</summary>0xb2a564524b0460b35e150528e20d935a4b0ab3e6</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xb2a564524b0460b35e150528e20d935a4b0ab3e6](https://opensea.io/collection/0xb2a564524b0460b35e150528e20d935a4b0ab3e6)</details> |
+| **<details><summary>! [#] AutoETH 2...</summary>! [#] AutoETH 2589</details>** | ![Image](https://i.seadn.io/s/raw/files/6c1800b2734f041d55c7f3ac604d56c3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [#] AutoETH 2589](https://opensea.io/collection/autoeth-2589)</details> |
+| **#35** | ![Image](https://i.seadn.io/s/raw/files/c6bd627f2989624768c1a254ba3fc636.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[#35](https://opensea.io/collection/35-6)</details> |
+| **<details><summary>! [#] AutoETH 2...</summary>! [#] AutoETH 2588</details>** | ![Image](https://i.seadn.io/s/raw/files/adcd7127aa394ee239c9e9b50601d24f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [#] AutoETH 2588](https://opensea.io/collection/autoeth-2588)</details> |
+| **Skip Sensors** | ![Image](https://i.seadn.io/s/raw/files/39171155280822c44307da78f56f019d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Skip Sensors](https://opensea.io/collection/skip-sensors)</details> |
+| **<details><summary>NFT Collector I...</summary>NFT Collector IA</details>** | ![Image](https://i.seadn.io/s/raw/files/750c9ae2a4e5d94396fbfb17e7f46a58.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFT Collector IA](https://opensea.io/collection/nft-collector-ia)</details> |
 
 </div>
