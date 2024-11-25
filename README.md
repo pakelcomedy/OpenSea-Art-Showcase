@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mon Node** | ![Image](https://i.seadn.io/s/raw/files/a617e94aa1e7d01abb773bf627f01e7c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mon Node](https://opensea.io/collection/mon-node)</details> |
-| **<details><summary>! [#] AutoWBTC ...</summary>! [#] AutoWBTC 338</details>** | ![Image](https://i.seadn.io/s/raw/files/fb138671aa3593511274aad8458c26cb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [#] AutoWBTC 338](https://opensea.io/collection/autowbtc-338)</details> |
-| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9573</details>** | ![Image](https://i.seadn.io/s/raw/files/54fb6b4fd63579fe4fd8bb69cc37751d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9573](https://opensea.io/collection/open-ticketing-ecosystem-event-9573)</details> |
+| **<details><summary>Great Efforts O...</summary>Great Efforts Overcome Negativity</details>** | ![Image](https://i.seadn.io/s/raw/files/b67b0d3d88e0628e5c0795cc3305a9b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Great Efforts Overcome Negativity](https://opensea.io/collection/great-efforts-overcome-negativity-1)</details> |
+| **Horse in shoes** | ![Image](https://i.seadn.io/s/raw/files/72fca0900c0a95f1c43cbad65b46c3f7.png?w=500&auto=format?w=200&auto=format) | Horse in shoes | <details><summary>Link</summary>[Horse in shoes](https://opensea.io/collection/horse-in-shoes)</details> |
 
 </div>
