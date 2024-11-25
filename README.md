@@ -6,11 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Friends** | ![Image](https://i.seadn.io/s/raw/files/56c3ab4d0af0f9fc0db0352c5506edb8.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Happy times!
---
-See more by A ...</summary>Happy times!
---
-See more by A B Veekshith on Remx at remx.xyz/a-b-veekshith</details> | <details><summary>Link</summary>[Friends](https://opensea.io/collection/friends-217)</details> |
-| **<details><summary>! [#] AutoWBTC ...</summary>! [#] AutoWBTC 218</details>** | ![Image](https://i.seadn.io/s/raw/files/b424c73135cc4074f4d64c1ab7479b55.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [#] AutoWBTC 218](https://opensea.io/collection/autowbtc-218)</details> |
+| **Mon Node** | ![Image](https://i.seadn.io/s/raw/files/a617e94aa1e7d01abb773bf627f01e7c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mon Node](https://opensea.io/collection/mon-node)</details> |
+| **<details><summary>! [#] AutoWBTC ...</summary>! [#] AutoWBTC 338</details>** | ![Image](https://i.seadn.io/s/raw/files/fb138671aa3593511274aad8458c26cb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [#] AutoWBTC 338](https://opensea.io/collection/autowbtc-338)</details> |
+| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 9573</details>** | ![Image](https://i.seadn.io/s/raw/files/54fb6b4fd63579fe4fd8bb69cc37751d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 9573](https://opensea.io/collection/open-ticketing-ecosystem-event-9573)</details> |
 
 </div>
