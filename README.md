@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **# 87 AutoWBTC** | ![Image](https://i.seadn.io/s/raw/files/c5f56d089f03d98bf709e9bc41a7b96a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[# 87 AutoWBTC](https://opensea.io/collection/87-autowbtc-1)</details> |
-| **# 487 AutoWBTC** | ![Image](https://i.seadn.io/s/raw/files/27e029fbd7d1f6ca1863faaed48649f0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[# 487 AutoWBTC](https://opensea.io/collection/487-autowbtc)</details> |
-| **# 85 AutoWBTC** | ![Image](https://i.seadn.io/s/raw/files/cab9e27a51df4757d42a785909b1c9a0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[# 85 AutoWBTC](https://opensea.io/collection/85-autowbtc-1)</details> |
+| **# 636 AutoWBTC** | ![Image](https://i.seadn.io/s/raw/files/4fff0add8ad6d634fd8a89011ca6be0b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[# 636 AutoWBTC](https://opensea.io/collection/636-autowbtc)</details> |
+| **Frog Life** | ![Image](https://i.seadn.io/s/raw/files/111bfb2168134cd16a9a97943115d392.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Frog Life](https://opensea.io/collection/frog-life-3)</details> |
+| **# 635 AutoWBTC** | ![Image](https://i.seadn.io/s/raw/files/79a1c80976efcba4a42242c771d601b2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[# 635 AutoWBTC](https://opensea.io/collection/635-autowbtc)</details> |
+| **# 634 AutoWBTC** | ![Image](https://i.seadn.io/s/raw/files/5abbab6c446af87bfc3764985416ac9d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[# 634 AutoWBTC](https://opensea.io/collection/634-autowbtc)</details> |
 
 </div>
