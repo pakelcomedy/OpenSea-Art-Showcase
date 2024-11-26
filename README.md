@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x987ad42a94c84...</summary>0x987ad42a94c8425055ee0a60ab0e0410a130c28d</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x987ad42a94c8425055ee0a60ab0e0410a130c28d](https://opensea.io/collection/0x987ad42a94c8425055ee0a60ab0e0410a130c28d)</details> |
-| **<details><summary>! [#] AddBounty...</summary>! [#] AddBounty.io 77</details>** | ![Image](https://i.seadn.io/s/raw/files/5ee8a7af2bcff9d7ee2acff9af91b84f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [#] AddBounty.io 77](https://opensea.io/collection/addbounty-io-77)</details> |
+| **0pt1maL1** | ![Image](https://i.seadn.io/s/raw/files/445983d6ee4caef14ce59176e77ac495.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0pt1maL1](https://opensea.io/collection/0pt1mal1)</details> |
+| **Ventureverse** | ![Image](https://i.seadn.io/s/raw/files/00c4f2a2645b1dc4806672ffabc07193.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ventureverse](https://opensea.io/collection/ventureverse-2)</details> |
+| **Ice rose** | ![Image](https://i.seadn.io/s/raw/files/705abaaead2cae7db8c1418044b2ecc5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ice rose](https://opensea.io/collection/ice-rose)</details> |
 
 </div>
