@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **My Special Bro** | ![Image](https://i.seadn.io/s/raw/files/a6a17d5fdab759f0b1cda152aca13319.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[My Special Bro](https://opensea.io/collection/my-special-bro)</details> |
+| **De Pixel Gods** | ![Image](https://i.seadn.io/s/raw/files/19faaec92c1657f218a250adf782ef99.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[De Pixel Gods](https://opensea.io/collection/de-pixel-gods-109)</details> |
 
 </div>
