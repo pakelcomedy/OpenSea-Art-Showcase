@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **lIFE** | ![Image](https://i.seadn.io/s/raw/files/7ae67745afc0b5aaffd0a9c7cac08421.png?w=500&auto=format?w=200&auto=format) | lIFE | <details><summary>Link</summary>[lIFE](https://opensea.io/collection/life-936)</details> |
-| **WAVE NODE** | ![Image](https://i.seadn.io/s/raw/files/8035675d59732b1327f931cd98edb177.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WAVE NODE](https://opensea.io/collection/wave-node-6)</details> |
-| **<details><summary>0xd4391b182bd0e...</summary>0xd4391b182bd0e85999cd35212819ce8597c45aee</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xd4391b182bd0e85999cd35212819ce8597c45aee](https://opensea.io/collection/0xd4391b182bd0e85999cd35212819ce8597c45aee)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/2666cd732634ff9c9e079f551e0046b1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-4143)</details> |
+| **888Gold** | ![Image](https://i.seadn.io/s/raw/files/53060667d7e7aea293a214aa9e589177.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[888Gold](https://opensea.io/collection/888gold-1)</details> |
 
 </div>
