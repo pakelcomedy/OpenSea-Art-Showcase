@@ -6,8 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Typography The ...</summary>Typography The Properly</details>** | ![Image](https://i.seadn.io/s/raw/files/c7487be9096f8f9c32cc1a8b8cd5e869.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Typography The Properly](https://opensea.io/collection/typography-the-properly)</details> |
-| **<details><summary>0xbd70450a2a2f1...</summary>0xbd70450a2a2f192d782b6d553542a2605f28a3ff</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xbd70450a2a2f192d782b6d553542a2605f28a3ff](https://opensea.io/collection/0xbd70450a2a2f192d782b6d553542a2605f28a3ff)</details> |
-| **<details><summary>! [!] boxdao.io...</summary>! [!] boxdao.io #1947</details>** | ![Image](https://i.seadn.io/s/raw/files/72d8b288681b6f6957deeccc1c7446d9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [!] boxdao.io #1947](https://opensea.io/collection/boxdao-io-1947)</details> |
+| **<details><summary>ESMERALDA GARCÍ...</summary>ESMERALDA GARCÍA DEPLOYER</details>** | ![Image](https://i.seadn.io/s/raw/files/ccac4dd85ba8667f6d3e0c68932a60e3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ESMERALDA GARCÍA DEPLOYER](https://opensea.io/collection/esmeralda-garcia-deployer)</details> |
+| **<details><summary>! [!] boxdao.io...</summary>! [!] boxdao.io #1995</details>** | ![Image](https://i.seadn.io/s/raw/files/ffe77bf176d519ddf8009881efc16442.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [!] boxdao.io #1995](https://opensea.io/collection/boxdao-io-1995)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/1cb20ec85958745fd66615210361fdd1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-10814)</details> |
+| **<details><summary>10,000 USDТ (Cl...</summary>10,000 USDТ (Claim at usdtex.xyz)</details>** | ![Image](https://i.seadn.io/s/raw/files/12fe6a0bf0ce3703f6b11d4bda590859.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10,000 USDТ (Claim at usdtex.xyz)](https://opensea.io/collection/10000-usdt-claim-at-usdtex-xyz-1)</details> |
+| **Sakura** | ![Image](https://i.seadn.io/s/raw/files/d9c88861ff893cc23a2721ee5638a3c5.png?w=500&auto=format?w=200&auto=format) | <details><summary>Sakura NFT.
+Reveal soon.
+Previ...</summary>Sakura NFT.
+Reveal soon.
+Preview here: https://x.com/SakuraNFT_ETH/status/1861047192133468621</details> | <details><summary>Link</summary>[Sakura](https://opensea.io/collection/sakura-199)</details> |
 
 </div>
