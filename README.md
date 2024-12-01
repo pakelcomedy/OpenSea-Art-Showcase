@@ -6,12 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Flowers time 🪷** | ![Image](https://i.seadn.io/s/raw/files/01a2e278aa4acf9764620f4a6ed0c4ae.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>2024, Nika Rakhmanova
---
-See m...</summary>2024, Nika Rakhmanova
---
-See more by Nikalaus on Remx at remx.xyz/nikalaus</details> | <details><summary>Link</summary>[Flowers time 🪷](https://opensea.io/collection/flowers-time)</details> |
-| **Flea Photos** | ![Image](https://i.seadn.io/s/raw/files/d1bea42e9fd8a2a8cb59482e2e3ddc51.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Flea Photos](https://opensea.io/collection/flea-photos)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/f0708a5be08ba3e39319f5df44e2f1be.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4521)</details> |
+| **<details><summary>0xdfbc9182a068e...</summary>0xdfbc9182a068ef4bae219aeaf7eebc9bc01a260a</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xdfbc9182a068ef4bae219aeaf7eebc9bc01a260a](https://opensea.io/collection/0xdfbc9182a068ef4bae219aeaf7eebc9bc01a260a)</details> |
+| **<details><summary>0x5cb3f32a6097e...</summary>0x5cb3f32a6097e404e314301bb7d8ccba083c98ec</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x5cb3f32a6097e404e314301bb7d8ccba083c98ec](https://opensea.io/collection/0x5cb3f32a6097e404e314301bb7d8ccba083c98ec)</details> |
+| **<details><summary>Neon Genesis: T...</summary>Neon Genesis: The Digital Rebirth</details>** | ![Image](https://i.seadn.io/s/raw/files/ddb758ce45e7b613b9e21bd416d990a9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Neon Genesis: The Digital Rebirth](https://opensea.io/collection/neon-genesis-the-digital-rebirth)</details> |
+| **<details><summary>0x9ad6de470a3bc...</summary>0x9ad6de470a3bc76dc27cff8e70b27ee96121fff4</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x9ad6de470a3bc76dc27cff8e70b27ee96121fff4](https://opensea.io/collection/0x9ad6de470a3bc76dc27cff8e70b27ee96121fff4)</details> |
 
 </div>
