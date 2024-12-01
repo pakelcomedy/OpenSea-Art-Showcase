@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Heurist Imagina...</summary>Heurist Imaginaries</details>** | ![Image](https://i.seadn.io/s/raw/files/739f08424cb5fe8597671d591a7a566f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heurist Imaginaries](https://opensea.io/collection/heurist-imaginaries-14)</details> |
-| **<details><summary>agnes the beave...</summary>agnes the beaver</details>** | ![Image](https://i.seadn.io/s/raw/files/e37e775b0998090476195bf9ac0274eb.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Animal in residence at the Pip...</summary>Animal in residence at the Pipsqueakery
-A small nonprofit animal rescue & sanctuary
-Written by jim thorne as performed by peace_node</details> | <details><summary>Link</summary>[agnes the beaver](https://opensea.io/collection/agnes-the-beaver)</details> |
-| **weBLST** | ![Image](https://i.seadn.io/s/raw/files/9e65e993029fd9a23fc98e7b5f904898.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[weBLST](https://opensea.io/collection/weblst)</details> |
+| **<details><summary>! [!] boxdao.io...</summary>! [!] boxdao.io #1778</details>** | ![Image](https://i.seadn.io/s/raw/files/0823e8007ed710108f827bc00f67467d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [!] boxdao.io #1778](https://opensea.io/collection/boxdao-io-1778)</details> |
+| **<details><summary>0x2705b859fc1af...</summary>0x2705b859fc1af21553a7831942cb5ca68f422a43</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x2705b859fc1af21553a7831942cb5ca68f422a43](https://opensea.io/collection/0x2705b859fc1af21553a7831942cb5ca68f422a43)</details> |
+| **<details><summary>0xda7352c9b442f...</summary>0xda7352c9b442f856c5e91d6ff883724ac85af36f</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xda7352c9b442f856c5e91d6ff883724ac85af36f](https://opensea.io/collection/0xda7352c9b442f856c5e91d6ff883724ac85af36f)</details> |
 
 </div>
