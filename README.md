@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>! [!] boxevent....</summary>! [!] boxevent.io #004928</details>** | ![Image](https://i.seadn.io/s/raw/files/1701c03a4bb2888b5058bc85d34c4b90.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [!] boxevent.io #004928](https://opensea.io/collection/boxevent-io-004928)</details> |
-| **<details><summary>'plasmashift' C...</summary>'plasmashift' Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/f3821ed7c194e6d77db7a150571f3ab8.webp?w=500&auto=format?w=200&auto=format) | <details><summary>A collection of MRTZ-inspired ...</summary>A collection of MRTZ-inspired artwork.</details> | <details><summary>Link</summary>['plasmashift' Collection](https://opensea.io/collection/plasmashift-collection)</details> |
-| **<details><summary>! [!] boxevent....</summary>! [!] boxevent.io #004927</details>** | ![Image](https://i.seadn.io/s/raw/files/6795020d4bfe522dac5cd5093cdbfd84.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [!] boxevent.io #004927](https://opensea.io/collection/boxevent-io-004927)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/a79bbe1d4b998f9d48e62e9ff87b7f56.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4560)</details> |
+| **USDD** | ![Image](https://i.seadn.io/s/raw/files/3a322a540e15a3e2aed448e2272db804.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>USDD (USDD) is a Bonding Curve...</summary>USDD (USDD) is a Bonding Curved ERC-1155 token created on mint.club.
+
+Backed by use SilverfishBASED (USBA) on Base chain.
+
+https://mint.club/nft/base/USDD</details> | <details><summary>Link</summary>[USDD](https://opensea.io/collection/usdd-5)</details> |
+| **<details><summary>! [!] boxevent....</summary>! [!] boxevent.io #004988</details>** | ![Image](https://i.seadn.io/s/raw/files/cd7e9394834752069953d28754c1de57.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! [!] boxevent.io #004988](https://opensea.io/collection/boxevent-io-004988)</details> |
 
 </div>
