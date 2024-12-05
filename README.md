@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Something for m...</summary>Something for myself</details>** | ![Image](https://i.seadn.io/s/raw/files/da6dcb60095ffccad2d32a4e55870d98.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>I shall remember that I’m alon...</summary>I shall remember that I’m alone
-
-and the Moon stands above loneliness
---
-See more by Elnaz Mansouri on Remx at remx.xyz/elnaz555</details> | <details><summary>Link</summary>[Something for myself](https://opensea.io/collection/something-for-myself)</details> |
+| **<details><summary>Dali Trips - a ...</summary>Dali Trips - a tangent off of Dali Dreams</details>** | ![Image](https://i.seadn.io/s/raw/files/4fada27e484d2a871b1f66fb312c5bf5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dali Trips - a tangent off of Dali Dreams](https://opensea.io/collection/dali-trips-a-tangent-off-of-dali-dreams)</details> |
+| **<details><summary>CALENDRIER DE L...</summary>CALENDRIER DE L'AVENT 2023</details>** | ![Image](https://i.seadn.io/s/raw/files/571cc576978c8d6f230ce8fff8e08ce8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CALENDRIER DE L'AVENT 2023](https://opensea.io/collection/calendrier-de-l-avent-2023)</details> |
+| **Chonks** | ![Image](https://i.seadn.io/s/raw/files/f2d77b7a3bac5486b9249b7109452685.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chonks](https://opensea.io/collection/chonks)</details> |
 
 </div>
