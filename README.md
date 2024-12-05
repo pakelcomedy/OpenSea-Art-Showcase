@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Evening stroll** | ![Image](https://i.seadn.io/s/raw/files/f451ad8f4c7f04a36dd0668d6446c1e2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Street photography
+| **<details><summary>Something for m...</summary>Something for myself</details>** | ![Image](https://i.seadn.io/s/raw/files/da6dcb60095ffccad2d32a4e55870d98.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>I shall remember that I’m alon...</summary>I shall remember that I’m alone
+
+and the Moon stands above loneliness
 --
-See more...</summary>Street photography
---
-See more by Chukwuebuka Nnadozie on Remx at remx.xyz/remixitphotos</details> | <details><summary>Link</summary>[Evening stroll](https://opensea.io/collection/evening-stroll)</details> |
+See more by Elnaz Mansouri on Remx at remx.xyz/elnaz555</details> | <details><summary>Link</summary>[Something for myself](https://opensea.io/collection/something-for-myself)</details> |
 
 </div>
