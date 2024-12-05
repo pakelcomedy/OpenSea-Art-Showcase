@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/4bbf582057e8595bbe1cd5c2b383d87c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-10908)</details> |
-| **CryptoJoker$** | ![Image](https://i.seadn.io/s/raw/files/e4e10231d91ad841393521fe98728411.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CryptoJoker$](https://opensea.io/collection/cryptojoker-8)</details> |
+| **Skeptical cup** | ![Image](https://i.seadn.io/s/raw/files/2d053c6fd859d2d89442b6e41dbc88b6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This cup is especially for tho...</summary>This cup is especially for those who like to procrastinate - it's 1.3 liters. 
+As soon as you finish drinking tea or coffee, it's already the end of the working day.</details> | <details><summary>Link</summary>[Skeptical cup](https://opensea.io/collection/skeptical-cup)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/669d4fd43c6ae9ebd5d5b92ca4b855c1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-4405)</details> |
+| **DreamNFT** | ![Image](https://i.seadn.io/s/raw/files/20b20e4fc7ba7da547b690dea7e12ffa.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DreamNFT](https://opensea.io/collection/dreamnft-2)</details> |
 
 </div>
