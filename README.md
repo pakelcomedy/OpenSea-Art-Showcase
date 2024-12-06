@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Orto** | ![Image](https://i.seadn.io/s/raw/files/48710c57e4b59c228103b9e9c51c9454.png?w=500&auto=format?w=200&auto=format) | Orto Fruits | <details><summary>Link</summary>[Orto](https://opensea.io/collection/orto-2)</details> |
-| **Crypto Gods III** | ![Image](https://i.seadn.io/s/raw/files/ea5500ce999553d3d1758d832cb15c8b.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crypto Gods III](https://opensea.io/collection/crypto-gods-iii)</details> |
+| **<details><summary>Orto - Rice Pot...</summary>Orto - Rice Potatos and mussels</details>** | ![Image](https://i.seadn.io/s/raw/files/eeff342a3c364ce996e5463d70fde6b2.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Orto - Rice Potatos and mussel...</summary>Orto - Rice Potatos and mussels</details> | <details><summary>Link</summary>[Orto - Rice Potatos and mussels](https://opensea.io/collection/orto-rice-potatos-and-mussels)</details> |
+| **Peace🦋** | ![Image](https://i.seadn.io/s/raw/files/6ac70f6b3e141ce04e6d96791417e056.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peace🦋](https://opensea.io/collection/peace-335)</details> |
 
 </div>
