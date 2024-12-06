@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>OriginVault Gem...</summary>OriginVault Gems</details>** | ![Image](https://i.seadn.io/s/raw/files/0bd00a4d0df5e0e935b1734f339cb4a0.gif?w=500&auto=format?w=200&auto=format) | <details><summary>OriginVault Gems for earning a...</summary>OriginVault Gems for earning achievements and rewards on the platform</details> | <details><summary>Link</summary>[OriginVault Gems](https://opensea.io/collection/originvault-gems-4)</details> |
-| **<details><summary>The South Hill ...</summary>The South Hill Experiment</details>** | ![Image](https://i.seadn.io/s/raw/files/cec720fd36e03fc120f7bfd70add2e58.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The South Hill Experiment](https://opensea.io/collection/the-south-hill-experiment)</details> |
+| **Orto** | ![Image](https://i.seadn.io/s/raw/files/48710c57e4b59c228103b9e9c51c9454.png?w=500&auto=format?w=200&auto=format) | Orto Fruits | <details><summary>Link</summary>[Orto](https://opensea.io/collection/orto-2)</details> |
+| **Crypto Gods III** | ![Image](https://i.seadn.io/s/raw/files/ea5500ce999553d3d1758d832cb15c8b.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crypto Gods III](https://opensea.io/collection/crypto-gods-iii)</details> |
 
 </div>
