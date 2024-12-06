@@ -6,11 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Introducing GAI...</summary>Introducing GAIA AI</details>** | ![Image](https://i.seadn.io/s/raw/files/4b626e4f4dc2577f87be9a3851fa8812.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Introducing GAIA AI
-
-Read the ...</summary>Introducing GAIA AI
-
-Read the full post on Paragraph: https://paragraph.xyz/@gaiaai/genesis</details> | <details><summary>Link</summary>[Introducing GAIA AI](https://opensea.io/collection/introducing-gaia-ai)</details> |
-| **Pager** | ![Image](https://i.seadn.io/s/raw/files/e6cd3b734ccb8bc3a0ebaf663caf8f3b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Hacker device which helps hack...</summary>Hacker device which helps hack a 0xterminal.game</details> | <details><summary>Link</summary>[Pager](https://opensea.io/collection/pager-14)</details> |
+| **NO WAR** | ![Image](https://i.seadn.io/s/raw/files/a6b310bddaa87258f393ca75c2588eb9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NO WAR](https://opensea.io/collection/no-war-112)</details> |
+| **<details><summary>INDEX GAME x HK...</summary>INDEX GAME x HKNN</details>** | ![Image](https://i.seadn.io/s/raw/files/59343011277ce26528ce8f3cb1deeca3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[INDEX GAME x HKNN](https://opensea.io/collection/index-game-x-hknn)</details> |
+| **peakHiveAI** | ![Image](https://i.seadn.io/s/raw/files/61d951c68f43372ca7ed18557cf730d4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[peakHiveAI](https://opensea.io/collection/peakhiveai)</details> |
 
 </div>
