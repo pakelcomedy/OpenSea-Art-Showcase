@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Visit stethawar...</summary>Visit stethaward.com to claim rewards</details>** | ![Image](https://i.seadn.io/s/raw/files/be482233c9bd1b78c4ae04c91570a346.png?w=500&auto=format?w=200&auto=format) | <details><summary>Visit stethaward.com to claim ...</summary>Visit stethaward.com to claim rewards</details> | <details><summary>Link</summary>[Visit stethaward.com to claim rewards](https://opensea.io/collection/visit-stethaward-com-to-claim-rewards-63)</details> |
+| **<details><summary>! ( ! ) ADDBOX:...</summary>! ( ! ) ADDBOX: 122</details>** | ![Image](https://i.seadn.io/s/raw/files/70f76a85b4fa4765890676c8d5420f76.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! ( ! ) ADDBOX: 122](https://opensea.io/collection/addbox-122)</details> |
+| **Cyborg 1** | ![Image](https://i.seadn.io/s/raw/files/e5037ed83766213619d26c23faff027f.jpg?w=500&auto=format?w=200&auto=format) | Cyberfunk | <details><summary>Link</summary>[Cyborg 1](https://opensea.io/collection/cyborg-1-2)</details> |
 
 </div>
