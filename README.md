@@ -6,17 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **! ( ! ) ADDBOX** | ![Image](https://i.seadn.io/s/raw/files/050f86ac04e246199bd9d8cc192c0a29.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! ( ! ) ADDBOX](https://opensea.io/collection/addbox-239)</details> |
-| **! ( ! ) ADDBOX** | ![Image](https://i.seadn.io/s/raw/files/9a6b07565aa653c86401e6287eae8ce2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! ( ! ) ADDBOX](https://opensea.io/collection/addbox-238)</details> |
-| **! ( ! ) ADDBOX** | ![Image](https://i.seadn.io/s/raw/files/a6f6cf0b03fb0b71554f260ff5deb781.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! ( ! ) ADDBOX](https://opensea.io/collection/addbox-237)</details> |
-| **! ( ! ) ADDBOX** | ![Image](https://i.seadn.io/s/raw/files/787381af74af2cd07111bc0cc7953234.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! ( ! ) ADDBOX](https://opensea.io/collection/addbox-236)</details> |
-| **Sarah** | ![Image](https://i.seadn.io/s/raw/files/cc18eb4276178beca6b2efd4ac6f5fda.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>If you grow up the type of wom...</summary>If you grow up the type of woman men want to look at,
-you can let them look at you.
-Do not mistake eyes for hands
-or windows
-or mirrors.
-Let them see what a woman looks like.
-They may not have ever seen one before.
-</details> | <details><summary>Link</summary>[Sarah](https://opensea.io/collection/sarah-57)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/75d855df77ec7856bf45507659fc0454.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-10941)</details> |
+| **! ( ! ) ADDBOX** | ![Image](https://i.seadn.io/s/raw/files/70adc6e0984ccf63db6dc069e092ad1b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! ( ! ) ADDBOX](https://opensea.io/collection/addbox-395)</details> |
+| **! ( ! ) ADDBOX** | ![Image](https://i.seadn.io/s/raw/files/68c88dbac7109db3dab20673ef263063.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[! ( ! ) ADDBOX](https://opensea.io/collection/addbox-394)</details> |
+| **Collage I3-24** | ![Image](https://i.seadn.io/s/raw/files/ec61ade235c7488a4b1e576841ac5dea.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Dimensions: 1080x1080 px
+Year:...</summary>Dimensions: 1080x1080 px
+Year: 2024
+Artist: Molfarka
+--
+See more by Molfarka_Art on Remx at remx.xyz/molfarka-art</details> | <details><summary>Link</summary>[Collage I3-24](https://opensea.io/collection/collage-i3-24)</details> |
 
 </div>
