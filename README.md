@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **DartDeaDia** | ![Image](https://i.seadn.io/s/raw/files/d99aae7d9bc101b61ecfb626110fbe87.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DartDeaDia](https://opensea.io/collection/dartdeadia)</details> |
-| **Enjoy Clanker** | ![Image](https://i.seadn.io/s/raw/files/e2da4bd27a47d133830782fbea006313.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Enjoy Clanker](https://opensea.io/collection/enjoy-clanker)</details> |
-| **ewfefwe** | ![Image](https://i.seadn.io/s/raw/files/d74d7cbd8b5586ad023e9d153f4d5e08.png?w=500&auto=format?w=200&auto=format) | wefwewfee | <details><summary>Link</summary>[ewfefwe](https://opensea.io/collection/ewfefwe)</details> |
-| **dcwef** | ![Image](https://i.seadn.io/s/raw/files/e4ba58bfef4b584ba4c3f8181881d1aa.png?w=500&auto=format?w=200&auto=format) | wecvwev | <details><summary>Link</summary>[dcwef](https://opensea.io/collection/dcwef)</details> |
+| **Surreal posts** | ![Image](https://i.seadn.io/s/raw/files/8e5142f13dc0ffbf9afcbf83be5a291c.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Surreal posts](https://opensea.io/collection/surreal-posts-30)</details> |
+| **<details><summary>Delay, Deny, De...</summary>Delay, Deny, Defend</details>** | ![Image](https://i.seadn.io/s/raw/files/8a75b0fe4fe5b3076a4a2213d022f117.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Delay, Deny, Defend](https://opensea.io/collection/delay-deny-defend)</details> |
+| **<details><summary>0x7226608f88dd4...</summary>0x7226608f88dd4abcabcb5cd470f6084d1bc93332</details>** | ![Image](https://i.seadn.io/s/raw/files/662371d5e0a8665a35b37f8206b4c8fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x7226608f88dd4abcabcb5cd470f6084d1bc93332](https://opensea.io/collection/0x7226608f88dd4abcabcb5cd470f6084d1bc93332)</details> |
 
 </div>
