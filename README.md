@@ -6,9 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ani** | ![Image](https://i.seadn.io/s/raw/files/6e587117b1b8af85a3d75ee3b3686d1d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ani](https://opensea.io/collection/ani-52)</details> |
-| **medical** | ![Image](https://i.seadn.io/s/raw/files/869955e86f9911f0f332941d2287fd4c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[medical](https://opensea.io/collection/medical-26)</details> |
-| **panda** | ![Image](https://i.seadn.io/s/raw/files/88e640042b82ceaceb94f8570c16e9fb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[panda](https://opensea.io/collection/panda-746)</details> |
-| **otset** | ![Image](https://i.seadn.io/s/raw/files/e350c562f38e47bf804ac9c5befcf6ed.png?w=500&auto=format?w=200&auto=format) | OTS | <details><summary>Link</summary>[otset](https://opensea.io/collection/otset)</details> |
+| **PARACHUT** | ![Image](https://i.seadn.io/s/raw/files/449a170ebd00351a5ad9d821bc0950e2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PARACHUT](https://opensea.io/collection/parachut)</details> |
+| **pink ray** | ![Image](https://i.seadn.io/s/raw/files/9a11ef04cc81d24ad194234b025c83a0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The last rays of the sun
+--
+Se...</summary>The last rays of the sun
+--
+See more by eisa on Remx at remx.xyz/keivaneisa</details> | <details><summary>Link</summary>[pink ray](https://opensea.io/collection/pink-ray-1)</details> |
+| **<details><summary>10,000 USDТ Air...</summary>10,000 USDТ Airdrop</details>** | ![Image](https://i.seadn.io/s/raw/files/293f2d90d06b4a541d30261a77b012f0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10,000 USDТ Airdrop](https://opensea.io/collection/10000-usdt-airdrop-8)</details> |
+| **koney** | ![Image](https://i.seadn.io/s/raw/files/61a06330b2e2a23bb4c59b61ffaa56f2.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Bored Apes were one of the mos...</summary>Bored Apes were one of the most globally hyped NFTs in the last bull market, but have suffered amid a general lack of demand for NFT collections.</details> | <details><summary>Link</summary>[koney](https://opensea.io/collection/koney)</details> |
 
 </div>
