@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>TintaLatinoamer...</summary>TintaLatinoamericana - Admin</details>** | ![Image](https://i.seadn.io/s/raw/files/7c4a644b0fdaee77ef02497550fb4f20.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TintaLatinoamericana - Admin](https://opensea.io/collection/tintalatinoamericana-admin)</details> |
-| **<details><summary>worldexplorer -...</summary>worldexplorer - Admin</details>** | ![Image](https://i.seadn.io/s/raw/files/1654dfb7f0025e1d4ac8d06bc9294ea0.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[worldexplorer - Admin](https://opensea.io/collection/worldexplorer-admin)</details> |
-| **NFTs - Admin** | ![Image](https://i.seadn.io/s/raw/files/6609365259981cf7b422c64e73d81300.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFTs - Admin](https://opensea.io/collection/nfts-admin)</details> |
-| **NFTs - Member** | ![Image](https://i.seadn.io/s/raw/files/6609365259981cf7b422c64e73d81300.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFTs - Member](https://opensea.io/collection/nfts-member-1)</details> |
+| **Nature** | ![Image](https://i.seadn.io/s/raw/files/34d151dfacaf58a0a3e1412016e5bc93.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nature](https://opensea.io/collection/nature-2790)</details> |
+| **DiscoCats** | ![Image](https://i.seadn.io/s/raw/files/02f54291079d7486fa5cade0d19c969c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DiscoCats](https://opensea.io/collection/discocats-3)</details> |
 
 </div>
