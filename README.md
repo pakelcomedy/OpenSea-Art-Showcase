@@ -6,11 +6,16 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ASTONISHED** | ![Image](https://i.seadn.io/s/raw/files/e63ce560bc67b0fd2987724dfec723e2.png?w=500&auto=format?w=200&auto=format) | <details><summary>This art piece represents insp...</summary>This art piece represents inspiration for the movie blade runner and represents concept art using my 3d characters and 3d environments
+| **<details><summary>Terraforms by M...</summary>Terraforms by Mathcastles</details>** | ![Image](https://i.seadn.io/s/raw/files/8987b795655076fdf8183a7daee3754a.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Terraforms by Mathcastles](https://opensea.io/collection/terraforms-by-mathcastles-34)</details> |
+| **Forvr Moodies** | ![Image](https://i.seadn.io/s/raw/files/a2c63b86cb6188b8eb8c75b0b69617d2.gif?w=500&auto=format?w=200&auto=format) | <details><summary>Earn Points aka “Coins” for Pu...</summary>Earn Points aka “Coins” for Purchases.
+- Redeem coins for product discounts, prizes and freebies
+- Access to Product Giveaways
+- Early access to new drops 
+- Points and discounts for completing challenges</details> | <details><summary>Link</summary>[Forvr Moodies](https://opensea.io/collection/forvr-moodies-1)</details> |
+| **<details><summary>We can learn so...</summary>We can learn so much from animals. Day 20</details>** | ![Image](https://i.seadn.io/s/raw/files/14f1f0663097a8cb403d36f38fd4bdc3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Day 20 of #100happymoments
 --
-See more by Dreamz on Remx at remx.xyz/dreamz</details> | <details><summary>Link</summary>[ASTONISHED](https://opensea.io/collection/astonished-1)</details> |
-| **DTUM** | ![Image](https://i.seadn.io/s/raw/files/77a51ae08f5149f3cda01f3eb937f476.png?w=500&auto=format?w=200&auto=format) | DINOMATUM | <details><summary>Link</summary>[DTUM](https://opensea.io/collection/dtum)</details> |
-| **SEEDCLUB round** | ![Image](https://i.seadn.io/s/raw/files/60aa1a6f5aee2a1bd4cda246b74607a7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SEEDCLUB round](https://opensea.io/collection/seedclub-round)</details> |
-| **YuYu xiuzhen** | ![Image](https://i.seadn.io/s/raw/files/4e7b90b0f08cc1ddc7e8eb6fc0edf5b1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[YuYu xiuzhen](https://opensea.io/collection/yuyu-xiuzhen)</details> |
+...</summary>Day 20 of #100happymoments
+--
+See more by Seendollf on Remx at remx.xyz/seendollf</details> | <details><summary>Link</summary>[We can learn so much from animals. Day 20](https://opensea.io/collection/we-can-learn-so-much-from-animals-day-20)</details> |
 
 </div>
