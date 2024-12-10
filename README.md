@@ -6,10 +6,19 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **modern art** | ![Image](https://i.seadn.io/s/raw/files/87f4dee2aea5d2730cce691af02bfcd5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[modern art](https://opensea.io/collection/modern-art-84)</details> |
-| **GTA V** | ![Image](https://i.seadn.io/s/raw/files/c8993a64d3e19c5c6bc4a44e84c0a578.png?w=500&auto=format?w=200&auto=format) | GTA V | <details><summary>Link</summary>[GTA V](https://opensea.io/collection/gta-v-3)</details> |
-| **<details><summary>Larry Respects ...</summary>Larry Respects Wood round</details>** | ![Image](https://i.seadn.io/s/raw/files/60aa1a6f5aee2a1bd4cda246b74607a7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Larry Respects Wood round](https://opensea.io/collection/larry-respects-wood-round)</details> |
-| **Hellsing** | ![Image](https://i.seadn.io/s/raw/files/10ef3004885eb30cda61ea3fa8db0db1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hellsing](https://opensea.io/collection/hellsing-3)</details> |
-| **<details><summary>Insect collecti...</summary>Insect collection</details>** | ![Image](https://i.seadn.io/s/raw/files/6930238bb0e663dda4890c60a95f7525.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Insect collection](https://opensea.io/collection/insect-collection-3)</details> |
+| **Typical morning** | ![Image](https://i.seadn.io/s/raw/files/274db8c2ae6280367b3dbfb8af802ca6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This is how I start my morning...</summary>This is how I start my morning.
+Come to coffee shop,
+Inject caffeine into my brain,
+and draw + paint.
+
+How about you? 😊
+Gmgm!
+--
+See more by Seungdo Hyun on Remx at remx.xyz/seungdo-hyun</details> | <details><summary>Link</summary>[Typical morning](https://opensea.io/collection/typical-morning)</details> |
+| **Dark Familiars** | ![Image](https://i.seadn.io/s/raw/files/8bdb91851b4751778ff1b8f7269d632f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dark Familiars](https://opensea.io/collection/dark-familiars)</details> |
+| **hello** | ![Image](https://i.seadn.io/s/raw/files/ed80433ff9cab9ce05dc0b8b4c740aff.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hello](https://opensea.io/collection/hello-586)</details> |
+| **Daily Commute** | ![Image](https://i.seadn.io/s/raw/files/b85dd3857a52432edd15039b04a0ded0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Just another day moving around...</summary>Just another day moving around Accra, Ghana
+--
+See more by David Obi on Remx at remx.xyz/davidobi</details> | <details><summary>Link</summary>[Daily Commute](https://opensea.io/collection/daily-commute)</details> |
 
 </div>
