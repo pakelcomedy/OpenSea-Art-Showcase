@@ -6,12 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **All is well** | ![Image](https://i.seadn.io/s/raw/files/6681977e6c84b963393cb66bd36cd16e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[All is well](https://opensea.io/collection/all-is-well-3)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 6d7da21d-fefd-49ca-bdc0-fbcc0e47667e</details>** | ![Image](https://i.seadn.io/s/raw/files/89f98c95e41ec93082e93a7712d4b85a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 6d7da21d-fefd-49ca-bdc0-fbcc0e47667e](https://opensea.io/collection/unidentified-contract-6d7da21d-fefd-49ca-bdc0-fbcc)</details> |
-| **Op Nft l** | ![Image](https://i.seadn.io/s/raw/files/aaa92085306536e34c8f7a0df30bd9ef.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Op Nft l
-
-Made with [NFTs2Me.c...</summary>Op Nft l
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Op Nft l](https://opensea.io/collection/op-nft-l)</details> |
+| **<details><summary>incididunt haru...</summary>incididunt harum hic</details>** | ![Image](https://i.seadn.io/s/raw/files/7777ca28548942912cc669436864f969.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[incididunt harum hic](https://opensea.io/collection/incididunt-harum-hic)</details> |
+| **<details><summary>552668's Follow...</summary>552668's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[552668's Follower](https://opensea.io/collection/552668-s-follower)</details> |
+| **<details><summary>The Beats of Ca...</summary>The Beats of Cats</details>** | ![Image](https://i.seadn.io/s/raw/files/72eb500dc02ea5386756d8957a65601c.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Beats of Cats](https://opensea.io/collection/the-beats-of-cats-4)</details> |
+| **<details><summary>0x5485b62f5d4b2...</summary>0x5485b62f5d4b252427409d708c99d4f2479d23e6</details>** | ![Image](https://i.seadn.io/s/raw/files/0fece0a6b2eb375458831919daf08ff5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x5485b62f5d4b252427409d708c99d4f2479d23e6](https://opensea.io/collection/0x5485b62f5d4b252427409d708c99d4f2479d23e6)</details> |
 
 </div>
