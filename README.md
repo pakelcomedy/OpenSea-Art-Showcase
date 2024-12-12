@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Deny, defend, d...</summary>Deny, defend, depose.</details>** | ![Image](https://i.seadn.io/s/raw/files/8fe2cee69e4594f7746344232042b864.jpg?w=500&auto=format?w=200&auto=format) | LFG | <details><summary>Link</summary>[Deny, defend, depose.](https://opensea.io/collection/deny-defend-depose)</details> |
-| **Holdara** | ![Image](https://i.seadn.io/s/raw/files/2eab4ff23cd88e76e98f39271f15a44f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Holdara](https://opensea.io/collection/holdara-1)</details> |
-| **Elon Vangogh** | ![Image](https://i.seadn.io/s/raw/files/aec3fc30fb988ffb98a7a7745fe84338.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Elon Vangogh](https://opensea.io/collection/elon-vangogh)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/8ea40a1abcc6a6d84e7ce5f7ebe572d9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4738)</details> |
+| **<details><summary>Why Now? Why No...</summary>Why Now? Why Not?</details>** | ![Image](https://i.seadn.io/s/raw/files/a332c0e408ab47142143cae524b1e07b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Why Now? Why Not?](https://opensea.io/collection/why-now-why-not)</details> |
+| **NFT.NYC** | ![Image](https://i.seadn.io/s/raw/files/fd4450c23e88d3dc179f7d4ae2e4a678.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFT.NYC](https://opensea.io/collection/nft-nyc-10)</details> |
+| **Kourd** | ![Image](https://i.seadn.io/s/raw/files/09c81b0be2c5a979637f27c76dcef2b0.jpg?w=500&auto=format?w=200&auto=format) | Kourd kourd | <details><summary>Link</summary>[Kourd](https://opensea.io/collection/kourd)</details> |
 
 </div>
