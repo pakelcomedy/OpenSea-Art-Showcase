@@ -6,18 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>XOmega Cosmos: ...</summary>XOmega Cosmos: Orbiting Worlds - Drop 1</details>** | ![Image](https://i.seadn.io/s/raw/files/39e003fc05b32f4f8c50cbd26a70a944.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XOmega Cosmos: Orbiting Worlds - Drop 1](https://opensea.io/collection/xomega-cosmos-orbiting-worlds-drop-1)</details> |
-| **<details><summary>Reticulating Sp...</summary>Reticulating Splines round</details>** | ![Image](https://i.seadn.io/s/raw/files/60aa1a6f5aee2a1bd4cda246b74607a7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Reticulating Splines round](https://opensea.io/collection/reticulating-splines-round)</details> |
-| **<details><summary>Souls on Textur...</summary>Souls on Textures</details>** | ![Image](https://i.seadn.io/s/raw/files/29ba5132c147b519e52d8ea5135f5bcb.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>some of the final results!
-
-si...</summary>some of the final results!
-
-silkscreen on cardboard
-📷 canonexee x zenit11
-🎞 kodakvision3
-
-Shot on Kodak
---
-See more by Themanualdude  on Remx at remx.xyz/themanualdude</details> | <details><summary>Link</summary>[Souls on Textures](https://opensea.io/collection/souls-on-textures)</details> |
+| **Bruno** | ![Image](https://i.seadn.io/s/raw/files/8f2dae04f3b774c6c9bb8490a6e1c818.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bruno](https://opensea.io/collection/bruno-295)</details> |
+| **<details><summary>Is This The New...</summary>Is This The New Internet?</details>** | ![Image](https://i.seadn.io/s/raw/files/cfa986a09149b61e3ddfa84e589fa0b1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>A podcast for people who deepl...</summary>A podcast for people who deeply care about the internet, and want it to be better. Exploring how new tools, platforms and technologies are reshaping how we go about our lives on the internet.</details> | <details><summary>Link</summary>[Is This The New Internet?](https://opensea.io/collection/is-this-the-new-internet)</details> |
+| **car** | ![Image](https://i.seadn.io/s/raw/files/1930eea73dbd6120c748d1b83b4deab4.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Immerse yourself in a vibrant ...</summary>Immerse yourself in a vibrant landscape where the wonders of technology and the beauty of nature exist side by side. The scene features a brilliant blue sky with soft clouds that embrace majestic mountains, their slopes rich with dense forests and innovative high-tech structures. At the heart of this enchanting vista is a magnificent tree with a sleek metallic trunk, its bioluminescent leaves casting a magical glow. Close to a serene river, eco-homes are designed with sustainability in mind, showcasing solar panels and lush vertical gardens. Drones and futuristic vehicles soar gracefully overhead, representing the limitless potential of the future. This colorful and animated landscape radiates life and inspiration, inviting you to envision a world where innovation and nature thrive together</details> | <details><summary>Link</summary>[car](https://opensea.io/collection/car-879)</details> |
 
 </div>
