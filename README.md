@@ -6,9 +6,18 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>CYBORG GOLDEN B...</summary>CYBORG GOLDEN BANANA PUNK</details>** | ![Image](https://i.seadn.io/s/raw/files/2abba0c037c506ebf5ee0b5d77947cc9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CYBORG GOLDEN BANANA PUNK](https://opensea.io/collection/cyborg-golden-banana-punk)</details> |
-| **Evidence** | ![Image](https://i.seadn.io/s/raw/files/3e14b98dfdb0b13be9debf72f9a91843.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Evidence](https://opensea.io/collection/evidence-19)</details> |
-| **<details><summary>Daily Inspirati...</summary>Daily Inspirations</details>** | ![Image](https://i.seadn.io/s/raw/files/0c8c07c9d1d80770d134eba5600c517e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Daily Inspirations](https://opensea.io/collection/daily-inspirations-2)</details> |
-| **Etched In Ice** | ![Image](https://i.seadn.io/s/raw/files/c8dc5de07092eebc5cbad526d82c5804.png?w=500&auto=format?w=200&auto=format) | <details><summary><p>Introducing Etched In Ice &...</summary><p>Introducing Etched In Ice &mdash; a thrilling collection of the most electrifying and impactful plays from the current superstars of the game, spanning their entire careers. This Legendary set showcases the jaw-dropping moments that have ignited arenas and left fans in awe, featuring the NHL's brightest talents at the peak of their performance. &nbsp;Each Multi Highlight in this set captures the essence of excitement and skill that defines these stars. From gravity-defying goals to astonishing saves and incredible assists, Etched In Ice brings the on-ice brilliance of these players to life.</p></details> | <details><summary>Link</summary>[Etched In Ice](https://opensea.io/collection/etched-in-ice)</details> |
+| **<details><summary>XOmega Cosmos: ...</summary>XOmega Cosmos: Orbiting Worlds - Drop 1</details>** | ![Image](https://i.seadn.io/s/raw/files/39e003fc05b32f4f8c50cbd26a70a944.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XOmega Cosmos: Orbiting Worlds - Drop 1](https://opensea.io/collection/xomega-cosmos-orbiting-worlds-drop-1)</details> |
+| **<details><summary>Reticulating Sp...</summary>Reticulating Splines round</details>** | ![Image](https://i.seadn.io/s/raw/files/60aa1a6f5aee2a1bd4cda246b74607a7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Reticulating Splines round](https://opensea.io/collection/reticulating-splines-round)</details> |
+| **<details><summary>Souls on Textur...</summary>Souls on Textures</details>** | ![Image](https://i.seadn.io/s/raw/files/29ba5132c147b519e52d8ea5135f5bcb.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>some of the final results!
+
+si...</summary>some of the final results!
+
+silkscreen on cardboard
+📷 canonexee x zenit11
+🎞 kodakvision3
+
+Shot on Kodak
+--
+See more by Themanualdude  on Remx at remx.xyz/themanualdude</details> | <details><summary>Link</summary>[Souls on Textures](https://opensea.io/collection/souls-on-textures)</details> |
 
 </div>
