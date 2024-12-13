@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **bull btc 13** | ![Image](https://i.seadn.io/s/raw/files/5ea3a2d10123686455c8a4ebc439b181.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bull btc 13](https://opensea.io/collection/bull-btc-13)</details> |
-| **Guts Dogs** | ![Image](https://i.seadn.io/s/raw/files/86ff4b8530034729a2aa65f8936b83ed.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Guts Dogs launched on pumpsea....</summary>Guts Dogs launched on pumpsea.io, where people can trade NFTs like meme coins using bonding curve pools.
-
-Check it out: https://pumpsea.io/Guts%20Dogs</details> | <details><summary>Link</summary>[Guts Dogs](https://opensea.io/collection/guts-dogs)</details> |
-| **Japenese** | ![Image](https://i.seadn.io/s/raw/files/b5020219fedbc54ea69aaadc6537e61a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Japenese](https://opensea.io/collection/japenese)</details> |
-| **<details><summary>Big Titty Cats ...</summary>Big Titty Cats - $BTC</details>** | ![Image](https://i.seadn.io/s/raw/files/b1ef593833006ecb74056dfa4425121c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Big Titty Cats - $BTC](https://opensea.io/collection/big-titty-cats-btc)</details> |
-| **AlinaGreysis** | ![Image](https://i.seadn.io/s/raw/files/e0a1d64eb0b03c00a05a6d3a2986bfee.jpg?w=500&auto=format?w=200&auto=format) | AlinaGreysis | <details><summary>Link</summary>[AlinaGreysis](https://opensea.io/collection/alinagreysis)</details> |
+| **<details><summary>Cat's Bull Shin...</summary>Cat's Bull Shining</details>** | ![Image](https://i.seadn.io/s/raw/files/8f037270da272b12cd3cf4020b600355.jpg?w=500&auto=format?w=200&auto=format) | It's not cat offical dyor. | <details><summary>Link</summary>[Cat's Bull Shining](https://opensea.io/collection/cat-s-bull-shining)</details> |
+| **<details><summary>Degen Rocket Ri...</summary>Degen Rocket Rider</details>** | ![Image](https://i.seadn.io/s/raw/files/9575b5647bd77153ea14af6c3fd4ea97.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Degen Rocket Rider](https://opensea.io/collection/degen-rocket-rider)</details> |
+| **Meta AI** | ![Image](https://i.seadn.io/s/raw/files/77b5db4250823b13956668611d4da839.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Meta AI](https://opensea.io/collection/meta-ai-3)</details> |
 
 </div>
