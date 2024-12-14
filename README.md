@@ -6,14 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Coffee** | ![Image](https://i.seadn.io/s/raw/files/f1106b879ff7219bf3f196cdf087c5d2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Winters and coffee
---
-See more...</summary>Winters and coffee
---
-See more by Ordinary Artist  on Remx at remx.xyz/ordinary-artist</details> | <details><summary>Link</summary>[Coffee](https://opensea.io/collection/coffee-325)</details> |
-| **Catsss** | ![Image](https://i.seadn.io/s/raw/files/27a7f4669eb6b7fae611628f0b6f9324.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Hand painted art by Diegorobot...</summary>Hand painted art by Diegorobot
---
-See more by Diegorobot on Remx at remx.xyz/diegorobot</details> | <details><summary>Link</summary>[Catsss](https://opensea.io/collection/catsss-8)</details> |
-| **<details><summary>BASE Nouns Elep...</summary>BASE Nouns Elephant</details>** | ![Image](https://i.seadn.io/s/raw/files/30d3a2450a8926f994da6a693adaf4ed.gif?w=500&auto=format?w=200&auto=format) | PYUEE81.BASE.ETH | <details><summary>Link</summary>[BASE Nouns Elephant](https://opensea.io/collection/base-nouns-elephant)</details> |
+| **pp** | ![Image](https://i.seadn.io/s/raw/files/be5a27ec75d1807d5bd5128e7c28c16e.png?w=500&auto=format?w=200&auto=format) | iop | <details><summary>Link</summary>[pp](https://opensea.io/collection/pp-148)</details> |
+| **Monke Run** | ![Image](https://i.seadn.io/s/raw/files/34456cead6e828f1f66f837e121ad97d.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Monke Run](https://opensea.io/collection/monke-run)</details> |
+| **Eric Cape** | ![Image](https://i.seadn.io/s/raw/files/dbb4d1c997c401d51a9c8f5643981f59.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Eric Cape](https://opensea.io/collection/eric-cape)</details> |
 
 </div>
