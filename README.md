@@ -6,19 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **$ZORAGUY** | ![Image](https://i.seadn.io/s/raw/files/653c4670e71a8da7d0d1b5ee380d8a2d.png?w=500&auto=format?w=200&auto=format) | $ZORAGUY | <details><summary>Link</summary>[$ZORAGUY](https://opensea.io/collection/zoraguy)</details> |
-| **Misty Highlands** | ![Image](https://i.seadn.io/s/raw/files/32770b81fd59d625e19e06a811c99798.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This photo captures the serene...</summary>This photo captures the serene beauty of the Western Ghats in India, where mist gently blankets the hills and dark tree silhouettes stand tall in the foreground. The layers of mountains fade softly into the distance, creating a calm and tranquil atmosphere.
-
-Artist: Mahesh Balasubramanian
-Location: Kodai, India
-Date: 22-02-2014
-Resolution: 5616 × 3744 @ 300 DPI
-Camera: Canon EOS 5D Mark II
-Lens: Canon EF 24-105mm f/4L IS USM
+| **Coffee** | ![Image](https://i.seadn.io/s/raw/files/f1106b879ff7219bf3f196cdf087c5d2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Winters and coffee
 --
-See more by Mahesh Balasubramanian on Remx at remx.xyz/maheshb</details> | <details><summary>Link</summary>[Misty Highlands](https://opensea.io/collection/misty-highlands)</details> |
-| **<details><summary>Matt's 40th Bir...</summary>Matt's 40th Birthday</details>** | ![Image](https://i.seadn.io/s/raw/files/c74cfd8632c7a2a3c1bd02e1c58f57bc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Matt's 40th Birthday](https://opensea.io/collection/matt-s-40th-birthday)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11183)</details> |
-| **Jonki** | ![Image](https://i.seadn.io/s/raw/files/c5c18c4777d6fcd4b5a9a3bf8a1ea2e7.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jonki](https://opensea.io/collection/jonki)</details> |
+See more...</summary>Winters and coffee
+--
+See more by Ordinary Artist  on Remx at remx.xyz/ordinary-artist</details> | <details><summary>Link</summary>[Coffee](https://opensea.io/collection/coffee-325)</details> |
+| **Catsss** | ![Image](https://i.seadn.io/s/raw/files/27a7f4669eb6b7fae611628f0b6f9324.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Hand painted art by Diegorobot...</summary>Hand painted art by Diegorobot
+--
+See more by Diegorobot on Remx at remx.xyz/diegorobot</details> | <details><summary>Link</summary>[Catsss](https://opensea.io/collection/catsss-8)</details> |
+| **<details><summary>BASE Nouns Elep...</summary>BASE Nouns Elephant</details>** | ![Image](https://i.seadn.io/s/raw/files/30d3a2450a8926f994da6a693adaf4ed.gif?w=500&auto=format?w=200&auto=format) | PYUEE81.BASE.ETH | <details><summary>Link</summary>[BASE Nouns Elephant](https://opensea.io/collection/base-nouns-elephant)</details> |
 
 </div>
