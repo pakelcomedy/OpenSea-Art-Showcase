@@ -6,16 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Endless cuddlin...</summary>Endless cuddling</details>** | ![Image](https://i.seadn.io/s/raw/files/aa26c0a7128c09a59b92b60f454b0b9a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Documentary film photography 
-...</summary>Documentary film photography 
-
-Summer 2024
-Shot on an unknown KODAK film stock 
-Kodakcameo
---
-See more by Themanualdude  on Remx at remx.xyz/themanualdude</details> | <details><summary>Link</summary>[Endless cuddling](https://opensea.io/collection/endless-cuddling)</details> |
-| *** jricf** | ![Image](https://i.seadn.io/s/raw/files/b575b97fad1714c18ac2d7184511f96c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* jricf](https://opensea.io/collection/jricf)</details> |
-| **joyful_piglet** | ![Image](https://i.seadn.io/s/raw/files/dfec30841daa79c56301940ceb4d8ad6.jpg?w=500&auto=format?w=200&auto=format) | joyful_piglet | <details><summary>Link</summary>[joyful_piglet](https://opensea.io/collection/joyful-piglet)</details> |
-| *** cckas** | ![Image](https://i.seadn.io/s/raw/files/7d793f77ef56ce4bfd74ee3cb75c7c64.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* cckas](https://opensea.io/collection/cckas)</details> |
+| *** mrgni** | ![Image](https://i.seadn.io/s/raw/files/32c964163e5bfd1d17dff0800f979683.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* mrgni](https://opensea.io/collection/mrgni)</details> |
+| *** tfgdk** | ![Image](https://i.seadn.io/s/raw/files/cb8832bd7d5cbaf7a515e4dbfe388bf1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* tfgdk](https://opensea.io/collection/tfgdk)</details> |
+| **The Bro Bears** | ![Image](https://i.seadn.io/s/raw/files/2f8f8e0bdf4c6bf3bacc2b53d3394605.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Bro Bears](https://opensea.io/collection/the-bro-bears-1)</details> |
+| **<details><summary>The Arrogant Yo...</summary>The Arrogant Youth Circle</details>** | ![Image](https://i.seadn.io/s/raw/files/a57cdfa23254a650919ab3c90beeefc1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Arrogant Youth Circle](https://opensea.io/collection/the-arrogant-youth-circle-1)</details> |
+| *** czslx** | ![Image](https://i.seadn.io/s/raw/files/eb14340e31494b34dffd6d5f400bc8c9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* czslx](https://opensea.io/collection/czslx)</details> |
 
 </div>
