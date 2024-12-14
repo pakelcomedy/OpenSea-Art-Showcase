@@ -6,10 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11204)</details> |
-| **dog** | ![Image](https://i.seadn.io/s/raw/files/fe6ce17e0b081fb709ec024e3268efab.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dog](https://opensea.io/collection/dog-1380)</details> |
-| **<details><summary>Like A Fish In ...</summary>Like A Fish In The Jungle</details>** | ![Image](https://i.seadn.io/s/raw/files/07120a60ad62bd3b4c12dc3094776f16.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Creative spurts as I reflect f...</summary>Creative spurts as I reflect from my recent expedition into the rainforest of East Asia
---
-See more by Rachel Wood on Remx at remx.xyz/rachelstwood</details> | <details><summary>Link</summary>[Like A Fish In The Jungle](https://opensea.io/collection/like-a-fish-in-the-jungle)</details> |
+| **YANTE** | ![Image](https://i.seadn.io/s/raw/files/5a22a71922e313799ddef9b78d343aad.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[YANTE](https://opensea.io/collection/yante)</details> |
+| **<details><summary>Alma dépôt USDT...</summary>Alma dépôt USDT Annuel</details>** | ![Image](https://i.seadn.io/s/raw/files/07a974d8841cd634851d0e3900cbdd4b.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Alma dépôt USDT Annuel (ALMABL...</summary>Alma dépôt USDT Annuel (ALMABLOCK) is a Bonding Curved ERC-1155 token created on mint.club.
+
+Backed by (PoS) Tether USD (USDT) on Polygon chain.
+
+https://mint.club/nft/polygon/ALMABLOCK</details> | <details><summary>Link</summary>[Alma dépôt USDT Annuel](https://opensea.io/collection/alma-depot-usdt-annuel)</details> |
+| **<details><summary>Garbage Pail De...</summary>Garbage Pail Degens</details>** | ![Image](https://i.seadn.io/s/raw/files/ca22714e9d53f249066b9d6acde42fdc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Garbage Pail Degens](https://opensea.io/collection/garbage-pail-degens-2)</details> |
 
 </div>
