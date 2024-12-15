@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **bees** | ![Image](https://i.seadn.io/s/raw/files/b7ca8804f6e42a9e5b47ad53bf998421.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bees](https://opensea.io/collection/bees-37)</details> |
-| **<details><summary>* 5O,OOO USD FO...</summary>* 5O,OOO USD FOR FREE</details>** | ![Image](https://i.seadn.io/s/raw/files/224cf9ceab7fe1a1d2a923f1708beead.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* 5O,OOO USD FOR FREE](https://opensea.io/collection/5o-ooo-usd-for-free-4945)</details> |
-| **ekijan** | ![Image](https://i.seadn.io/s/raw/files/22b6259b7f4c554a6620482479a2efb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ekijan](https://opensea.io/collection/ekijan)</details> |
+| **Wizards** | ![Image](https://i.seadn.io/s/raw/files/f2359d15b824b761cbac846bb3f090d1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Wizards Network
+https://x.com/...</summary>Wizards Network
+https://x.com/WizardsNetwork_</details> | <details><summary>Link</summary>[Wizards](https://opensea.io/collection/wizards-30)</details> |
+| **<details><summary>Dario Gatto Pia...</summary>Dario Gatto Pianist</details>** | ![Image](https://i.seadn.io/s/raw/files/8ead18db746c0ab5ba42a180a5813bd4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dario Gatto Pianist](https://opensea.io/collection/dario-gatto-pianist)</details> |
+| **<details><summary>* 5O,OOO USD FO...</summary>* 5O,OOO USD FOR FREE</details>** | ![Image](https://i.seadn.io/s/raw/files/d156881d2c2f4c6274499106d5926b39.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* 5O,OOO USD FOR FREE](https://opensea.io/collection/5o-ooo-usd-for-free-5001)</details> |
 
 </div>
