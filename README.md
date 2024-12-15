@@ -6,12 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Nature** | ![Image](https://i.seadn.io/s/raw/files/2f08509084b276c95b8295dad065d861.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nature](https://opensea.io/collection/nature-2759)</details> |
-| **Milki melti** | ![Image](https://i.seadn.io/s/raw/files/fd497d4cbb3b727423ee9bb10ee07267.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Milki melti](https://opensea.io/collection/milki-melti)</details> |
-| **Love** | ![Image](https://i.seadn.io/s/raw/files/17d95afa82e6370b04e8ae4094fcc4fc.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Loving
-
-Made with [NFTs2Me.com...</summary>Loving
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Love](https://opensea.io/collection/love-1526)</details> |
+| **<details><summary>Whispers of For...</summary>Whispers of Forgotten Time</details>** | ![Image](https://i.seadn.io/s/raw/files/0429bc72e5675de74d4ab697c7aaceba.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Whispers of Forgotten Time](https://opensea.io/collection/whispers-of-forgotten-time)</details> |
+| **<details><summary>* 5O,OOO USD FO...</summary>* 5O,OOO USD FOR FREE</details>** | ![Image](https://i.seadn.io/s/raw/files/837ffbe52b4bb7a8f3432214607ab773.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* 5O,OOO USD FOR FREE](https://opensea.io/collection/5o-ooo-usd-for-free-4304)</details> |
 
 </div>
