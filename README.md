@@ -6,10 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Wizards** | ![Image](https://i.seadn.io/s/raw/files/f2359d15b824b761cbac846bb3f090d1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Wizards Network
-https://x.com/...</summary>Wizards Network
-https://x.com/WizardsNetwork_</details> | <details><summary>Link</summary>[Wizards](https://opensea.io/collection/wizards-30)</details> |
-| **<details><summary>Dario Gatto Pia...</summary>Dario Gatto Pianist</details>** | ![Image](https://i.seadn.io/s/raw/files/8ead18db746c0ab5ba42a180a5813bd4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dario Gatto Pianist](https://opensea.io/collection/dario-gatto-pianist)</details> |
-| **<details><summary>* 5O,OOO USD FO...</summary>* 5O,OOO USD FOR FREE</details>** | ![Image](https://i.seadn.io/s/raw/files/d156881d2c2f4c6274499106d5926b39.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* 5O,OOO USD FOR FREE](https://opensea.io/collection/5o-ooo-usd-for-free-5001)</details> |
+| **Fluffy OP 5** | ![Image](https://i.seadn.io/s/raw/files/33f3f80ef834a5849438fb0002b85218.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffy OP 5](https://opensea.io/collection/fluffy-op-5)</details> |
+| **<details><summary>* 5O,OOO USD FO...</summary>* 5O,OOO USD FOR FREE</details>** | ![Image](https://i.seadn.io/s/raw/files/897fbed0e2bb948c8cec14e1060ae44b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[* 5O,OOO USD FOR FREE](https://opensea.io/collection/5o-ooo-usd-for-free-5047)</details> |
+| **<details><summary>Blueprint by Re...</summary>Blueprint by Resolv</details>** | ![Image](https://i.seadn.io/s/raw/files/118e156102291ed609d3eb43ec1e5ec6.png?w=500&auto=format?w=200&auto=format) | <details><summary>The NFT is completely free and...</summary>The NFT is completely free and you only need to pay a small gas fee on Arbitrum network.
+
+It will act as a 25% booster for points earned in the course of the campaign.</details> | <details><summary>Link</summary>[Blueprint by Resolv](https://opensea.io/collection/blueprint-by-resolv-17)</details> |
+| **<details><summary>Duration of exi...</summary>Duration of existence</details>** | ![Image](https://i.seadn.io/s/raw/files/42a441f9687635a1750f46657ae40dff.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Duration of existence](https://opensea.io/collection/duration-of-existence-1)</details> |
 
 </div>
