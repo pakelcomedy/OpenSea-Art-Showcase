@@ -6,7 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **5O,OOO EVENT** | ![Image](https://i.seadn.io/s/raw/files/2bd07cda6a695394857c118ef65f5188.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[5O,OOO EVENT](https://opensea.io/collection/5o-ooo-event-1)</details> |
-| **<details><summary>Party Membershi...</summary>Party Memberships: NetLink</details>** | ![Image](https://i.seadn.io/s/raw/files/d927d3099257832e7e94bc703b32b1e5.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents mem...</summary>This collection represents memberships in the following Party: NetLink. Head to https://base.party.app/party/0x849618148f0b8080f55ae94a68e779112f4d3e5e to view the Party's latest activity.</details> | <details><summary>Link</summary>[Party Memberships: NetLink](https://opensea.io/collection/party-memberships-netlink)</details> |
+| **Nature** | ![Image](https://i.seadn.io/s/raw/files/2f08509084b276c95b8295dad065d861.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nature](https://opensea.io/collection/nature-2759)</details> |
+| **Milki melti** | ![Image](https://i.seadn.io/s/raw/files/fd497d4cbb3b727423ee9bb10ee07267.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Milki melti](https://opensea.io/collection/milki-melti)</details> |
+| **Love** | ![Image](https://i.seadn.io/s/raw/files/17d95afa82e6370b04e8ae4094fcc4fc.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Loving
+
+Made with [NFTs2Me.com...</summary>Loving
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Love](https://opensea.io/collection/love-1526)</details> |
 
 </div>
