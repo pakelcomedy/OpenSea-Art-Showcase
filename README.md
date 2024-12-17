@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **buuus** | ![Image](https://i.seadn.io/s/raw/files/ec79f6e4ee41b7a33045f545948c911a.png?w=500&auto=format?w=200&auto=format) | sss | <details><summary>Link</summary>[buuus](https://opensea.io/collection/buuus)</details> |
-| **gordon** | ![Image](https://i.seadn.io/s/raw/files/87ddb03f384765fcaff058a6fc8a5de2.jpg?w=500&auto=format?w=200&auto=format) | freeman | <details><summary>Link</summary>[gordon](https://opensea.io/collection/gordon-20)</details> |
-| **Pizda dump** | ![Image](https://i.seadn.io/s/raw/files/29f2b2a64249ca3ee4fc95d0e24221d7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pizda dump](https://opensea.io/collection/pizda-dump)</details> |
-| **NOA 1st** | ![Image](https://i.seadn.io/s/raw/files/fc6fe6a525f19dc6d21306b687ca8046.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NOA 1st](https://opensea.io/collection/noa-1st)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/adbc84171aca200a2276fbe9810de4c2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-4573)</details> |
+| **Ethereum** | ![Image](https://i.seadn.io/s/raw/files/c8294ebd963b136f80fc662da1fa27f3.webp?w=500&auto=format?w=200&auto=format) | is Booming | <details><summary>Link</summary>[Ethereum](https://opensea.io/collection/ethereum-897)</details> |
+| **WᎪNTED** | ![Image](https://i.seadn.io/s/raw/files/e0b9b51fb6543cfacc30d80d9f54c78d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WᎪNTED](https://opensea.io/collection/wgonted-57)</details> |
+| **RYBAK** | ![Image](https://i.seadn.io/s/raw/files/9c1628cf016e752159f8c8dbf58f0e6a.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RYBAK](https://opensea.io/collection/rybak-6)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/c43c7bbfa9df71d6b7ea1aa2aa12c425.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4798)</details> |
 
 </div>
