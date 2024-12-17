@@ -6,9 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Found Davis** | ![Image](https://i.seadn.io/s/raw/files/6e581c7a22530d271720ddba6fd38dd4.jpg?w=500&auto=format?w=200&auto=format) | Mn rats influenced | <details><summary>Link</summary>[Found Davis](https://opensea.io/collection/found-davis)</details> |
-| **Pendaki Scorpio** | ![Image](https://i.seadn.io/s/raw/files/2477458b543bf5931815d3fb8baa57c4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pendaki Scorpio](https://opensea.io/collection/pendaki-scorpio-4)</details> |
-| **A small rabbit** | ![Image](https://i.seadn.io/s/raw/files/f9ad3ef0caf37ec733f61db4c9f3467d.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[A small rabbit](https://opensea.io/collection/a-small-rabbit)</details> |
-| **<details><summary>Motors Destroye...</summary>Motors Destroyed Salmon</details>** | ![Image](https://i.seadn.io/s/raw/files/f3ae54c4ca85f0ba279478042417cdfa.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Handed highlights upgrading be...</summary>Handed highlights upgrading ben explorer</details> | <details><summary>Link</summary>[Motors Destroyed Salmon](https://opensea.io/collection/motors-destroyed-salmon)</details> |
+| **<details><summary>Plants Paragrap...</summary>Plants Paragraphs</details>** | ![Image](https://i.seadn.io/s/raw/files/657a13d320aabbbe4a8f26ec9d28f939.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Plants Paragraphs](https://opensea.io/collection/plants-paragraphs)</details> |
+| **<details><summary>Asteroids Detai...</summary>Asteroids Detailed</details>** | ![Image](https://i.seadn.io/s/raw/files/0793cd2ec9c57dad9f399607cd66bf92.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Asteroids Detailed](https://opensea.io/collection/asteroids-detailed)</details> |
+| **"MYTHED"** | ![Image](https://i.seadn.io/s/raw/files/96fe91c7569151343290626a64c351b2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Happy Tuesday!
+--
+See more by ...</summary>Happy Tuesday!
+--
+See more by Andriy Kalkov on Remx at remx.xyz/andriy-kalkov</details> | <details><summary>Link</summary>["MYTHED"](https://opensea.io/collection/mythed-4)</details> |
 
 </div>
