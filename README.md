@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Torto Kame Nfts** | ![Image](https://i.seadn.io/s/raw/files/ab130d21d49b59e4967ba2fa90f1c6d1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Torto Kame Nfts](https://opensea.io/collection/torto-kame-nfts)</details> |
-| **New Christmas** | ![Image](https://i.seadn.io/s/raw/files/21fb0e5a1998ffcbc294994718205e5a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[New Christmas](https://opensea.io/collection/new-christmas-1)</details> |
-| **Small seal** | ![Image](https://i.seadn.io/s/raw/files/4e956a353a167d42d4674e5e0965af90.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Small seal](https://opensea.io/collection/small-seal)</details> |
-| **boqing** | ![Image](https://i.seadn.io/s/raw/files/8ade2a1b627f04ce5ee10cc0edb7aa13.jpg?w=500&auto=format?w=200&auto=format) | guayi | <details><summary>Link</summary>[boqing](https://opensea.io/collection/boqing)</details> |
-| **AL-san Base** | ![Image](https://i.seadn.io/s/raw/files/85854f02d45eec86b7df78b140145747.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AL-san Base](https://opensea.io/collection/al-san-base)</details> |
+| **<details><summary>+ $50,000 (Even...</summary>+ $50,000 (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/a4919fe4cd25f9be1530f3ebd7249719.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[+ $50,000 (EventQ.io)](https://opensea.io/collection/50000-eventq-io-111)</details> |
+| **mm** | ![Image](https://i.seadn.io/s/raw/files/515df9fa9366332f5da4c15e08aeba84.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mm](https://opensea.io/collection/mm-250)</details> |
+| **<details><summary>+ $50,000 (Even...</summary>+ $50,000 (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/a4919fe4cd25f9be1530f3ebd7249719.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[+ $50,000 (EventQ.io)](https://opensea.io/collection/50000-eventq-io-110)</details> |
 
 </div>
