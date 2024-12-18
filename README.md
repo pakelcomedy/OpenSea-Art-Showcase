@@ -6,18 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Flowers** | ![Image](https://i.seadn.io/s/raw/files/b4387fd1cec1045fb1e871ca56610d43.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Flowers
---
-See more by Ridnime...</summary>Flowers
---
-See more by Ridnime on Remx at remx.xyz/ridnime</details> | <details><summary>Link</summary>[Flowers](https://opensea.io/collection/flowers-1214)</details> |
-| **Enthusiasm** | ![Image](https://i.seadn.io/s/raw/files/da2cc57b0d2a6fa1f7c625135f857955.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>...
---
-See more by Hesam on Re...</summary>...
---
-See more by Hesam on Remx at remx.xyz/hesam</details> | <details><summary>Link</summary>[Enthusiasm](https://opensea.io/collection/enthusiasm-3)</details> |
-| **<details><summary>Broken Steps - ...</summary>Broken Steps - Rough Draft (Take #2)</details>** | ![Image](https://i.seadn.io/s/raw/files/b11e3099df164a6513b35af0e0546e56.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Broken Steps - COOPDVILLE.XYZ ...</summary>Broken Steps - COOPDVILLE.XYZ #DVILLEPRODUCTIONS
---
-See more by coopdville on Remx at remx.xyz/coopdville</details> | <details><summary>Link</summary>[Broken Steps - Rough Draft (Take #2)](https://opensea.io/collection/broken-steps-rough-draft-take-2)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/8d542090bf7fa6f030aef96a628553b0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11450)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/8d542090bf7fa6f030aef96a628553b0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11449)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/3f7561bec4bf0e898785b315671b83f7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11448)</details> |
+| **qwe** | ![Image](https://i.seadn.io/s/raw/files/c3ff09e9c6aaefc89f36a22509d88e3e.png?w=500&auto=format?w=200&auto=format) | serqweqwe | <details><summary>Link</summary>[qwe](https://opensea.io/collection/qwe-344)</details> |
 
 </div>
