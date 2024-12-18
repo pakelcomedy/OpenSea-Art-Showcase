@@ -6,18 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Welcome to Para...</summary>Welcome to Paragraph!</details>** | ![Image](https://i.seadn.io/s/raw/files/7f2ad59ecf1d7eee4906087a9e4cba69.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Welcome to Paragraph!
-
-Read th...</summary>Welcome to Paragraph!
-
-Read the full post on Paragraph: https://paragraph.xyz/@feeksus.eth/welcome-to-paragraph</details> | <details><summary>Link</summary>[Welcome to Paragraph!](https://opensea.io/collection/welcome-to-paragraph-155)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/b452cf918860deb22db920f68adf404d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11438)</details> |
-| **Fav color?** | ![Image](https://raw.seadn.io/files/b6bd39dc0e8fd5c11e62d78922d1d2ef.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Fav color?](https://opensea.io/collection/fav-color)</details> |
-| **Curtain house** | ![Image](https://i.seadn.io/s/raw/files/3b7f0de22ed2af451e3abae27aac6fdc.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Curtain house
-
-Read the full p...</summary>Curtain house
-
-Read the full post on Paragraph: https://brandondonnelly.com/curtain-house</details> | <details><summary>Link</summary>[Curtain house](https://opensea.io/collection/curtain-house)</details> |
-| **Fly** | ![Image](https://i.seadn.io/s/raw/files/cae285c8e6d881586efe97cd549600c1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fly](https://opensea.io/collection/fly-281)</details> |
+| **Torto Kame Nfts** | ![Image](https://i.seadn.io/s/raw/files/ab130d21d49b59e4967ba2fa90f1c6d1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Torto Kame Nfts](https://opensea.io/collection/torto-kame-nfts)</details> |
+| **New Christmas** | ![Image](https://i.seadn.io/s/raw/files/21fb0e5a1998ffcbc294994718205e5a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[New Christmas](https://opensea.io/collection/new-christmas-1)</details> |
+| **Small seal** | ![Image](https://i.seadn.io/s/raw/files/4e956a353a167d42d4674e5e0965af90.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Small seal](https://opensea.io/collection/small-seal)</details> |
+| **boqing** | ![Image](https://i.seadn.io/s/raw/files/8ade2a1b627f04ce5ee10cc0edb7aa13.jpg?w=500&auto=format?w=200&auto=format) | guayi | <details><summary>Link</summary>[boqing](https://opensea.io/collection/boqing)</details> |
+| **AL-san Base** | ![Image](https://i.seadn.io/s/raw/files/85854f02d45eec86b7df78b140145747.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AL-san Base](https://opensea.io/collection/al-san-base)</details> |
 
 </div>
