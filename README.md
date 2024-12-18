@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **gm** | ![Image](https://i.seadn.io/s/raw/files/bf56156b10de46b1c97866b02f670ccd.webp?w=500&auto=format?w=200&auto=format) | gn | <details><summary>Link</summary>[gm](https://opensea.io/collection/gm-692)</details> |
-| **Freedom Caravan** | ![Image](https://i.seadn.io/s/raw/files/f5492000c6780f651b6d42e849ec95fb.jpg?w=500&auto=format?w=200&auto=format) | My road to a better future. | <details><summary>Link</summary>[Freedom Caravan](https://opensea.io/collection/freedom-caravan)</details> |
-| **multiverse** | ![Image](https://i.seadn.io/s/raw/files/44da54360ba3c3b238f51b244634005f.jpg?w=500&auto=format?w=200&auto=format) | cosmos multiverse | <details><summary>Link</summary>[multiverse](https://opensea.io/collection/multiverse-54)</details> |
+| **✧˖°** | ![Image](https://i.seadn.io/s/raw/files/11c413cbddf8c0a989ba13a6e15e7ca5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[✧˖°](https://opensea.io/collection/deg-20)</details> |
+| **<details><summary>Texas Storm Cha...</summary>Texas Storm Chase</details>** | ![Image](https://i.seadn.io/s/raw/files/a149b2dfa820562826d50dedceddc8b4.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Taken in Texas during a storm ...</summary>Taken in Texas during a storm chase. 2024
+--
+See more by Leslie A Spurlock on Remx at remx.xyz/leslie-a-spurlock</details> | <details><summary>Link</summary>[Texas Storm Chase](https://opensea.io/collection/texas-storm-chase)</details> |
+| **<details><summary>assignments fro...</summary>assignments from within</details>** | ![Image](https://i.seadn.io/s/raw/files/92fefdcb01226c363cb66b68bfbe4fad.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[assignments from within](https://opensea.io/collection/assignments-from-within)</details> |
 
 </div>
