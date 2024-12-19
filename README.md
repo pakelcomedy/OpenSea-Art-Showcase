@@ -6,12 +6,29 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sky is blue** | ![Image](https://i.seadn.io/s/raw/files/c7bd2c1e94a3a7205ad349f95a3d560b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>It doesn't need any further de...</summary>It doesn't need any further description
-Taken by a smartphone, edited to look like a Polaroid picture
+| **<details><summary>Eucalyptus Fore...</summary>Eucalyptus Forest</details>** | ![Image](https://i.seadn.io/s/raw/files/5ac6cd5a14fa26d935ae8e72498fad81.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>I feel grateful when I walk in...</summary>I feel grateful when I walk in nature
 --
-See more by Hesam on Remx at remx.xyz/hesam</details> | <details><summary>Link</summary>[Sky is blue](https://opensea.io/collection/sky-is-blue-3)</details> |
-| **<details><summary>Party Membershi...</summary>Party Memberships: TurboStream</details>** | ![Image](https://i.seadn.io/s/raw/files/d927d3099257832e7e94bc703b32b1e5.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents mem...</summary>This collection represents memberships in the following Party: TurboStream. Head to https://base.party.app/party/0xee7de191ad1457dd70e78a12bcea9cec04771e47 to view the Party's latest activity.</details> | <details><summary>Link</summary>[Party Memberships: TurboStream](https://opensea.io/collection/party-memberships-turbostream)</details> |
-| **Desire Aruba** | ![Image](https://i.seadn.io/s/raw/files/f6257f30dbf0e542b764f4694644e0e7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Desire Aruba](https://opensea.io/collection/desire-aruba)</details> |
-| **<details><summary>Party Membershi...</summary>Party Memberships: Clever Holdings Capital</details>** | ![Image](https://i.seadn.io/s/raw/files/d927d3099257832e7e94bc703b32b1e5.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents mem...</summary>This collection represents memberships in the following Party: Clever Holdings Capital. Head to https://base.party.app/party/0xd5c5a95a20359cac5d48c35df122fc1f27cc9388 to view the Party's latest activity.</details> | <details><summary>Link</summary>[Party Memberships: Clever Holdings Capital](https://opensea.io/collection/party-memberships-clever-holdings-capital)</details> |
+See more by She Ra  on Remx at remx.xyz/shirapugatch</details> | <details><summary>Link</summary>[Eucalyptus Forest](https://opensea.io/collection/eucalyptus-forest)</details> |
+| **tattoo sketch** | ![Image](https://i.seadn.io/s/raw/files/20ce6698a3ba33c68b4f2f7bf8ae494b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>GN
+--
+See more by Oleg Ivlev o...</summary>GN
+--
+See more by Oleg Ivlev on Remx at remx.xyz/oleg-ivlev</details> | <details><summary>Link</summary>[tattoo sketch](https://opensea.io/collection/tattoo-sketch-7)</details> |
+| **Hey Santa** | ![Image](https://i.seadn.io/s/raw/files/def2a5724792dde012f1be31f61628e0.png?w=500&auto=format?w=200&auto=format) | <details><summary>Oh Santa dear, can’t you see? ...</summary>Oh Santa dear, can’t you see?  
+I’ve been as good as good can be!  
+I’ve trimmed the tree and decked the hall,  
+Now I’m giving you a call. 
+ 
+So load your sleigh and don’t delay,  
+I’ve earned some gifts this holiday!  
+With a wink, I’ll make it clear—  
+I’ve been so good this damn whole year!
+
+~SRC 
+
+Digital art collage by S.R.Chappell
+--
+See more by S.R.Chappell on Remx at remx.xyz/srchappell</details> | <details><summary>Link</summary>[Hey Santa](https://opensea.io/collection/hey-santa)</details> |
+| **CHRISTMAS** | ![Image](https://i.seadn.io/s/raw/files/b9e41cb588a8961378c85638615c9c41.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CHRISTMAS](https://opensea.io/collection/christmas-152)</details> |
 
 </div>
