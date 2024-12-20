@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Pengu** | ![Image](https://i.seadn.io/s/raw/files/713a1f693e32df9f43d480c04e64cd91.png?w=500&auto=format?w=200&auto=format) | pengu my red | <details><summary>Link</summary>[Pengu](https://opensea.io/collection/pengu-25)</details> |
-| **<details><summary>Party Membershi...</summary>Party Memberships: CyberProtocol</details>** | ![Image](https://i.seadn.io/s/raw/files/d927d3099257832e7e94bc703b32b1e5.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents mem...</summary>This collection represents memberships in the following Party: CyberProtocol. Head to https://base.party.app/party/0xf83106c642d3311172c9572459cd1b9f04b1e06c to view the Party's latest activity.</details> | <details><summary>Link</summary>[Party Memberships: CyberProtocol](https://opensea.io/collection/party-memberships-cyberprotocol)</details> |
-| **Mystic** | ![Image](https://i.seadn.io/s/raw/files/f3d943c26eb9b7b75a273d8f13d09d39.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mystic](https://opensea.io/collection/mystic-62)</details> |
+| **<details><summary>Balance of  war...</summary>Balance of  warmth and cool</details>** | ![Image](https://i.seadn.io/s/raw/files/866ca6f1516b0fe5dad00fc69e10af69.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Hand painted art by Diegorobot...</summary>Hand painted art by Diegorobot
+--
+See more by Diegorobot on Remx at remx.xyz/diegorobot</details> | <details><summary>Link</summary>[Balance of  warmth and cool](https://opensea.io/collection/balance-of-warmth-and-cool)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/4bafb2a669c0b322702acc12ced73608.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11548)</details> |
+| **9dcc** | ![Image](https://i.seadn.io/s/raw/files/b3e45aa63aaeecfe79a914e139ab7351.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[9dcc](https://opensea.io/collection/9dcc-35)</details> |
 
 </div>
