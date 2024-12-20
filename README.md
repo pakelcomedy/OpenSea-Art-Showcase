@@ -6,10 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Balance of  war...</summary>Balance of  warmth and cool</details>** | ![Image](https://i.seadn.io/s/raw/files/866ca6f1516b0fe5dad00fc69e10af69.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Hand painted art by Diegorobot...</summary>Hand painted art by Diegorobot
---
-See more by Diegorobot on Remx at remx.xyz/diegorobot</details> | <details><summary>Link</summary>[Balance of  warmth and cool](https://opensea.io/collection/balance-of-warmth-and-cool)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/4bafb2a669c0b322702acc12ced73608.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11548)</details> |
-| **9dcc** | ![Image](https://i.seadn.io/s/raw/files/b3e45aa63aaeecfe79a914e139ab7351.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[9dcc](https://opensea.io/collection/9dcc-35)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/57c8f31bdabeb243ad2be95aa792d192.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-11553)</details> |
+| **<details><summary>Ghostina in Ind...</summary>Ghostina in India</details>** | ![Image](https://i.seadn.io/s/raw/files/91e8a2cc4877a7ab98b73bf387adc2ae.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ghostina in India](https://opensea.io/collection/ghostina-in-india)</details> |
 
 </div>
