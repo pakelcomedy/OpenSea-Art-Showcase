@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Tweaky the Turt...</summary>Tweaky the Turtle</details>** | ![Image](https://i.seadn.io/s/raw/files/f0e0389a11ff62a56ab6f037e15dfadf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tweaky the Turtle](https://opensea.io/collection/tweaky-the-turtle)</details> |
-| **Veins of light** | ![Image](https://i.seadn.io/s/raw/files/ceadbde01bd5299d4dcbe3b8662de3f4.png?w=500&auto=format?w=200&auto=format) | <details><summary>Within every shadow lies a spa...</summary>Within every shadow lies a spark, and within every spark, a story. Let your inner light weave beauty into the world.
---
-See more by Alina on Remx at remx.xyz/anymatnft</details> | <details><summary>Link</summary>[Veins of light](https://opensea.io/collection/veins-of-light)</details> |
-| **gorgon** | ![Image](https://i.seadn.io/s/raw/files/a01c5aad0d9d545388dfca70eab1e088.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[gorgon](https://opensea.io/collection/gorgon-9)</details> |
-| **BorntobeAlive** | ![Image](https://i.seadn.io/s/raw/files/ba20b9a6131c9d4692649b5b951b47f4.jpg?w=500&auto=format?w=200&auto=format) | Unlimited open edition | <details><summary>Link</summary>[BorntobeAlive](https://opensea.io/collection/borntobealive)</details> |
-| **LuckLeprechaun** | ![Image](https://i.seadn.io/s/raw/files/9e91d50bfa2d7327fd5b1f350785a40f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LuckLeprechaun](https://opensea.io/collection/luckleprechaun)</details> |
+| **Abstraction** | ![Image](https://i.seadn.io/s/raw/files/f6688a7467f98d7b76e7a597ced25ece.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Abstraction](https://opensea.io/collection/abstraction-258)</details> |
+| **<details><summary>sounds of the n...</summary>sounds of the night</details>** | ![Image](https://i.seadn.io/s/raw/files/6a200744432289341f4a09774bbc8d6a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sounds of the night](https://opensea.io/collection/sounds-of-the-night)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/9a04b9d2d4a123e7bf133bfbbcaea8df.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-12262)</details> |
 
 </div>
