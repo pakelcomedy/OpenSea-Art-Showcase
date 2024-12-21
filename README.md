@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Glitch** | ![Image](https://i.seadn.io/s/raw/files/64963965fe6a0479f77a738201d7bdf8.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>1/1
---
-See more by Oleg Ivlev ...</summary>1/1
---
-See more by Oleg Ivlev on Remx at remx.xyz/oleg-ivlev</details> | <details><summary>Link</summary>[Glitch](https://opensea.io/collection/glitch-64)</details> |
-| **Pavlini** | ![Image](https://i.seadn.io/s/raw/files/fcbf600b2180cff64ae4c27e6c3e3d9e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pavlini](https://opensea.io/collection/pavlini)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-12126)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/7057bd5c5c6834e45c9bae5cb1ebc9b6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-12136)</details> |
+| **Space Rhino One** | ![Image](https://i.seadn.io/s/raw/files/d731c44e3c2d8ae1a702785127a08ec4.png?w=500&auto=format?w=200&auto=format) | <details><summary>(The real one, the other is a ...</summary>(The real one, the other is a wrong artwork). 
+New NFT available, check out Space Rhino One & Two now!!! Numbers three and four of a series of ten. Do you see where i’m going with this NFT Art? Something with Big and Five….. Only one hundred available!!! </details> | <details><summary>Link</summary>[Space Rhino One](https://opensea.io/collection/space-rhino-one)</details> |
 
 </div>
