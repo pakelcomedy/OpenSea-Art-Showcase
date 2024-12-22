@@ -6,6 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ethereum Event** | ![Image](https://i.seadn.io/s/raw/files/a4919fe4cd25f9be1530f3ebd7249719.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Event](https://opensea.io/collection/ethereum-event-17)</details> |
+| **<details><summary>+ 5O OOO USD FO...</summary>+ 5O OOO USD FOR FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/a4919fe4cd25f9be1530f3ebd7249719.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[+ 5O OOO USD FOR FREE (EventQ.io)](https://opensea.io/collection/5o-ooo-usd-for-free-eventq-io-29)</details> |
+| **<details><summary>+ 5O OOO USD FO...</summary>+ 5O OOO USD FOR FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/a4919fe4cd25f9be1530f3ebd7249719.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[+ 5O OOO USD FOR FREE (EventQ.io)](https://opensea.io/collection/5o-ooo-usd-for-free-eventq-io-28)</details> |
+| **<details><summary>+ 5O OOO USD FO...</summary>+ 5O OOO USD FOR FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/a4919fe4cd25f9be1530f3ebd7249719.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[+ 5O OOO USD FOR FREE (EventQ.io)](https://opensea.io/collection/5o-ooo-usd-for-free-eventq-io-27)</details> |
+| **Vibrant Genesis** | ![Image](https://i.seadn.io/s/raw/files/713e26c412805e770219688f1f266eac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Vibrant Genesis](https://opensea.io/collection/vibrant-genesis)</details> |
 
 </div>
