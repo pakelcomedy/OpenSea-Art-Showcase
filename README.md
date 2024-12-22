@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/7e82bbf4dd40279e32b15738be15145a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-12498)</details> |
-| **spikedee** | ![Image](https://i.seadn.io/s/raw/files/8022a7b4ebc69294b0014f9f71c4bae6.png?w=500&auto=format?w=200&auto=format) | spikedee | <details><summary>Link</summary>[spikedee](https://opensea.io/collection/spikedee-1)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/e456dd3dac2dd5ad64453569418f0e99.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-12497)</details> |
-| **Octopus** | ![Image](https://i.seadn.io/s/raw/files/e33fe8961733e6bb277dd01544cc4a6f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Octopus](https://opensea.io/collection/octopus-104)</details> |
+| **Visual** | ![Image](https://i.seadn.io/s/raw/files/0381a679c3b24b62824ccf09214077fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Visual](https://opensea.io/collection/visual-29)</details> |
+| **<details><summary>Christmas Mirac...</summary>Christmas Miracle Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/c06c05a6ec2e34be96ba0325dbd7426a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Christmas Miracle Collection](https://opensea.io/collection/christmas-miracle-collection)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/d37668a4f85bf22cbd1f23d315f7f073.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-4649)</details> |
 
 </div>
