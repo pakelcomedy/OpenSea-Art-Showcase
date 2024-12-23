@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Hot dog** | ![Image](https://i.seadn.io/s/raw/files/ff10bbbd6e15cb62f94eac747115ca1c.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/8453/0xc28d...</summary>https://mirror.xyz/8453/0xc28dfce928f7898ab6f7441cfcf42367dc77b560</details> | <details><summary>Link</summary>[Hot dog](https://opensea.io/collection/hot-dog-27)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-13117)</details> |
+| **<details><summary>+ 5O OOO USD FO...</summary>+ 5O OOO USD FOR FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/a4919fe4cd25f9be1530f3ebd7249719.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[+ 5O OOO USD FOR FREE (EventQ.io)](https://opensea.io/collection/5o-ooo-usd-for-free-eventq-io-516)</details> |
 
 </div>
