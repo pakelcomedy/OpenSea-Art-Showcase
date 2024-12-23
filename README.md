@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **James V Greene** | ![Image](https://i.seadn.io/s/raw/files/4132574730caac548c393ec0da596756.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[James V Greene](https://opensea.io/collection/james-v-greene)</details> |
-| **🎁 BOX#660** | ![Image](https://i.seadn.io/s/raw/files/6fe409c8f6d5108ad9ed94cd4bcfd097.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[🎁 BOX#660](https://opensea.io/collection/box-660)</details> |
-| **🎁 BOX#659** | ![Image](https://i.seadn.io/s/raw/files/0fb46fa6c1edcbb6effd3c37d895987d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[🎁 BOX#659](https://opensea.io/collection/box-659)</details> |
+| **🎁 BOX#820** | ![Image](https://i.seadn.io/s/raw/files/a44aa0b446856a045edebf0ce733782d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[🎁 BOX#820](https://opensea.io/collection/box-820)</details> |
+| **🎁 BOX#819** | ![Image](https://i.seadn.io/s/raw/files/b1b07239a891315c25de7ce15f0c9a45.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[🎁 BOX#819](https://opensea.io/collection/box-819)</details> |
+| **EYWA** | ![Image](https://i.seadn.io/s/raw/files/a2db92c32949fd0b49dc15866e93e9a8.png?w=500&auto=format?w=200&auto=format) | <details><summary>EYWA is a cross-chain liquidit...</summary>EYWA is a cross-chain liquidity protocol addressing two key DeFi challenges: liquidity fragmentation and cross-chain bridge vulnerability. Via CrossCurve, a cross-chain trading and yield protocol, EYWA leverages Curve liquidity to ensure minimal slippage and facilitate trading of Curve LP assets.</details> | <details><summary>Link</summary>[EYWA](https://opensea.io/collection/eywa-15)</details> |
 
 </div>
