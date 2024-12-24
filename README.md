@@ -6,12 +6,21 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Lazy Bunny: The...</summary>Lazy Bunny: The Hopping Dead</details>** | ![Image](https://i.seadn.io/s/raw/files/eb309dcdc942fa05d6c30d0c9eeeddac.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The Lazy Bunnies were living p...</summary>The Lazy Bunnies were living peacefully in their homes until a huge fire burned down the forest. 5555 Lazy Bunnies moved in hope of finding loving owners and a new home where they have lived ever since.Now 3 years later, The Lazy Bunnies have discovered that 200 hand-drawn uber rare bunnies also survived the forest fire. However, these bunnies stayed too long in the burnt forest amongst the chemical waste and other destroyed remnants and are now looking for the OG Lazy Bunnies who left them behind......</details> | <details><summary>Link</summary>[Lazy Bunny: The Hopping Dead](https://opensea.io/collection/lazy-bunny-the-hopping-dead-4)</details> |
-| **<details><summary>The First Trial...</summary>The First Trial: Bears Ascendant</details>** | ![Image](https://i.seadn.io/s/raw/files/b9366a7589abe6f7cf7717de526f6aac.webp?w=500&auto=format?w=200&auto=format) | <details><summary>power
+| **Christmas Cheer** | ![Image](https://i.seadn.io/s/raw/files/78f025ed85cca1f779a3ac94dc08bd02.png?w=500&auto=format?w=200&auto=format) | <details><summary>Bells ring softly in the frost...</summary>Bells ring softly in the frosty night,
+Homes glow warm with twinkling light.
+Laughter spills from hearts so near,
+This is the magic of Christmas cheer.
 
-Read the full post on P...</summary>power
-
-Read the full post on Paragraph: https://paragraph.xyz/@apiologydao/the-first-trial-bears-ascendant</details> | <details><summary>Link</summary>[The First Trial: Bears Ascendant](https://opensea.io/collection/the-first-trial-bears-ascendant-13)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/23d31a2d104ce50b63459baa4f1c4dfa.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-4712)</details> |
+Joy is wrapped in a child’s sweet smile,
+Kindness travels the extra mile.
+Love unites both far and near,
+Forever blessed by Christmas cheer.
+--
+See more by Eva on Remx at remx.xyz/charmingjourney</details> | <details><summary>Link</summary>[Christmas Cheer](https://opensea.io/collection/christmas-cheer-2)</details> |
+| **Dynamic Glow** | ![Image](https://i.seadn.io/s/raw/files/a33cd5d44462466ba180ce1a34c8f66a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>I made this by TouchDesigner
+-...</summary>I made this by TouchDesigner
+--
+See more by matiliart on Remx at remx.xyz/matiliart</details> | <details><summary>Link</summary>[Dynamic Glow](https://opensea.io/collection/dynamic-glow-1)</details> |
+| **Serpentheon** | ![Image](https://i.seadn.io/s/raw/files/7e6dc01c8685196a0697a82bc44cf95b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Serpentheon](https://opensea.io/collection/serpentheon)</details> |
 
 </div>
