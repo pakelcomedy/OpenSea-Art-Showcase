@@ -6,11 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Merry Christmas...</summary>Merry Christmas 🎄</details>** | ![Image](https://i.seadn.io/s/raw/files/36ae77eb74f62da8900adb92e498151a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Here's to a future filled with...</summary>Here's to a future filled with hope, happiness, and endless possibilities. Feel the joy today and always!
-
-🤗 MEMonic
+| **<details><summary>Pixel calligrap...</summary>Pixel calligraphy</details>** | ![Image](https://i.seadn.io/s/raw/files/98c6c0dedddd354687d790755cdfc001.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>090990099099
 --
-See more by Johnny MEMonic on Remx at remx.xyz/johnny-memonic</details> | <details><summary>Link</summary>[Merry Christmas 🎄](https://opensea.io/collection/merry-christmas-92)</details> |
-| **<details><summary>MERRY CHRISTMAS...</summary>MERRY CHRISTMAS PEPE (free mint)</details>** | ![Image](https://i.seadn.io/s/raw/files/c2b652a409fa152fc7a09a165a03d16e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MERRY CHRISTMAS PEPE (free mint)](https://opensea.io/collection/merry-christmas-pepe-free-mint)</details> |
+See more by Ol...</summary>090990099099
+--
+See more by Oleg Ivlev on Remx at remx.xyz/oleg-ivlev</details> | <details><summary>Link</summary>[Pixel calligraphy](https://opensea.io/collection/pixel-calligraphy)</details> |
+| **Dracula 2168** | ![Image](https://i.seadn.io/s/raw/files/72319cd158437211b04aad920f44faee.png?w=500&auto=format?w=200&auto=format) | <details><summary>Dracula awakens in 2168 Los An...</summary>Dracula awakens in 2168 Los Angeles, navigating a cyberpunk world while battling foes</details> | <details><summary>Link</summary>[Dracula 2168](https://opensea.io/collection/dracula-2168-1)</details> |
 
 </div>
