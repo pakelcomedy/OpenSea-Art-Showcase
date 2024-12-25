@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **oghjdfgh** | ![Image](https://i.seadn.io/s/raw/files/cf5da16bdcf33230c803fb6fc353ee7e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[oghjdfgh](https://opensea.io/collection/oghjdfgh)</details> |
+| **Snow BLOBZ** | ![Image](https://i.seadn.io/s/raw/files/fe6f59149397b49c068fce58ebaf7b12.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snow BLOBZ](https://opensea.io/collection/snow-blobz)</details> |
 
 </div>
