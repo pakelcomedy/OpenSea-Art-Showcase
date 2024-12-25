@@ -6,7 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Target** | ![Image](https://i.seadn.io/s/raw/files/470e2e00a18960f72df2ddc72daa9072.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Target](https://opensea.io/collection/target-43)</details> |
-| **<details><summary>Cats may look c...</summary>Cats may look cute, but on the inside…</details>** | ![Image](https://i.seadn.io/s/raw/files/7010f3ca81406eebbc8015f606177753.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cats may look cute, but on the inside…](https://opensea.io/collection/cats-may-look-cute-but-on-the-inside-1)</details> |
+| **<details><summary>Merry Christmas...</summary>Merry Christmas 🎄</details>** | ![Image](https://i.seadn.io/s/raw/files/36ae77eb74f62da8900adb92e498151a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Here's to a future filled with...</summary>Here's to a future filled with hope, happiness, and endless possibilities. Feel the joy today and always!
+
+🤗 MEMonic
+--
+See more by Johnny MEMonic on Remx at remx.xyz/johnny-memonic</details> | <details><summary>Link</summary>[Merry Christmas 🎄](https://opensea.io/collection/merry-christmas-92)</details> |
+| **<details><summary>MERRY CHRISTMAS...</summary>MERRY CHRISTMAS PEPE (free mint)</details>** | ![Image](https://i.seadn.io/s/raw/files/c2b652a409fa152fc7a09a165a03d16e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MERRY CHRISTMAS PEPE (free mint)](https://opensea.io/collection/merry-christmas-pepe-free-mint)</details> |
 
 </div>
