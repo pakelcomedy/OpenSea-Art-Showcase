@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Y U I** | ![Image](https://i.seadn.io/s/raw/files/245ea3f59db0cf1bb15b5702a6ba3d20.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Y U I](https://opensea.io/collection/y-u-i)</details> |
+| **Entwineal** | ![Image](https://i.seadn.io/s/raw/files/0cd3fa7db2efb98bd2fcc4b05d71f129.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Entwineal](https://opensea.io/collection/entwineal)</details> |
 
 </div>
