@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **LaserPulse** | ![Image](https://i.seadn.io/s/raw/files/875dd80b4ba6ee418c34ebc6c6035c44.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LaserPulse](https://opensea.io/collection/laserpulse)</details> |
+| **AI Punks** | ![Image](https://i.seadn.io/s/raw/files/bcb9ad59488076c12a0ceb3b79160f8b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AI Punks](https://opensea.io/collection/ai-punks-8)</details> |
 
 </div>
