@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/83d075f8eefda4eebe7e7d7aef675f44.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-14643)</details> |
+| **DUDDY APES** | ![Image](https://i.seadn.io/s/raw/files/b36b911fcfc04962211a9539c8e91e62.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DUDDY APES](https://opensea.io/collection/duddy-apes)</details> |
+| **Ukraine** | ![Image](https://i.seadn.io/s/raw/files/07a710209cf194fdb8deaa0ba8e6a5b6.jpg?w=500&auto=format?w=200&auto=format) | Ukraine collection | <details><summary>Link</summary>[Ukraine](https://opensea.io/collection/ukraine-338)</details> |
 
 </div>
