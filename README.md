@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/ba7208823755ed0f29df07185c8c4fb5.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-14735)</details> |
+| **<details><summary>Blueprint by Re...</summary>Blueprint by Resolv</details>** | ![Image](https://i.seadn.io/s/raw/files/5b9f0776893ec5bce28d3b208cf59d56.png?w=500&auto=format?w=200&auto=format) | <details><summary>Discover Blueprint by Resolv's...</summary>Discover Blueprint by Resolv's 1200 unique NFTs. Securely trade and collect these stunning digital assets on OKX NFT Marketplace, all linked to contract address: 0x2e1e87d0a10dd59c332b1c0e8a894b738df7059e.</details> | <details><summary>Link</summary>[Blueprint by Resolv](https://opensea.io/collection/blueprint-by-resolv-official-nft)</details> |
 
 </div>
