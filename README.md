@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **goldbar** | ![Image](https://i.seadn.io/s/raw/files/0f862da7b9b061a4b39eb68c18c0a4fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[goldbar](https://opensea.io/collection/goldbar-1)</details> |
+| **V** | ![Image](https://i.seadn.io/s/raw/files/3eb896ea08fdfe9f8411facece348c1b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Creators of Tomorrow, Where Da...</summary>Creators of Tomorrow, Where Data, NFTs, and AI Shape the Future</details> | <details><summary>Link</summary>[V](https://opensea.io/collection/v-779)</details> |
 
 </div>
