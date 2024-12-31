@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **IN I U** | ![Image](https://i.seadn.io/s/raw/files/440b8a34f9058ef6dbdd7f64a8289397.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[IN I U](https://opensea.io/collection/in-i-u)</details> |
-| **JJ J H** | ![Image](https://i.seadn.io/s/raw/files/3890561e8de897aeadc8e0ca5017ac42.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[JJ J H](https://opensea.io/collection/jj-j-h)</details> |
+| **<details><summary>Contact Studies...</summary>Contact Studies: Editions</details>** | ![Image](https://raw.seadn.io/files/7537ecd4128b2dab0f08a104755e19a9.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Contact Studies: Editions](https://opensea.io/collection/contact-studies-editions)</details> |
 
 </div>
