@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Remy Boys** | ![Image](https://i.seadn.io/s/raw/files/79ca72ffa9fcb8d275c15badd6d9ea78.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Remy Boys](https://opensea.io/collection/remy-boys-9)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/bcc944e43715b1f164df7a2ed1110b5f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5236)</details> |
+| **Postcard** | ![Image](https://i.seadn.io/s/raw/files/90161c2ec5e2cad32ba5c636373b4674.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Postcard](https://opensea.io/collection/postcard-18)</details> |
 
 </div>
