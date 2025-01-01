@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/gcs/files/9ba5f75f85b01dc6ea49ece34dce2341.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5210)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/28cc4b220de2240aa92ddf75b882cfce.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5209)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/9734de90435b388db85ca4fdea7665ae.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16125)</details> |
+| **Lophas - Member** | ![Image](https://i.seadn.io/s/raw/files/d940ff5d24f940aa88077c3f62124c33.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lophas - Member](https://opensea.io/collection/lophas-member)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16135)</details> |
 
 </div>
