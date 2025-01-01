@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **DQIU** | ![Image](https://i.seadn.io/s/raw/files/337fbfad314a5d7b876f1b7b4b5db37f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DQIU](https://opensea.io/collection/dqiu)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/gae/QGF1gguCEPz1mXUHUumoNVqk74Vo04fi9eKut8w0kC9XWenWudU7mQnH2V8ccSZUVdEz-5b-OxaK24gGdGnexBb5yPKg1v8cimSY0g?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5183)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/868b29d52a3bfc6e07802fe1348071dd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5182)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/fcc726908b31bbc1b1be2c3a990598f7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16069)</details> |
+| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #124215 - Publication #59</details>** | ![Image](https://i.seadn.io/s/raw/files/6cd75ba7e774e4e2aa08890b6d32bf1b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #124215 - Publication #59](https://opensea.io/collection/lens-collect-profile-124215-publication-59)</details> |
 
 </div>
