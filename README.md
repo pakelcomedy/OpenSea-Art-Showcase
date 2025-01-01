@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Drugs opium** | ![Image](https://i.seadn.io/s/raw/files/10a3c8534715a2b19e882b09d04caade.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Drugs opium](https://opensea.io/collection/drugs-opium)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/5282ad376dbbb2196985599cdbfb5da0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5192)</details> |
+| **Croatia #1** | ![Image](https://i.seadn.io/s/raw/files/53dd40f52466adfc13b0d7a65d27fd8d.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Croatia #1](https://opensea.io/collection/croatia-1-2)</details> |
 
 </div>
