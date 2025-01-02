@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **VPN** | ![Image](https://i.seadn.io/s/raw/files/ee46b1a9eb12247084dcd5960a3785db.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[VPN](https://opensea.io/collection/vpn-12)</details> |
-| **UUL** | ![Image](https://i.seadn.io/s/raw/files/98b011409dc663dd3a1170b89dbbeaca.jpg?w=500&auto=format?w=200&auto=format) | UUL | <details><summary>Link</summary>[UUL](https://opensea.io/collection/uul)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/97bd1b86180afac72fcaf76fd664c7a3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16293)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/cb9d7d2af4b65766439440c2f935a255.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16292)</details> |
 
 </div>
