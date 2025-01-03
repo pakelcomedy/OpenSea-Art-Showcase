@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **SDFCXV** | ![Image](https://i.seadn.io/s/raw/files/dbf8d508217b1c58570cd886a7e7a1a5.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SDFCXV](https://opensea.io/collection/sdfcxv-7)</details> |
-| **SDFCXV** | ![Image](https://i.seadn.io/s/raw/files/dbf8d508217b1c58570cd886a7e7a1a5.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SDFCXV](https://opensea.io/collection/sdfcxv-6)</details> |
-| **DSFGCVBRTY** | ![Image](https://i.seadn.io/s/raw/files/90ea465277ded1305db207c4b10df5fe.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DSFGCVBRTY](https://opensea.io/collection/dsfgcvbrty-5)</details> |
-| **DSFGCVBRTY** | ![Image](https://i.seadn.io/s/raw/files/90ea465277ded1305db207c4b10df5fe.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DSFGCVBRTY](https://opensea.io/collection/dsfgcvbrty-4)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/ba3a793b3367e5ec6e4c22213bde1365.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5387)</details> |
+| **Undead Ape** | ![Image](https://i.seadn.io/s/raw/files/762405d91025d13f59776919f71951ed.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>A collection of 9998 colorful ...</summary>A collection of 9998 colorful and fun monkeys.
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Undead Ape](https://opensea.io/collection/undead-ape-4)</details> |
 
 </div>
