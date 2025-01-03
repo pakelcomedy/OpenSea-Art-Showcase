@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **brrrnie poster** | ![Image](https://i.seadn.io/s/raw/files/d8f952680a1d9a0034757080def403c4.png?w=500&auto=format?w=200&auto=format) | ⃤smol token of graz⃤ | <details><summary>Link</summary>[brrrnie poster](https://opensea.io/collection/brrrnie-poster)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/45d0408e78381af3913179d57cef2282.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16718)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/a23c301f52ddeab991133072cc7aa5b8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4882)</details> |
 
 </div>
