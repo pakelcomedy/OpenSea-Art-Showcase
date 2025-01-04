@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/34a09e077b20745a50d6ca478f72f2ed.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16904)</details> |
-| **<details><summary>Routing Analyze...</summary>Routing Analyzed Exist</details>** | ![Image](https://i.seadn.io/s/raw/files/ee1d876ec6be428ca7b2606338a6a8f7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Routing Analyzed Exist](https://opensea.io/collection/routing-analyzed-exist)</details> |
-| **takgeo21** | ![Image](https://i.seadn.io/s/raw/files/79147ff78785698b9a250df539882dc6.webp?w=500&auto=format?w=200&auto=format) | SUI TO THE MOON | <details><summary>Link</summary>[takgeo21](https://opensea.io/collection/takgeo21-1)</details> |
+| **Virtuals Land** | ![Image](https://i.seadn.io/s/raw/files/dfab94ef5343906527b399e3f60d35b5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Virtuals Land](https://opensea.io/collection/virtuals-land-25)</details> |
+| **Mr Analyzzer** | ![Image](https://i.seadn.io/s/raw/files/f33f82f5b99226e29f356b0ea38b2350.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mr Analyzzer](https://opensea.io/collection/mr-analyzzer)</details> |
+| **Virtuals Land** | ![Image](https://i.seadn.io/s/raw/files/dfab94ef5343906527b399e3f60d35b5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Virtuals Land](https://opensea.io/collection/virtuals-land-24)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/gcs/files/c099b68f786d526d6c6296ac707a22c3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5564)</details> |
 
 </div>
