@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/ed4bbd5b8e09adf938e760ddb9e7111e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5481)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/b740a82a28f45fa2084adf5f53028bff.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16728)</details> |
-| **<details><summary>Stickers CULTUR...</summary>Stickers CULTURE  1230</details>** | ![Image](https://i.seadn.io/s/raw/files/5ed8639e69905b5bf8c543db8ac34e9d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Stickers CULTURE  1230](https://opensea.io/collection/stickers-culture-1230)</details> |
+| **<details><summary>Houston Astros®...</summary>Houston Astros® José Urquidy Topps NOW White 1017 Rare</details>** | ![Image](https://i.seadn.io/s/raw/files/b7428240a7d54085572165f9959733c0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This is an officially licensed...</summary>This is an officially licensed NFT from the 2021 Topps NOW MLB World Series NFT Collection from Game 2 of the World Series. This collection features snapshots that highlight extraordinary moments in a digitally enhanced environment. Topps NOW highlights the biggest plays from the Fall Classic, with NFT-exclusive animations to showcase memorable moments from each game. Visit ToppsNFTs.com for more details.
+
+Please Note: Your pack(s) will be delivered within 3 business days after the World Series has ended.
+
+Major League Baseball trademarks and copyrights are used with permission of Major League Baseball. Visit MLB.com.</details> | <details><summary>Link</summary>[Houston Astros® José Urquidy Topps NOW White 1017 Rare](https://opensea.io/collection/houston-astros-r-jose-urquidy-topps-now-white-1017)</details> |
+| **test** | ![Image](https://i.seadn.io/s/raw/files/f439c79b4b61b04a763fe8a5f4592c59.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[test](https://opensea.io/collection/test-7187)</details> |
+| **Newfoundland** | ![Image](https://i.seadn.io/s/raw/files/46037cfd848a34df7a7f72d523a8ac8c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Newfoundland](https://opensea.io/collection/newfoundland-7)</details> |
 
 </div>
