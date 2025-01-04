@@ -6,12 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>PRISMATIC OCULU...</summary>PRISMATIC OCULUS CRIMSON</details>** | ![Image](https://i.seadn.io/s/raw/files/d413e9bf024538bdfc1f00caa90c20d1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PRISMATIC OCULUS CRIMSON](https://opensea.io/collection/prismatic-oculus-crimson)</details> |
-| **Motherly love** | ![Image](https://i.seadn.io/s/raw/files/c230a1887e8c2d12b7665176d9e0255a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>A short drive away from our st...</summary>A short drive away from our stay in Nairobi is the Nairobi National park. A serene space in the middle of the chaos that has become the bustling metropolitan Nairobi City. 
-
-Mama and baby rest as they calm themselves after a warm day.
---
-See more by thenomadickenyan on Remx at remx.xyz/thenomadickenyan</details> | <details><summary>Link</summary>[Motherly love](https://opensea.io/collection/motherly-love-1)</details> |
-| **Bags** | ![Image](https://i.seadn.io/s/raw/files/d21137460720617f1610b91ede13356e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bags](https://opensea.io/collection/bags-36)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/5d63201c5232c689289f95b0a1577c09.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-16940)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/2234b7f16bb131714f3872c2e090f95a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5591)</details> |
 
 </div>
