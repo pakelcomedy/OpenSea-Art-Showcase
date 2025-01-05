@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **SDFWEFDG** | ![Image](https://i.seadn.io/s/raw/files/1ec769e8076ab1097084b4ab888a5598.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SDFWEFDG](https://opensea.io/collection/sdfwefdg-6)</details> |
-| **ERTDFGBF** | ![Image](https://i.seadn.io/s/raw/files/e9b71e0b8f47b056fbf79f1527c15f29.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ERTDFGBF](https://opensea.io/collection/ertdfgbf-6)</details> |
+| **<details><summary>Mysterious Temp...</summary>Mysterious Temple</details>** | ![Image](https://i.seadn.io/s/raw/files/8ab49af503bc569e3916cc876828fc7d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mysterious Temple](https://opensea.io/collection/mysterious-temple-1)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/e78f3347273821f5c56e6163ea4f1c14.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5715)</details> |
+| **Bark Capone** | ![Image](https://i.seadn.io/s/raw/files/c5bd5ba751ea5dab12d64dbf252696d0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bark Capone](https://opensea.io/collection/bark-capone)</details> |
 
 </div>
