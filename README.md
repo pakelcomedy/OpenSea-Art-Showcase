@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Nextech Quest T...</summary>Nextech Quest Test</details>** | ![Image](https://i.seadn.io/s/raw/files/7b6b052635d90bd2a967372043e0f55b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This is just a test for runnin...</summary>This is just a test for running through the platform.</details> | <details><summary>Link</summary>[Nextech Quest Test](https://opensea.io/collection/nextech-quest-test)</details> |
+| **FGERWEFD** | ![Image](https://i.seadn.io/s/raw/files/fd191522dd05e1c3aa41ecdf608322e4.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FGERWEFD](https://opensea.io/collection/fgerwefd-5)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/c02d33a7c966e8181e0008b75146db46.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-17069)</details> |
 
 </div>
