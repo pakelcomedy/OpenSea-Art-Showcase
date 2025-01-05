@@ -6,9 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0xfbd6438b5774f...</summary>0xfbd6438b5774faa81b59b05eff3b1ed70cbd2180</details>** | ![Image](https://i.seadn.io/s/raw/files/cef0f47b649256dea1ed30bf28509d73.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xfbd6438b5774faa81b59b05eff3b1ed70cbd2180](https://opensea.io/collection/0xfbd6438b5774faa81b59b05eff3b1ed70cbd2180)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/6c039878a0dcf75804329c4f56ff54ba.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-17223)</details> |
-| **<details><summary>0x1c4193ed402b6...</summary>0x1c4193ed402b6d91f3a285162f8c897e64211533</details>** | ![Image](https://i.seadn.io/s/raw/files/cef0f47b649256dea1ed30bf28509d73.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x1c4193ed402b6d91f3a285162f8c897e64211533](https://opensea.io/collection/0x1c4193ed402b6d91f3a285162f8c897e64211533)</details> |
-| **Art Nature** | ![Image](https://i.seadn.io/s/raw/files/137856c954d27a1f4e337d8fe6db552e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Art Nature](https://opensea.io/collection/art-nature-12)</details> |
+| **Mind..** | ![Image](https://i.seadn.io/s/raw/files/45a6d2e4d0c55c5a2c7849154ef595b3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Man's greatest enemy is not wi...</summary>Man's greatest enemy is not without, it lives within him; it is his fears, it the wrong beliefs he has accepted as true, it is the past failures which he still allows to define him, it is the mind untrained
+
+Made with charcoal pencils on archival paper
+--
+See more by Moses Love Boniface  on Remx at remx.xyz/loveart</details> | <details><summary>Link</summary>[Mind..](https://opensea.io/collection/mind-120)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/d59259c088fac94af924931a5b78061e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5857)</details> |
 
 </div>
