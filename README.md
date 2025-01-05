@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **XXXX** | ![Image](https://i.seadn.io/s/raw/files/d5e8e0fb13c6872e0b4401cff82f06c0.jpg?w=500&auto=format?w=200&auto=format) | Money Buy Hapines | <details><summary>Link</summary>[XXXX](https://opensea.io/collection/xxxx-69)</details> |
+| **<details><summary>Two Face-To-Fac...</summary>Two Face-To-Face</details>** | ![Image](https://i.seadn.io/s/raw/files/8efa16dc3d830418c4fae604d18c44a5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Two Face-To-Face](https://opensea.io/collection/two-face-to-face)</details> |
 
 </div>
