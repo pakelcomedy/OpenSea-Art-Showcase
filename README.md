@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **!!![#]!! C** | ![Image](https://i.seadn.io/s/raw/files/09aa875a31ccac5ec55c832be1b37535.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[!!![#]!! C](https://opensea.io/collection/c-652)</details> |
-| **angel - smile** | ![Image](https://i.seadn.io/s/raw/files/62c8340e14a0c7a45909d8e11e0733ef.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Created by angel on Sound. Lea...</summary>Created by angel on Sound. Leave a comment on the song at https://www.sound.xyz/roshana/smile</details> | <details><summary>Link</summary>[angel - smile](https://opensea.io/collection/angel-smile-1)</details> |
+| **OPAPE** | ![Image](https://i.seadn.io/s/raw/files/78e5ceb87ac94d81fce41da2ce327677.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OPAPE](https://opensea.io/collection/opape-3)</details> |
+| **Lusus Naturae** | ![Image](https://i.seadn.io/s/raw/files/53f4258c39a48dc6ccd327b3625f931e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lusus Naturae](https://opensea.io/collection/lusus-naturae-3)</details> |
+| **Zebr** | ![Image](https://i.seadn.io/s/raw/files/d0aa58268ce9c04fa9288e4a92f0c39e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zebr](https://opensea.io/collection/zebr-3)</details> |
 
 </div>
