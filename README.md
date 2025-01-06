@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/f8620157421af6875c4eccc025b16bbc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-5980)</details> |
+| **GYPS** | ![Image](https://i.seadn.io/s/raw/files/5e77fd38e67900d7f73e91e4d45c2acc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GYPS](https://opensea.io/collection/gyps)</details> |
 
 </div>
