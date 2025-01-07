@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CHOST REX** | ![Image](https://i.seadn.io/s/raw/files/9bbd9158faa1bb6411c17092c4a78561.png?w=500&auto=format?w=200&auto=format) | CHOST REX ON DARK FOREST | <details><summary>Link</summary>[CHOST REX](https://opensea.io/collection/chost-rex)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/196cd934841d9b0fa7e021be3afd61b8.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-17657)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/gae/f4J4nvdqSUfD_XBJpVIwmPZJPN0grA0YZ1833noaHs4I76ZZYvIYPltwaXWlYjsx87nRkYhQloh48QNATtVToRAUrA?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6585)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/6f2b33bcd102491d68e355e8f84272e1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6584)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/871ddc10a5e0b8a876cfd3dbc86dac21.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6583)</details> |
 
 </div>
