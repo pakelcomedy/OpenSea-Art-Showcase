@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Warm Headz** | ![Image](https://i.seadn.io/s/raw/files/a2e535aaf224d792dfa33f955b2bd7b9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Warm Headz](https://opensea.io/collection/warm-headz)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-17592)</details> |
-| **Soul** | ![Image](https://i.seadn.io/s/raw/files/6835ca7181a8ff03ce2f4edc0bde46bd.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Details of my line style
+| **Fancy Moment** | ![Image](https://i.seadn.io/s/raw/files/f209d0a5450cd9b62bce9088b71a298a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>I created this animation as pa...</summary>I created this animation as part of my weekly innovations for techno parties using the logo I designed for them as a repeating motif.
 --
-Se...</summary>Details of my line style
---
-See more by MoeinKhatteSiah on Remx at remx.xyz/moeinkhattesiah</details> | <details><summary>Link</summary>[Soul](https://opensea.io/collection/soul-175)</details> |
+See more by She Ra  on Remx at remx.xyz/shirapugatch</details> | <details><summary>Link</summary>[Fancy Moment](https://opensea.io/collection/fancy-moment)</details> |
 
 </div>
