@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/450ab629287d9048514ce74ca4fa12fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6286)</details> |
-| **<details><summary>Legend of Versa...</summary>Legend of Versailles</details>** | ![Image](https://i.seadn.io/s/raw/files/d0c81e2b6a667c6a9dc646d89c7c6319.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Legend of Versailles](https://opensea.io/collection/legend-of-versailles)</details> |
+| **kxt** | ![Image](https://i.seadn.io/s/raw/files/378e092a16b038ef8563308ab18d831d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[kxt](https://opensea.io/collection/kxt-1)</details> |
+| **dhgdyt** | ![Image](https://i.seadn.io/s/raw/files/9101c4da0873e09c73e97a7c9825cd5d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dhgdyt](https://opensea.io/collection/dhgdyt)</details> |
+| **nana** | ![Image](https://i.seadn.io/s/raw/files/6631d38d4357ec9cd1b46476285b7865.jpg?w=500&auto=format?w=200&auto=format) | Beautiful parrot | <details><summary>Link</summary>[nana](https://opensea.io/collection/nana-73)</details> |
 
 </div>
