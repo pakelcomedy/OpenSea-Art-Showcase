@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **0YEN** | ![Image](https://i.seadn.io/s/raw/files/dfab94ef5343906527b399e3f60d35b5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0YEN](https://opensea.io/collection/0yen)</details> |
-| **puppy** | ![Image](https://i.seadn.io/s/raw/files/c001ff74fb28895fbbce09548b9ee9eb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[puppy](https://opensea.io/collection/puppy-177)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-17765)</details> |
+| **maozi** | ![Image](https://i.seadn.io/s/raw/files/e5a6ed578cec61e660a00c55cda55d5c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[maozi](https://opensea.io/collection/maozi-1)</details> |
+| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #305635 - Publication #117</details>** | ![Image](https://i.seadn.io/s/raw/files/f01d1e9f19d984a9303724872dc11898.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #305635 - Publication #117](https://opensea.io/collection/lens-collect-profile-305635-publication-117)</details> |
 
 </div>
