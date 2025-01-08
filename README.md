@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/a5ecef62fdc1abd1dcf8a016b13dbe74.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6949)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/accdb9c7e852a5b8913b2cbde879fcd7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-18175)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/8d58ee935f663c82a9963c32be492da8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6948)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-18199)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-18198)</details> |
+| **VisionNode** | ![Image](https://i.seadn.io/s/raw/files/6a5de55c7cc228e9ed4fd8dfabf876de.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[VisionNode](https://opensea.io/collection/visionnode-7)</details> |
 
 </div>
