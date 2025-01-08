@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>$50 000 FREE (E...</summary>$50 000 FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/88f2d483983646933d9671c91dd81780.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$50 000 FREE (EventQ.io)](https://opensea.io/collection/50-000-free-eventq-io-678)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/96ea1adb443ba5805d575236c0554d8b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6773)</details> |
+| **peiqi** | ![Image](https://i.seadn.io/s/raw/files/abd19b4f9fe1f175d98c9613c26730af.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[peiqi](https://opensea.io/collection/peiqi-1)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-17845)</details> |
 
 </div>
