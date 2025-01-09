@@ -6,12 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>$ 50,000 FREE (...</summary>$ 50,000 FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/ff2c14f40548d92ced8b9521d4c873dd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$ 50,000 FREE (EventQ.io)](https://opensea.io/collection/50000-free-eventq-io-2389)</details> |
-| **PLANK** | ![Image](https://i.seadn.io/s/raw/files/dc2e163ad7a1df4e50e21b302b483e49.webp?w=500&auto=format?w=200&auto=format) | <details><summary>1111 Unique Planks on ApeChain...</summary>1111 Unique Planks on ApeChain.
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[PLANK](https://opensea.io/collection/plank-2)</details> |
-| **<details><summary>$ 50,000 FREE (...</summary>$ 50,000 FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/ff2c14f40548d92ced8b9521d4c873dd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$ 50,000 FREE (EventQ.io)](https://opensea.io/collection/50000-free-eventq-io-2388)</details> |
-| **Chisato** | ![Image](https://i.seadn.io/s/raw/files/f1136587dc3de01d77762805bf3378e5.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chisato](https://opensea.io/collection/chisato-4)</details> |
-| **<details><summary>$ 50,000 FREE (...</summary>$ 50,000 FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/ff2c14f40548d92ced8b9521d4c873dd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$ 50,000 FREE (EventQ.io)](https://opensea.io/collection/50000-free-eventq-io-2387)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/dcbb651f75ff9194f2446454a261417f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-7294)</details> |
+| **<details><summary>desenhos e rabi...</summary>desenhos e rabiscos</details>** | ![Image](https://i.seadn.io/s/raw/files/441c395ead47a8806be9311a7559cb7e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[desenhos e rabiscos](https://opensea.io/collection/desenhos-e-rabiscos)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/f7ae5dbfc4b782a630a7661814614dd7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-7293)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/f9c531fd2f4903458244a5be6400e4b6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4898)</details> |
+| **V.1.** | ![Image](https://i.seadn.io/s/raw/files/7a75b2ba84d6ec51fdedabee6bf7895a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[V.1.](https://opensea.io/collection/v-1-4)</details> |
 
 </div>
