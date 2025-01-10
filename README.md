@@ -6,15 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Heavy_Bronze_Sw...</summary>Heavy_Bronze_Sword</details>** | ![Image](https://i.seadn.io/s/raw/files/865c2b68587b80f42e6773ce00d18a7c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heavy_Bronze_Sword](https://opensea.io/collection/heavy-bronze-sword)</details> |
-| **<details><summary>Unholy_Bronze_H...</summary>Unholy_Bronze_Halberd</details>** | ![Image](https://i.seadn.io/s/raw/files/6853422e5d473a1cf6a46edf3917e9aa.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unholy_Bronze_Halberd](https://opensea.io/collection/unholy-bronze-halberd)</details> |
-| **qq** | ![Image](https://i.seadn.io/s/raw/files/956f11b16351d87addadfb7a226fb6f5.jpg?w=500&auto=format?w=200&auto=format) | qq is ok | <details><summary>Link</summary>[qq](https://opensea.io/collection/qq-191)</details> |
-| **CHIGUY PASSPORT** | ![Image](https://i.seadn.io/s/raw/files/02a4d440842edda2b8c372f275068425.gif?w=500&auto=format?w=200&auto=format) | <details><summary>999 CHIGUY PASSPORT FOR EARLY ...</summary>999 CHIGUY PASSPORT FOR EARLY COMMUNITY 
-BENEFIT HOLDERS CHIGUY PASSPORT:
-1. GUARANTED WL COLLECTIONS CHIGUY KANSAS FREEMINT 
-2. ELIGBLE AIRDROP CHIGUY KANSAS IN FUTURE
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[CHIGUY PASSPORT](https://opensea.io/collection/chiguy-passport-1)</details> |
-| **<details><summary>Farcaster Hot/C...</summary>Farcaster Hot/Crazy Chart</details>** | ![Image](https://i.seadn.io/s/raw/files/403a6bccdaf694666edeea738038d48e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Farcaster Hot/Crazy Chart](https://opensea.io/collection/farcaster-hot-crazy-chart)</details> |
+| **<details><summary>$ 50,000 FREE (...</summary>$ 50,000 FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/ff2c14f40548d92ced8b9521d4c873dd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$ 50,000 FREE (EventQ.io)](https://opensea.io/collection/50000-free-eventq-io-3268)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-18993)</details> |
+| **be like boris** | ![Image](https://i.seadn.io/s/raw/files/c17b539cf1c7d763194f949a67458e46.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[be like boris](https://opensea.io/collection/be-like-boris)</details> |
+| **<details><summary>Heavy_Adamantiu...</summary>Heavy_Adamantium_Dagger</details>** | ![Image](https://i.seadn.io/s/raw/files/bc840d0bd396713d9e430a2dcf22a155.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heavy_Adamantium_Dagger](https://opensea.io/collection/heavy-adamantium-dagger)</details> |
 
 </div>
