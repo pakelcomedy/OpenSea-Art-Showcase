@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Thunder_Dragonb...</summary>Thunder_Dragonbone_Bow</details>** | ![Image](https://i.seadn.io/s/raw/files/f3aa9e952594507a9926136db0fe36fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Thunder_Dragonbone_Bow](https://opensea.io/collection/thunder-dragonbone-bow)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/b3ac7bad7c74ece042b1d81cb985a696.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-7781)</details> |
-| **Pixel Elephants** | ![Image](https://i.seadn.io/s/raw/files/ae1fe28b519b83b8defdb9450e5ffde8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Elephants](https://opensea.io/collection/pixel-elephants-2)</details> |
+| **sanm** | ![Image](https://i.seadn.io/s/raw/files/4e701b5206c4fa218a7011b0815d2352.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sanm](https://opensea.io/collection/sanm-2)</details> |
+| **<details><summary>Pegasus in the ...</summary>Pegasus in the sky of Tabriz</details>** | ![Image](https://i.seadn.io/s/raw/files/8f809560a3d28c546a3efd8545d81026.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pegasus in the sky of Tabriz](https://opensea.io/collection/pegasus-in-the-sky-of-tabriz-2)</details> |
+| **<details><summary>$ 50,000 FREE (...</summary>$ 50,000 FREE (EventQ.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/ff2c14f40548d92ced8b9521d4c873dd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$ 50,000 FREE (EventQ.io)](https://opensea.io/collection/50000-free-eventq-io-4143)</details> |
 
 </div>
