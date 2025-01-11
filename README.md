@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **PEPUG** | ![Image](https://i.seadn.io/s/raw/files/8a92690243a406b245c1d92496b45743.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PEPUG](https://opensea.io/collection/pepug-1)</details> |
-| **ShibaDailyTails** | ![Image](https://i.seadn.io/s/raw/files/fec546cbb8f17fb8ff7c822fcb1bf133.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ShibaDailyTails](https://opensea.io/collection/shibadailytails)</details> |
-| **<details><summary>Geometric Patte...</summary>Geometric Patterns</details>** | ![Image](https://i.seadn.io/s/raw/files/5dba7d71c48b500e7f83f30702121444.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Geometric Patterns](https://opensea.io/collection/geometric-patterns-3)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/9215b9dad66f23e38c1e0c72e1179905.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-19432)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/bea48e6ab1465dc860dc78f455e1d450.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-7866)</details> |
 
 </div>
