@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>1 Ethereum Tick...</summary>1 Ethereum Ticket</details>** | ![Image](https://i.seadn.io/s/raw/files/c6626c04947a387d328daf0e8d8ce01d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1 Ethereum Ticket](https://opensea.io/collection/1-ethereum-ticket-1)</details> |
-| **<details><summary>1 Ethereum Tick...</summary>1 Ethereum Ticket</details>** | ![Image](https://i.seadn.io/s/raw/files/c6626c04947a387d328daf0e8d8ce01d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[1 Ethereum Ticket](https://opensea.io/collection/1-ethereum-ticket)</details> |
-| **hghe** | ![Image](https://i.seadn.io/s/raw/files/742b6faeede5f3608ffd9b6bec3945cd.jpg?w=500&auto=format?w=200&auto=format) | Smile at life | <details><summary>Link</summary>[hghe](https://opensea.io/collection/hghe)</details> |
+| **<details><summary>Ethereum Ticket...</summary>Ethereum Ticket 654</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Ticket 654](https://opensea.io/collection/ethereum-ticket-654-335)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/a44947eb8f9edb1706941c612446164c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-8013)</details> |
+| **<details><summary>Ethereum Ticket...</summary>Ethereum Ticket 654</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Ticket 654](https://opensea.io/collection/ethereum-ticket-654-334)</details> |
 
 </div>
