@@ -6,14 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>+ $50,000 FOR F...</summary>+ $50,000 FOR FREE (EventETH.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[+ $50,000 FOR FREE (EventETH.io)](https://opensea.io/collection/50000-for-free-eventeth-io-2)</details> |
-| **<details><summary>Nature's Reflec...</summary>Nature's Reflection</details>** | ![Image](https://i.seadn.io/s/raw/files/87ebc99d775473da2aea1a3a3291ba59.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Nature's Reflection
---
-See mor...</summary>Nature's Reflection
---
-See more by Ridnime on Remx at remx.xyz/ridnime</details> | <details><summary>Link</summary>[Nature's Reflection](https://opensea.io/collection/nature-s-reflection-2)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/1e0a5d1e2230f3431e116f505013cb9c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-19731)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/7b2ab5b4150922dbd9bd5958a3a9d94a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-8059)</details> |
-| **<details><summary>+ $50,000 FOR F...</summary>+ $50,000 FOR FREE (EventETH.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[+ $50,000 FOR FREE (EventETH.io)](https://opensea.io/collection/50000-for-free-eventeth-io-1)</details> |
+| **<details><summary>0x01fc1981c5a52...</summary>0x01fc1981c5a52660d44008969fd2ceee4a678821</details>** | ![Image](https://i.seadn.io/s/raw/files/c8e6ad0d2575efe85cfc0b8a2052a1fd.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x01fc1981c5a52660d44008969fd2ceee4a678821](https://opensea.io/collection/0x01fc1981c5a52660d44008969fd2ceee4a678821)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/3dbdb7e66c08efd5427103c48b241124.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-8072)</details> |
+| **<details><summary>0x7e0ad7a0d340e...</summary>0x7e0ad7a0d340efe8a328c00b3f57e494b2c31452</details>** | ![Image](https://i.seadn.io/s/raw/files/c8e6ad0d2575efe85cfc0b8a2052a1fd.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x7e0ad7a0d340efe8a328c00b3f57e494b2c31452](https://opensea.io/collection/0x7e0ad7a0d340efe8a328c00b3f57e494b2c31452)</details> |
 
 </div>
