@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Ethereum Ticket...</summary>Ethereum Ticket 654</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Ticket 654](https://opensea.io/collection/ethereum-ticket-654-335)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/a44947eb8f9edb1706941c612446164c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-8013)</details> |
-| **<details><summary>Ethereum Ticket...</summary>Ethereum Ticket 654</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Ticket 654](https://opensea.io/collection/ethereum-ticket-654-334)</details> |
+| **<details><summary>WildNFTImages (...</summary>WildNFTImages (Base)</details>** | ![Image](https://i.seadn.io/s/raw/files/49aaa2635e8a3be18d63272fa7d36e42.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WildNFTImages (Base)](https://opensea.io/collection/wildnftimages-base)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/86b89a4d84654f815fbc38d77814d66a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-19663)</details> |
 
 </div>
