@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>HARDWORKING GEN...</summary>HARDWORKING GENESIS PENGU</details>** | ![Image](https://i.seadn.io/s/raw/files/7e75e84199d1e8628e250f77e125c5cb.jpg?w=500&auto=format?w=200&auto=format) | Pengu of the week | <details><summary>Link</summary>[HARDWORKING GENESIS PENGU](https://opensea.io/collection/hardworking-genesis-pengu)</details> |
+| **HAPrime** | ![Image](https://i.seadn.io/s/raw/files/98fe4197ef70732ba4fb4260c04871b9.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HAPrime](https://opensea.io/collection/haprime-232)</details> |
+| **XBLST78** | ![Image](https://i.seadn.io/s/raw/files/0198ab05f95cf9c810d0c11eeb1fb8c1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XBLST78](https://opensea.io/collection/xblst78)</details> |
 
 </div>
