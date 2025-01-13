@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Heavy_Bronze_Ma...</summary>Heavy_Bronze_Mace</details>** | ![Image](https://i.seadn.io/s/raw/files/ec6168053ebeb741b508ac3779d9156d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heavy_Bronze_Mace](https://opensea.io/collection/heavy-bronze-mace)</details> |
-| **<details><summary>Ethereum Ticket...</summary>Ethereum Ticket 76650</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Ticket 76650](https://opensea.io/collection/ethereum-ticket-76650)</details> |
+| **<details><summary>Fire_Bronze_Hal...</summary>Fire_Bronze_Halberd</details>** | ![Image](https://i.seadn.io/s/raw/files/9452d523b8d1e508cbac293981b1e9ab.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fire_Bronze_Halberd](https://opensea.io/collection/fire-bronze-halberd)</details> |
+| **<details><summary>Holy_Mythril_Sw...</summary>Holy_Mythril_Sword</details>** | ![Image](https://i.seadn.io/s/raw/files/b266e8b4e2f16b5b32f7ce90e804cf40.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Holy_Mythril_Sword](https://opensea.io/collection/holy-mythril-sword)</details> |
+| **<details><summary>MIME X HULIA 1/...</summary>MIME X HULIA 1/1</details>** | ![Image](https://i.seadn.io/s/raw/files/4ac6c7551875030a439cf2f963780e50.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MIME X HULIA 1/1](https://opensea.io/collection/mime-x-hulia-1-1)</details> |
 
 </div>
