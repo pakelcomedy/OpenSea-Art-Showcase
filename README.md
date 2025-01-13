@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Clowns** | ![Image](https://i.seadn.io/s/raw/files/610f3c400d7a701736e2dacb1089c7ab.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Clowns](https://opensea.io/collection/clowns-39)</details> |
-| **Bublik** | ![Image](https://i.seadn.io/s/raw/files/18443d97069271cd3612af3fffdd6736.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bublik](https://opensea.io/collection/bublik-11)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/a60cb344ef3422bda450928de148db55.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-19980)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-19979)</details> |
 
 </div>
