@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Cubism Reimagin...</summary>Cubism Reimagined</details>** | ![Image](https://i.seadn.io/s/raw/files/ee06ac916c6f1d82729a9c1a123ab41a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cubism Reimagined](https://opensea.io/collection/cubism-reimagined)</details> |
+| **Clowns** | ![Image](https://i.seadn.io/s/raw/files/610f3c400d7a701736e2dacb1089c7ab.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Clowns](https://opensea.io/collection/clowns-39)</details> |
+| **Bublik** | ![Image](https://i.seadn.io/s/raw/files/18443d97069271cd3612af3fffdd6736.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bublik](https://opensea.io/collection/bublik-11)</details> |
 
 </div>
