@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Ethereum Ticket...</summary>Ethereum Ticket 83694</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Ticket 83694](https://opensea.io/collection/ethereum-ticket-83694)</details> |
-| **<details><summary>Ethereum Ticket...</summary>Ethereum Ticket 76252</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Ticket 76252](https://opensea.io/collection/ethereum-ticket-76252)</details> |
+| **wenh** | ![Image](https://i.seadn.io/s/raw/files/13f232bc113610828906b3b2d9bc4752.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wenh](https://opensea.io/collection/wenh-1)</details> |
 
 </div>
