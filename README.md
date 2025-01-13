@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Precision_Obsid...</summary>Precision_Obsidian_Scimitar</details>** | ![Image](https://i.seadn.io/s/raw/files/1f213cf2a05a0237478278053177f03a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Precision_Obsidian_Scimitar](https://opensea.io/collection/precision-obsidian-scimitar)</details> |
-| **Inner Peace** | ![Image](https://i.seadn.io/s/raw/files/57d1ed454149ba4b74fc0aef77796172.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Inner Peace](https://opensea.io/collection/inner-peace-16)</details> |
+| **GHJTUFGH** | ![Image](https://i.seadn.io/s/raw/files/74f2209cd323a1df43dba11b7a592a45.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GHJTUFGH](https://opensea.io/collection/ghjtufgh-4)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-19836)</details> |
 
 </div>
