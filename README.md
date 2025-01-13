@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **GHJTUFGH** | ![Image](https://i.seadn.io/s/raw/files/74f2209cd323a1df43dba11b7a592a45.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GHJTUFGH](https://opensea.io/collection/ghjtufgh-4)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-19836)</details> |
+| **<details><summary>Heavy_Bronze_Ma...</summary>Heavy_Bronze_Mace</details>** | ![Image](https://i.seadn.io/s/raw/files/ec6168053ebeb741b508ac3779d9156d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heavy_Bronze_Mace](https://opensea.io/collection/heavy-bronze-mace)</details> |
+| **<details><summary>Ethereum Ticket...</summary>Ethereum Ticket 76650</details>** | ![Image](https://i.seadn.io/s/raw/files/a5eb4f98b3264be43c77b7ded5e38810.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Ticket 76650](https://opensea.io/collection/ethereum-ticket-76650)</details> |
 
 </div>
