@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Shakespeare in ...</summary>Shakespeare in the Dark</details>** | ![Image](https://i.seadn.io/s/raw/files/0dcfd200b6aff76cf89128f14c9201a8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Shakespeare in the Dark](https://opensea.io/collection/shakespeare-in-the-dark-1)</details> |
+| **<details><summary>Satoshie Raffle...</summary>Satoshie Raffle Tickets</details>** | ![Image](https://raw.seadn.io/files/c4b6616385f6fefd57667e3076b65b15.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Satoshie Raffle Tickets](https://opensea.io/collection/satoshie-raffle-tickets-3)</details> |
 
 </div>
