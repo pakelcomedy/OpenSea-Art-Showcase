@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **01OF80** | ![Image](https://i.seadn.io/s/raw/files/35f37a1ee97135ca2cb3a9c5250ba2ff.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[01OF80](https://opensea.io/collection/01of80)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/ebd061be990db8ec1d2b57c22f6d255f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-8488)</details> |
+| **MAGA** | ![Image](https://i.seadn.io/s/raw/files/946fcf269474fe40d7528dc9a6d78ffa.jpg?w=500&auto=format?w=200&auto=format) | pyueegyi.base.eth | <details><summary>Link</summary>[MAGA](https://opensea.io/collection/maga-102)</details> |
 
 </div>
