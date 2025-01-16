@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **TINY TOTS** | ![Image](https://i.seadn.io/s/raw/files/cea9854472f2721799a4c2e8a2cc0b51.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TINY TOTS](https://opensea.io/collection/tiny-tots-2)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/ae5df3ac792e36c5ae6880e1d16c335c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-20700)</details> |
 
 </div>
