@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>尾瀬国立公園（尾瀬ヶ原と至仏山...</summary>尾瀬国立公園（尾瀬ヶ原と至仏山)</details>** | ![Image](https://i.seadn.io/s/raw/files/86055a022176ce6217d1ceb1c235ddd0.webp?w=500&auto=format?w=200&auto=format) | 尾瀬国立公園（尾瀬ヶ原と至仏山) | <details><summary>Link</summary>[尾瀬国立公園（尾瀬ヶ原と至仏山)](https://opensea.io/collection/wei-lai-guo-li-gong-yuan-wei-lai-keyuan-tozhi-fo-s)</details> |
+| **Musya** | ![Image](https://i.seadn.io/s/raw/files/faf6e76754e6b650663e29ee53901874.jpg?w=500&auto=format?w=200&auto=format) | Red Cat Musya | <details><summary>Link</summary>[Musya](https://opensea.io/collection/musya-4)</details> |
+| **<details><summary>$50 000 FOR FRE...</summary>$50 000 FOR FREE (VIPEvent.io)</details>** | ![Image](https://i.seadn.io/s/raw/files/5d0b4ccefa2ead37bd75755e023a79cb.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$50 000 FOR FREE (VIPEvent.io)](https://opensea.io/collection/50-000-for-free-vipevent-io-883)</details> |
 
 </div>
