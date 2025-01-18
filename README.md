@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mascaras** | ![Image](https://i.seadn.io/s/raw/files/2094f0023dc4d00124d9acd678f5d073.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mascaras](https://opensea.io/collection/mascaras-2)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21189)</details> |
+| **Girls** | ![Image](https://i.seadn.io/s/raw/files/d015d53f34ae39297ec61f781acc9663.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Girls](https://opensea.io/collection/girls-540)</details> |
+| **<details><summary>Ethereum Drop 2...</summary>Ethereum Drop 2025 NFT</details>** | ![Image](https://i.seadn.io/s/raw/files/13a7628a7a61b1ad96369d9da889bb27.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereum Drop 2025 NFT](https://opensea.io/collection/ethereum-drop-2025-nft)</details> |
 
 </div>
