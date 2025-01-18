@@ -6,6 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Summer Girl** | ![Image](https://i.seadn.io/s/raw/files/420218116cc8ac099a836be9134c9945.png?w=500&auto=format?w=200&auto=format) | Summer Girl | <details><summary>Link</summary>[Summer Girl](https://opensea.io/collection/summer-girl-16)</details> |
+| **Powerwagon coin** | ![Image](https://i.seadn.io/s/raw/files/0baef9b4fa791434b395fd22edbb3e09.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This is a coin for those of us...</summary>This is a coin for those of us power waggoneers.
+We love to explore the wilderness.</details> | <details><summary>Link</summary>[Powerwagon coin](https://opensea.io/collection/powerwagon-coin)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/19af8a286650bcde52ed9c2f7cb5b395.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-9097)</details> |
 
 </div>
