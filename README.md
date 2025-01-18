@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **TRUMP** | ![Image](https://i.seadn.io/s/raw/files/f980181df268011a4491137fc71afdb5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TRUMP](https://opensea.io/collection/trump-341)</details> |
-| **Pika Pika Girl** | ![Image](https://i.seadn.io/s/raw/files/c5e5748c96ee52d8bce98c6d434b85bd.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pika Pika Girl](https://opensea.io/collection/pika-pika-girl-138)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/8ede60b3d75775253376048cc74d1935.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21059)</details> |
+| **Party Guys** | ![Image](https://i.seadn.io/s/raw/files/5223917a2c680fe752d70f8aee891b76.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Party Guys](https://opensea.io/collection/party-guys-1)</details> |
+| **bhug** | ![Image](https://i.seadn.io/s/raw/files/4000d7483f1b430317e03e10ed7c3314.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bhug](https://opensea.io/collection/bhug-3)</details> |
 
 </div>
