@@ -6,11 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/58f86aea1d877566d1a9467d1e3e6fc6.gif?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21052)</details> |
-| **cester** | ![Image](https://i.seadn.io/s/raw/files/f53af9931058617d9944cb5b60d467e7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cester](https://opensea.io/collection/cester-2)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/42b70412a58ab1563614860650d3ffb7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-9030)</details> |
-| **Hidden** | ![Image](https://i.seadn.io/s/raw/files/c2774051cfb99948f3f83cef5f02de92.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Hiding behind the colors and f...</summary>Hiding behind the colors and figures will not make you disappear
---
-See more by Art by J on Remx at remx.xyz/art-by-j</details> | <details><summary>Link</summary>[Hidden](https://opensea.io/collection/hidden-41)</details> |
+| **TRUSS '25** | ![Image](https://i.seadn.io/s/raw/files/b8dbed1fecbd44d1af79f3f94a443f26.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TRUSS '25](https://opensea.io/collection/truss-25)</details> |
+| **<details><summary>Sharp_Iron_Flai...</summary>Sharp_Iron_Flail</details>** | ![Image](https://i.seadn.io/s/raw/files/c1b115e20f76c65d8ceb77f8f1b33e6d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sharp_Iron_Flail](https://opensea.io/collection/sharp-iron-flail)</details> |
+| **mgtfr** | ![Image](https://i.seadn.io/s/raw/files/72ea5931da4ab415c1dcdf9ffc31dbc6.jpg?w=500&auto=format?w=200&auto=format) | I'm almost finished work | <details><summary>Link</summary>[mgtfr](https://opensea.io/collection/mgtfr)</details> |
+| **<details><summary>Brutal_Gold_Sta...</summary>Brutal_Gold_Staff</details>** | ![Image](https://i.seadn.io/s/raw/files/916e1bf651fe00ca4594509458946c98.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Brutal_Gold_Staff](https://opensea.io/collection/brutal-gold-staff-14)</details> |
 
 </div>
