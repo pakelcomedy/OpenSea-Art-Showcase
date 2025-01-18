@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Star Wars** | ![Image](https://i.seadn.io/s/raw/files/2edecbe7d8f2d305874dfb8cf23710c4.png?w=500&auto=format?w=200&auto=format) | Harry Potter | <details><summary>Link</summary>[Star Wars](https://opensea.io/collection/star-wars-186)</details> |
-| **<details><summary>Trump Digital T...</summary>Trump Digital Trading Cards MugShot Bonus Edition</details>** | ![Image](https://i.seadn.io/s/raw/files/740d3527ba4c8e7f6f51aa960129fa83.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trump Digital Trading Cards MugShot Bonus Edition](https://opensea.io/collection/trump-digital-trading-cards-mugshot-bonus-editio-5)</details> |
+| **Mascaras** | ![Image](https://i.seadn.io/s/raw/files/2094f0023dc4d00124d9acd678f5d073.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mascaras](https://opensea.io/collection/mascaras-2)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21189)</details> |
 
 </div>
