@@ -6,10 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Soap Seminar** | ![Image](https://i.seadn.io/s/raw/files/d1981af3b64a1c1098f63402fcd9f931.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Summaries various compliance m...</summary>Summaries various compliance midi holding mystery catalogs</details> | <details><summary>Link</summary>[Soap Seminar](https://opensea.io/collection/soap-seminar)</details> |
-| **kkj** | ![Image](https://i.seadn.io/s/raw/files/d12bddcd1b69056ce75283d33d00e383.jpg?w=500&auto=format?w=200&auto=format) | kkj is great | <details><summary>Link</summary>[kkj](https://opensea.io/collection/kkj-10)</details> |
-| **#00097** | ![Image](https://i.seadn.io/s/raw/files/20d6f7ab784bcee3362daed660458d1b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Colorful painting in cubism st...</summary>Colorful painting in cubism style
---
-See more by Fakhr on Remx at remx.xyz/fakhr</details> | <details><summary>Link</summary>[#00097](https://opensea.io/collection/00097)</details> |
+| **<details><summary>The Greg Face C...</summary>The Greg Face Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/af24beb0a7c25b1d64dcf663b0c07c5c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Greg Face Collection](https://opensea.io/collection/the-greg-face-collection-1)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d84e57c4fdb920821e6178efe8b6bf48.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21042)</details> |
 
 </div>
