@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/0736e847726c8764a493329eb886dfbb.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21261)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/c9186766108ec5985fee31045f4acf29.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21260)</details> |
+| **Panda Base** | ![Image](https://i.seadn.io/s/raw/files/02b12bc1c9cff0b194021a334b0558c9.png?w=500&auto=format?w=200&auto=format) | <details><summary>Right now - Just Art, Communit...</summary>Right now - Just Art, Community and 🌳 Evolution NFT Ecosystem</details> | <details><summary>Link</summary>[Panda Base](https://opensea.io/collection/panda-base-7)</details> |
+| **<details><summary>Based Crypto Do...</summary>Based Crypto Doge</details>** | ![Image](https://i.seadn.io/s/raw/files/761f23aa801b89fc0f92349066b5fe5b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Based Crypto Doge](https://opensea.io/collection/based-crypto-doge)</details> |
 
 </div>
