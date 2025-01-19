@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **hgfdsza** | ![Image](https://i.seadn.io/s/raw/files/66377b9d10d964cb25031b34fd22c749.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hgfdsza](https://opensea.io/collection/hgfdsza)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21226)</details> |
 
 </div>
