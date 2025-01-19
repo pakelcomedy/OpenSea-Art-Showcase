@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Brutal_Gold_Sta...</summary>Brutal_Gold_Staff</details>** | ![Image](https://i.seadn.io/s/raw/files/916e1bf651fe00ca4594509458946c98.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Brutal_Gold_Staff](https://opensea.io/collection/brutal-gold-staff-43)</details> |
-| **PokeBall** | ![Image](https://i.seadn.io/s/raw/files/5f40be8ec91cfce4751509aa1d3fbbfa.png?w=500&auto=format?w=200&auto=format) | <details><summary>PokeBall
-
-Made with [NFTs2Me.c...</summary>PokeBall
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[PokeBall](https://opensea.io/collection/pokeball-12)</details> |
-| **qasd** | ![Image](https://i.seadn.io/s/raw/files/04b476144b2af98ad9fc6137fed3fe49.jpg?w=500&auto=format?w=200&auto=format) | qasd is well | <details><summary>Link</summary>[qasd](https://opensea.io/collection/qasd)</details> |
+| **JHUI** | ![Image](https://i.seadn.io/s/raw/files/b0bebd9f9ad1ba3913298b524106635c.jpg?w=500&auto=format?w=200&auto=format) | ZVXFHYTJMVCHSGDX | <details><summary>Link</summary>[JHUI](https://opensea.io/collection/jhui-1)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/6f8755db1deb16c62f0a453c541ddff0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21245)</details> |
+| **Sweet Cafe** | ![Image](https://i.seadn.io/s/raw/files/cf4477087e7cafc288bd1240ad75fcae.png?w=500&auto=format?w=200&auto=format) | <details><summary>Sweet, sweet, my own sweet caf...</summary>Sweet, sweet, my own sweet cafe</details> | <details><summary>Link</summary>[Sweet Cafe](https://opensea.io/collection/sweet-cafe)</details> |
 
 </div>
