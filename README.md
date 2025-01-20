@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **GNU TUX** | ![Image](https://i.seadn.io/s/raw/files/75bfa721a71f791b235f5e5a956d09ef.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GNU TUX](https://opensea.io/collection/gnu-tux)</details> |
+| **Lancet Bot** | ![Image](https://i.seadn.io/s/raw/files/1bccd0b7e665c04d30a9d0464f9042fe.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lancet Bot](https://opensea.io/collection/lancet-bot-2)</details> |
 
 </div>
