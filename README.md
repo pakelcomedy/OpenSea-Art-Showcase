@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **MAMA MIA** | ![Image](https://i.seadn.io/s/raw/files/8bc23fa14cbc4244e954fa3598082470.jpg?w=500&auto=format?w=200&auto=format) | Green PENGU from Italia? 😂 | <details><summary>Link</summary>[MAMA MIA](https://opensea.io/collection/mama-mia-6)</details> |
-| **<details><summary>fashionfemalegr...</summary>fashionfemalegrilape</details>** | ![Image](https://i.seadn.io/s/raw/files/42e908191e168045ce4cc73029bac8d6.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fashionfemalegrilape](https://opensea.io/collection/fashionfemalegrilape)</details> |
-| **test** | ![Image](https://i.seadn.io/s/raw/files/c0513fdb017341bfb3a038f94d026d90.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[test](https://opensea.io/collection/test-7294)</details> |
+| **ThunderTooth** | ![Image](https://i.seadn.io/s/raw/files/2072161d8a85ccc7ce22d6b2adb3774d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ThunderTooth](https://opensea.io/collection/thundertooth)</details> |
+| **CarParts** | ![Image](https://i.seadn.io/s/raw/files/a14a0ba0fd2c9f43b8ef78f0b2baffb8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CarParts](https://opensea.io/collection/carparts-1)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/edf43e7ea7f0b410efefd8f00e2cc739.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-22030)</details> |
 
 </div>
