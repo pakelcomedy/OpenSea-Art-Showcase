@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Tatsumi Co Mode...</summary>Tatsumi Co Model SA5</details>** | ![Image](https://i.seadn.io/s/raw/files/e049ef7eeee97f888deda1df84e9de6e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tatsumi Co Model SA5](https://opensea.io/collection/tatsumi-co-model-sa5)</details> |
-| **KROZ** | ![Image](https://i.seadn.io/s/raw/files/07ca2050b837716a1c0da9f4328f8974.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[KROZ](https://opensea.io/collection/kroz-2)</details> |
-| **PLUSHIE PALS** | ![Image](https://i.seadn.io/s/raw/files/d1f43467c6306445eb910fd1b3547b09.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PLUSHIE PALS](https://opensea.io/collection/plushie-pals-4)</details> |
+| **Failing** | ![Image](https://i.seadn.io/s/raw/files/b7d22702248dae03771dae993989088b.jpg?w=500&auto=format?w=200&auto=format) | Resolution fitted reflects | <details><summary>Link</summary>[Failing](https://opensea.io/collection/failing-22)</details> |
+| **<details><summary>Uniswap v4 Posi...</summary>Uniswap v4 Positions NFT</details>** | ![Image](https://raw.seadn.io/files/022c6f9e3e00253e173590b43dcfce0f.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Uniswap v4 Positions NFT](https://opensea.io/collection/uniswap-v4-positions-nft-4)</details> |
 
 </div>
