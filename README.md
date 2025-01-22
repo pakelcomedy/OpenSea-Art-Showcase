@@ -6,10 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Weddings** | ![Image](https://i.seadn.io/s/raw/files/a0f1c9d804499aac79b849a9b14cbee1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Bts
---
-See more by Chukwuebuka...</summary>Bts
---
-See more by Chukwuebuka Nnadozie on Remx at remx.xyz/remixitphotos</details> | <details><summary>Link</summary>[Weddings](https://opensea.io/collection/weddings-11)</details> |
+| **<details><summary>Rich Gentleman ...</summary>Rich Gentleman NFT</details>** | ![Image](https://i.seadn.io/s/raw/files/5a0b2436d3d5be982a9d3e6250d203fa.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rich Gentleman NFT](https://opensea.io/collection/rich-gentleman-nft)</details> |
 
 </div>
