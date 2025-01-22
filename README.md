@@ -6,7 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d2bcde1ca41bdd49ec0fadd238edc57b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-21978)</details> |
-| **sdgsd** | ![Image](https://i.seadn.io/s/raw/files/c21f8f35891ac5cc5f290a65eddc4f1f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sdgsd](https://opensea.io/collection/sdgsd-68)</details> |
+| **Weddings** | ![Image](https://i.seadn.io/s/raw/files/a0f1c9d804499aac79b849a9b14cbee1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Bts
+--
+See more by Chukwuebuka...</summary>Bts
+--
+See more by Chukwuebuka Nnadozie on Remx at remx.xyz/remixitphotos</details> | <details><summary>Link</summary>[Weddings](https://opensea.io/collection/weddings-11)</details> |
 
 </div>
