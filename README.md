@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Make America Gr...</summary>Make America Great Again</details>** | ![Image](https://i.seadn.io/s/raw/files/dce64b31d1eb9b19dfd81ccbaf414527.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Make America Great Again](https://opensea.io/collection/make-america-great-again-37)</details> |
-| **Kinedy** | ![Image](https://i.seadn.io/s/raw/files/7659e8860ad04f4e561e65c66bfa7de6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Kinedy](https://opensea.io/collection/kinedy)</details> |
+| **<details><summary>Year Of The Sna...</summary>Year Of The Snake</details>** | ![Image](https://i.seadn.io/s/raw/files/d269ea41d46d85ebdbfa7206a65534c0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Year Of The Snake](https://opensea.io/collection/year-of-the-snake-2)</details> |
 
 </div>
