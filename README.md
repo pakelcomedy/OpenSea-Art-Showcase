@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Аzuki: Anime co...</summary>Аzuki: Anime coin</details>** | ![Image](https://i.seadn.io/s/raw/files/09cd48fc1e77f758b4bac401ae3433da.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Аzuki: Anime coin](https://opensea.io/collection/azuki-anime-coin-7)</details> |
-| **<details><summary>Аzuki: Anime co...</summary>Аzuki: Anime coin</details>** | ![Image](https://i.seadn.io/s/raw/files/09cd48fc1e77f758b4bac401ae3433da.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Аzuki: Anime coin](https://opensea.io/collection/azuki-anime-coin-6)</details> |
+| **GFJGHKJH** | ![Image](https://i.seadn.io/s/raw/files/6ed57b3afada264deb54e29021817a75.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GFJGHKJH](https://opensea.io/collection/gfjghkjh)</details> |
 
 </div>
