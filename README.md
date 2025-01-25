@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>ChromaStone Col...</summary>ChromaStone Collectibles</details>** | ![Image](https://i.seadn.io/s/raw/files/d24c426140eadb6b1243e2b1aa8f9253.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ChromaStone Collectibles](https://opensea.io/collection/chromastone-collectibles)</details> |
-| **<details><summary>Boris Walks Alo...</summary>Boris Walks Alone - Music</details>** | ![Image](https://i.seadn.io/s/raw/files/52904c9158eb7159b90c2ebfaee93520.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Boris Walks Alone - Music](https://opensea.io/collection/boris-walks-alone-music)</details> |
+| **Reasonable** | ![Image](https://i.seadn.io/s/raw/files/8fd9a822026dfe0bb43d68898e9c9c26.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Reasonable](https://opensea.io/collection/reasonable-17)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/a5413908f88ba44e670efaa34f235c0f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-9699)</details> |
+| **Two** | ![Image](https://i.seadn.io/s/raw/files/f371be2ccead68d51f52d98d98fb357e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Two](https://opensea.io/collection/two-89)</details> |
 
 </div>
