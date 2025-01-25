@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/0a63ca21bb12f612b47c4888eb50a6d5.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-22537)</details> |
-| **Kaitama** | ![Image](https://i.seadn.io/s/raw/files/6718bb7abea44ab243620fa1328a7130.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Kaitama](https://opensea.io/collection/kaitama)</details> |
+| **bone** | ![Image](https://i.seadn.io/s/raw/files/fb7f9c510906e906e8634305fa105ea1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bone](https://opensea.io/collection/bone-49)</details> |
+| **<details><summary>SatoBot Explore...</summary>SatoBot Explorer</details>** | ![Image](https://i.seadn.io/s/raw/files/578c7cc43d587ec43f29a40ef9dbb85e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SatoBot Explorer](https://opensea.io/collection/satobot-explorer)</details> |
 
 </div>
