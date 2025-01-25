@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Bored Turtles 2...</summary>Bored Turtles 2 Studio</details>** | ![Image](https://i.seadn.io/s/raw/files/ee091f07876a9dd5c557953e30715266.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bored Turtles 2 Studio](https://opensea.io/collection/bored-turtles-2-studio)</details> |
-| **WEBLST9** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WEBLST9](https://opensea.io/collection/weblst9-1)</details> |
+| **WEBLST72** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WEBLST72](https://opensea.io/collection/weblst72)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/74f43b7781575057fde9aab04be2ed2f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-4995)</details> |
+| **WEBLST71** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WEBLST71](https://opensea.io/collection/weblst71)</details> |
 
 </div>
