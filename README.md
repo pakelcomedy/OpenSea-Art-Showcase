@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Walnut** | ![Image](https://i.seadn.io/s/raw/files/5eeccb33f6b2a89e8bbe3909903d2ab0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Walnut](https://opensea.io/collection/walnut-11)</details> |
+| **<details><summary>Administration ...</summary>Administration Reload</details>** | ![Image](https://i.seadn.io/s/raw/files/71d4a2552f12dc8852a8c8d555743d04.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Administration Reload](https://opensea.io/collection/administration-reload)</details> |
+| **<details><summary>Ronald Professi...</summary>Ronald Professional</details>** | ![Image](https://i.seadn.io/s/raw/files/3f4b165b85808e94e0f744d14ca27e71.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ronald Professional](https://opensea.io/collection/ronald-professional)</details> |
 
 </div>
