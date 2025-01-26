@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **thgcd** | ![Image](https://i.seadn.io/s/raw/files/97eea84593225f792310ef3d4fa9f976.jpg?w=500&auto=format?w=200&auto=format) | It's cute. | <details><summary>Link</summary>[thgcd](https://opensea.io/collection/thgcd)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/2860636d9a87b53d64341423875d68d0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-22927)</details> |
+| **<details><summary>AB Legendary- 2...</summary>AB Legendary- 265</details>** | ![Image](https://i.seadn.io/s/raw/files/34e7b94cdf2c7581c0bc05ef015fea8a.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB Legendary- 265](https://opensea.io/collection/ab-legendary-265-3)</details> |
 
 </div>
