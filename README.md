@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Circle Pass** | ![Image](https://i.seadn.io/s/raw/files/887e6d6204812e69e6268f5340df9c47.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Circle Pass](https://opensea.io/collection/the-circle-pass-9)</details> |
-| **CloudSkies** | ![Image](https://i.seadn.io/s/raw/files/dae0e4217c01e15b4c542a9f6f5401dc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CloudSkies](https://opensea.io/collection/cloudskies-1)</details> |
+| **Enlightenment** | ![Image](https://i.seadn.io/s/raw/files/f9ed25b70e8a3dd294b85015de4efc38.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Enlightenment](https://opensea.io/collection/enlightenment-20)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/e9c8a135d9313504ade7ab416346428c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-22980)</details> |
 
 </div>
