@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **sdgsd** | ![Image](https://i.seadn.io/s/raw/files/c21f8f35891ac5cc5f290a65eddc4f1f.png?w=500&auto=format?w=200&auto=format) | Happy New Year | <details><summary>Link</summary>[sdgsd](https://opensea.io/collection/sdgsd-69)</details> |
+| **<details><summary>the creation of...</summary>the creation of adam</details>** | ![Image](https://i.seadn.io/s/raw/files/477d3f774b7e6d5b3ee0804f1962f646.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[the creation of adam](https://opensea.io/collection/the-creation-of-adam-8)</details> |
+| **jakara3707** | ![Image](https://i.seadn.io/s/raw/files/06ccde7b4a9d7b8f6633da4497c719c9.png?w=500&auto=format?w=200&auto=format) | <details><summary>Central South coastal quality ...</summary>Central South coastal quality control right</details> | <details><summary>Link</summary>[jakara3707](https://opensea.io/collection/jakara3707-2)</details> |
 
 </div>
