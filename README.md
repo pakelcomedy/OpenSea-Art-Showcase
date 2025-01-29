@@ -6,12 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BlackRED** | ![Image](https://i.seadn.io/s/raw/files/b60a0d3e8c2d6047d019b2fa4c3409a4.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>BlackRED
+| **<details><summary>far.cards - mar...</summary>far.cards - maryry</details>** | ![Image](https://i.seadn.io/s/raw/files/8a521bf0f4327a58a3998acb12b0976b.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - maryry (ytYkbWZ5vk...</summary>far.cards - maryry (ytYkbWZ5vkDPIgws1QxReg==) is a Bonding Curved ERC-1155 token created on mint.club.
 
-Made with [NFTs2Me.c...</summary>BlackRED
+Backed by Wrapped Ether (WETH) on Base chain.
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[BlackRED](https://opensea.io/collection/blackred-4)</details> |
-| **test eth** | ![Image](https://i.seadn.io/s/raw/files/5cf0e0307d4303f459b5fbbbce3105bf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[test eth](https://opensea.io/collection/test-eth-5)</details> |
-| **Teapot** | ![Image](https://i.seadn.io/s/raw/files/d2798b58fdc1817b2826133f6162e0a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Teapot](https://opensea.io/collection/teapot-17)</details> |
+https://mint.club/nft/base/ytYkbWZ5vkDPIgws1QxReg%3D%3D</details> | <details><summary>Link</summary>[far.cards - maryry](https://opensea.io/collection/far-cards-maryry)</details> |
 
 </div>
