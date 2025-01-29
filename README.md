@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Goobers NFTs** | ![Image](https://i.seadn.io/s/raw/files/299516740502b773eeda8a95b8bd6ecc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Goobers NFTs](https://opensea.io/collection/goobers-nfts)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/f10bfaa22af10beefd31afa226cc955b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-23316)</details> |
 
 </div>
