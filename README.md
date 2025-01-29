@@ -6,10 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>far.cards - mar...</summary>far.cards - maryry</details>** | ![Image](https://i.seadn.io/s/raw/files/8a521bf0f4327a58a3998acb12b0976b.png?w=500&auto=format?w=200&auto=format) | <details><summary>far.cards - maryry (ytYkbWZ5vk...</summary>far.cards - maryry (ytYkbWZ5vkDPIgws1QxReg==) is a Bonding Curved ERC-1155 token created on mint.club.
-
-Backed by Wrapped Ether (WETH) on Base chain.
-
-https://mint.club/nft/base/ytYkbWZ5vkDPIgws1QxReg%3D%3D</details> | <details><summary>Link</summary>[far.cards - maryry](https://opensea.io/collection/far-cards-maryry)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/8a685ad426fc3a8b2cb4757f0a22b8c3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-23354)</details> |
+| **RYDES** | ![Image](https://i.seadn.io/s/raw/files/b126181cde9afba1cedaa576834e0fed.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RYDES](https://opensea.io/collection/rydes-5)</details> |
 
 </div>
