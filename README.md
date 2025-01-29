@@ -6,13 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Barcaccia** | ![Image](https://i.seadn.io/s/raw/files/6382054da154e2be82cdfa522013710e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Barcaccia](https://opensea.io/collection/barcaccia)</details> |
-| **The Aniomes** | ![Image](https://i.seadn.io/s/raw/files/6c0cca97751297c03dfa4b9da99c9797.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Aniomes](https://opensea.io/collection/the-aniomes-1)</details> |
-| **ali** | ![Image](https://i.seadn.io/s/raw/files/71489602c209e1c75a220fd45f9d62b1.webp?w=500&auto=format?w=200&auto=format) | <details><summary>ali
-
-Made with [NFTs2Me.com](h...</summary>ali
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[ali](https://opensea.io/collection/ali-117)</details> |
-| **CoCo** | ![Image](https://i.seadn.io/s/raw/files/1f776a290421877591a3d633736582d4.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CoCo](https://opensea.io/collection/coco-163)</details> |
+| **<details><summary>Nodle Live Vide...</summary>Nodle Live Video Update and January Recap</details>** | ![Image](https://i.seadn.io/s/raw/files/d121400992494856c5fcfd99c8ae6a3b.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0x0479b2...</summary>https://mirror.xyz/10/0x0479b29ba76fca582a5a21d5306598675c18a7d4</details> | <details><summary>Link</summary>[Nodle Live Video Update and January Recap](https://opensea.io/collection/nodle-live-video-update-and-january-recap)</details> |
+| **<details><summary>fashionfemalegr...</summary>fashionfemalegrilape</details>** | ![Image](https://i.seadn.io/s/raw/files/42e908191e168045ce4cc73029bac8d6.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fashionfemalegrilape](https://opensea.io/collection/fashionfemalegrilape-1)</details> |
 
 </div>
