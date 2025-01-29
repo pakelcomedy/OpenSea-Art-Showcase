@@ -6,10 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>How Yearn got C...</summary>How Yearn got Cow Swap solvers to fill our Dutch Auctions without them knowing</details>** | ![Image](https://i.seadn.io/s/raw/files/f0efdbcff1f61d437d4e865827dfc374.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0xeb621d...</summary>https://mirror.xyz/10/0xeb621df0c96ec78709b37f6c3d68608cd8047fa9</details> | <details><summary>Link</summary>[How Yearn got Cow Swap solvers to fill our Dutch Auctions without them knowing](https://opensea.io/collection/how-yearn-got-cow-swap-solvers-to-fill-our-dutch-a)</details> |
-| **Beanz** | ![Image](https://i.seadn.io/s/raw/files/5a9a56a0b2fe81cd69fbc961850775f5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Beanz](https://opensea.io/collection/beanz-37)</details> |
-| **ANECHOIC** | ![Image](https://i.seadn.io/s/raw/files/1d854f20e2a23b962a12e6dac0b306b0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>“Being is a sound that hits th...</summary>“Being is a sound that hits the walls. But what happens when the walls collapse? The sound dissolves in the void, no echo. Then you realize - maybe you never existed.”
---
-See more by MersinaNFT on Remx at remx.xyz/mersinanft</details> | <details><summary>Link</summary>[ANECHOIC](https://opensea.io/collection/anechoic)</details> |
+| **Rare Guardians** | ![Image](https://i.seadn.io/s/raw/files/0b51a5fc333eeb574a9314c024153ffc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rare Guardians](https://opensea.io/collection/rare-guardians)</details> |
+| **<details><summary>Visions by Legi...</summary>Visions by Legionaut x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/981f668048d8a7308c6843985bf26539.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user Legionaut as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/Legionaut/).
+
+Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
+
+[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
+
+[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Visions by Legionaut x Reddit Collectible Avatars](https://opensea.io/collection/visions-by-legionaut-x-reddit-collectible-avatars)</details> |
+| **caldvs** | ![Image](https://i.seadn.io/s/raw/files/295910d38dbdbbfa613c7b1b526ce57a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[caldvs](https://opensea.io/collection/caldvs)</details> |
 
 </div>
