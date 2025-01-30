@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Instances of Li...</summary>Instances of Life</details>** | ![Image](https://i.seadn.io/s/raw/files/c218372e6a756b85903822e5d960f51e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Instances of Life](https://opensea.io/collection/instances-of-life)</details> |
-| **<details><summary>A7A5 Digital Bi...</summary>A7A5 Digital Bill</details>** | ![Image](https://i.seadn.io/s/raw/files/ad403315f3a2378662ff306be1e84b5e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[A7A5 Digital Bill](https://opensea.io/collection/a7a5-digital-bill-1)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/66b634dab265e8a2427f2150d8228714.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-23575)</details> |
+| **<details><summary>Artistic daily ...</summary>Artistic daily life</details>** | ![Image](https://i.seadn.io/s/raw/files/f86da0477d644772eabd6510507f3cc7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Artistic daily life](https://opensea.io/collection/artistic-daily-life)</details> |
 
 </div>
