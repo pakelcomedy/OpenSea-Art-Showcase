@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Year-End Shoppi...</summary>Year-End Shopping- R.Kamano Digital Atelier</details>** | ![Image](https://i.seadn.io/s/raw/files/77a5721ecf9261373512cc4cb76ffff7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Collection of small works crea...</summary>Collection of small works created by artist Reiko Kamano in the course of her creative activities.
-A portion of the proceeds will be donated to charity.</details> | <details><summary>Link</summary>[Year-End Shopping- R.Kamano Digital Atelier](https://opensea.io/collection/year-end-shopping-r-kamano-digital-atelier)</details> |
+| **Ocean Queen** | ![Image](https://i.seadn.io/s/raw/files/792a588ee8864a18441ee223e80c19ca.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ocean Queen](https://opensea.io/collection/ocean-queen-1)</details> |
+| **Broken Idols** | ![Image](https://i.seadn.io/s/raw/files/45ba8605cbb2619040a83386fb571afb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Broken Idols](https://opensea.io/collection/broken-idols)</details> |
+| **Mitosis Pebbles** | ![Image](https://i.seadn.io/s/raw/files/10431ffa5b8f5ddaba91fb565cb028f3.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mitosis Pebbles](https://opensea.io/collection/mitosis-pebbles)</details> |
 
 </div>
