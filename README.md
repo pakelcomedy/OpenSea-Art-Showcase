@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FarmCrypt Seeds** | ![Image](https://i.seadn.io/s/raw/files/fb9015222f81097571269b19311412ef.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FarmCrypt Seeds](https://opensea.io/collection/farmcrypt-seeds-36)</details> |
+| **Hom Look You** | ![Image](https://i.seadn.io/s/raw/files/b8445969bce6593bf0862fd33c7aa02c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hom Look You](https://opensea.io/collection/hom-look-you)</details> |
 
 </div>
