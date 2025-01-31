@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/af07b13e0f83689d07b77947b204b2f2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-23936)</details> |
+| **<details><summary>Year-End Shoppi...</summary>Year-End Shopping- R.Kamano Digital Atelier</details>** | ![Image](https://i.seadn.io/s/raw/files/77a5721ecf9261373512cc4cb76ffff7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Collection of small works crea...</summary>Collection of small works created by artist Reiko Kamano in the course of her creative activities.
+A portion of the proceeds will be donated to charity.</details> | <details><summary>Link</summary>[Year-End Shopping- R.Kamano Digital Atelier](https://opensea.io/collection/year-end-shopping-r-kamano-digital-atelier)</details> |
 
 </div>
