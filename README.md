@@ -6,10 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Concrete x Morp...</summary>Concrete x Morph: The Gateway to DeFi</details>** | ![Image](https://i.seadn.io/s/raw/files/dbf1df5233b9390875bd884912cfad35.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/8453/0x405a...</summary>https://mirror.xyz/8453/0x405a2e244f1f93c9472973103803491f0f35ca71</details> | <details><summary>Link</summary>[Concrete x Morph: The Gateway to DeFi](https://opensea.io/collection/concrete-x-morph-the-gateway-to-defi)</details> |
-| **Weekly- 01** | ![Image](https://i.seadn.io/s/raw/files/4fa9432b4e3e3866ab3ca394357f3c46.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Weekly- 01](https://opensea.io/collection/weekly-01)</details> |
-| **dGEN1** | ![Image](https://i.seadn.io/s/raw/files/e37acdb0fb09b440df55068dbe20a452.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dGEN1](https://opensea.io/collection/dgen1-23)</details> |
-| **Weekly- 654** | ![Image](https://i.seadn.io/s/raw/files/4fa9432b4e3e3866ab3ca394357f3c46.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Weekly- 654](https://opensea.io/collection/weekly-654-5)</details> |
-| **<details><summary>Animals in drea...</summary>Animals in dreams</details>** | ![Image](https://i.seadn.io/s/raw/files/e4ee5470cc8e09eecb8ad87ff6949d1c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Animals in dreams](https://opensea.io/collection/animals-in-dreams-19)</details> |
+| **<details><summary>Alexandra by Aw...</summary>Alexandra by AwkwardThief x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/cb7575099a388da23fa096d95a60f385.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user AwkwardThief as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/DueCommunication3509/).
+
+Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
+
+[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
+
+[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Alexandra by AwkwardThief x Reddit Collectible Avatars](https://opensea.io/collection/alexandra-by-awkwardthief-x-reddit-collectible-ava)</details> |
+| **XXX** | ![Image](https://i.seadn.io/s/raw/files/8d87cc5619ea5229344da6ee67fe74d1.jpg?w=500&auto=format?w=200&auto=format) | Just a podcast | <details><summary>Link</summary>[XXX](https://opensea.io/collection/xxx-338)</details> |
 
 </div>
