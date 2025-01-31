@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 10647</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 10647](https://opensea.io/collection/open-ticketing-ecosystem-event-10647)</details> |
-| **<details><summary>Open Ticketing ...</summary>Open Ticketing Ecosystem Event 10648</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Open Ticketing Ecosystem Event 10648](https://opensea.io/collection/open-ticketing-ecosystem-event-10648)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/af07b13e0f83689d07b77947b204b2f2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-23936)</details> |
 
 </div>
