@@ -6,6 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **testplo** | ![Image](https://i.seadn.io/s/raw/files/5507c16326ea9aaf55826442e5a48f0d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[testplo](https://opensea.io/collection/testplo-1)</details> |
+| **Snake year** | ![Image](https://i.seadn.io/s/raw/files/7c6cf36efd1c26f195a822dd880894b7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Exploring grok
+--
+See more by ...</summary>Exploring grok
+--
+See more by Chukwuebuka Nnadozie on Remx at remx.xyz/remixitphotos</details> | <details><summary>Link</summary>[Snake year](https://opensea.io/collection/snake-year-1)</details> |
 
 </div>
