@@ -6,7 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>DrevuraD NFT Co...</summary>DrevuraD NFT Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/76853239a8c47a049d91be6a2b442423.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DrevuraD NFT Collection](https://opensea.io/collection/drevurad-nft-collection-1)</details> |
-| **Ssnsnsnsnsnn** | ![Image](https://i.seadn.io/s/raw/files/cf0380e68e3b4cb68bb172fc9eaefbbf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ssnsnsnsnsnn](https://opensea.io/collection/ssnsnsnsnsnn)</details> |
+| **Alone Again** | ![Image](https://i.seadn.io/s/raw/files/67a382846ee9db05438d6b07387a04d1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>mountain, climber, heights,
+--...</summary>mountain, climber, heights,
+--
+See more by Kriis Ace on Remx at remx.xyz/kriis-ace</details> | <details><summary>Link</summary>[Alone Again](https://opensea.io/collection/alone-again-3)</details> |
+| **paint Ayra** | ![Image](https://i.seadn.io/s/raw/files/476979a38bd48d9f1569f6f60de79384.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[paint Ayra](https://opensea.io/collection/paint-ayra)</details> |
 
 </div>
