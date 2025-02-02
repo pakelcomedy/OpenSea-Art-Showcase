@@ -6,6 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>da vinic in a r...</summary>da vinic in a room BY William Manier IV</details>** | ![Image](https://i.seadn.io/s/raw/files/55a518521b579c5975cfce6561887153.png?w=500&auto=format?w=200&auto=format) | whats a penny  | <details><summary>Link</summary>[da vinic in a room BY William Manier IV](https://opensea.io/collection/da-vinic-in-a-room-by-william-manier-iv)</details> |
+| **pp57** | ![Image](https://i.seadn.io/s/raw/files/1a30b2521380ee4dec71a7c059d37ee7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pp57](https://opensea.io/collection/pp57)</details> |
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/ff67a767c4f5cb1e5b6a6401ff4dd0a6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-5040)</details> |
+| **Sua Teo** | ![Image](https://i.seadn.io/s/raw/files/14fa006737810169fda7b519257f03db.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sua Teo](https://opensea.io/collection/sua-teo)</details> |
 
 </div>
