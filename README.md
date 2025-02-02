@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/62b40833a77e3bfeaa0908b20d747aa9.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-24231)</details> |
+| **<details><summary>da vinic in a r...</summary>da vinic in a room BY William Manier IV</details>** | ![Image](https://i.seadn.io/s/raw/files/55a518521b579c5975cfce6561887153.png?w=500&auto=format?w=200&auto=format) | whats a penny  | <details><summary>Link</summary>[da vinic in a room BY William Manier IV](https://opensea.io/collection/da-vinic-in-a-room-by-william-manier-iv)</details> |
 
 </div>
