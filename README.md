@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Pangolin V3 Pos...</summary>Pangolin V3 Positions NFT</details>** | ![Image](https://raw.seadn.io/files/9e6c5d2cd8581d4f97312cc0317f1583.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Pangolin V3 Positions NFT](https://opensea.io/collection/pangolin-v3-positions-nft-1)</details> |
-| **Exclusive-#654** | ![Image](https://i.seadn.io/s/raw/files/ae4b38666766207fbaa647a55653839b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Exclusive-#654](https://opensea.io/collection/exclusive-654-46)</details> |
+| **<details><summary>Royal NFT Empir...</summary>Royal NFT Empire</details>** | ![Image](https://i.seadn.io/s/raw/files/b19f57cd99b24c25e194b55f7d66ce65.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Royal NFT Empire](https://opensea.io/collection/royal-nft-empire)</details> |
+| **Exclusive-#987** | ![Image](https://i.seadn.io/s/raw/files/ae4b38666766207fbaa647a55653839b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Exclusive-#987](https://opensea.io/collection/exclusive-987-49)</details> |
 
 </div>
