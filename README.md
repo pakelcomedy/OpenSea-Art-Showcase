@@ -6,12 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **threeninenine** | ![Image](https://i.seadn.io/s/raw/files/67f5b0db4a70f87aef22789d748732d5.webp?w=500&auto=format?w=200&auto=format) | <details><summary>threeninenine 399
-
-Made with [...</summary>threeninenine 399
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[threeninenine](https://opensea.io/collection/threeninenine)</details> |
-| **Known** | ![Image](https://i.seadn.io/s/raw/files/a4d0efefe5f4377a34fc1ca4f8686655.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Initiatives exploring purchase...</summary>Initiatives exploring purchased gzip saved surfaces</details> | <details><summary>Link</summary>[Known](https://opensea.io/collection/known-20)</details> |
-| **Art** | ![Image](https://i.seadn.io/s/raw/files/4de4dd906b90284289c0c6a604248e63.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Art](https://opensea.io/collection/art-2183)</details> |
+| **<details><summary>Digital Scribbl...</summary>Digital Scribble</details>** | ![Image](https://i.seadn.io/s/raw/files/7bf530e0dcbb0379847db55d662fa742.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Digital Scribble Art
+--
+See mo...</summary>Digital Scribble Art
+--
+See more by ADÉ 🎨 on Remx at remx.xyz/ade</details> | <details><summary>Link</summary>[Digital Scribble](https://opensea.io/collection/digital-scribble-1)</details> |
+| **<details><summary>CyberSpiritGuar...</summary>CyberSpiritGuardians</details>** | ![Image](https://i.seadn.io/s/raw/files/d3dda57965fec6a13d30b5fc6d98669e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CyberSpiritGuardians](https://opensea.io/collection/cyberspiritguardians-1)</details> |
 
 </div>
