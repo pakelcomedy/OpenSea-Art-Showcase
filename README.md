@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Y2FACTORY DAO A...</summary>Y2FACTORY DAO AL FM</details>** | ![Image](https://i.seadn.io/s/raw/files/961ef4a65f4599abb0d820bcbac50b0b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Y2FACTORY DAO AL FM](https://opensea.io/collection/y2factory-dao-al-fm)</details> |
-| **Noob's** | ![Image](https://i.seadn.io/s/raw/files/83363caee4bd8cafaa7e8b5b3835db06.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Noob's](https://opensea.io/collection/noob-s-1)</details> |
+| **XBLST14** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XBLST14](https://opensea.io/collection/xblst14-2)</details> |
+| **XBLST13** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XBLST13](https://opensea.io/collection/xblst13-2)</details> |
+| **XBLST12** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[XBLST12](https://opensea.io/collection/xblst12-2)</details> |
 
 </div>
