@@ -6,15 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Floral Graffiti** | ![Image](https://i.seadn.io/s/raw/files/a83823e59daacf5da9c9b3e394200315.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Tag! You’re it!
---
-See more by...</summary>Tag! You’re it!
---
-See more by Elfearsfoxsox on Remx at remx.xyz/elfearsfoxsox</details> | <details><summary>Link</summary>[Floral Graffiti](https://opensea.io/collection/floral-graffiti)</details> |
-| **TESTEBASE** | ![Image](https://i.seadn.io/s/raw/files/5ffc89d7075b69de72b8c30e7463e138.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>BJKHKJHKJHKJHKJHKJH
-
-Made with...</summary>BJKHKJHKJHKJHKJHKJH
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[TESTEBASE](https://opensea.io/collection/testebase-1)</details> |
+| **RSN8 #1** | ![Image](https://i.seadn.io/s/raw/files/ace8f9dde83531ad5b1f38ed2597818a.png?w=500&auto=format?w=200&auto=format) | <details><summary>Token holders get to vote on m...</summary>Token holders get to vote on musician's who apply for free audio work</details> | <details><summary>Link</summary>[RSN8 #1](https://opensea.io/collection/rsn8-1)</details> |
+| **<details><summary>great collectio...</summary>great collection</details>** | ![Image](https://i.seadn.io/s/raw/files/29b477bb146083ffc8f3a0c09e9ed1f1.png?w=500&auto=format?w=200&auto=format) | wow a great collection | <details><summary>Link</summary>[great collection](https://opensea.io/collection/great-collection-25)</details> |
+| **Exclusive-#654** | ![Image](https://i.seadn.io/s/raw/files/ae4b38666766207fbaa647a55653839b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Exclusive-#654](https://opensea.io/collection/exclusive-654-66)</details> |
+| **<details><summary>Arte 5.0 Digita...</summary>Arte 5.0 Digital</details>** | ![Image](https://i.seadn.io/s/raw/files/19d7c3171d94754c8d9813af7db69e5c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Arte 5.0 Digital](https://opensea.io/collection/arte-5-0-digital)</details> |
 
 </div>
