@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Bird and pomegr...</summary>Bird and pomegranate /WIP</details>** | ![Image](https://i.seadn.io/s/raw/files/9eb5582a29603576fdc915b545a32b70.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>I painted this piece with wate...</summary>I painted this piece with watercolor on cardboard …The Bird’s Joy and the Red Pomegranates
---
-See more by MinooArt  on Remx at remx.xyz/minooart</details> | <details><summary>Link</summary>[Bird and pomegranate /WIP](https://opensea.io/collection/bird-and-pomegranate-wip)</details> |
+| **Fruit Friends** | ![Image](https://i.seadn.io/s/raw/files/1e90817447032e35774b458fd382eaba.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fruit Friends](https://opensea.io/collection/fruit-friends-1)</details> |
+| **<details><summary>DINTEC Consorzi...</summary>DINTEC Consorzio per l'innovazione tecnologica</details>** | ![Image](https://i.seadn.io/s/raw/files/80f44253e940baf3b45527b0ceb09c3a.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Dintec opera per promuovere e ...</summary>Dintec opera per promuovere e sostenere la trasformazione digitale, l’innovazione tecnologica e organizzativa del sistema produttivo e l’assistenza alle imprese nella transizione sostenibile: ambientale, sociale e di governance. </details> | <details><summary>Link</summary>[DINTEC Consorzio per l'innovazione tecnologica](https://opensea.io/collection/dintec-consorzio-per-l-innovazione-tecnologica)</details> |
 
 </div>
