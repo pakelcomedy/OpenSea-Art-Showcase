@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Skirts** | ![Image](https://i.seadn.io/s/raw/files/e922a7af41e10a9dd9fcf31df35eaf13.jpg?w=500&auto=format?w=200&auto=format) | App istanbul net inserted | <details><summary>Link</summary>[Skirts](https://opensea.io/collection/skirts-14)</details> |
-| **<details><summary>valentine featu...</summary>valentine featuring pen and pencil</details>** | ![Image](https://i.seadn.io/s/raw/files/249c47d7195ea268737b9495f0a6084a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[valentine featuring pen and pencil](https://opensea.io/collection/valentine-featuring-pen-and-pencil)</details> |
+| **Beraborrow test** | ![Image](https://i.seadn.io/s/raw/files/368790077a233d4232e9bd68537bf91f.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Beraborrow test](https://opensea.io/collection/beraborrow-test-1)</details> |
 
 </div>
