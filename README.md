@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Beraborrow test** | ![Image](https://i.seadn.io/s/raw/files/368790077a233d4232e9bd68537bf91f.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Beraborrow test](https://opensea.io/collection/beraborrow-test-1)</details> |
+| **Between Worlds** | ![Image](https://i.seadn.io/s/raw/files/b1c5731abde594ef5aeeadd1ba576588.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Between Worlds](https://opensea.io/collection/between-worlds-5)</details> |
+| **Web3 - Paid one** | ![Image](https://raw.seadn.io/files/94e768225a231e23a85d38cad196215d.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Web3 - Paid one](https://opensea.io/collection/web3-paid-one)</details> |
 
 </div>
