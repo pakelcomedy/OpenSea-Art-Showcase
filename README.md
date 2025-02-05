@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Neon Mutants** | ![Image](https://i.seadn.io/s/raw/files/a228d2463c8ef9bde494fe511ed241f2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Neon Mutants](https://opensea.io/collection/neon-mutants)</details> |
+| **<details><summary>Sharon Percepti...</summary>Sharon Perception</details>** | ![Image](https://i.seadn.io/s/raw/files/98c8803f834cabcff6e07e9950200100.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sharon Perception](https://opensea.io/collection/sharon-perception)</details> |
 
 </div>
