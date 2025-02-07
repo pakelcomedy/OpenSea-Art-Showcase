@@ -6,11 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Oudini** | ![Image](https://i.seadn.io/s/raw/files/25a6b37d3ba423e99f0f32073af0b8c6.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Oudini orb
+| **3DBonsaiPain** | ![Image](https://i.seadn.io/s/raw/files/eb7238b0bb6b679d00b0eaee1693e805.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[3DBonsaiPain](https://opensea.io/collection/3dbonsaipain)</details> |
+| **<details><summary>Dark Ethereum S...</summary>Dark Ethereum Sovereigns</details>** | ![Image](https://i.seadn.io/s/raw/files/348293ea413f22a6a18d636d098b64ce.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dark Ethereum Sovereigns](https://opensea.io/collection/dark-ethereum-sovereigns)</details> |
+| **<details><summary>S&P PARTNER RAT...</summary>S&P PARTNER RATING SYSTEM</details>** | ![Image](https://i.seadn.io/s/raw/files/ae203418c0f9fe4c8307dc339298de8e.webp?w=500&auto=format?w=200&auto=format) | <details><summary>S&P PARTNER RATING SYSTEM
 
-Made with [NFTs2Me...</summary>Oudini orb
+Rea...</summary>S&P PARTNER RATING SYSTEM
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Oudini](https://opensea.io/collection/oudini-2)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/ef992c73f249462413a2351516763aa8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-10532)</details> |
+Read the full post on Paragraph: https://paragraph.xyz/@standardandpaws/syp-partner-rating-system</details> | <details><summary>Link</summary>[S&P PARTNER RATING SYSTEM](https://opensea.io/collection/s-p-partner-rating-system)</details> |
+| **Illusions** | ![Image](https://i.seadn.io/s/raw/files/2d22f35dae7be519ac3e4e3f0363de04.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Illusions](https://opensea.io/collection/illusions-36)</details> |
 
 </div>
