@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Lonely** | ![Image](https://i.seadn.io/s/raw/files/4e205db4f43ec59dc14d035d05c75770.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lonely](https://opensea.io/collection/lonely-88)</details> |
-| **CatInTest** | ![Image](https://i.seadn.io/s/raw/files/f7ea63816a2d6c4d1422d3e24645603c.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CatInTest](https://opensea.io/collection/catintest)</details> |
-| **<details><summary>San Holo - We R...</summary>San Holo - We Rise</details>** | ![Image](https://i.seadn.io/s/raw/files/6c72831446c66671cdac24add83a601d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Created by San Holo on Sound. ...</summary>Created by San Holo on Sound. Leave a comment on the song at https://www.sound.xyz/sanholobeats/we-rise</details> | <details><summary>Link</summary>[San Holo - We Rise](https://opensea.io/collection/san-holo-we-rise)</details> |
+| **Glitch** | ![Image](https://i.seadn.io/s/raw/files/10d6c98d75a77aa0a2af669cec7da5f7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>some fragments of my works
+1/1...</summary>some fragments of my works
+1/1
+--
+See more by Oleg Ivlev on Remx at remx.xyz/oleg-ivlev</details> | <details><summary>Link</summary>[Glitch](https://opensea.io/collection/glitch-68)</details> |
 
 </div>
