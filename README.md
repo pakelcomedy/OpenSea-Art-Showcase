@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **國泰會員卡-票券-2** | ![Image](https://i.seadn.io/s/raw/files/3b8b842518a0ffa837095a22590cc795.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[國泰會員卡-票券-2](https://opensea.io/collection/guo-tai-hui-yuan-qia-piao-quan-2)</details> |
-| **國泰會員卡-票券-1** | ![Image](https://i.seadn.io/s/raw/files/d6c073e469f925f334b26b909c38712b.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[國泰會員卡-票券-1](https://opensea.io/collection/guo-tai-hui-yuan-qia-piao-quan-1)</details> |
-| **<details><summary>Les Rallizes De...</summary>Les Rallizes Denudes - 2004 - Studio and Soundboard 10xCDr</details>** | ![Image](https://i.seadn.io/s/raw/files/656290a83f459d374565c844de40f607.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>PRIVATE RELEASE .00008
-https:/...</summary>PRIVATE RELEASE .00008
-https://www.mediafire.com/file/s0tkpbuxj9424wq/LRD+-+2004+-+SaS10xCDr.rar</details> | <details><summary>Link</summary>[Les Rallizes Denudes - 2004 - Studio and Soundboard 10xCDr](https://opensea.io/collection/les-rallizes-denudes-2004-studio-and-soundboard-10)</details> |
+| **#00177** | ![Image](https://i.seadn.io/s/raw/files/e4cb14fdba362c9637f23719ff9026fa.png?w=500&auto=format?w=200&auto=format) | <details><summary>Colorful painting in cubism st...</summary>Colorful painting in cubism style
+--
+See more by Fakhr on Remx at remx.xyz/fakhr</details> | <details><summary>Link</summary>[#00177](https://opensea.io/collection/00177-2)</details> |
+| **<details><summary>Y2FACTORY ART C...</summary>Y2FACTORY ART Collection  （S）</details>** | ![Image](https://i.seadn.io/s/raw/files/366e581302918d190166ad6a428b5d25.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Y2FACTORY ART Collection  （S）](https://opensea.io/collection/y2factory-art-collection-s)</details> |
 
 </div>
