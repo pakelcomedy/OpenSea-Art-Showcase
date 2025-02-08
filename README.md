@@ -6,10 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>MUTANT BERA CAT...</summary>MUTANT BERA CATS</details>** | ![Image](https://i.seadn.io/s/raw/files/948e4e2eccdafa518875782aa0140d2c.webp?w=500&auto=format?w=200&auto=format) | <details><summary>MUTANT BERA CATS
-
-Made with [N...</summary>MUTANT BERA CATS
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[MUTANT BERA CATS](https://opensea.io/collection/mutant-bera-cats)</details> |
+| **Cioppycoin** | ![Image](https://i.seadn.io/s/raw/files/e477f7ea9b3107e89fe2bb7e50ec46fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cioppycoin](https://opensea.io/collection/cioppycoin)</details> |
+| **<details><summary>The First Avata...</summary>The First Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/45cb32671532c47ce43a0ebce2985610.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The First Avatars](https://opensea.io/collection/the-first-avatars-1)</details> |
 
 </div>
