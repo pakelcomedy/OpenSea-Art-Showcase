@@ -6,13 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Woman in Red** | ![Image](https://i.seadn.io/s/raw/files/63dbccdd34c0720218d4a654f58b429b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>WiR
---
-See more by TeBits on R...</summary>WiR
---
-See more by TeBits on Remx at remx.xyz/tebits</details> | <details><summary>Link</summary>[Woman in Red](https://opensea.io/collection/woman-in-red-11)</details> |
-| **A Jeepney Ride** | ![Image](https://i.seadn.io/s/raw/files/0929ff052329218db363898865317a66.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>I took this moment while in th...</summary>I took this moment while in the passenger seat at Tagaytay, Philippines—a fully-loaded scene inside a jeepney.
---
-See more by Kevin Icabales on Remx at remx.xyz/kevin-icabales</details> | <details><summary>Link</summary>[A Jeepney Ride](https://opensea.io/collection/a-jeepney-ride)</details> |
+| **<details><summary>Little Veil by ...</summary>Little Veil by Panyasan 🍀 x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/29c832830654d479e4b678d85ffac2f2.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user Panyasan 🍀 as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/Panstickygang/).
+
+Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
+
+[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
+
+[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Little Veil by Panyasan 🍀 x Reddit Collectible Avatars](https://opensea.io/collection/little-veil-by-panyasan-x-reddit-collectible-avata)</details> |
 
 </div>
