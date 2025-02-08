@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Cioppycoin** | ![Image](https://i.seadn.io/s/raw/files/e477f7ea9b3107e89fe2bb7e50ec46fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cioppycoin](https://opensea.io/collection/cioppycoin)</details> |
-| **<details><summary>The First Avata...</summary>The First Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/45cb32671532c47ce43a0ebce2985610.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The First Avatars](https://opensea.io/collection/the-first-avatars-1)</details> |
+| **<details><summary>Delay Reasonabl...</summary>Delay Reasonably</details>** | ![Image](https://i.seadn.io/s/raw/files/98c024d3c9fac01adeb8a69d1921e544.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Delay Reasonably](https://opensea.io/collection/delay-reasonably)</details> |
+| **huhu** | ![Image](https://i.seadn.io/s/raw/files/731e96034bd49a6ab326bb75ac6791cb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[huhu](https://opensea.io/collection/huhu-40)</details> |
+| **<details><summary>Castrum NFT Col...</summary>Castrum NFT Collection v.1.0</details>** | ![Image](https://i.seadn.io/s/raw/files/9878f27604c72c02d24c76f6051443fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Castrum NFT Collection v.1.0](https://opensea.io/collection/castrum-nft-collection-v-1-0-210)</details> |
 
 </div>
