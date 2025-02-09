@@ -6,12 +6,194 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **pwimates** | ![Image](https://i.seadn.io/s/raw/files/7c6fe1dda2868f46a87cf6113b829514.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Hoomans and Chimkens are havin...</summary>Hoomans and Chimkens are having a field trip on the Ape Chain and have met our Pwimate fwens! A collection of 3,000 Pwimates living as degenerates on ape chain, flipping for 1 dollar profits and front running their dev fwens. The 3rd chapter of the chimkens universe, AI-generated and curated by Henlo just to feel something hooman. Still cute, still degenerative, and still losing on genny wealth.
+| **Mutant Jimmy** | ![Image](https://i.seadn.io/s/raw/files/fd8dad17db007252da3ce5ec985e5842.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mutant Jimmy](https://opensea.io/collection/mutant-jimmy-3)</details> |
+| **Desi Satoshi** | ![Image](https://i.seadn.io/s/raw/files/f8305c2009e6ccb520d412fe380843b7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Desi Satoshi](https://opensea.io/collection/desi-satoshi-1)</details> |
+| **Boozy** | ![Image](https://i.seadn.io/s/raw/files/47fb71a93d4b4aecbf36c77870fea32a.gif?w=500&auto=format?w=200&auto=format) | <details><summary>
 
 
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[pwimates](https://opensea.io/collection/pwimates-2)</details> |
-| **<details><summary>Lips Population...</summary>Lips Populations</details>** | ![Image](https://i.seadn.io/s/raw/files/5544e2dbd17467d75dc36daaacfd74b5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lips Populations](https://opensea.io/collection/lips-populations)</details> |
-| **<details><summary>Party Membershi...</summary>Party Memberships: Witty Sniper</details>** | ![Image](https://i.seadn.io/s/raw/files/d927d3099257832e7e94bc703b32b1e5.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents mem...</summary>This collection represents memberships in the following Party: Witty Sniper. Head to https://base.party.app/party/0x26a5b524e145da986f0f67546928dcfb692f25f9 to view the Party's latest activity.</details> | <details><summary>Link</summary>[Party Memberships: Witty Sniper](https://opensea.io/collection/party-memberships-witty-sniper)</details> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...</summary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Boozy is a Web3 experience, bringing together gaming, art, and culture under one brand.
+
+At the heart of everything is the community. We are building a unique experience in Web3 that pushes boundaries and a collective universe. In this process, we will experiment with bold and innovative ideas. It won't be easy, but some things will surprise and delight you. That’s our goal testing boundaries together and redefining what’s possible with the power of the community.
+
+Boozy will always prioritize art, community, and storytelling. Moving forward, our plans for the project will focus on expanding Boozy’s lore, growing the IP, and building an immersive journey within our Libereth Universe. Remember, joining Boozy will be an unforgettable experience!
+
+Join us on this journey that redefines gaming, art, and culture with Web3!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Boozy
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Boozy](https://opensea.io/collection/boozy-5)</details> |
+| **<details><summary>My Awesome Even...</summary>My Awesome Event</details>** | ![Image](https://i.seadn.io/s/raw/files/05e9ba18ff2e81efd466266185f1c4e1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[My Awesome Event](https://opensea.io/collection/my-awesome-event)</details> |
 
 </div>
