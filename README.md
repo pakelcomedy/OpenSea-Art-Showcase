@@ -6,11 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rock Ape** | ![Image](https://i.seadn.io/s/raw/files/2b007e6cc8f5d8e200c818f25a878c8b.webp?w=500&auto=format?w=200&auto=format) | <details><summary>ROCK APE
-
-Made with [NFTs2Me.c...</summary>ROCK APE
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Rock Ape](https://opensea.io/collection/rock-ape-2)</details> |
-| **WAGHIs** | ![Image](https://i.seadn.io/s/raw/files/84e8a352c893badbb9864981319404df.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WAGHIs](https://opensea.io/collection/waghis-106)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/9571c828e60c4c74bf9aaa81c5303926.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-25533)</details> |
 
 </div>
