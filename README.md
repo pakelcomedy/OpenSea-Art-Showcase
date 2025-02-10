@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Castrum NFT Col...</summary>Castrum NFT Collection v.1.0</details>** | ![Image](https://i.seadn.io/s/raw/files/9878f27604c72c02d24c76f6051443fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Castrum NFT Collection v.1.0](https://opensea.io/collection/castrum-nft-collection-v-1-0-346)</details> |
-| **<details><summary>Castrum NFT Col...</summary>Castrum NFT Collection v.1.0</details>** | ![Image](https://i.seadn.io/s/raw/files/9878f27604c72c02d24c76f6051443fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Castrum NFT Collection v.1.0](https://opensea.io/collection/castrum-nft-collection-v-1-0-345)</details> |
+| **A-Pеpе Punks** | ![Image](https://i.seadn.io/s/raw/files/ae339ce5e244a89b2c52d6b97ac0fed9.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[A-Pеpе Punks](https://opensea.io/collection/a-pepe-punks-86)</details> |
 
 </div>
