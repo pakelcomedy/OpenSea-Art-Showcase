@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BERLADY333** | ![Image](https://i.seadn.io/s/raw/files/1ffbe7be383aa5de648d2d8bd4faae33.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BERLADY333](https://opensea.io/collection/berlady333)</details> |
+| **ERTDFGB** | ![Image](https://i.seadn.io/s/raw/files/1b9f653c367e260c30050c2a7a9ca813.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ERTDFGB](https://opensea.io/collection/ertdfgb-13)</details> |
+| **GC Genesis Mint** | ![Image](https://i.seadn.io/s/raw/files/bef19e26732e22a596e54c82ac814a06.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GC Genesis Mint](https://opensea.io/collection/gc-genesis-mint)</details> |
 
 </div>
