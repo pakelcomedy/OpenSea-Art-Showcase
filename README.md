@@ -6,13 +6,16 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BIMBO** | ![Image](https://i.seadn.io/s/raw/files/36eab92ac96b8e872adddaea016d16ca.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Has anyone seen Betty around?
-...</summary>Has anyone seen Betty around?
+| **Ape Doodles** | ![Image](https://i.seadn.io/s/raw/files/f99bdcdbe0865c0c539eb3a4a4c824f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Ape  Doodles in apechain !
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[BIMBO](https://opensea.io/collection/bimbo-7)</details> |
-| **Banana APE Town** | ![Image](https://i.seadn.io/s/raw/files/942eded1c001b84aec40807f67dae997.gif?w=500&auto=format?w=200&auto=format) | APE APE APE APE ONLY! | <details><summary>Link</summary>[Banana APE Town](https://opensea.io/collection/banana-ape-town)</details> |
-| **Kong Ape Club** | ![Image](https://i.seadn.io/s/raw/files/611b862285672da55a6f4dd97e08e1e9.png?w=500&auto=format?w=200&auto=format) | <details><summary>KONG APE CLUB HERE... KONG APE...</summary>KONG APE CLUB HERE... KONG APE CLUB HERE... KONG APE CLUB HERE... KONG APE CLUB HERE... KONG APE CLUB HERE... KONG APE CLUB HERE... KONG APE CLUB HERE... KONG APE CLUB HERE... KONG APE CLUB HERE... KONG APE CLUB HERE...[REVEAL SOON]
+Ma...</summary>Ape  Doodles in apechain !
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Kong Ape Club](https://opensea.io/collection/kong-ape-club-3)</details> |
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Ape Doodles](https://opensea.io/collection/ape-doodles-2)</details> |
+| **Ape Doodles** | ![Image](https://i.seadn.io/s/raw/files/f99bdcdbe0865c0c539eb3a4a4c824f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Ape  Doodles in apechain !
+
+Ma...</summary>Ape  Doodles in apechain !
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Ape Doodles](https://opensea.io/collection/ape-doodles-1)</details> |
+| **rainforest** | ![Image](https://i.seadn.io/s/raw/files/ee3824391b68cc3cc906c9715fefc277.png?w=500&auto=format?w=200&auto=format) | <details><summary>A dense rainforest with a vari...</summary>A dense rainforest with a variety of wildlife, A futuristic city with towering skyscrapers</details> | <details><summary>Link</summary>[rainforest](https://opensea.io/collection/rainforest-8)</details> |
 
 </div>
