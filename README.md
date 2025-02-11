@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **GodGold** | ![Image](https://i.seadn.io/s/raw/files/56c6e0acfde5ca496790910b1740b4f8.webp?w=500&auto=format?w=200&auto=format) | <details><summary>The disruptive gold that's dem...</summary>The disruptive gold that's democratizing web3</details> | <details><summary>Link</summary>[GodGold](https://opensea.io/collection/godgold-1)</details> |
-| **Paris 2025** | ![Image](https://i.seadn.io/s/raw/files/e5e66205d05ed06e7c69ce97e262d0da.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Paris 2025](https://opensea.io/collection/paris-2025)</details> |
+| **DFGCBVERT** | ![Image](https://i.seadn.io/s/raw/files/74f2209cd323a1df43dba11b7a592a45.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DFGCBVERT](https://opensea.io/collection/dfgcbvert-11)</details> |
+| **DFGETRDGG** | ![Image](https://i.seadn.io/s/raw/files/a39131c40dbb3b881b64dfafab03077c.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DFGETRDGG](https://opensea.io/collection/dfgetrdgg-9)</details> |
 
 </div>
