@@ -6,16 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ape Doodles** | ![Image](https://i.seadn.io/s/raw/files/f99bdcdbe0865c0c539eb3a4a4c824f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Ape  Doodles in apechain !
-
-Ma...</summary>Ape  Doodles in apechain !
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Ape Doodles](https://opensea.io/collection/ape-doodles-2)</details> |
-| **Ape Doodles** | ![Image](https://i.seadn.io/s/raw/files/f99bdcdbe0865c0c539eb3a4a4c824f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Ape  Doodles in apechain !
-
-Ma...</summary>Ape  Doodles in apechain !
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Ape Doodles](https://opensea.io/collection/ape-doodles-1)</details> |
-| **rainforest** | ![Image](https://i.seadn.io/s/raw/files/ee3824391b68cc3cc906c9715fefc277.png?w=500&auto=format?w=200&auto=format) | <details><summary>A dense rainforest with a vari...</summary>A dense rainforest with a variety of wildlife, A futuristic city with towering skyscrapers</details> | <details><summary>Link</summary>[rainforest](https://opensea.io/collection/rainforest-8)</details> |
+| **ffcfv** | ![Image](https://i.seadn.io/s/raw/files/f991e810d791fb45eb6c1390e2ff43b9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ffcfv](https://opensea.io/collection/ffcfv)</details> |
+| **WWolve** | ![Image](https://i.seadn.io/s/raw/files/95b2e87697bda566eb11c33c44c2800d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WWolve](https://opensea.io/collection/wwolve)</details> |
 
 </div>
