@@ -6,11 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Bananas on Ape** | ![Image](https://i.seadn.io/s/raw/files/59b6ffec7b3b01ff848e29aab4249527.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Bananas on Ape
-
-Made with [NFT...</summary>Bananas on Ape
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Bananas on Ape](https://opensea.io/collection/bananas-on-ape-1)</details> |
-| **Expects Phrases** | ![Image](https://i.seadn.io/s/raw/files/528c155ba4b961641224babe072b8d34.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Expects Phrases](https://opensea.io/collection/expects-phrases)</details> |
+| **Light Within** | ![Image](https://i.seadn.io/s/raw/files/63bb71c82fa81cfb276555976e3805e5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Light Within](https://opensea.io/collection/light-within-1)</details> |
+| **lihekui** | ![Image](https://i.seadn.io/s/raw/files/7ec9b80b5f7797e4e77df544407c65c5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lihekui](https://opensea.io/collection/lihekui-14)</details> |
+| **Bloggers** | ![Image](https://i.seadn.io/s/raw/files/cb9c712ff20441362355623b51ff62c1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bloggers](https://opensea.io/collection/bloggers-13)</details> |
 
 </div>
