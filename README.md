@@ -6,10 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Soneium NFT MAİ...</summary>Soneium NFT MAİNNET XX</details>** | ![Image](https://i.seadn.io/s/raw/files/eaabeada8a18b59d9b953c465665b04a.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Soneium NFT MAİNNET 
-
-Made wit...</summary>Soneium NFT MAİNNET 
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Soneium NFT MAİNNET XX](https://opensea.io/collection/soneium-nft-mainnet-xx)</details> |
+| **rhinocero2** | ![Image](https://i.seadn.io/s/raw/files/11ded3ce1c81e9f4bfb56229444749ac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[rhinocero2](https://opensea.io/collection/rhinocero2)</details> |
+| **Beautty Gallery** | ![Image](https://i.seadn.io/s/raw/files/5b1e0fc4d425fb20406b050b1ee19e7f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Beautty Gallery](https://opensea.io/collection/beautty-gallery)</details> |
 
 </div>
