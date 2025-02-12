@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Heavy machinery** | ![Image](https://i.seadn.io/s/raw/files/9e5fc867010e89a201848eb102a60520.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heavy machinery](https://opensea.io/collection/heavy-machinery-2)</details> |
+| **OPEN NETWORK** | ![Image](https://i.seadn.io/s/raw/files/06206086a2a8554e817108db0e020608.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OPEN NETWORK](https://opensea.io/collection/open-network-1)</details> |
+| **<details><summary>LANDSCAPES AND ...</summary>LANDSCAPES AND NATURE</details>** | ![Image](https://i.seadn.io/s/raw/files/8ecc988b969bbe2c87cb3420d904067c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LANDSCAPES AND NATURE](https://opensea.io/collection/landscapes-and-nature-2)</details> |
 
 </div>
