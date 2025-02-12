@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rugged Raccoon** | ![Image](https://i.seadn.io/s/raw/files/02b9a2a302bab4edfa397578bd9a539f.webp?w=500&auto=format?w=200&auto=format) | Rugged Raccoon ($RUGCOON) 🦝💸
- | <details><summary>Link</summary>[Rugged Raccoon](https://opensea.io/collection/rugged-raccoon)</details> |
+| **Metamorphosis** | ![Image](https://i.seadn.io/s/raw/files/fbff06454d8fa4ab0494eed47d53d396.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Metamorphosis](https://opensea.io/collection/metamorphosis-69)</details> |
 
 </div>
