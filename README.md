@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Castrum NFT Col...</summary>Castrum NFT Collection v.1.0</details>** | ![Image](https://i.seadn.io/s/raw/files/9878f27604c72c02d24c76f6051443fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Castrum NFT Collection v.1.0](https://opensea.io/collection/castrum-nft-collection-v-1-0-471)</details> |
+| **Heavy machinery** | ![Image](https://i.seadn.io/s/raw/files/9e5fc867010e89a201848eb102a60520.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heavy machinery](https://opensea.io/collection/heavy-machinery-2)</details> |
 
 </div>
