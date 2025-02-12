@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **rhinocero2** | ![Image](https://i.seadn.io/s/raw/files/11ded3ce1c81e9f4bfb56229444749ac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[rhinocero2](https://opensea.io/collection/rhinocero2)</details> |
-| **Beautty Gallery** | ![Image](https://i.seadn.io/s/raw/files/5b1e0fc4d425fb20406b050b1ee19e7f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Beautty Gallery](https://opensea.io/collection/beautty-gallery)</details> |
+| **<details><summary>Castrum NFT Col...</summary>Castrum NFT Collection v.1.0</details>** | ![Image](https://i.seadn.io/s/raw/files/9878f27604c72c02d24c76f6051443fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Castrum NFT Collection v.1.0](https://opensea.io/collection/castrum-nft-collection-v-1-0-471)</details> |
 
 </div>
