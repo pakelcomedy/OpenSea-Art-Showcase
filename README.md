@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Metamorphosis** | ![Image](https://i.seadn.io/s/raw/files/fbff06454d8fa4ab0494eed47d53d396.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Metamorphosis](https://opensea.io/collection/metamorphosis-69)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/9db171f78806f009596506fab9930a54.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26035)</details> |
 
 </div>
