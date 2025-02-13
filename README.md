@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **GUH** | ![Image](https://i.seadn.io/s/raw/files/be3204f536d9303efd74ab35cf51f7e2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GUH](https://opensea.io/collection/guh-6)</details> |
-| **<details><summary>Roulette House:...</summary>Roulette House: Exclusive Wheel Ownership</details>** | ![Image](https://i.seadn.io/s/raw/files/335aaab7119b8a4bbb20498cfa5c8e76.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Roulette House: Exclusive Wheel Ownership](https://opensea.io/collection/roulette-house-exclusive-wheel-ownership)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/063ff6543dfc2356bc14d2e0df411bab.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-10860)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/8f845ceab59bf2e9454aab47e5cf1c53.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26120)</details> |
 
 </div>
