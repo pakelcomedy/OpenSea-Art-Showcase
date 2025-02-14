@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/b99dc9107f6b9ecfbebb202f6fa10c96.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26268)</details> |
-| **Alone** | ![Image](https://i.seadn.io/s/raw/files/8ed0c480d4d9a66658a4cfe5628ef352.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Alone](https://opensea.io/collection/alone-231)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/faa72de8970bcd4170e6f0f70bb9e14c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-10905)</details> |
+| **PANDA** | ![Image](https://i.seadn.io/s/raw/files/afa1d968052737e6e84fe7b69f11c72d.jpg?w=500&auto=format?w=200&auto=format) | PANDA | <details><summary>Link</summary>[PANDA](https://opensea.io/collection/panda-762)</details> |
+| **King BERA** | ![Image](https://i.seadn.io/s/raw/files/e63ee9cc20544ff712bb5d11c2380be1.jpg?w=500&auto=format?w=200&auto=format) | King BERA | <details><summary>Link</summary>[King BERA](https://opensea.io/collection/king-bera)</details> |
+| **Dog and cat** | ![Image](https://i.seadn.io/s/raw/files/7488b5a2d57104d01ef331812e002977.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dog and cat](https://opensea.io/collection/dog-and-cat-10)</details> |
 
 </div>
