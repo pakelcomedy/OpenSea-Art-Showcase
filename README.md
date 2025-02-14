@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **PANDA** | ![Image](https://i.seadn.io/s/raw/files/afa1d968052737e6e84fe7b69f11c72d.jpg?w=500&auto=format?w=200&auto=format) | PANDA | <details><summary>Link</summary>[PANDA](https://opensea.io/collection/panda-762)</details> |
-| **King BERA** | ![Image](https://i.seadn.io/s/raw/files/e63ee9cc20544ff712bb5d11c2380be1.jpg?w=500&auto=format?w=200&auto=format) | King BERA | <details><summary>Link</summary>[King BERA](https://opensea.io/collection/king-bera)</details> |
-| **Dog and cat** | ![Image](https://i.seadn.io/s/raw/files/7488b5a2d57104d01ef331812e002977.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dog and cat](https://opensea.io/collection/dog-and-cat-10)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/d76510fd106263c4a15750696f7255dd.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26281)</details> |
+| **Forgotten Place** | ![Image](https://i.seadn.io/s/raw/files/5bd2f37f55a0ff71d8a480b5e36b1df6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Lost in the silence of forgott...</summary>Lost in the silence of forgotten places, where only ghosts remember my name.
+--
+See more by Artiga on Remx at remx.xyz/artiga</details> | <details><summary>Link</summary>[Forgotten Place](https://opensea.io/collection/forgotten-place)</details> |
 
 </div>
