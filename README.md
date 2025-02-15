@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **warplane** | ![Image](https://i.seadn.io/s/raw/files/57b4c89794acd40f5c13773fa6647deb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[warplane](https://opensea.io/collection/warplane-4)</details> |
-| **meroy** | ![Image](https://i.seadn.io/s/raw/files/0d3c857060d72be6ab5063c96f2b844c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Aspiring writer and passionate...</summary>Aspiring writer and passionate about sharing stories.</details> | <details><summary>Link</summary>[meroy](https://opensea.io/collection/meroy-1)</details> |
-| **basilcook** | ![Image](https://i.seadn.io/s/raw/files/3976e3f574e5e34bcbb34287b8b02695.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>On a mission to make the world...</summary>On a mission to make the world a better place through innovation.</details> | <details><summary>Link</summary>[basilcook](https://opensea.io/collection/basilcook)</details> |
-| **defoe** | ![Image](https://i.seadn.io/s/raw/files/7ea008e4779388ca38d3e007a8bb8dd6.png?w=500&auto=format?w=200&auto=format) | <details><summary>Passionate about technology, d...</summary>Passionate about technology, design, and making a difference.</details> | <details><summary>Link</summary>[defoe](https://opensea.io/collection/defoe-1)</details> |
+| **Alpaca On Ape** | ![Image](https://i.seadn.io/s/raw/files/f85b18bf427c73b46d84d0e5abf2d591.webp?w=500&auto=format?w=200&auto=format) | <details><summary>🦙Alpaca NFT is a colorful auth...</summary>🦙Alpaca NFT is a colorful author's work of our friendly team.
+🖼We bring you a collection unique semi-automatically generated NFTs with our clever software specifically On Ape Chain 
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Alpaca On Ape](https://opensea.io/collection/alpaca-on-ape)</details> |
+| **Lego Punks** | ![Image](https://i.seadn.io/s/raw/files/40d50881268959b4a61f23c36cf33d41.gif?w=500&auto=format?w=200&auto=format) | <details><summary>LEGO Punks is a playful NFT co...</summary>LEGO Punks is a playful NFT collection that reimagines the punk aesthetic using iconic LEGO-inspired designs, combining creativity, nostalgia, and rebellious spirit in every piece.</details> | <details><summary>Link</summary>[Lego Punks](https://opensea.io/collection/lego-punks-133)</details> |
 
 </div>
