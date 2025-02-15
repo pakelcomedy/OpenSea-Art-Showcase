@@ -6,10 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Alpaca On Ape** | ![Image](https://i.seadn.io/s/raw/files/f85b18bf427c73b46d84d0e5abf2d591.webp?w=500&auto=format?w=200&auto=format) | <details><summary>🦙Alpaca NFT is a colorful auth...</summary>🦙Alpaca NFT is a colorful author's work of our friendly team.
-🖼We bring you a collection unique semi-automatically generated NFTs with our clever software specifically On Ape Chain 
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Alpaca On Ape](https://opensea.io/collection/alpaca-on-ape)</details> |
-| **Lego Punks** | ![Image](https://i.seadn.io/s/raw/files/40d50881268959b4a61f23c36cf33d41.gif?w=500&auto=format?w=200&auto=format) | <details><summary>LEGO Punks is a playful NFT co...</summary>LEGO Punks is a playful NFT collection that reimagines the punk aesthetic using iconic LEGO-inspired designs, combining creativity, nostalgia, and rebellious spirit in every piece.</details> | <details><summary>Link</summary>[Lego Punks](https://opensea.io/collection/lego-punks-133)</details> |
+| **nftlaunch.eth** | ![Image](https://i.seadn.io/s/raw/files/e958a4baa73e2d5589fff12b119a8cbc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nftlaunch.eth](https://opensea.io/collection/nftlaunch-eth-2)</details> |
+| **<details><summary>t7tetwfttefiryg...</summary>t7tetwfttefiryguirdg</details>** | ![Image](https://i.seadn.io/s/raw/files/6c2f88d1cbf56213d307540e710ce427.jpg?w=500&auto=format?w=200&auto=format) | hgjkhbfgjhbnhggfjlhjgfnhgm | <details><summary>Link</summary>[t7tetwfttefiryguirdg](https://opensea.io/collection/t7tetwfttefiryguirdg)</details> |
 
 </div>
