@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Hubbel Cat** | ![Image](https://i.seadn.io/s/raw/files/0549ffc0f4357bf51edfdacefdcbb559.jpg?w=500&auto=format?w=200&auto=format) | the cat | <details><summary>Link</summary>[Hubbel Cat](https://opensea.io/collection/hubbel-cat)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/dae13218570a27ea9f359916f8db5d08.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26525)</details> |
+| **sculpture** | ![Image](https://i.seadn.io/s/raw/files/ff434f6bc31c3096f1bbfb468db84b1c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>what i created with my hands
+-...</summary>what i created with my hands
+--
+See more by Destined Artz on Remx at remx.xyz/destiny-abuchi</details> | <details><summary>Link</summary>[sculpture](https://opensea.io/collection/sculpture-61)</details> |
 
 </div>
