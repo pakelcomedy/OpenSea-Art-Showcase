@@ -6,5 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
+| **<details><summary>Castrum NFT Col...</summary>Castrum NFT Collection v.1.0</details>** | ![Image](https://i.seadn.io/s/raw/files/5c04a1ead4ed83014ea9aae3db92fd08.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Castrum NFT Collection v.1.0](https://opensea.io/collection/castrum-nft-collection-v-1-0-643)</details> |
 
 </div>
