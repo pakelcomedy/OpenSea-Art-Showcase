@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Minotaur IV Lau...</summary>Minotaur IV Launch</details>** | ![Image](https://i.seadn.io/s/raw/files/b14fba8694fa3b43ff6ad044a4ebdcd0.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>A Minotaur IV launches from Wa...</summary>A Minotaur IV launches from Wallops Island, Virginia
---
-See more by Jason Betzner on Remx at remx.xyz/jason-betzner</details> | <details><summary>Link</summary>[Minotaur IV Launch](https://opensea.io/collection/minotaur-iv-launch)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/408889d9867fd9288110040d5d59c225.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26704)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/f0e27ebf5d962d1cb287c22f4b2e42ce.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26703)</details> |
 
 </div>
