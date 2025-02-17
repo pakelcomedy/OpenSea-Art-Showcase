@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/408889d9867fd9288110040d5d59c225.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26704)</details> |
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/f0e27ebf5d962d1cb287c22f4b2e42ce.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26703)</details> |
+| **Mega Turd** | ![Image](https://i.seadn.io/s/raw/files/002d5abf1dcfc3430a6e82e8d1789c92.png?w=500&auto=format?w=200&auto=format) | <details><summary>for people who eat too many ta...</summary>for people who eat too many tacos!</details> | <details><summary>Link</summary>[Mega Turd](https://opensea.io/collection/mega-turd)</details> |
 
 </div>
