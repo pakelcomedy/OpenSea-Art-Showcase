@@ -6,7 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/41f2c2bf30978dc8edd577376bbdd33a.png?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-26613)</details> |
-| **TEST MINT** | ![Image](https://i.seadn.io/s/raw/files/6cf7a7dc7cfa07e665e9438d3db93480.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TEST MINT](https://opensea.io/collection/test-mint-14)</details> |
+| **Moshi Mochis** | ![Image](https://i.seadn.io/s/raw/files/6c29a7c07b76f1695c44270e7a128126.png?w=500&auto=format?w=200&auto=format) | <details><summary>
+A cute n' squishy NFT collect...</summary>
+A cute n' squishy NFT collection of 3333 Moshi Mochis focused on perpetuating education, community, and having a good time!
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Moshi Mochis](https://opensea.io/collection/moshi-mochis)</details> |
+| **Cutie Pop** | ![Image](https://i.seadn.io/s/raw/files/96c3b83c83c9627e2747dbe5d559c6fc.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cutie Pop](https://opensea.io/collection/cutie-pop)</details> |
 
 </div>
