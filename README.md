@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BENJI SENCH** | ![Image](https://i.seadn.io/s/raw/files/0ebf565b1843eb195443d9766415e8e3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BENJI SENCH](https://opensea.io/collection/benji-sench)</details> |
+| **Cyborg** | ![Image](https://i.seadn.io/s/raw/files/a1a40ae5b158ee1294caf6344bea87ba.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cyborg](https://opensea.io/collection/cyborg-59)</details> |
 
 </div>
