@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Arties** | ![Image](https://i.seadn.io/s/raw/files/651f927678eb4b0c366d6006d9189ec7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Arties](https://opensea.io/collection/arties-6)</details> |
+| **<details><summary>Aeolian Limited...</summary>Aeolian Limited Edition</details>** | ![Image](https://i.seadn.io/s/raw/files/c58999d524a6b32d290f74bed37b4235.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Aeolian Limited Edition](https://opensea.io/collection/aeolian-limited-edition)</details> |
 
 </div>
