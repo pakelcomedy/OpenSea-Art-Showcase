@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Warrior** | ![Image](https://i.seadn.io/s/raw/files/9624a7fa52f7883980233e268892ad20.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Warrior](https://opensea.io/collection/warrior-261)</details> |
-| **Glow✨** | ![Image](https://i.seadn.io/s/raw/files/29858e93f470f22adda582e90e28427d.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Glow✨](https://opensea.io/collection/glow-62)</details> |
-| **<details><summary>The Lunar Eclip...</summary>The Lunar Eclipse</details>** | ![Image](https://i.seadn.io/s/raw/files/6bb0ef70e3d5eede28aba6e2ef4b2adf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Lunar Eclipse](https://opensea.io/collection/the-lunar-eclipse-1)</details> |
+| **Dream Masks** | ![Image](https://i.seadn.io/s/raw/files/b3e45aa63aaeecfe79a914e139ab7351.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dream Masks](https://opensea.io/collection/dream-masks-3)</details> |
+| **FMP Ring** | ![Image](https://i.seadn.io/s/raw/files/c1650372b33d6a6b9c3401409616bac1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FMP Ring](https://opensea.io/collection/fmp-ring)</details> |
+| **Bart Fan Club** | ![Image](https://i.seadn.io/s/raw/files/d234c407e284e724f57b4c6361d1c001.png?w=500&auto=format?w=200&auto=format) | <details><summary>Own a piece of history with th...</summary>Own a piece of history with the "Bart Fan Club" token. This unique digital asset serves as your ticket to an exclusive club of Bart's most devoted fans.</details> | <details><summary>Link</summary>[Bart Fan Club](https://opensea.io/collection/bart-fan-club-2)</details> |
+| **Dream Masks** | ![Image](https://i.seadn.io/s/raw/files/b3e45aa63aaeecfe79a914e139ab7351.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dream Masks](https://opensea.io/collection/dream-masks-2)</details> |
 
 </div>
