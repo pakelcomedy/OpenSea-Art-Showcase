@@ -6,11 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Copy of Val's H...</summary>Copy of Val's Hearts</details>** | ![Image](https://i.seadn.io/s/raw/files/1f0e1eae2f74d7bc8befbf91a6892acd.png?w=500&auto=format?w=200&auto=format) | <details><summary>Valentine is the day to send h...</summary>Valentine is the day to send hearts</details> | <details><summary>Link</summary>[Copy of Val's Hearts](https://opensea.io/collection/copy-of-val-s-hearts)</details> |
-| **SONOVO** | ![Image](https://i.seadn.io/s/raw/files/7e571f79b5ebc440762e11a99cfb0f31.webp?w=500&auto=format?w=200&auto=format) | <details><summary>SONOVO
-
-Made with [NFTs2Me.com...</summary>SONOVO
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[SONOVO](https://opensea.io/collection/sonovo-4)</details> |
+| **I_HATE_NFT** | ![Image](https://i.seadn.io/s/raw/files/8eeaf9b793c95c4f12d9b23525f637a8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[I_HATE_NFT](https://opensea.io/collection/i-hate-nft-3)</details> |
+| **Meta Towers** | ![Image](https://i.seadn.io/s/raw/files/46dc58d695a5c593b3dd8fbd7ffac549.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Meta Towers](https://opensea.io/collection/meta-towers-1)</details> |
+| **huh** | ![Image](https://i.seadn.io/s/raw/files/11efa6d60a53ccb7d522f4f5f2478db1.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[huh](https://opensea.io/collection/huh-68)</details> |
 
 </div>
