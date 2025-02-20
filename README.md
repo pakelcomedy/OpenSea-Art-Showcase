@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Stick figure** | ![Image](https://i.seadn.io/s/raw/files/f25606ae07eafe0229debf022bf6081f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Stick figure](https://opensea.io/collection/stick-figure-8)</details> |
-| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/d3234bd2bca22c26792de836d3c46c40.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-5171)</details> |
-| **<details><summary>Voltrone Storm ...</summary>Voltrone Storm General</details>** | ![Image](https://i.seadn.io/s/raw/files/34a1dcb5ad920fd2ad2e9203804c4e67.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Voltrone Storm General](https://opensea.io/collection/voltrone-storm-general)</details> |
+| **<details><summary>L10-Exclusive-#...</summary>L10-Exclusive-#987</details>** | ![Image](https://i.seadn.io/s/raw/files/b5b67b30b3775f03803a0c32c7953542.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[L10-Exclusive-#987](https://opensea.io/collection/l10-exclusive-987-1)</details> |
+| **<details><summary>L10-Exclusive-#...</summary>L10-Exclusive-#987</details>** | ![Image](https://i.seadn.io/s/raw/files/b5b67b30b3775f03803a0c32c7953542.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[L10-Exclusive-#987](https://opensea.io/collection/l10-exclusive-987)</details> |
 
 </div>
