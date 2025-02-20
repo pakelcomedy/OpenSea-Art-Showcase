@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **I_HATE_NFT** | ![Image](https://i.seadn.io/s/raw/files/8eeaf9b793c95c4f12d9b23525f637a8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[I_HATE_NFT](https://opensea.io/collection/i-hate-nft-3)</details> |
-| **Meta Towers** | ![Image](https://i.seadn.io/s/raw/files/46dc58d695a5c593b3dd8fbd7ffac549.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Meta Towers](https://opensea.io/collection/meta-towers-1)</details> |
-| **huh** | ![Image](https://i.seadn.io/s/raw/files/11efa6d60a53ccb7d522f4f5f2478db1.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[huh](https://opensea.io/collection/huh-68)</details> |
+| **<details><summary>NFTinit Desktop...</summary>NFTinit Desktop Application</details>** | ![Image](https://i.seadn.io/s/raw/files/47bb95df5b4ca067224a6a6cec0a686b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFTinit Desktop Application](https://opensea.io/collection/nftinit-desktop-application-22)</details> |
+| **MONO** | ![Image](https://i.seadn.io/s/raw/files/8f2c6c394a4fad51a5a048c166407bff.webp?w=500&auto=format?w=200&auto=format) | <details><summary>
+A collection of 6969 20*20 pi...</summary>
+A collection of 6969 20*20 pixel MONO PFPs that feature a unique pool of 3 animated, 69 one-of-one hand drawn & 200+ traits.
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[MONO](https://opensea.io/collection/mono-68)</details> |
+| **Pol Badge NFT** | ![Image](https://i.seadn.io/s/raw/files/6e8c8fade4866278c7fca6477111565c.jpg?w=500&auto=format?w=200&auto=format) |  OG Badge NFT | <details><summary>Link</summary>[Pol Badge NFT](https://opensea.io/collection/pol-badge-nft)</details> |
 
 </div>
