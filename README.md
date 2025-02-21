@@ -6,15 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Photo reference** | ![Image](https://i.seadn.io/s/raw/files/67f82bde701a969dd629a174f3dfc85c.png?w=500&auto=format?w=200&auto=format) | <details><summary>Photo reference
---
-See more by...</summary>Photo reference
---
-See more by mehdijaladat on Remx at remx.xyz/mehdijaladat</details> | <details><summary>Link</summary>[Photo reference](https://opensea.io/collection/photo-reference-6)</details> |
-| **Photo reference** | ![Image](https://i.seadn.io/s/raw/files/8e01f36acff1d19a14ca596683237bfd.png?w=500&auto=format?w=200&auto=format) | <details><summary>Photo reference
---
-See more by...</summary>Photo reference
---
-See more by mehdijaladat on Remx at remx.xyz/mehdijaladat</details> | <details><summary>Link</summary>[Photo reference](https://opensea.io/collection/photo-reference-5)</details> |
+| **Ether corgi** | ![Image](https://i.seadn.io/s/raw/files/87128deb023f7bf7608f0139c1a29476.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>ether corgi
+
+Made with [NFTs2M...</summary>ether corgi
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Ether corgi](https://opensea.io/collection/ether-corgi)</details> |
+| **<details><summary>Soul of Cyberpu...</summary>Soul of Cyberpunk</details>** | ![Image](https://i.seadn.io/s/raw/files/0115be997c3e8928aaf3c506726071d8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Soul of Cyberpunk](https://opensea.io/collection/soul-of-cyberpunk-1)</details> |
 
 </div>
