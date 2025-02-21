@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Degen PrimeOoga...</summary>Degen PrimeOoga Booga⭐</details>** | ![Image](https://i.seadn.io/s/raw/files/b5ca91317f11edd6a01b85e10968ea42.webp?w=500&auto=format?w=200&auto=format) | <details><summary>unleashing the web3 future of ...</summary>unleashing the web3 future of finance</details> | <details><summary>Link</summary>[Degen PrimeOoga Booga⭐](https://opensea.io/collection/degen-primeooga-booga)</details> |
-| **iBLST18** | ![Image](https://i.seadn.io/s/raw/files/493d91619b955e06ec8c136ded25f1d9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[iBLST18](https://opensea.io/collection/iblst18)</details> |
+| **<details><summary>0xcc561458f1e41...</summary>0xcc561458f1e41d304be603ab99add61687096d67</details>** | ![Image](https://i.seadn.io/s/raw/files/50c7b450830cb2242c044a801b8c269f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xcc561458f1e41d304be603ab99add61687096d67](https://opensea.io/collection/0xcc561458f1e41d304be603ab99add61687096d67)</details> |
+| **Bera Girl NFT** | ![Image](https://i.seadn.io/s/raw/files/11ab902c8e684a9dee525c4d7cacb982.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bera Girl NFT](https://opensea.io/collection/bera-girl-nft)</details> |
 
 </div>
