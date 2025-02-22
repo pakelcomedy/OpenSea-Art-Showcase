@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **RareBera** | ![Image](https://i.seadn.io/s/raw/files/13a72ad52a4dab900610106b00c7549d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The trending bera that's XDDDD...</summary>The trending bera that's XDDDDDDDDDDDDD web3</details> | <details><summary>Link</summary>[RareBera](https://opensea.io/collection/rarebera)</details> |
-| **Red TLOS** | ![Image](https://i.seadn.io/s/raw/files/1a3b199eb4c754905ac4792f0d2f165f.png?w=500&auto=format?w=200&auto=format) | Ai Agent | <details><summary>Link</summary>[Red TLOS](https://opensea.io/collection/red-tlos)</details> |
-| **Rare PlusMars** | ![Image](https://i.seadn.io/s/raw/files/2b9574839c55d37575fa9e659c3589cb.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Rare PlusMars - XDDDDDDDDDDDDD...</summary>Rare PlusMars - XDDDDDDDDDDDDD defi forever</details> | <details><summary>Link</summary>[Rare PlusMars](https://opensea.io/collection/rare-plusmars)</details> |
+| **NONNE** | ![Image](https://i.seadn.io/s/raw/files/7661f60c29235ab81cc32497802fe2b3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NONNE](https://opensea.io/collection/nonne-1)</details> |
+| **N3XUS** | ![Image](https://i.seadn.io/s/raw/files/4c3f31034521a77409c56cb71bcc6c8c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[N3XUS](https://opensea.io/collection/n3xus)</details> |
 
 </div>
