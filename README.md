@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **NONNE** | ![Image](https://i.seadn.io/s/raw/files/7661f60c29235ab81cc32497802fe2b3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NONNE](https://opensea.io/collection/nonne-1)</details> |
-| **N3XUS** | ![Image](https://i.seadn.io/s/raw/files/4c3f31034521a77409c56cb71bcc6c8c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[N3XUS](https://opensea.io/collection/n3xus)</details> |
+| **SigmaDao** | ![Image](https://i.seadn.io/s/raw/files/10782a5b3c23eb96676aeea27d1a78bc.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>SigmaDao - evolving defi forev...</summary>SigmaDao - evolving defi forever</details> | <details><summary>Link</summary>[SigmaDao](https://opensea.io/collection/sigmadao-2)</details> |
+| **Portal** | ![Image](https://i.seadn.io/s/raw/files/6f8591b209ef1e4a5b2f1bdab2977b81.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Portal](https://opensea.io/collection/portal-84)</details> |
+| **The Factions 1** | ![Image](https://i.seadn.io/s/raw/files/9ed89f54a13881e3048f34a3e6bef96d.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Factions 1](https://opensea.io/collection/the-factions-1)</details> |
 
 </div>
