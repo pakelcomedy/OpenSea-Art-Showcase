@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Scegliere di am...</summary>Scegliere di amare</details>** | ![Image](https://i.seadn.io/s/raw/files/d919696091365d5dbd86b6bded8bff5a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Scegliere di amare](https://opensea.io/collection/scegliere-di-amare)</details> |
-| **<details><summary>Particolare del...</summary>Particolare del ritratto di Erasmo da Rotterdam</details>** | ![Image](https://i.seadn.io/s/raw/files/e8cbb6632b141916e7bbf0a704a3dafb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Particolare del ritratto di Erasmo da Rotterdam](https://opensea.io/collection/particolare-del-ritratto-di-erasmo-da-rotterdam)</details> |
+| **Shib DegenFi** | ![Image](https://i.seadn.io/s/raw/files/c166dccfee9532fd4f7c49c3c3b134d7.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Shib DegenFi - pushing the bou...</summary>Shib DegenFi - pushing the boundaries of defi forever</details> | <details><summary>Link</summary>[Shib DegenFi](https://opensea.io/collection/shib-degenfi)</details> |
+| **Maddy C** | ![Image](https://i.seadn.io/s/raw/files/6cb2a15ce61e32a98634cb5a99b25651.jpg?w=500&auto=format?w=200&auto=format) | Maddy at her finest | <details><summary>Link</summary>[Maddy C](https://opensea.io/collection/maddy-c)</details> |
 
 </div>
