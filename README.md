@@ -6,12 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>between image a...</summary>between image and essence</details>** | ![Image](https://i.seadn.io/s/raw/files/8585ed9259e4e24446a75e415c4a2904.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>My work dwells in the abyss of...</summary>My work dwells in the abyss of human existence, where primal forces clash with the anguish of choice. I seek to unveil the ceaseless struggle between reason and passion, between the yearning for order and the inevitability of chaos—a tension that defines the soul’s desperate leap between despair and faith, between the aesthetic and the ethical, between mere being and true becoming.
+| **<details><summary>Ali Jettison De...</summary>Ali Jettison Designer</details>** | ![Image](https://i.seadn.io/s/raw/files/61f01b58bfc4478e5b794bff25d4d760.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ali Jettison Designer](https://opensea.io/collection/ali-jettison-designer)</details> |
+| **TUTU** | ![Image](https://i.seadn.io/s/raw/files/12140fadb8db29264001bebb66a9dc0b.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Tutu root
 
-[ grainy, melancholy, texture, abstraction, monochrome, black and white, man, hat, sculpture ]
---
-See more by moon theater on Remx at remx.xyz/moontheater</details> | <details><summary>Link</summary>[between image and essence](https://opensea.io/collection/between-image-and-essence)</details> |
-| **<details><summary>Redhead Donut G...</summary>Redhead Donut Girl Special</details>** | ![Image](https://i.seadn.io/s/raw/files/311be7f97863b03380f36b790015075e.png?w=500&auto=format?w=200&auto=format) | 赤毛のドーナツガールスペシャル🍩 | <details><summary>Link</summary>[Redhead Donut Girl Special](https://opensea.io/collection/redhead-donut-girl-special)</details> |
-| **<details><summary>Paintings oil a...</summary>Paintings oil and acrylic</details>** | ![Image](https://i.seadn.io/s/raw/files/b4e30a4c94f3bdfaf3605be479d8811b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Paintings oil and acrylic](https://opensea.io/collection/paintings-oil-and-acrylic)</details> |
+Made with [NFTs2Me....</summary>Tutu root
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[TUTU](https://opensea.io/collection/tutu-51)</details> |
 
 </div>
