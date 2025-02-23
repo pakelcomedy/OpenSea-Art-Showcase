@@ -6,11 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Ali Jettison De...</summary>Ali Jettison Designer</details>** | ![Image](https://i.seadn.io/s/raw/files/61f01b58bfc4478e5b794bff25d4d760.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ali Jettison Designer](https://opensea.io/collection/ali-jettison-designer)</details> |
-| **TUTU** | ![Image](https://i.seadn.io/s/raw/files/12140fadb8db29264001bebb66a9dc0b.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Tutu root
-
-Made with [NFTs2Me....</summary>Tutu root
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[TUTU](https://opensea.io/collection/tutu-51)</details> |
+| **OctoVerse** | ![Image](https://i.seadn.io/s/raw/files/30bd95e731b0c52c3825f3bbd8ae4d2a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OctoVerse](https://opensea.io/collection/octoverse-2)</details> |
 
 </div>
