@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Breakaway Histo...</summary>Breakaway Historian Quest Part 2 Reward Pack</details>** | ![Image](https://i.seadn.io/s/raw/files/c6ba33f68010148bfa32698595b5197b.png?w=500&auto=format?w=200&auto=format) | <details><summary>The Breakaway Historian Quest ...</summary>The Breakaway Historian Quest Part 2 Reward Pack (Epic) was awarded to 13 skilled collectors for completing the Breakaway Historian Quest!
-
-Each pack contains 1 mystery highlight that could be from Cause for a Celly: 2010s (46.15%), Take a Bow (46.15%), or Etched in Ice (7.70%).
-
-Officially Licensed Product of the NHL, NHLPA, and/or NHLAA. All copyright, logos, and marks are the property of their respective owners and are used, under license, by Sweet. All Rights Reserved. [Terms Apply](https://nhlbreakaway.com/terms).</details> | <details><summary>Link</summary>[Breakaway Historian Quest Part 2 Reward Pack](https://opensea.io/collection/breakaway-historian-quest-part-2-reward-pack)</details> |
+| **fantasy** | ![Image](https://i.seadn.io/s/raw/files/5cfd6a26de824a6dafe667c668b1eaa8.jpg?w=500&auto=format?w=200&auto=format) | fantasy | <details><summary>Link</summary>[fantasy](https://opensea.io/collection/fantasy-355)</details> |
+| **<details><summary>Devour GoVIP Lo...</summary>Devour GoVIP LootBox #1</details>** | ![Image](https://i.seadn.io/s/raw/files/43bc88960fedc6d6daeb8a9ede77e36d.png?w=500&auto=format?w=200&auto=format) | <details><summary>GoVIP LootBox #1 Reward - Acce...</summary>GoVIP LootBox #1 Reward - Access and redeem using My Rewards in your Devour account.</details> | <details><summary>Link</summary>[Devour GoVIP LootBox #1](https://opensea.io/collection/devour-govip-lootbox-1)</details> |
+| **P117** | ![Image](https://i.seadn.io/s/raw/files/9ab306b14604401f85fe70cc0de4c02e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[P117](https://opensea.io/collection/p117)</details> |
 
 </div>
