@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **House** | ![Image](https://i.seadn.io/s/raw/files/3168782c9fdf452358b42e5c598c3534.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[House](https://opensea.io/collection/house-430)</details> |
+| **Arito D E** | ![Image](https://i.seadn.io/s/raw/files/9cbabd3c9981021713864e7c9cca2e1b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Arito D E](https://opensea.io/collection/arito-d-e-1)</details> |
 
 </div>
