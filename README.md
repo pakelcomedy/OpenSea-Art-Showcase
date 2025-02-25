@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Grams** | ![Image](https://i.seadn.io/s/raw/files/6970ea36e1c193a409db6e99c5b7f219.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Grams](https://opensea.io/collection/grams-14)</details> |
-| **Panda** | ![Image](https://i.seadn.io/s/raw/files/99617db2183a8768e85a1a96489dbef8.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Panda](https://opensea.io/collection/panda-766)</details> |
+| **E3E** | ![Image](https://i.seadn.io/s/raw/files/44cc17d1db0633896ce3c8d98d82c0d0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[E3E](https://opensea.io/collection/e3e-1)</details> |
+| **CZ** | ![Image](https://i.seadn.io/s/raw/files/7e6c31a608db9fafa756176e730da0d3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CZ](https://opensea.io/collection/cz-92)</details> |
 
 </div>
