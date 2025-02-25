@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FFFRENZ** | ![Image](https://i.seadn.io/s/raw/files/8cf5b8b883ae8e61e92732c17987e4cd.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FFFRENZ](https://opensea.io/collection/fffrenz-52)</details> |
+| **ABC** | ![Image](https://i.seadn.io/s/raw/files/302355aa27d0b1816c93dcdff1c2e4fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ABC](https://opensea.io/collection/abc-519)</details> |
 
 </div>
