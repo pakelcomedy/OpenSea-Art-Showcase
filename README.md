@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **riaglucurel1977** | ![Image](https://i.seadn.io/s/raw/files/761bcb82ec46a04bdfcba1d663b16507.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[riaglucurel1977](https://opensea.io/collection/riaglucurel1977)</details> |
+| **<details><summary>Machine Halluci...</summary>Machine Hallucinations - Nature Dreams By Refik anadol</details>** | ![Image](https://i.seadn.io/s/raw/files/e2e9e30886d92e0dea6780ea92540cf6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Machine Hallucinations - Nature Dreams By Refik anadol](https://opensea.io/collection/machine-hallucinations-nature-dreams-by-refik-anad)</details> |
 
 </div>
