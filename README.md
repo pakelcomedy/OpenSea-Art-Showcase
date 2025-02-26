@@ -6,12 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Chimera by Azgr...</summary>Chimera by Azgrakth x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/5e1b40aec2d83cd4f7d75bf2cd4e6e6f.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user Azgrakth as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/Shattericuss/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Chimera by Azgrakth x Reddit Collectible Avatars](https://opensea.io/collection/chimera-by-azgrakth-x-reddit-collectible-avatars)</details> |
+| **monkey** | ![Image](https://i.seadn.io/s/raw/files/573cacb40c9f01b6f373bd820b2858d0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[monkey](https://opensea.io/collection/monkey-1519)</details> |
+| **pikachu girl #6** | ![Image](https://i.seadn.io/s/raw/files/8b3131167d94e47e39ebfe061680d6d9.jpg?w=500&auto=format?w=200&auto=format) | pikachu girl | <details><summary>Link</summary>[pikachu girl #6](https://opensea.io/collection/pikachu-girl-6)</details> |
 
 </div>
