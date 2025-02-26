@@ -6,13 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **neoner** | ![Image](https://i.seadn.io/s/raw/files/a25292ba44aa5aebc3d2168f878cd64b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[neoner](https://opensea.io/collection/neoner)</details> |
-| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #317792 - Publication #104</details>** | ![Image](https://i.seadn.io/s/raw/files/3d21430c018236ddefdaaafa82bc3a07.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #317792 - Publication #104](https://opensea.io/collection/lens-collect-profile-317792-publication-104)</details> |
-| **🤝HJD『AI+』少女と龍** | ![Image](https://i.seadn.io/s/raw/files/1506278e833ae155a6e4380c7082cce3.png?w=500&auto=format?w=200&auto=format) | <details><summary>AIで出した絵に手描きで龍をプラス
-イラスト『AI +』をフ...</summary>AIで出した絵に手描きで龍をプラス
-イラスト『AI +』をフリミンいたします
-⠀
-目的はフォロワー増やしですがすでにフォローしていただいている方もお気軽にお迎えください✨
-よろしければタスククリアして手に入れてください🌈</details> | <details><summary>Link</summary>[🤝HJD『AI+』少女と龍](https://opensea.io/collection/hjd-ai-shao-nu-tolong)</details> |
+| **Oooga Beras** | ![Image](https://i.seadn.io/s/raw/files/32caba03fa65a0e51dac7bae4e3e5cc6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Oooga Beras](https://opensea.io/collection/oooga-beras-112)</details> |
+| **10 DOLLAR SALE** | ![Image](https://i.seadn.io/s/raw/files/6fea0d8c81b2c732ea37df0e676af57a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[10 DOLLAR SALE](https://opensea.io/collection/10-dollar-sale)</details> |
+| **Vol Surfers** | ![Image](https://i.seadn.io/s/raw/files/b3a5b074c75cce7a8c17f1b1890976a9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Vol Surfers](https://opensea.io/collection/vol-surfers-155)</details> |
 
 </div>
