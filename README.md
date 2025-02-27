@@ -6,13 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **vsem privet** | ![Image](https://i.seadn.io/s/raw/files/c9852e36bdf1c9397fb30e5344d4c61f.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>hello
-
-Made with [NFTs2Me.com]...</summary>hello
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[vsem privet](https://opensea.io/collection/vsem-privet-3)</details> |
-| **lam2** | ![Image](https://i.seadn.io/s/raw/files/074e73c4148d5644c46af2bb583ef213.png?w=500&auto=format?w=200&auto=format) | lam lam lam | <details><summary>Link</summary>[lam2](https://opensea.io/collection/lam2)</details> |
-| **fri** | ![Image](https://i.seadn.io/s/raw/files/91cef86e591cf949d7a0714edb483f8e.png?w=500&auto=format?w=200&auto=format) | fraction | <details><summary>Link</summary>[fri](https://opensea.io/collection/fri-12)</details> |
-| **SecretGoros** | ![Image](https://i.seadn.io/s/raw/files/52a8abfef8a71e4993fd9f38eaaa836e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SecretGoros](https://opensea.io/collection/secretgoros)</details> |
+| **<details><summary>Heavenly Fire S...</summary>Heavenly Fire Sword</details>** | ![Image](https://i.seadn.io/s/raw/files/df24fc331dcfe40d3e59b4ba7a595d17.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heavenly Fire Sword](https://opensea.io/collection/heavenly-fire-sword)</details> |
+| **<details><summary>24karat Origina...</summary>24karat Original Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/24db59008f54c8c3dfa23252d61fd0eb.png?w=500&auto=format?w=200&auto=format) | <details><summary>The 24karat Original Collectio...</summary>The 24karat Original Collection collection</details> | <details><summary>Link</summary>[24karat Original Collection](https://opensea.io/collection/24karat-original-collection-2)</details> |
 
 </div>
