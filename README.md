@@ -6,6 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Machine Halluci...</summary>Machine Hallucinations - Nature Dreams By Refik anadol</details>** | ![Image](https://i.seadn.io/s/raw/files/e2e9e30886d92e0dea6780ea92540cf6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Machine Hallucinations - Nature Dreams By Refik anadol](https://opensea.io/collection/machine-hallucinations-nature-dreams-by-refik-anad)</details> |
+| **<details><summary>Cheeky Woods by...</summary>Cheeky Woods by AstoreFaber x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/3c36330dd3862189e1d065ddbaac8f39.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user AstoreFaber as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/AstoreFaber/).
+
+Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
+
+[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
+
+[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Cheeky Woods by AstoreFaber x Reddit Collectible Avatars](https://opensea.io/collection/cheeky-woods-by-astorefaber-x-reddit-collectible-a)</details> |
 
 </div>
