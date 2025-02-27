@@ -6,12 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Cheeky Woods by...</summary>Cheeky Woods by AstoreFaber x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/3c36330dd3862189e1d065ddbaac8f39.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user AstoreFaber as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/AstoreFaber/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Cheeky Woods by AstoreFaber x Reddit Collectible Avatars](https://opensea.io/collection/cheeky-woods-by-astorefaber-x-reddit-collectible-a)</details> |
+| **<details><summary>Eclipse Origins...</summary>Eclipse Origins: The Unspoken Range</details>** | ![Image](https://i.seadn.io/s/raw/files/0fe5d0bd129daa228ea4eb6dd0351207.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Eclipse Origins: The Unspoken Range](https://opensea.io/collection/eclipse-origins-the-unspoken-range)</details> |
+| **<details><summary>Linglong Eight ...</summary>Linglong Eight Treasure Buckle</details>** | ![Image](https://i.seadn.io/s/raw/files/d0888e216d96fcc397e9c47f6c30d9ba.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Linglong Eight Treasure Buckle](https://opensea.io/collection/linglong-eight-treasure-buckle)</details> |
 
 </div>
