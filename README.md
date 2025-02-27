@@ -6,8 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BTC Punks** | ![Image](https://i.seadn.io/s/raw/files/6da853ef8463f0b56bd03013029adfbb.gif?w=500&auto=format?w=200&auto=format) | <details><summary>BTC Punks is a classic OG punk...</summary>BTC Punks is a classic OG punk collection on Abstract Chain, staying true to the original punk spirit while thriving in a new digital frontier.</details> | <details><summary>Link</summary>[BTC Punks](https://opensea.io/collection/btc-punks-282)</details> |
-| **Bera Punks** | ![Image](https://i.seadn.io/s/raw/files/998b507416d66daf585aab189cd2382a.png?w=500&auto=format?w=200&auto=format) | <details><summary>Bera Punks is a classic punk-i...</summary>Bera Punks is a classic punk-inspired NFT collection on Berachain, combining the raw energy of OG punks with the unique spirit of the Bera ecosystem.</details> | <details><summary>Link</summary>[Bera Punks](https://opensea.io/collection/bera-punks-168)</details> |
-| **<details><summary>Base @ ETHDenve...</summary>Base @ ETHDenver 2025</details>** | ![Image](https://i.seadn.io/s/raw/files/17a0c466577e70ab55518df6aa6774e7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Base @ ETHDenver 2025](https://opensea.io/collection/base-ethdenver-2025-1)</details> |
+| **Geo Tang** | ![Image](https://i.seadn.io/s/raw/files/246ca311e87e251e68515140739a4d3e.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The best!
+
+Made with [NFTs2Me....</summary>The best!
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Geo Tang](https://opensea.io/collection/geo-tang)</details> |
+| **<details><summary>.uni(XNAME on U...</summary>.uni(XNAME on Unichain)</details>** | ![Image](https://raw.seadn.io/files/bf843af40903f45f8826e2c48e55dc13.svg?w=200&auto=format) |  | <details><summary>Link</summary>[.uni(XNAME on Unichain)](https://opensea.io/collection/uni-xname-on-unichain)</details> |
+| **APPLE NFT** | ![Image](https://i.seadn.io/s/raw/files/638f3c531981f5ce3050356eb3822fbe.jpg?w=500&auto=format?w=200&auto=format) | The Apple logo NFT | <details><summary>Link</summary>[APPLE NFT](https://opensea.io/collection/apple-nft-9)</details> |
+| **Automobil** | ![Image](https://i.seadn.io/s/raw/files/a17d0d305735511292c6ca28a527d713.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Automobil](https://opensea.io/collection/automobil-7)</details> |
+| **Kit** | ![Image](https://i.seadn.io/s/raw/files/39c214162e2a51201fee1e45690c4c5e.jpg?w=500&auto=format?w=200&auto=format) | Kit | <details><summary>Link</summary>[Kit](https://opensea.io/collection/kit-122)</details> |
 
 </div>
