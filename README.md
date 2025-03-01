@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Funky Fox #1** | ![Image](https://i.seadn.io/s/raw/files/3aa9b41b7d9c43c94c55f884272feb81.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Funky Fox #1](https://opensea.io/collection/funky-fox-1)</details> |
-| **春の足音・2025** | ![Image](https://i.seadn.io/s/raw/files/c3dcb8f6345feb3f6e943f829c55f64a.png?w=500&auto=format?w=200&auto=format) | 限定1枚！ | <details><summary>Link</summary>[春の足音・2025](https://opensea.io/collection/chun-nozu-yin-2025)</details> |
+| **<details><summary>TheBoyBoys The ...</summary>TheBoyBoys The Multiverse</details>** | ![Image](https://i.seadn.io/s/raw/files/7a115e40859c9a12a34e6f36092788aa.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TheBoyBoys The Multiverse](https://opensea.io/collection/theboyboys-the-multiverse)</details> |
+| **<details><summary>Visit linkv2.or...</summary>Visit linkv2.org to claim rewards</details>** | ![Image](https://i.seadn.io/s/raw/files/92afe8387115b7de94ce3e7a36756337.png?w=500&auto=format?w=200&auto=format) | <details><summary>Visit linkv2.org to claim rewa...</summary>Visit linkv2.org to claim rewards</details> | <details><summary>Link</summary>[Visit linkv2.org to claim rewards](https://opensea.io/collection/visit-linkv2-org-to-claim-rewards-62)</details> |
 
 </div>
