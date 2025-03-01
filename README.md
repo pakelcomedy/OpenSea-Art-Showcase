@@ -6,13 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **sexai** | ![Image](https://i.seadn.io/s/raw/files/4041a8829359ee7addd39118962effb4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sexai](https://opensea.io/collection/sexai-1)</details> |
-| **<details><summary>Saturni by Asto...</summary>Saturni by AstoreFaber x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/5c27eb3d37382c3229aa02ea7f82234e.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user AstoreFaber as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/AstoreFaber/).
+| **Moshicam** | ![Image](https://i.seadn.io/s/raw/files/d59e97b5b3f94df810b67ffd69baead4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moshicam](https://opensea.io/collection/moshicam-5274)</details> |
+| **0 ®** | ![Image](https://i.seadn.io/s/raw/files/85613f2bb667788ec046d599665b3124.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>0 ® (0®) is a Bonding Curved E...</summary>0 ® (0®) is a Bonding Curved ERC-1155 token created on mint.club.
 
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
+Backed by Wrapped AVAX (WAVAX) on Avalanche chain.
 
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Saturni by AstoreFaber x Reddit Collectible Avatars](https://opensea.io/collection/saturni-by-astorefaber-x-reddit-collectible-avatar)</details> |
+https://mint.club/nft/avalanche/0%C2%AE</details> | <details><summary>Link</summary>[0 ®](https://opensea.io/collection/0-r)</details> |
+| **Mon** | ![Image](https://i.seadn.io/s/raw/files/d618fccd2803d1d5a7e87d2ab74c2d8a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mon](https://opensea.io/collection/mon-90)</details> |
 
 </div>
