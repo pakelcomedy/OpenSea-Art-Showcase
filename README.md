@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FFFRENZ** | ![Image](https://i.seadn.io/s/raw/files/8cf5b8b883ae8e61e92732c17987e4cd.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FFFRENZ](https://opensea.io/collection/fffrenz-116)</details> |
-| **Pepe Portraits** | ![Image](https://i.seadn.io/s/raw/files/ca206e0d66a5e45eb083915b6146b894.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pepe Portraits](https://opensea.io/collection/pepe-portraits-130)</details> |
+| **NFTstarter** | ![Image](https://i.seadn.io/s/raw/files/94c06b19bf4108714fb40fd5d5a23dd6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFTstarter](https://opensea.io/collection/nftstarter)</details> |
 
 </div>
