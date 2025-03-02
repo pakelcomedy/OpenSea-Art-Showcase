@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Cell Malfunctio...</summary>Cell Malfunctions Screenshots</details>** | ![Image](https://i.seadn.io/s/raw/files/1ba6a429b81accdd659535e1b8f3c2a7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cell Malfunctions Screenshots](https://opensea.io/collection/cell-malfunctions-screenshots)</details> |
+| **flowers** | ![Image](https://i.seadn.io/s/raw/files/667b47c5b0f325f518c2328d81a0618d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[flowers](https://opensea.io/collection/flowers-1239)</details> |
 
 </div>
