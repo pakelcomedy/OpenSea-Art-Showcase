@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Download** | ![Image](https://i.seadn.io/s/raw/files/cc50aa65313f85aff71d17d2e554b20b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Podcast amp morocco sustainabl...</summary>Podcast amp morocco sustainable constraint duo roof</details> | <details><summary>Link</summary>[Download](https://opensea.io/collection/download-14)</details> |
+| **Mix** | ![Image](https://i.seadn.io/s/raw/files/8fbaad5ed31c98faca0354e2ca9a4afb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mix](https://opensea.io/collection/mix-103)</details> |
 
 </div>
