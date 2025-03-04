@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **gjgykuykgy** | ![Image](https://i.seadn.io/s/raw/files/f4bce4dae432f45428a01ad8edc40701.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[gjgykuykgy](https://opensea.io/collection/gjgykuykgy)</details> |
+| **Words** | ![Image](https://i.seadn.io/s/raw/files/af0bd827d115890586802ca624db1edf.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Words](https://opensea.io/collection/words-47)</details> |
+| **FFFRENZ** | ![Image](https://i.seadn.io/s/raw/files/8cf5b8b883ae8e61e92732c17987e4cd.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FFFRENZ](https://opensea.io/collection/fffrenz-147)</details> |
 
 </div>
