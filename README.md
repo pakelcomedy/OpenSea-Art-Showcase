@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mix** | ![Image](https://i.seadn.io/s/raw/files/8fbaad5ed31c98faca0354e2ca9a4afb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mix](https://opensea.io/collection/mix-103)</details> |
+| **Oooga Beras** | ![Image](https://i.seadn.io/s/raw/files/32caba03fa65a0e51dac7bae4e3e5cc6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Oooga Beras](https://opensea.io/collection/oooga-beras-165)</details> |
 
 </div>
