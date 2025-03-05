@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>ODLabs MERCURIU...</summary>ODLabs MERCURIUS</details>** | ![Image](https://i.seadn.io/s/raw/files/f415a67e76d1f781f4327c5f917f1174.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ODLabs MERCURIUS](https://opensea.io/collection/odlabs-mercurius-1)</details> |
+| **DOGI** | ![Image](https://i.seadn.io/s/raw/files/58136049b9a941fc347caed1552011bb.jpg?w=500&auto=format?w=200&auto=format) | DOGI | <details><summary>Link</summary>[DOGI](https://opensea.io/collection/dogi-61)</details> |
 
 </div>
