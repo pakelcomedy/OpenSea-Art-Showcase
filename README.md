@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **MEOW** | ![Image](https://i.seadn.io/s/raw/files/b8bd9a8703607741cf089b030cb73fbf.png?w=500&auto=format?w=200&auto=format) | MEOW | <details><summary>Link</summary>[MEOW](https://opensea.io/collection/meow-259)</details> |
+| **Escape Velocity** | ![Image](https://i.seadn.io/s/raw/files/94cb003d85a2dafbafbb2dd310a6858c.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Escape Velocity](https://opensea.io/collection/escape-velocity-3)</details> |
 
 </div>
