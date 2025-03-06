@@ -6,6 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Go Wallet - PT1...</summary>Go Wallet - PT101 Fitness</details>** | ![Image](https://i.seadn.io/s/raw/files/f0bab41c25f6942f6d0d3921941c8156.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Go Wallet - PT101 Fitness](https://opensea.io/collection/go-wallet-pt101-fitness)</details> |
+| **geg** | ![Image](https://i.seadn.io/s/raw/files/8ca7440e4ab6f6ae5fc79104c089b15b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>egegg
+
+Made with [NFTs2Me.com]...</summary>egegg
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[geg](https://opensea.io/collection/geg-14)</details> |
 
 </div>
