@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **GS PAD** | ![Image](https://i.seadn.io/s/raw/files/967ddb48532952828bf4bc277554b32a.png?w=500&auto=format?w=200&auto=format) | GS PAD | <details><summary>Link</summary>[GS PAD](https://opensea.io/collection/gs-pad)</details> |
-| **Trenchers** | ![Image](https://i.seadn.io/s/raw/files/8c6bea95511ce9e5678eea5fda0b4b8c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trenchers](https://opensea.io/collection/trenchers-3)</details> |
+| **Love with BTC** | ![Image](https://i.seadn.io/s/raw/files/79a1d16c77a3dfee19056c042c0fbcfb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Love with BTC](https://opensea.io/collection/love-with-btc)</details> |
+| **TicketMeEvent** | ![Image](https://i.seadn.io/s/raw/files/6c58eb9ca1ac140905ee97be1cece8bc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TicketMeEvent](https://opensea.io/collection/ticketmeevent-1838)</details> |
 
 </div>
