@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Solana Weekly** | ![Image](https://i.seadn.io/s/raw/files/c49926d4e48fef5ba64cfda76f6a86ed.png?w=500&auto=format?w=200&auto=format) | Solana...Weekly | <details><summary>Link</summary>[Solana Weekly](https://opensea.io/collection/solana-weekly)</details> |
+| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #369334 - Publication #64</details>** | ![Image](https://i.seadn.io/s/raw/files/561b7e160436f60aac89296f1910eb20.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #369334 - Publication #64](https://opensea.io/collection/lens-collect-profile-369334-publication-64)</details> |
 
 </div>
