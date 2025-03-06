@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **my bored cat** | ![Image](https://i.seadn.io/s/raw/files/03c260070ff8ded6a0261db519beb264.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[my bored cat](https://opensea.io/collection/my-bored-cat-1)</details> |
+| **Goods Asn Incl** | ![Image](https://i.seadn.io/s/raw/files/47106a6c2e2ddd086a3370012517b1e5.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Mom continuing amy subtle prin...</summary>Mom continuing amy subtle printer holdem</details> | <details><summary>Link</summary>[Goods Asn Incl](https://opensea.io/collection/goods-asn-incl)</details> |
+| **<details><summary>Nym Community C...</summary>Nym Community Call: NymVPN — T-7 Days Until Liftoff</details>** | ![Image](https://i.seadn.io/s/raw/files/ddcf399c9ad24f6ab507c1b1c0c76031.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nym Community Call: NymVPN — T-7 Days Until Liftoff](https://opensea.io/collection/nym-community-call-nymvpn-t-7-days-until-liftoff)</details> |
 
 </div>
