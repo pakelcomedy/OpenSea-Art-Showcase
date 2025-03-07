@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Puffin Mfers** | ![Image](https://i.seadn.io/s/raw/files/290dbb03aee28c2951169326a4caceac.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Puffin Mfers](https://opensea.io/collection/puffin-mfers)</details> |
+| **Zora Posts** | ![Image](https://i.seadn.io/s/raw/files/30d134afd55361e64318ea6281bfba2a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Create and connect onchain. ht...</summary>Create and connect onchain. https://zora.co</details> | <details><summary>Link</summary>[Zora Posts](https://opensea.io/collection/zora-posts-27720)</details> |
 
 </div>
