@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ark Artist** | ![Image](https://i.seadn.io/s/raw/files/bc6a54ea5fbb2ac757393ee4f1b6c9b5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ark Artist](https://opensea.io/collection/ark-artist-1)</details> |
+| **NAKAMOTO** | ![Image](https://i.seadn.io/s/raw/files/abf574823cfc15d16f617b2622c40124.png?w=500&auto=format?w=200&auto=format) | NAKAMOTO | <details><summary>Link</summary>[NAKAMOTO](https://opensea.io/collection/nakamoto-16)</details> |
+| **ANGRY TOKEN** | ![Image](https://i.seadn.io/s/raw/files/a78241e36aa0aa7ae65fff732f5ed32f.jpg?w=500&auto=format?w=200&auto=format) | ANGRY TOKEN | <details><summary>Link</summary>[ANGRY TOKEN](https://opensea.io/collection/angry-token-1)</details> |
 
 </div>
