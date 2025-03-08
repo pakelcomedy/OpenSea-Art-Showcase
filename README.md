@@ -6,9 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **MONERO** | ![Image](https://i.seadn.io/s/raw/files/ef13bccb6fdac45bb4bb096a2d5cdfe5.jpg?w=500&auto=format?w=200&auto=format) | MONERO | <details><summary>Link</summary>[MONERO](https://opensea.io/collection/monero-5)</details> |
-| **Chainlink** | ![Image](https://i.seadn.io/s/raw/files/7647c2b539e5d1cd4a83d0be17786430.jpg?w=500&auto=format?w=200&auto=format) | Chainlink | <details><summary>Link</summary>[Chainlink](https://opensea.io/collection/chainlink-13)</details> |
-| **SyncSwap** | ![Image](https://i.seadn.io/s/raw/files/904591b6b1b7c4e9a379875b89a0fb2d.jpg?w=500&auto=format?w=200&auto=format) | SyncSwap | <details><summary>Link</summary>[SyncSwap](https://opensea.io/collection/syncswap-15)</details> |
-| **POLKADOT** | ![Image](https://i.seadn.io/s/raw/files/15b596c07ed7f1dc092d6f3bb3f1d0de.jpg?w=500&auto=format?w=200&auto=format) | POLKADOT | <details><summary>Link</summary>[POLKADOT](https://opensea.io/collection/polkadot-13)</details> |
+| **ball** | ![Image](https://i.seadn.io/s/raw/files/1b8073499d18b3a82fd080ad2d5e49b7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ball](https://opensea.io/collection/ball-297)</details> |
+| **<details><summary>Most Web3 Proje...</summary>Most Web3 Projects Fail in 3 Months</details>** | ![Image](https://i.seadn.io/s/raw/files/3015615809dbde964925e32807bd0c3f.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/8453/0x9864...</summary>https://mirror.xyz/8453/0x9864824f92b7843515d3e3bf5dadd0559820364b</details> | <details><summary>Link</summary>[Most Web3 Projects Fail in 3 Months](https://opensea.io/collection/most-web3-projects-fail-in-3-months)</details> |
+| **NGUITARS** | ![Image](https://i.seadn.io/s/raw/files/e3514737f591be30b4d41932160bea66.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NGUITARS](https://opensea.io/collection/nguitars)</details> |
+| **Weird Meme Card** | ![Image](https://i.seadn.io/s/raw/files/84a05471902176d0aff87e011e035951.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Weird Meme Card #1
+
+Made with ...</summary>Weird Meme Card #1
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Weird Meme Card](https://opensea.io/collection/weird-meme-card)</details> |
 
 </div>
