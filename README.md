@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **KITTY** | ![Image](https://i.seadn.io/s/raw/files/50a67799c18bef8e28f341f5fbc1284d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[KITTY](https://opensea.io/collection/kitty-434)</details> |
-| **<details><summary>Paint at 3:00 a...</summary>Paint at 3:00 am</details>** | ![Image](https://i.seadn.io/s/raw/files/9d91a867c6e1886cc7436be765f2fcd2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Paint at 3:00 am](https://opensea.io/collection/paint-at-3-00-am)</details> |
-| **LOVECOIN** | ![Image](https://i.seadn.io/s/raw/files/cdbd076744ab36db2ef798e2b4c6833e.png?w=500&auto=format?w=200&auto=format) | LOVECOIN | <details><summary>Link</summary>[LOVECOIN](https://opensea.io/collection/lovecoin-5)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/9aaee12c79296cdedee9313103b1200d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6697)</details> |
+| **<details><summary>Solar Dance Acr...</summary>Solar Dance Across the Horizon</details>** | ![Image](https://i.seadn.io/s/raw/files/ad59b39b02fc87e076e1d1c571ecb58e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Solar Dance Across the Horizon](https://opensea.io/collection/solar-dance-across-the-horizon)</details> |
+| **Cat in suit** | ![Image](https://i.seadn.io/s/raw/files/65854516b65d58ff0f812677b4cbdbf3.jpg?w=500&auto=format?w=200&auto=format) | business cat | <details><summary>Link</summary>[Cat in suit](https://opensea.io/collection/cat-in-suit-1)</details> |
 
 </div>
