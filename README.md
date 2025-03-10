@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/9aaee12c79296cdedee9313103b1200d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-6697)</details> |
-| **<details><summary>Solar Dance Acr...</summary>Solar Dance Across the Horizon</details>** | ![Image](https://i.seadn.io/s/raw/files/ad59b39b02fc87e076e1d1c571ecb58e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Solar Dance Across the Horizon](https://opensea.io/collection/solar-dance-across-the-horizon)</details> |
-| **Cat in suit** | ![Image](https://i.seadn.io/s/raw/files/65854516b65d58ff0f812677b4cbdbf3.jpg?w=500&auto=format?w=200&auto=format) | business cat | <details><summary>Link</summary>[Cat in suit](https://opensea.io/collection/cat-in-suit-1)</details> |
+| **Ml98** | ![Image](https://i.seadn.io/s/raw/files/16648cb2ebdfdb9a4843be540f7f19df.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ml98](https://opensea.io/collection/ml98)</details> |
+| **Ml09** | ![Image](https://i.seadn.io/s/raw/files/2300b940b29405e1363473cc8c1ec407.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ml09](https://opensea.io/collection/ml09)</details> |
+| **Mosaic** | ![Image](https://raw.seadn.io/files/fbf8dc220fa7d8eb902fd056e8a1515a.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Mosaic](https://opensea.io/collection/mosaic-109)</details> |
 
 </div>
