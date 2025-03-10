@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Rollercoaster C...</summary>Rollercoaster Collage 076</details>** | ![Image](https://i.seadn.io/s/raw/files/d2063251ceee41d8f06612333b0ba183.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Before I started using AI I us...</summary>Before I started using AI I used to combine different photos of mine and come up with my own collages. Photos from above , from the ground, add effects and more. I remember the apps of choice were Juxtaposer, Lightroom and more. I will start doing these collages again… so much fun NGL
---
-See more by Deftony on Remx at remx.xyz/deftony</details> | <details><summary>Link</summary>[Rollercoaster Collage 076](https://opensea.io/collection/rollercoaster-collage-076)</details> |
+| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #153684 - Publication #4</details>** | ![Image](https://i.seadn.io/s/raw/files/9f1a6ecfdc2e83834cefa9f5cebc57be.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #153684 - Publication #4](https://opensea.io/collection/lens-collect-profile-153684-publication-4)</details> |
+| **G** | ![Image](https://i.seadn.io/s/raw/files/b57c2c892772ae8a35277ea102bf24ba.png?w=500&auto=format?w=200&auto=format) | G | <details><summary>Link</summary>[G](https://opensea.io/collection/g-1471)</details> |
+| **SUNDORE** | ![Image](https://i.seadn.io/s/raw/files/0ba54be511515f1664ee51be2b592810.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SUNDORE](https://opensea.io/collection/sundore)</details> |
 
 </div>
