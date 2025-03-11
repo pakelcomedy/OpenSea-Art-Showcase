@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>556170's Follow...</summary>556170's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[556170's Follower](https://opensea.io/collection/556170-s-follower)</details> |
-| **Heating** | ![Image](https://i.seadn.io/s/raw/files/7c028850174df48092978f8d3e2920da.png?w=500&auto=format?w=200&auto=format) | Heating | <details><summary>Link</summary>[Heating](https://opensea.io/collection/heating-9)</details> |
-| **SHARE** | ![Image](https://i.seadn.io/s/raw/files/845fdca61caa2862368448a53d86b9d1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SHARE](https://opensea.io/collection/share-3212)</details> |
+| **Ocean Waves** | ![Image](https://i.seadn.io/s/raw/files/cd932ab29bb6f3d96f31c7534c9a5922.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ocean Waves](https://opensea.io/collection/ocean-waves-15)</details> |
+| **<details><summary>2025 그린캠프 페스티벌 ...</summary>2025 그린캠프 페스티벌 호텔권</details>** | ![Image](https://i.seadn.io/s/raw/files/7e94422e309010e41394d44112c8ad94.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[2025 그린캠프 페스티벌 호텔권](https://opensea.io/collection/2025-geurinkaempeu-peseutibeol-hotelgweon)</details> |
 
 </div>
