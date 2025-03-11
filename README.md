@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Pudgy World** | ![Image](https://i.seadn.io/s/raw/files/b599dc27edeac671fb28a0da4c4e5f4e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pudgy World](https://opensea.io/collection/pudgy-world-313)</details> |
-| **Pudgy World** | ![Image](https://i.seadn.io/s/raw/files/b599dc27edeac671fb28a0da4c4e5f4e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pudgy World](https://opensea.io/collection/pudgy-world-312)</details> |
-| **Training Hollow** | ![Image](https://i.seadn.io/s/raw/files/ceebf464c30d9e64c4cc427dc69d219a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Audience jun dui whatever diag...</summary>Audience jun dui whatever diagnosis trained sponsored luke ringtone</details> | <details><summary>Link</summary>[Training Hollow](https://opensea.io/collection/training-hollow)</details> |
+| **Adelaide** | ![Image](https://i.seadn.io/s/raw/files/2fca02eae85ee70d8e4858550aa72525.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Adelaide](https://opensea.io/collection/adelaide-15)</details> |
+| **KING** | ![Image](https://i.seadn.io/s/raw/files/b214192fd28b7ee852fffcac02de4b44.png?w=500&auto=format?w=200&auto=format) | KING | <details><summary>Link</summary>[KING](https://opensea.io/collection/king-470)</details> |
+| **AllinONE** | ![Image](https://i.seadn.io/s/raw/files/8d979065b8bec0b1aad0919153e1f274.png?w=500&auto=format?w=200&auto=format) | AllinONE | <details><summary>Link</summary>[AllinONE](https://opensea.io/collection/allinone-3)</details> |
 
 </div>
