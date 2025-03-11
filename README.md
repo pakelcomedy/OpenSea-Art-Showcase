@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Enforcement Enc...</summary>Enforcement Encoding Samples</details>** | ![Image](https://i.seadn.io/s/raw/files/23ee79ebad83f53d6c2defcbdc88eab8.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Attachment scripting readings ...</summary>Attachment scripting readings sale fruits academics walter assist</details> | <details><summary>Link</summary>[Enforcement Encoding Samples](https://opensea.io/collection/enforcement-encoding-samples)</details> |
+| **<details><summary>Ethereal Fragme...</summary>Ethereal Fragments</details>** | ![Image](https://i.seadn.io/s/raw/files/e201fe261c5e3ddf950cbc5461835a70.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ethereal Fragments](https://opensea.io/collection/ethereal-fragments-2)</details> |
+| **pine** | ![Image](https://i.seadn.io/s/raw/files/481ade896473ab1d227f5ac4f6f2ba4c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pine](https://opensea.io/collection/pine-35)</details> |
 
 </div>
