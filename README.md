@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **poloovnik** | ![Image](https://i.seadn.io/s/raw/files/cb507817117544851568980d430d8998.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[poloovnik](https://opensea.io/collection/poloovnik)</details> |
+| **Raid** | ![Image](https://i.seadn.io/s/raw/files/981362298aff3e531efab809ef22e080.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Itunes adults printers jpeg re...</summary>Itunes adults printers jpeg reflect</details> | <details><summary>Link</summary>[Raid](https://opensea.io/collection/raid-18)</details> |
 
 </div>
