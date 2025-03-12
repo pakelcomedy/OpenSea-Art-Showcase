@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Soneium Arcade** | ![Image](https://i.seadn.io/s/raw/files/dfafa745529a04649956b39a0bf589e9.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Step into the neon-lit nostalg...</summary>Step into the neon-lit nostalgia of a classic arcade with this vibrant NFT featuring an iconic 'Soneium' game. Limited to 555 pieces. 
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Soneium Arcade](https://opensea.io/collection/soneium-arcade-1)</details> |
+| **Delivers Cv** | ![Image](https://i.seadn.io/s/raw/files/53a5a0076d6bc89b5b567d684b08135d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Advertising faced province bla...</summary>Advertising faced province blah preventing</details> | <details><summary>Link</summary>[Delivers Cv](https://opensea.io/collection/delivers-cv)</details> |
+| **Charitable** | ![Image](https://i.seadn.io/s/raw/files/8d36dbcbe1257fb24037faee943eb63c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Relaxation fs belize verde gc ...</summary>Relaxation fs belize verde gc adaptive reviewing</details> | <details><summary>Link</summary>[Charitable](https://opensea.io/collection/charitable-10)</details> |
 
 </div>
