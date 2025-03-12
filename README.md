@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ddd** | ![Image](https://i.seadn.io/s/raw/files/3f04dbb67e5bc3e980b68636044f71f3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ddd](https://opensea.io/collection/ddd-255)</details> |
-| **<details><summary>Etc Closer Geni...</summary>Etc Closer Genius</details>** | ![Image](https://i.seadn.io/s/raw/files/9021937ca2e7b033284d4d420ead905b.jpg?w=500&auto=format?w=200&auto=format) | Trying murray ou blowing | <details><summary>Link</summary>[Etc Closer Genius](https://opensea.io/collection/etc-closer-genius)</details> |
+| **Funk Brake** | ![Image](https://i.seadn.io/s/raw/files/8ed0f6b53f8dbf602a554decf88c958d.jpg?w=500&auto=format?w=200&auto=format) | Builder static ca | <details><summary>Link</summary>[Funk Brake](https://opensea.io/collection/funk-brake)</details> |
+| **burzum** | ![Image](https://i.seadn.io/s/raw/files/4f2e2dc5a5628f9f7ce86239d66fd1b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[burzum](https://opensea.io/collection/burzum-3)</details> |
 
 </div>
