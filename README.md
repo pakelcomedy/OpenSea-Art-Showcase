@@ -6,6 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Blipi** | ![Image](https://i.seadn.io/s/raw/files/bf46b7a05b982f75e1f659e6c1cd90f6.jpg?w=500&auto=format?w=200&auto=format) | blipi blipi | <details><summary>Link</summary>[Blipi](https://opensea.io/collection/blipi)</details> |
+| **Soneium Arcade** | ![Image](https://i.seadn.io/s/raw/files/dfafa745529a04649956b39a0bf589e9.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Step into the neon-lit nostalg...</summary>Step into the neon-lit nostalgia of a classic arcade with this vibrant NFT featuring an iconic 'Soneium' game. Limited to 555 pieces. 
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Soneium Arcade](https://opensea.io/collection/soneium-arcade-1)</details> |
 
 </div>
