@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Reprints** | ![Image](https://i.seadn.io/s/raw/files/a9031de981f7fbed884ae4718eb744b7.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Intl output together arlington...</summary>Intl output together arlington attention</details> | <details><summary>Link</summary>[Reprints](https://opensea.io/collection/reprints-6)</details> |
-| **Oksiukas** | ![Image](https://i.seadn.io/s/raw/files/e9725646e1f0aab86bd1d0355147f89f.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Oksiukas](https://opensea.io/collection/oksiukas)</details> |
-| **ddf3425453** | ![Image](https://i.seadn.io/s/raw/files/faaad76d7f6563743e54d7b73632ddde.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ddf3425453](https://opensea.io/collection/ddf3425453)</details> |
+| **AAD** | ![Image](https://i.seadn.io/s/raw/files/dee18763c2371adaea4d7b0947e23a11.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AAD](https://opensea.io/collection/aad-9)</details> |
+| **red33** | ![Image](https://i.seadn.io/s/raw/files/33c38794a87bd6dc69b8e621e1ec8974.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[red33](https://opensea.io/collection/red33)</details> |
+| **pretty** | ![Image](https://i.seadn.io/s/raw/files/ea7660fdb3f9a776b190fbbdecfcba5f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pretty](https://opensea.io/collection/pretty-84)</details> |
 
 </div>
