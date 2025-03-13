@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Friends From In...</summary>Friends From Infinita City</details>** | ![Image](https://i.seadn.io/s/raw/files/e4944f71a5d4626a5f9ebe01fef7bcd9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Friends From Infinita City](https://opensea.io/collection/friends-from-infinita-city)</details> |
-| **ui** | ![Image](https://i.seadn.io/s/raw/files/c5be4fbe78414a698edbf60267ad6650.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ui](https://opensea.io/collection/ui-68)</details> |
+| **Eat Denial Tgp** | ![Image](https://i.seadn.io/s/raw/files/3acc4b10c341c8ec8776378d84e11d12.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Percentage king forecasts cont...</summary>Percentage king forecasts contractors muslim</details> | <details><summary>Link</summary>[Eat Denial Tgp](https://opensea.io/collection/eat-denial-tgp)</details> |
+| **<details><summary>Publicists Scar...</summary>Publicists Scarth</details>** | ![Image](https://i.seadn.io/s/raw/files/bf2a5e2f388400179fc9a91305ee96a4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Publicists Scarth](https://opensea.io/collection/publicists-scarth)</details> |
 
 </div>
