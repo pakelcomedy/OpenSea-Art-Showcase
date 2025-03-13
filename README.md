@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Blackoid** | ![Image](https://i.seadn.io/s/raw/files/2b9c52aa8e8e199d753ec76a4cc63cb8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Blackoid](https://opensea.io/collection/blackoid-1)</details> |
-| **Goblins chasing** | ![Image](https://i.seadn.io/s/raw/files/18cd6b331a9e3e584fd76c1f00f3f49b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Goblins chasing](https://opensea.io/collection/goblins-chasing-1)</details> |
+| **Finance** | ![Image](https://i.seadn.io/s/raw/files/9f295f2ae3cb51cd515b296b1ec155f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Elements threats ww months dir...</summary>Elements threats ww months directed consultation amsterdam ccd municipality</details> | <details><summary>Link</summary>[Finance](https://opensea.io/collection/finance-28)</details> |
 
 </div>
