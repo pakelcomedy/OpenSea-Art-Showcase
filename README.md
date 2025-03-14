@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FFFRЕNZ** | ![Image](https://i.seadn.io/s/raw/files/8cf5b8b883ae8e61e92732c17987e4cd.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FFFRЕNZ](https://opensea.io/collection/fffrenz-290)</details> |
-| **<details><summary>Accommodate Doo...</summary>Accommodate Doors</details>** | ![Image](https://i.seadn.io/s/raw/files/113543af24871f56f2a83274e7f73308.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Criteria usgs harassment kenne...</summary>Criteria usgs harassment kennedy shell around rankings</details> | <details><summary>Link</summary>[Accommodate Doors](https://opensea.io/collection/accommodate-doors)</details> |
+| **<details><summary>Shibyx Collecti...</summary>Shibyx Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/75c066edbbed52c664cc456392129647.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Shibyx Collection](https://opensea.io/collection/shibyx-collection-24)</details> |
+| **APE** | ![Image](https://i.seadn.io/s/raw/files/18aadb5c24d93684ebebfb367948f4b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[APE](https://opensea.io/collection/ape-636)</details> |
 
 </div>
