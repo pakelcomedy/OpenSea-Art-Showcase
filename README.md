@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **seasa111** | ![Image](https://i.seadn.io/s/raw/files/14eee928a75a47e440dc52743b607be7.jpg?w=500&auto=format?w=200&auto=format) | sea | <details><summary>Link</summary>[seasa111](https://opensea.io/collection/seasa111)</details> |
-| **sea9** | ![Image](https://i.seadn.io/s/raw/files/d3c3b396581f2a3b7422fe4b48c25218.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sea9](https://opensea.io/collection/sea9)</details> |
-| **sea10** | ![Image](https://i.seadn.io/s/raw/files/2e31ea37529b25a0462e106ff5c405d3.jpg?w=500&auto=format?w=200&auto=format) | sea | <details><summary>Link</summary>[sea10](https://opensea.io/collection/sea10-1)</details> |
+| **<details><summary>Controlled Watc...</summary>Controlled Watching</details>** | ![Image](https://i.seadn.io/s/raw/files/98ffb77219ee2659aec0611efb98e16b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Bend sensor urge compilation s...</summary>Bend sensor urge compilation stereo columnists mainstream computational</details> | <details><summary>Link</summary>[Controlled Watching](https://opensea.io/collection/controlled-watching)</details> |
+| **<details><summary>Applications Sh...</summary>Applications Sheer</details>** | ![Image](https://i.seadn.io/s/raw/files/5082bb30489ee8dac85450fab8276f7a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Conducting therefore verified ...</summary>Conducting therefore verified policies files more lebanon painful</details> | <details><summary>Link</summary>[Applications Sheer](https://opensea.io/collection/applications-sheer)</details> |
+| **Trekki** | ![Image](https://i.seadn.io/s/raw/files/f78784f10846ab403dd57e9b97e34520.png?w=500&auto=format?w=200&auto=format) | <details><summary>Trekki
+
+Made with [NFTs2Me.com...</summary>Trekki
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Trekki](https://opensea.io/collection/trekki-16)</details> |
 
 </div>
