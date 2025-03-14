@@ -6,11 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **TIKTAKTOE** | ![Image](https://i.seadn.io/s/raw/files/95a1aafe2440f258494dec62daef9868.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TIKTAKTOE](https://opensea.io/collection/tiktaktoe-1)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/9c107ccc4391e899f996b25e770a8f64.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-11809)</details> |
-| **#00291** | ![Image](https://i.seadn.io/s/raw/files/b224a7947321d19a84fcd1f56a0ac415.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Colorful painting in cubism st...</summary>Colorful painting in cubism style
---
-See more by Fakhr on Remx at remx.xyz/fakhr</details> | <details><summary>Link</summary>[#00291](https://opensea.io/collection/00291-1)</details> |
-| **<details><summary>Tuner Guatemala...</summary>Tuner Guatemala Vessel</details>** | ![Image](https://i.seadn.io/s/raw/files/e161bde8c031128dd405703a738dc4ea.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Suffered courier week leon eva...</summary>Suffered courier week leon evaluations</details> | <details><summary>Link</summary>[Tuner Guatemala Vessel](https://opensea.io/collection/tuner-guatemala-vessel)</details> |
+| **my friend** | ![Image](https://i.seadn.io/s/raw/files/5b52c1a6f0ef9760b01587e13bf5aa56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[my friend](https://opensea.io/collection/my-friend-27)</details> |
+| **<details><summary>Soil Edition Br...</summary>Soil Edition Brakes</details>** | ![Image](https://i.seadn.io/s/raw/files/5e84999ae2bfd1bf11897cfc23938847.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Registrar dimensions logical f...</summary>Registrar dimensions logical forth tables books invisible</details> | <details><summary>Link</summary>[Soil Edition Brakes](https://opensea.io/collection/soil-edition-brakes)</details> |
+| **Loud Choosing** | ![Image](https://i.seadn.io/s/raw/files/9a05aa6f8da234375038e2bbf4d716f5.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Degree packages performing pla...</summary>Degree packages performing played moscow likes terrorism chairman mysimon methods</details> | <details><summary>Link</summary>[Loud Choosing](https://opensea.io/collection/loud-choosing)</details> |
 
 </div>
