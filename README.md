@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **The Great Lion** | ![Image](https://i.seadn.io/s/raw/files/dbc6fdb4d67089af89ecf2bff7ae2fbf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Great Lion](https://opensea.io/collection/the-great-lion-2)</details> |
-| **FRUIT** | ![Image](https://i.seadn.io/s/raw/files/6ebcca5d84de19c584cd82a501230737.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FRUIT](https://opensea.io/collection/fruit-158)</details> |
-| **soneium Bored** | ![Image](https://i.seadn.io/s/raw/files/17625125395981ac9218faccb0e6fa0f.webp?w=500&auto=format?w=200&auto=format) | <details><summary>soneium&op
-
-Made with [NFTs2Me...</summary>soneium&op
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[soneium Bored](https://opensea.io/collection/soneium-bored)</details> |
+| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #312979 - Publication #27</details>** | ![Image](https://i.seadn.io/s/raw/files/07258730a0bbc00bfdea14f02f95791d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #312979 - Publication #27](https://opensea.io/collection/lens-collect-profile-312979-publication-27)</details> |
+| **Daniviecmi** | ![Image](https://i.seadn.io/s/raw/files/fe23b2244ac975b1db3024ab2e0bc5a4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Daniviecmi](https://opensea.io/collection/daniviecmi-4)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 23f372cc-919a-47a2-bce5-d46921267b03</details>** | ![Image](https://i.seadn.io/s/raw/files/e02c87bab856abf07475c8f84c93b337.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 23f372cc-919a-47a2-bce5-d46921267b03](https://opensea.io/collection/unidentified-contract-23f372cc-919a-47a2-bce5-d469)</details> |
 
 </div>
