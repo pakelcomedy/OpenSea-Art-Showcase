@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **wsBLST71** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wsBLST71](https://opensea.io/collection/wsblst71)</details> |
-| **wsBLST70** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wsBLST70](https://opensea.io/collection/wsblst70)</details> |
-| **wsBLST69** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wsBLST69](https://opensea.io/collection/wsblst69)</details> |
-| **wsBLST68** | ![Image](https://i.seadn.io/s/raw/files/4305776700f84a18ef8ca8b758ebbcb6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wsBLST68](https://opensea.io/collection/wsblst68)</details> |
+| **gamesiz** | ![Image](https://i.seadn.io/s/raw/files/30c8dc9cedd3ced2da804ec3d1f7deb8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[gamesiz](https://opensea.io/collection/gamesiz)</details> |
+| **<details><summary>Purple Tribe CT...</summary>Purple Tribe CTG S3</details>** | ![Image](https://i.seadn.io/s/raw/files/f8e817c99bbe1865cbb29d11acfaa8b9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Purple Tribe CTG S3](https://opensea.io/collection/purple-tribe-ctg-s3)</details> |
+| **BadCat** | ![Image](https://i.seadn.io/s/raw/files/59112a86f7640a4678f04ab599e2526e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BadCat](https://opensea.io/collection/badcat-6)</details> |
 
 </div>
