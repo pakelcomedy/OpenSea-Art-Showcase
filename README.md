@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Art Tree** | ![Image](https://i.seadn.io/s/raw/files/967510b0cf0f540319933e0d1aa4c775.png?w=500&auto=format?w=200&auto=format) | Art Tree | <details><summary>Link</summary>[Art Tree](https://opensea.io/collection/art-tree-3)</details> |
-| **BeraBaras** | ![Image](https://i.seadn.io/s/raw/files/2213d7283be09a95635f2df715453747.png?w=500&auto=format?w=200&auto=format) | <details><summary>BeraBaras is a unique NFT coll...</summary>BeraBaras is a unique NFT collection built on Berachain, blending creativity and rarity. Each piece tells its own story, designed for collectors who are all about the future of art and tech. Be a part of the BeraBaras community and own a one-of-a-kind piece of digital art!</details> | <details><summary>Link</summary>[BeraBaras](https://opensea.io/collection/berabaras-262)</details> |
-| **Bera Rocks** | ![Image](https://i.seadn.io/s/raw/files/ac15b69d22ee06498c886bc01a340d79.png?w=500&auto=format?w=200&auto=format) | Rocks of BERACHAIN | <details><summary>Link</summary>[Bera Rocks](https://opensea.io/collection/bera-rocks-298)</details> |
+| **catmonad** | ![Image](https://i.seadn.io/s/raw/files/1049a7f78096db028da1a55c13c439bc.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>NFT art is a digital creation ...</summary>NFT art is a digital creation tokenized on a blockchain, providing verifiable ownership and scarcity. These tokens represent unique digital assets, such as images, videos, or audio files, allowing artists to sell them directly to collectors without a middleman. This section covers the basic concepts of NFT art, its functionality, and key differences from traditional art forms.dana nft is the key point of the monad of tesneta</details> | <details><summary>Link</summary>[catmonad](https://opensea.io/collection/catmonad)</details> |
+| **F1** | ![Image](https://i.seadn.io/s/raw/files/40b0cd06e491a505dcff9c021aec7918.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[F1](https://opensea.io/collection/f1-100)</details> |
+| **OnlyBoys** | ![Image](https://i.seadn.io/s/raw/files/748263a9c80b9403057017c502255445.png?w=500&auto=format?w=200&auto=format) | <details><summary>Boys
+
+Made with [NFTs2Me.com](...</summary>Boys
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[OnlyBoys](https://opensea.io/collection/onlyboys)</details> |
 
 </div>
