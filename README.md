@@ -6,7 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mr. Frogg** | ![Image](https://i.seadn.io/s/raw/files/f01c962fbc958bd3cde1b065bfa63d86.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mr. Frogg](https://opensea.io/collection/mr-frogg-2)</details> |
-| **<details><summary>Arkada Shogun: ...</summary>Arkada Shogun: The Whispering Void Gauntlets</details>** | ![Image](https://i.seadn.io/s/raw/files/002e0dff987f6f4d5bc9cfc34a6f6af3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Arkada Shogun: The Whispering Void Gauntlets](https://opensea.io/collection/arkada-shogun-the-whispering-void-gauntlets)</details> |
+| **The Great Lion** | ![Image](https://i.seadn.io/s/raw/files/dbc6fdb4d67089af89ecf2bff7ae2fbf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Great Lion](https://opensea.io/collection/the-great-lion-2)</details> |
+| **FRUIT** | ![Image](https://i.seadn.io/s/raw/files/6ebcca5d84de19c584cd82a501230737.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FRUIT](https://opensea.io/collection/fruit-158)</details> |
+| **soneium Bored** | ![Image](https://i.seadn.io/s/raw/files/17625125395981ac9218faccb0e6fa0f.webp?w=500&auto=format?w=200&auto=format) | <details><summary>soneium&op
+
+Made with [NFTs2Me...</summary>soneium&op
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[soneium Bored](https://opensea.io/collection/soneium-bored)</details> |
 
 </div>
