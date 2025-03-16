@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>SrManzano Comme...</summary>SrManzano Commemorative Limited Edition</details>** | ![Image](https://i.seadn.io/s/raw/files/e5a18fc81744c054aa025febd90e9194.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SrManzano Commemorative Limited Edition](https://opensea.io/collection/srmanzano-commemorative-limited-edition)</details> |
-| **"Mystic Depths"** | ![Image](https://i.seadn.io/s/raw/files/933ee04293e5c7d11eb1a212a8eff212.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>["Mystic Depths"](https://opensea.io/collection/mystic-depths)</details> |
+| **<details><summary>Sylvaris Lightf...</summary>Sylvaris Lightflame</details>** | ![Image](https://i.seadn.io/s/raw/files/bb9f9962d1217210a6e8af7c2b9638fb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sylvaris Lightflame](https://opensea.io/collection/sylvaris-lightflame)</details> |
+| **BreadFrendz** | ![Image](https://raw.seadn.io/files/42bf0ae00619820415970c3fc7429dc9.svg?w=200&auto=format) |  | <details><summary>Link</summary>[BreadFrendz](https://opensea.io/collection/breadfrendz)</details> |
 
 </div>
