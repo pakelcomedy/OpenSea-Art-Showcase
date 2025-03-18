@@ -6,13 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **AI Girls** | ![Image](https://i.seadn.io/s/raw/files/f13d19fbdf5819c189c412a132fb3bd4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AI Girls](https://opensea.io/collection/ai-girls-35)</details> |
-| **Rebecca** | ![Image](https://i.seadn.io/s/raw/files/2e8338061678149470cc3a05d577ccd0.png?w=500&auto=format?w=200&auto=format) | <details><summary>Surrender isn't the only optio...</summary>Surrender isn't the only option. 
-[ Thanks for the tip, Papineau. ]
+| **Crd26** | ![Image](https://i.seadn.io/s/raw/files/4c16edd8bd7b0aa563450586722b02ba.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crd26](https://opensea.io/collection/crd26)</details> |
+| **<details><summary>Skull Doodle Fu...</summary>Skull Doodle Fun</details>** | ![Image](https://i.seadn.io/s/raw/files/2df817249d0ddf6ba710adf482faf790.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Doodle outline and style. Skul...</summary>Doodle outline and style. Skull theme. Color and cartoon element. Love and angry.
 --
-See more by Linda on Remx at remx.xyz/8to5</details> | <details><summary>Link</summary>[Rebecca](https://opensea.io/collection/rebecca-30)</details> |
-| **#00269** | ![Image](https://i.seadn.io/s/raw/files/4d6bbc54ff4fc5862898474e5d647623.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Colorful painting in cubism st...</summary>Colorful painting in cubism style
---
-See more by Fakhr on Remx at remx.xyz/fakhr</details> | <details><summary>Link</summary>[#00269](https://opensea.io/collection/00269-3)</details> |
+See more by akunapie on Remx at remx.xyz/akunapie</details> | <details><summary>Link</summary>[Skull Doodle Fun](https://opensea.io/collection/skull-doodle-fun)</details> |
+| **Atomic Glitch** | ![Image](https://i.seadn.io/s/raw/files/11f73cacef55376905bb8c5c3f1ca2ac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Atomic Glitch](https://opensea.io/collection/atomic-glitch-1)</details> |
 
 </div>
