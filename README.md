@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Masks** | ![Image](https://i.seadn.io/s/raw/files/92173bfbc911ce18c250c868b77d0dd1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Masks](https://opensea.io/collection/masks-170)</details> |
-| **MULTIPLANETARY** | ![Image](https://i.seadn.io/s/raw/files/2ec6372241ceee6252f3fe83d6d9c26b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MULTIPLANETARY](https://opensea.io/collection/multiplanetary-1)</details> |
+| **E2E Test ERC721** | ![Image](https://raw.seadn.io/files/0121a155c09b8b3a9c069a274e102983.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC721](https://opensea.io/collection/e2e-test-erc721-101)</details> |
+| **E2E Test ERC721** | ![Image](https://raw.seadn.io/files/2508dcbd8c5f3c700a34dc0e7c19800e.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC721](https://opensea.io/collection/e2e-test-erc721-100)</details> |
+| **rubicvip** | ![Image](https://i.seadn.io/s/raw/files/83d701f5652bbe94ca49037dab4bf8fc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[rubicvip](https://opensea.io/collection/rubicvip)</details> |
+| **Utopia** | ![Image](https://i.seadn.io/s/raw/files/35bf3ebdfd4446df44dc3a491fbbf515.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Utopia](https://opensea.io/collection/utopia-78)</details> |
 
 </div>
