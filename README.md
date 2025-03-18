@@ -6,7 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **EDA BERAS** | ![Image](https://i.seadn.io/s/raw/files/cc281f193c99d5d1ffcbe1416a265b2c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[EDA BERAS](https://opensea.io/collection/eda-beras-4)</details> |
-| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #109491 - Publication #3319</details>** | ![Image](https://i.seadn.io/s/raw/files/54c34f7291e3e094d1cad2ed4557d554.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #109491 - Publication #3319](https://opensea.io/collection/lens-collect-profile-109491-publication-3319)</details> |
+| **I Me Myself** | ![Image](https://i.seadn.io/s/raw/files/7c7f192812eb69c796321797aed57a59.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[I Me Myself](https://opensea.io/collection/i-me-myself-4)</details> |
+| **Tom Spam** | ![Image](https://i.seadn.io/s/raw/files/d7e580a39b23bd26411faf4c8ed18430.jpg?w=500&auto=format?w=200&auto=format) | Entrepreneur
+ | <details><summary>Link</summary>[Tom Spam](https://opensea.io/collection/tom-spam)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/96c21b4dc9f29ed834daa8462a820b15.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-11899)</details> |
+| **isg** | ![Image](https://i.seadn.io/s/raw/files/630d421ceab287afe59cfd562c7e763d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[isg](https://opensea.io/collection/isg-1)</details> |
 
 </div>
