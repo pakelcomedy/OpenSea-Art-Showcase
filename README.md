@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Crypto pak** | ![Image](https://i.seadn.io/s/raw/files/6c1c06d0a83e49d271180d207b837131.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crypto pak](https://opensea.io/collection/crypto-pak-2)</details> |
+| **<details><summary>Mystic Mane Col...</summary>Mystic Mane Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/e1a384c13d8461449041821ea82a9f20.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mystic Mane Collection](https://opensea.io/collection/mystic-mane-collection)</details> |
 
 </div>
