@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **eth_boss** | ![Image](https://i.seadn.io/s/raw/files/6a9c2c56077cee47c8390bb1e2e927cf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[eth_boss](https://opensea.io/collection/eth-boss-1)</details> |
-| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #273831 - Publication #85</details>** | ![Image](https://i.seadn.io/s/raw/files/509f01e67db7b875fdb202bf016a2b85.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #273831 - Publication #85](https://opensea.io/collection/lens-collect-profile-273831-publication-85)</details> |
+| **KOTAK** | ![Image](https://i.seadn.io/s/raw/files/3b03b467ef9e8ce3966755f60bf13ec7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[KOTAK](https://opensea.io/collection/kotak-1)</details> |
+| **Crux** | ![Image](https://i.seadn.io/s/raw/files/ff33f511500e3d98ab81554a32848113.jpg?w=500&auto=format?w=200&auto=format) | Crux | <details><summary>Link</summary>[Crux](https://opensea.io/collection/crux-3)</details> |
+| **FFFRENZ** | ![Image](https://i.seadn.io/s/raw/files/8cf5b8b883ae8e61e92732c17987e4cd.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FFFRENZ](https://opensea.io/collection/fffrenz-340)</details> |
 
 </div>
