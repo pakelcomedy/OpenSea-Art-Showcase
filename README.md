@@ -6,11 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **dMe Lucky** | ![Image](https://i.seadn.io/s/raw/files/f56d29bf25da0dbbd7fcc3cbf53e1da6.webp?w=500&auto=format?w=200&auto=format) | <details><summary>dme1337.xyz
+| **<details><summary>Investing in Pl...</summary>Investing in Pluralis Research</details>** | ![Image](https://i.seadn.io/s/raw/files/9c7108e4baf8ca1ed540d0547addd30b.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Investing in Pluralis Research...</summary>Investing in Pluralis Research
 
-Made with [NFTs2M...</summary>dme1337.xyz
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[dMe Lucky](https://opensea.io/collection/dme-lucky)</details> |
-| **xxx** | ![Image](https://i.seadn.io/s/raw/files/799d9bff1dc370656044fa4036db3b49.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[xxx](https://opensea.io/collection/xxx-344)</details> |
+Read the full post on Paragraph: https://blog.variant.fund/investing-in-pluralis-research</details> | <details><summary>Link</summary>[Investing in Pluralis Research](https://opensea.io/collection/investing-in-pluralis-research)</details> |
 
 </div>
