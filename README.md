@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Crd111** | ![Image](https://i.seadn.io/s/raw/files/b80d5a61a54a29166941c34944c9cf48.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crd111](https://opensea.io/collection/crd111)</details> |
-| **<details><summary>GeometricHarmon...</summary>GeometricHarmony</details>** | ![Image](https://raw.seadn.io/files/1d3aab555c30b9823082444c61f1b082.svg?w=200&auto=format) |  | <details><summary>Link</summary>[GeometricHarmony](https://opensea.io/collection/geometricharmony-223)</details> |
+| **csBLST10** | ![Image](https://i.seadn.io/s/raw/files/7ad263a2daba49d15a40a6ce20d8f8ee.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[csBLST10](https://opensea.io/collection/csblst10)</details> |
+| **Leonardo** | ![Image](https://i.seadn.io/s/raw/files/55f2f91c71a2fab1ef46931da0a1b347.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Leonardo](https://opensea.io/collection/leonardo-37)</details> |
+| **bnytntyn** | ![Image](https://i.seadn.io/s/raw/files/b3e45910e6a425de6a3662be287e30c9.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bnytntyn](https://opensea.io/collection/bnytntyn)</details> |
 
 </div>
