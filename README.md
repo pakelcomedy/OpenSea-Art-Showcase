@@ -6,10 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Overdose** | ![Image](https://i.seadn.io/s/raw/files/f172bcfd36910243ebb3d6e11249800e.gif?w=500&auto=format?w=200&auto=format) | <details><summary>Anything can be addictive, do ...</summary>Anything can be addictive, do not ovedose!
---
-See more by Akashi30 on Remx at remx.xyz/akashi30</details> | <details><summary>Link</summary>[Overdose](https://opensea.io/collection/overdose-9)</details> |
-| **<details><summary>CoXmic Souls by...</summary>CoXmic Souls by JesseXart</details>** | ![Image](https://i.seadn.io/s/raw/files/81fc8e6942cd615a7e54b9c3959d2521.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CoXmic Souls by JesseXart](https://opensea.io/collection/coxmic-souls-by-jessexart-1)</details> |
-| **ixinium** | ![Image](https://i.seadn.io/s/raw/files/0bc3fd67b5720686d99c80450c4f55dc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ixinium](https://opensea.io/collection/ixinium)</details> |
+| **Wizards TCG** | ![Image](https://i.seadn.io/s/raw/files/a8bb141b6d3978bcbc9f628a8da51d11.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Wizards TCG](https://opensea.io/collection/wizards-tcg)</details> |
+| **<details><summary>Quetzalcoatl, C...</summary>Quetzalcoatl, Celestial Guardian of the Golden Realm</details>** | ![Image](https://i.seadn.io/s/raw/files/832cc68b0bf179e5891897acc666cb1d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quetzalcoatl, Celestial Guardian of the Golden Realm](https://opensea.io/collection/quetzalcoatl-celestial-guardian-of-the-golden-real)</details> |
 
 </div>
