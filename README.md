@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>The Enchanted P...</summary>The Enchanted Paw-trait Gallery</details>** | ![Image](https://i.seadn.io/s/raw/files/348de0ba48adef04509ecb54003dbbb0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Enchanted Paw-trait Gallery](https://opensea.io/collection/the-enchanted-paw-trait-gallery)</details> |
-| **Red Baby Flame** | ![Image](https://i.seadn.io/s/raw/files/dac88db93932d94a2107b595c59dc403.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Red Baby Flame](https://opensea.io/collection/red-baby-flame)</details> |
-| **Teachers** | ![Image](https://i.seadn.io/s/raw/files/7dbefec52085a8e5c86850c6f2ecec5e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Teachers](https://opensea.io/collection/teachers-9)</details> |
+| **HIM** | ![Image](https://i.seadn.io/s/raw/files/db02c5874d353bd974cf882bea0ce8e8.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HIM](https://opensea.io/collection/him-24)</details> |
+| **hdhdfh** | ![Image](https://i.seadn.io/s/raw/files/5a510c7257fc90887e4584e3513f452f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hdhdfh](https://opensea.io/collection/hdhdfh-1)</details> |
+| **LAB REPORT 003** | ![Image](https://i.seadn.io/s/raw/files/4847de15c7226d3d8ac197186e58adef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LAB REPORT 003](https://opensea.io/collection/lab-report-003)</details> |
+| **Crypto Farmers** | ![Image](https://i.seadn.io/s/raw/files/9d74613b5b76fc5abb37855a660b9229.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crypto Farmers](https://opensea.io/collection/crypto-farmers-3)</details> |
 
 </div>
