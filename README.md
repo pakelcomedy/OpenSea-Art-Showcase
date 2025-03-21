@@ -6,20 +6,19 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **vvs.finance** | ![Image](https://i.seadn.io/s/raw/files/6124692a08e8e44b24cc63fabec52d88.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[vvs.finance](https://opensea.io/collection/vvs-finance-3)</details> |
-| **<details><summary>Ultra Rare Myst...</summary>Ultra Rare Mystics</details>** | ![Image](https://i.seadn.io/s/raw/files/14bfaf45714a324f6930f3e6824d5139.jpg?w=500&auto=format?w=200&auto=format) | <details><summary> Ultra Rare Mystics (900 Token...</summary> Ultra Rare Mystics (900 Tokens)
-
-Step into the realm of Ultra Rare Mystics, a limited collection of 900 powerful tokens infused with ancient wisdom, mystical energies, and divine secrets. Each token represents a unique embodiment of rare magic, designed for collectors who seek more than just digital art—a gateway to the extraordinary.
-
-Unlock the mysteries, harness the power, and claim your place among the chosen few.
-
-Supply: 900
-
-Theme: Mysticism | Ancient Power | Arcane Legends
-
-Utility: Exclusive access
+| **<details><summary>cyberkawaii whi...</summary>cyberkawaii white demon</details>** | ![Image](https://i.seadn.io/s/raw/files/8e1e9c01085fb426cf70d4860b7e51bb.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>春の気配の漂う空間に張り詰めた気配を放つ白い鬼、好敵手の黒い...</summary>春の気配の漂う空間に張り詰めた気配を放つ白い鬼、好敵手の黒い鬼とは長い年月戦い続けている。</details> | <details><summary>Link</summary>[cyberkawaii white demon](https://opensea.io/collection/cyberkawaii-white-demon)</details> |
+| **<details><summary>B!RU Squad - Bi...</summary>B!RU Squad - Binsan</details>** | ![Image](https://i.seadn.io/s/raw/files/687be3cc601b9d581ca3fd40f7d9d6d4.webp?w=500&auto=format?w=200&auto=format) | <details><summary>B!RU Squad - Binsan
 
 
-#UltraRareMystics #MysticNFTs #DivineEnergy #RareCollectibles</details> | <details><summary>Link</summary>[Ultra Rare Mystics](https://opensea.io/collection/ultra-rare-mystics)</details> |
+
+
+
+Made ...</summary>B!RU Squad - Binsan
+
+
+
+
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[B!RU Squad - Binsan](https://opensea.io/collection/b-ru-squad-binsan-5)</details> |
 
 </div>
