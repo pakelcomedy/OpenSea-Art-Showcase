@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Tokito** | ![Image](https://i.seadn.io/s/raw/files/cfb2d92bdaff2f2263f5064b57e4aee8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tokito](https://opensea.io/collection/tokito-2)</details> |
-| **<details><summary>Wildy Women PRO...</summary>Wildy Women PROFUNDUM</details>** | ![Image](https://i.seadn.io/s/raw/files/2ddd5f01d9cd791c39fbb3b2aecb2537.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Wildy Women PROFUNDUM](https://opensea.io/collection/wildy-women-profundum)</details> |
-| **AI** | ![Image](https://i.seadn.io/s/raw/files/f17d54b1b25fdd30dc136cc427c45f9e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AI](https://opensea.io/collection/ai-712)</details> |
+| **Haust** | ![Image](https://i.seadn.io/s/raw/files/9f1bfbd61392de3ebeae5ca85f1ab3d9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Haust](https://opensea.io/collection/haust-10)</details> |
+| **jiguangbi+** | ![Image](https://i.seadn.io/s/raw/files/c4cbb5619ab8ada4ef4a9c197396c3ab.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jiguangbi+](https://opensea.io/collection/jiguangbi-1)</details> |
 
 </div>
