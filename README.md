@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **King** | ![Image](https://i.seadn.io/s/raw/files/e2d4f72f71031598da1bf98a0d210d62.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[King](https://opensea.io/collection/king-475)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/24c202785c244543dbe6999115be7b65.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-11999)</details> |
-| **GEOMETRY** | ![Image](https://i.seadn.io/s/raw/files/f862a4cdecfd3f69c8cf287e6ec8016f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GEOMETRY](https://opensea.io/collection/geometry-87)</details> |
+| **SHAMBLE** | ![Image](https://i.seadn.io/s/raw/files/a8eadc5de0e9bc750d8b3f77cc5dca75.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SHAMBLE](https://opensea.io/collection/shamble-1)</details> |
+| **Sunflower Land** | ![Image](https://i.seadn.io/s/raw/files/bb1a9be499453bb51b1838865a629618.png?w=500&auto=format?w=200&auto=format) | <details><summary>Sunflower Land is a farming si...</summary>Sunflower Land is a farming simulator game on Polygon.Players must plant crops, chop wood, mine rocks and much more in their search for exotic and rare resources. The best part: every resource is tokenised on the Blockchain!There is no pre-sale of items. All items in this collection are earned through gameplay and listed by the players.</details> | <details><summary>Link</summary>[Sunflower Land](https://opensea.io/collection/sunflower-land-41)</details> |
 
 </div>
