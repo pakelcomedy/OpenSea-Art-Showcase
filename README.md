@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Super Bonk** | ![Image](https://i.seadn.io/s/raw/files/044c07f3f4ca43d747e15191dff49ac4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Super Bonk](https://opensea.io/collection/super-bonk)</details> |
-| **Stifler** | ![Image](https://i.seadn.io/s/raw/files/2518e687d8ac40d0425848a05721a2b4.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>An American Actor who acting a...</summary>An American Actor who acting as Stifler
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Stifler](https://opensea.io/collection/stifler-4)</details> |
+| **mkhytt** | ![Image](https://i.seadn.io/s/raw/files/db70e396137c408c0206091ce86f8f8d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mkhytt](https://opensea.io/collection/mkhytt)</details> |
+| **KHONG GUAN** | ![Image](https://i.seadn.io/s/raw/files/685705555bcefaceddc01c02a9f5c8f1.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[KHONG GUAN](https://opensea.io/collection/khong-guan-1)</details> |
 
 </div>
