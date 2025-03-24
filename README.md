@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Taiko** | ![Image](https://i.seadn.io/s/raw/files/1fddae9558c8f248663869f98f9f8367.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Taiko](https://opensea.io/collection/taiko-50)</details> |
-| **<details><summary>3D Avatars Univ...</summary>3D Avatars Universe</details>** | ![Image](https://i.seadn.io/s/raw/files/f15dd79ade608f6a76045959796f3300.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[3D Avatars Universe](https://opensea.io/collection/3d-avatars-universe)</details> |
-| **Bored Ape** | ![Image](https://i.seadn.io/s/raw/files/ec073b21439acd7a664986c5fffb3aa4.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bored Ape](https://opensea.io/collection/bored-ape-264)</details> |
-| **Bay** | ![Image](https://i.seadn.io/s/raw/files/1dd659ec943798bf60e2f55a92dcd1ca.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bay](https://opensea.io/collection/bay-47)</details> |
+| **<details><summary>Pudgy World: Po...</summary>Pudgy World: Polar Paradise</details>** | ![Image](https://i.seadn.io/s/raw/files/b599dc27edeac671fb28a0da4c4e5f4e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pudgy World: Polar Paradise](https://opensea.io/collection/pudgy-world-polar-paradise)</details> |
+| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #277592 - Publication #105</details>** | ![Image](https://i.seadn.io/s/raw/files/fce576b0ea97b9705ae87e441457cf19.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #277592 - Publication #105](https://opensea.io/collection/lens-collect-profile-277592-publication-105)</details> |
 
 </div>
