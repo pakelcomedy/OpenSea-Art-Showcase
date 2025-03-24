@@ -6,7 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **colors xerz** | ![Image](https://i.seadn.io/s/raw/files/c1d757987ac1e9cdcf042bf8326247a6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[colors xerz](https://opensea.io/collection/colors-xerz)</details> |
-| **<details><summary>Richard Heart's...</summary>Richard Heart's Favorite Sandwich</details>** | ![Image](https://i.seadn.io/s/raw/files/b1a50f9c5275fbb31775f3d1e656ab96.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Richard Heart's Favorite Sandwich](https://opensea.io/collection/richard-heart-s-favorite-sandwich)</details> |
+| **hens** | ![Image](https://i.seadn.io/s/raw/files/e813bf085721a6e931e63ef9e6a70297.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hens](https://opensea.io/collection/hens-2)</details> |
+| **Bomber** | ![Image](https://i.seadn.io/s/raw/files/f05bfddedda530a0be07c05307369509.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Black bomber
+
+Made with [NFTs2...</summary>Black bomber
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Bomber](https://opensea.io/collection/bomber-11)</details> |
 
 </div>
