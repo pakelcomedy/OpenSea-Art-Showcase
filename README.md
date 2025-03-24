@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **PandaGhost** | ![Image](https://i.seadn.io/s/raw/files/b2e7b9bca38995a8308ef8da3d093602.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PandaGhost](https://opensea.io/collection/pandaghost-1)</details> |
+| **UnknownDigital** | ![Image](https://i.seadn.io/s/raw/files/c187f7821ec0a6342ee854b005d41544.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[UnknownDigital](https://opensea.io/collection/unknowndigital)</details> |
 
 </div>
