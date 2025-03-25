@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **SignsAI** | ![Image](https://i.seadn.io/s/raw/files/35c248ce311813e7ce91ee97fed9e6a9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SignsAI](https://opensea.io/collection/signsai)</details> |
-| **Neon Spirits** | ![Image](https://i.seadn.io/s/raw/files/638cbc8d86058f99c77f0206f3f2daeb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Neon Spirits](https://opensea.io/collection/neon-spirits-2)</details> |
-| **PUNKBIRD** | ![Image](https://i.seadn.io/s/raw/files/cfcc4bfa7a9b0d5ea0188c267762d62a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PUNKBIRD](https://opensea.io/collection/punkbird-4)</details> |
+| **Crypto Punks** | ![Image](https://i.seadn.io/s/raw/files/cac710fabe263135f285c05e474eba5e.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crypto Punks](https://opensea.io/collection/crypto-punks-111)</details> |
+| **Tasty Donuts** | ![Image](https://i.seadn.io/s/raw/files/72568b13cf3dfb0f9159f64d7e181c62.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tasty Donuts](https://opensea.io/collection/tasty-donuts)</details> |
+| **Auralyx** | ![Image](https://i.seadn.io/s/raw/files/5f8083a9baaa81ac439166264d0924f5.webp?w=500&auto=format?w=200&auto=format) | Auralyx | <details><summary>Link</summary>[Auralyx](https://opensea.io/collection/auralyx)</details> |
+| **<details><summary>The Beautiful C...</summary>The Beautiful Country</details>** | ![Image](https://i.seadn.io/s/raw/files/6b898616cf32ffe209662669fad01075.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Beautiful Country](https://opensea.io/collection/the-beautiful-country-1)</details> |
 
 </div>
