@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **YOAKE Protocol** | ![Image](https://i.seadn.io/s/raw/files/7b2f44b4dc43ec767f86f200cfcf8084.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[YOAKE Protocol](https://opensea.io/collection/yoake-protocol-1)</details> |
-| **Lucymic** | ![Image](https://i.seadn.io/s/raw/files/011b00d1ce4d1918dd68a57fd8703d08.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lucymic](https://opensea.io/collection/lucymic)</details> |
+| **HORIZON 1/1** | ![Image](https://i.seadn.io/s/raw/files/650f1f6f9679984d79a565f186ee001d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HORIZON 1/1](https://opensea.io/collection/horizon-1-1-1)</details> |
+| **Cattea** | ![Image](https://i.seadn.io/s/raw/files/e457b91e4877c968571707c8c32e34df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cattea](https://opensea.io/collection/cattea)</details> |
+| **TradeVerse** | ![Image](https://i.seadn.io/s/raw/files/b9e553a87d4de4797148a17521ec4a32.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TradeVerse](https://opensea.io/collection/tradeverse-1)</details> |
 
 </div>
