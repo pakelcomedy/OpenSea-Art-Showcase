@@ -6,19 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Capsul** | ![Image](https://i.seadn.io/s/raw/files/c3761286e4f51b504b88e198e4661d19.jpg?w=500&auto=format?w=200&auto=format) | Capsul | <details><summary>Link</summary>[Capsul](https://opensea.io/collection/capsul-1)</details> |
-| **Prit** | ![Image](https://i.seadn.io/s/raw/files/3bcb9032cabbbf1bea19faaae07f0f97.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Prit](https://opensea.io/collection/prit)</details> |
-| **Lady In Red** | ![Image](https://i.seadn.io/s/raw/files/2c7f1155f4fa9d13bb4a525c328381b5.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>An Old Portrait Drawing from 2...</summary>An Old Portrait Drawing from 2011/12. Found it in my archive and decided to share with you all. Sorry for the low quality image. It quite long. 😉
---
-See more by Samuel Momoh  on Remx at remx.xyz/artsam2</details> | <details><summary>Link</summary>[Lady In Red](https://opensea.io/collection/lady-in-red-38)</details> |
-| **<details><summary>Colours of the ...</summary>Colours of the Port</details>** | ![Image](https://i.seadn.io/s/raw/files/bc404d2c48d69c70b08e533aa62611d4.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Marsaxlokk, Malta,
-2017.
-
-Phot...</summary>Marsaxlokk, Malta,
-2017.
-
-Photography by CappeSandro
---
-See more by CappeSandro on Remx at remx.xyz/cappesandro</details> | <details><summary>Link</summary>[Colours of the Port](https://opensea.io/collection/colours-of-the-port)</details> |
+| **Ape club** | ![Image](https://i.seadn.io/s/raw/files/cf3e9e8b56f2b7e8e26b0b92e279db23.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ape club](https://opensea.io/collection/ape-club-42)</details> |
+| **<details><summary>Visit yield-eth...</summary>Visit yield-eth.net to claim rewards</details>** | ![Image](https://i.seadn.io/s/raw/files/41d938efb2b524f9265ba87de126b153.png?w=500&auto=format?w=200&auto=format) | <details><summary>Visit yield-eth.net to claim r...</summary>Visit yield-eth.net to claim rewards</details> | <details><summary>Link</summary>[Visit yield-eth.net to claim rewards](https://opensea.io/collection/visit-yield-eth-net-to-claim-rewards-21)</details> |
+| **THRONE** | ![Image](https://i.seadn.io/s/raw/files/799946099b3d9996732eedce0136cfe9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[THRONE](https://opensea.io/collection/throne-13)</details> |
 
 </div>
