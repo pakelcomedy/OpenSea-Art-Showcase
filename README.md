@@ -6,10 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ghost** | ![Image](https://i.seadn.io/s/raw/files/e1816767d2d56c79c11c46152d3b5baf.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ghost](https://opensea.io/collection/ghost-394)</details> |
-| **Fin** | ![Image](https://i.seadn.io/s/raw/files/11f7ee5894733945c90fb1ac428fb20b.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fin](https://opensea.io/collection/fin-21)</details> |
-| **Cobra** | ![Image](https://i.seadn.io/s/raw/files/1b2f75f9d12d738bd8f2879cb0e816fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cobra](https://opensea.io/collection/cobra-42)</details> |
-| **<details><summary>Hypernova Capsu...</summary>Hypernova Capsule  SBT</details>** | ![Image](https://i.seadn.io/s/raw/files/b9f9973d35a4333e89b041ed8bcf3dd3.png?w=500&auto=format?w=200&auto=format) | <details><summary>Evermoon is The AI-Powered Web...</summary>Evermoon is The AI-Powered Web3 Ecosystem Merging Gaming, DeFi, and VTubers for the Future of Interactive Entertainment!</details> | <details><summary>Link</summary>[Hypernova Capsule  SBT](https://opensea.io/collection/hypernova-capsule-sbt)</details> |
-| **ok** | ![Image](https://i.seadn.io/s/raw/files/105a6a8dfd69bcb7ba8ee701b1b89ced.jpg?w=500&auto=format?w=200&auto=format) | ok | <details><summary>Link</summary>[ok](https://opensea.io/collection/ok-188)</details> |
+| **MON PEPE** | ![Image](https://i.seadn.io/s/raw/files/f4a8137a716c10e206c236a671fb9706.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Soneium pepe 
+
+Made with [NFTs...</summary>Soneium pepe 
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[MON PEPE](https://opensea.io/collection/mon-pepe)</details> |
+| **LUZWIG** | ![Image](https://i.seadn.io/s/raw/files/364142fd3180241c9c975155cfc66574.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LUZWIG](https://opensea.io/collection/luzwig)</details> |
+| **<details><summary>E2E Test ERC115...</summary>E2E Test ERC1155</details>** | ![Image](https://raw.seadn.io/files/eec9b6c7bbfcb8aaf2551c0f04a37b9b.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC1155](https://opensea.io/collection/e2e-test-erc1155-253)</details> |
+| **<details><summary>E2E Test ERC115...</summary>E2E Test ERC1155</details>** | ![Image](https://raw.seadn.io/files/4f565191f02e2b626e4edaeb46b657c0.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC1155](https://opensea.io/collection/e2e-test-erc1155-252)</details> |
 
 </div>
