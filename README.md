@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **nanas** | ![Image](https://i.seadn.io/s/raw/files/cac07455bc0cc8d0eb76a5664c8c7476.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nanas](https://opensea.io/collection/nanas-3)</details> |
-| **baunty** | ![Image](https://i.seadn.io/s/raw/files/307155a746a39ef0e7988332388f5216.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[baunty](https://opensea.io/collection/baunty-2)</details> |
-| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/a4ac0451adda76ae80bf97e451670589.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-15)</details> |
-| **Moon Dog** | ![Image](https://i.seadn.io/s/raw/files/6aad2ed0cffb791b33653286be8a0b77.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moon Dog](https://opensea.io/collection/moon-dog-3)</details> |
+| **Swaggy** | ![Image](https://i.seadn.io/s/raw/files/e8a7ea3024a77ad1e66ab95bb24f63dd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Swaggy](https://opensea.io/collection/swaggy-13)</details> |
+| **<details><summary>0xeeefc4f97e1aa...</summary>0xeeefc4f97e1aadbf9669254857073f4ee15ca66c</details>** | ![Image](https://i.seadn.io/s/raw/files/52f38ac491f3fbee3c706e919a24cdf8.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xeeefc4f97e1aadbf9669254857073f4ee15ca66c](https://opensea.io/collection/0xeeefc4f97e1aadbf9669254857073f4ee15ca66c)</details> |
+| **<details><summary>0xda42b3cafe89b...</summary>0xda42b3cafe89b9d7a017f6ec37e76f6a461196b9</details>** | ![Image](https://i.seadn.io/s/raw/files/52f38ac491f3fbee3c706e919a24cdf8.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xda42b3cafe89b9d7a017f6ec37e76f6a461196b9](https://opensea.io/collection/0xda42b3cafe89b9d7a017f6ec37e76f6a461196b9)</details> |
 
 </div>
