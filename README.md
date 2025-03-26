@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Saucy** | ![Image](https://i.seadn.io/s/raw/files/8c5fd4dc667e9c0db840d1b0962dce04.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Saucy](https://opensea.io/collection/saucy-1)</details> |
-| **Infinity** | ![Image](https://i.seadn.io/s/raw/files/0c0fe91ca1e23a23d7cb9c2d84aeb26d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Infinity](https://opensea.io/collection/infinity-227)</details> |
-| **Mega Potassium** | ![Image](https://i.seadn.io/s/raw/files/78022fb5892cfc6667076d48c57a926f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mega Potassium](https://opensea.io/collection/mega-potassium)</details> |
-| **RockSolidFlex** | ![Image](https://i.seadn.io/s/raw/files/53f0fe0a17547109d2ad77cd2cc94e68.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RockSolidFlex](https://opensea.io/collection/rocksolidflex)</details> |
-| **Breezy** | ![Image](https://i.seadn.io/s/raw/files/76ebcec4b32019f26cf87ab873806824.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Breezy](https://opensea.io/collection/breezy-15)</details> |
+| **dark** | ![Image](https://i.seadn.io/s/raw/files/d1f498d54bca8e4c7a241bfaa707bc01.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dark](https://opensea.io/collection/dark-330)</details> |
+| **Chic** | ![Image](https://i.seadn.io/s/raw/files/9049b16cca7211d29458d4ab6534902e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chic](https://opensea.io/collection/chic-9)</details> |
+| **SNGLR** | ![Image](https://i.seadn.io/s/raw/files/3a10c09f03246a8d0d6aa69330e19ed5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SNGLR](https://opensea.io/collection/snglr-63)</details> |
 
 </div>
