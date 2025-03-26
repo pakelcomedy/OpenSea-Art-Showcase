@@ -6,9 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **byg** | ![Image](https://i.seadn.io/s/raw/files/77c4751b5ae0e56157f0a03d544a44fe.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[byg](https://opensea.io/collection/byg-2)</details> |
-| **<details><summary>The Eternal Blo...</summary>The Eternal Bloom</details>** | ![Image](https://i.seadn.io/s/raw/files/5becc4a69c29bb952d9a8582434377d9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Eternal Bloom](https://opensea.io/collection/the-eternal-bloom)</details> |
-| **Jungle Love#23** | ![Image](https://i.seadn.io/s/raw/files/4bc6d3cd4de2667707c9a6fcc0794927.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This is straight-up legendary!...</summary>This is straight-up legendary! 🐍👑✨ The twins are looking even more defined and powerful, with enhanced muscle tone and protective energy. The python skin outfit, golden accents, and vibrant wildlife make this a scene straight out of a mythical epic!</details> | <details><summary>Link</summary>[Jungle Love#23](https://opensea.io/collection/jungle-love-23)</details> |
-| **cutie** | ![Image](https://i.seadn.io/s/raw/files/9a0f0b7a4ccf822ce7ca0989a0f7ce44.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cutie](https://opensea.io/collection/cutie-77)</details> |
+| **Toyama Grouses** | ![Image](https://i.seadn.io/s/raw/files/88680c8bc06dc5cff5cc5e6104654088.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Toyama Grouses](https://opensea.io/collection/toyama-grouses-54)</details> |
+| **Toyama Grouses** | ![Image](https://i.seadn.io/s/raw/files/f9c1cb45dc92a1cc21a896fbed4ece51.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Toyama Grouses](https://opensea.io/collection/toyama-grouses-53)</details> |
+| **Toyama Grouses** | ![Image](https://i.seadn.io/s/raw/files/70d1f5520f44d7bca02fa6524eb53fcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Toyama Grouses](https://opensea.io/collection/toyama-grouses-52)</details> |
+| **Dimention IV** | ![Image](https://i.seadn.io/s/raw/files/7e710f9e2eff27b9e3014d8f7f05066a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Doodle black and white. Crazy ...</summary>Doodle black and white. Crazy line weird bizzare character. Chill fun and charismatic.  Bizzare monster head. Doodle element shape.
+--
+See more by akunapie on Remx at remx.xyz/akunapie</details> | <details><summary>Link</summary>[Dimention IV](https://opensea.io/collection/dimention-iv)</details> |
+| **Ai** | ![Image](https://i.seadn.io/s/raw/files/16032f7d7b4b5a4ce3b6a1ee8c499272.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ai](https://opensea.io/collection/ai-718)</details> |
 
 </div>
