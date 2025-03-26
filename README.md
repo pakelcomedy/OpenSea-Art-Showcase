@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>E2E Test ERC115...</summary>E2E Test ERC1155</details>** | ![Image](https://raw.seadn.io/files/d9e9f49847bb48129c0781829c36b876.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC1155](https://opensea.io/collection/e2e-test-erc1155-287)</details> |
-| **<details><summary>E2E Test ERC115...</summary>E2E Test ERC1155</details>** | ![Image](https://raw.seadn.io/files/48d8702e69ea80891224917cfb7b1e62.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC1155](https://opensea.io/collection/e2e-test-erc1155-286)</details> |
+| **Orbitexa** | ![Image](https://i.seadn.io/s/raw/files/2376bba2bbb9f82e961f3c2d6586d552.jpg?w=500&auto=format?w=200&auto=format) | Orbitexa | <details><summary>Link</summary>[Orbitexa](https://opensea.io/collection/orbitexa)</details> |
+| **Tronique** | ![Image](https://i.seadn.io/s/raw/files/465ef03f9fff275756e2ea629c64cc55.jpg?w=500&auto=format?w=200&auto=format) | Tronique | <details><summary>Link</summary>[Tronique](https://opensea.io/collection/tronique)</details> |
+| **Yieldronix** | ![Image](https://i.seadn.io/s/raw/files/2e6708bd3767b8106b4aa04eb9b14214.jpg?w=500&auto=format?w=200&auto=format) | Yieldronix | <details><summary>Link</summary>[Yieldronix](https://opensea.io/collection/yieldronix)</details> |
 
 </div>
