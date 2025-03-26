@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Sunset on the H...</summary>Sunset on the High Seas</details>** | ![Image](https://i.seadn.io/s/raw/files/b5418220b3c583b3302f762358bb9cec.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This illustration has been tak...</summary>This illustration has been taken by my photography which has been altered with a degradation which is called "Dirty". No AI involved.
---
-See more by Tom Flender on Remx at remx.xyz/tomflender</details> | <details><summary>Link</summary>[Sunset on the High Seas](https://opensea.io/collection/sunset-on-the-high-seas-1)</details> |
-| **sqq** | ![Image](https://i.seadn.io/s/raw/files/fcee7d55f9283c58248c8d50133c4c9c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sqq](https://opensea.io/collection/sqq-2)</details> |
-| **ray** | ![Image](https://i.seadn.io/s/raw/files/8f83376e0db29cabc457335d1dd6ec2b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ray](https://opensea.io/collection/ray-35)</details> |
+| **Ember Sentinel** | ![Image](https://i.seadn.io/s/raw/files/7479b5c0e1e3560890fbdbcbc3fdfc87.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ember Sentinel](https://opensea.io/collection/ember-sentinel)</details> |
+| **<details><summary>BullyMick_inTow...</summary>BullyMick_inTown</details>** | ![Image](https://i.seadn.io/s/raw/files/f37bfc4be693b84b7a167cfa04a1b061.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BullyMick_inTown](https://opensea.io/collection/bullymick-intown)</details> |
+| **Porpoise** | ![Image](https://i.seadn.io/s/raw/files/40d85c590fb6254b35c91c0e8ea6e05a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Porpoise](https://opensea.io/collection/porpoise-2)</details> |
+| **Chronexa** | ![Image](https://i.seadn.io/s/raw/files/1d65d6ec1b294417b60a2fce1ae11b13.webp?w=500&auto=format?w=200&auto=format) | Chronexa | <details><summary>Link</summary>[Chronexa](https://opensea.io/collection/chronexa)</details> |
 
 </div>
