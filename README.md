@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Tharya** | ![Image](https://i.seadn.io/s/raw/files/70ffebc464c335a69e285127f58e81fa.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tharya](https://opensea.io/collection/tharya)</details> |
-| **Fish** | ![Image](https://i.seadn.io/s/raw/files/6b491b13ad00ba08e048811ef8876c7e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fish](https://opensea.io/collection/fish-523)</details> |
-| **~questMoon** | ![Image](https://i.seadn.io/s/raw/files/9e0e81e85017554c81b9d2351853f0af.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[~questMoon](https://opensea.io/collection/questmoon)</details> |
-| **toil** | ![Image](https://i.seadn.io/s/raw/files/90bb84c73bed683e7a658978ed2bfb3e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[toil](https://opensea.io/collection/toil-2)</details> |
+| **shahriyar** | ![Image](https://i.seadn.io/s/raw/files/c7936f39540c15b8737ff72eb2218346.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[shahriyar](https://opensea.io/collection/shahriyar-1)</details> |
+| **Test First** | ![Image](https://i.seadn.io/s/raw/files/5c7777e67cf7f8623dfde3dbda0d33f6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Test First](https://opensea.io/collection/test-first-1)</details> |
 
 </div>
