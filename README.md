@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Owlto Badge Col...</summary>Owlto Badge Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/246310f507479561a839d00adeb82b79.png?w=500&auto=format?w=200&auto=format) | A Owlto Badge Collection | <details><summary>Link</summary>[Owlto Badge Collection](https://opensea.io/collection/owlto-badge-collection)</details> |
-| **<details><summary>Meta Strongest ...</summary>Meta Strongest Neko</details>** | ![Image](https://i.seadn.io/s/raw/files/b094d1e5af199f64985d96b38989556b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Meta Strongest Neko](https://opensea.io/collection/meta-strongest-neko)</details> |
+| **OG Pink** | ![Image](https://i.seadn.io/s/raw/files/268689393ee456bfc5fe65802114cb93.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OG Pink](https://opensea.io/collection/og-pink)</details> |
+| **Badges** | ![Image](https://i.seadn.io/s/raw/files/b2acf176d8c8d0491341abf2e831c618.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Badges](https://opensea.io/collection/badges-12)</details> |
+| **H W D** | ![Image](https://i.seadn.io/s/raw/files/7f80c31380c6031dc4230367b3b224bc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[H W D](https://opensea.io/collection/h-w-d)</details> |
 
 </div>
