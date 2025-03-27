@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **further** | ![Image](https://i.seadn.io/s/raw/files/f6e37e3796ebc9908d7faf05b4e6d7e1.jpg?w=500&auto=format?w=200&auto=format) | further | <details><summary>Link</summary>[further](https://opensea.io/collection/further-10)</details> |
-| **host** | ![Image](https://i.seadn.io/s/raw/files/c09ebae17387b7d6eeb9fa0d42afe5ee.jpg?w=500&auto=format?w=200&auto=format) | host | <details><summary>Link</summary>[host](https://opensea.io/collection/host-28)</details> |
-| **RONIN** | ![Image](https://i.seadn.io/s/raw/files/7d4376c8c12c6e8080f04fb3f4e2bad9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RONIN](https://opensea.io/collection/ronin-61)</details> |
-| **phuocchinh** | ![Image](https://i.seadn.io/s/raw/files/824cac18a631521e00ed146c3653fd51.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[phuocchinh](https://opensea.io/collection/phuocchinh)</details> |
-| **promise** | ![Image](https://i.seadn.io/s/raw/files/a48c6e614fc7f2187c1c47374d5b0519.jpg?w=500&auto=format?w=200&auto=format) | promise | <details><summary>Link</summary>[promise](https://opensea.io/collection/promise-26)</details> |
+| **Q46** | ![Image](https://i.seadn.io/s/raw/files/9b8b9cd45cae4b12ae52b336fe21427f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Q46](https://opensea.io/collection/q46-1)</details> |
+| **shave** | ![Image](https://i.seadn.io/s/raw/files/06203d67ae6d7c3c1c1401f7e54c9222.jpg?w=500&auto=format?w=200&auto=format) | shave | <details><summary>Link</summary>[shave](https://opensea.io/collection/shave)</details> |
+| **Paylix** | ![Image](https://i.seadn.io/s/raw/files/472a1e715358778b574ac3c39e61f3b0.webp?w=500&auto=format?w=200&auto=format) | Paylix | <details><summary>Link</summary>[Paylix](https://opensea.io/collection/paylix)</details> |
+| **wardoff** | ![Image](https://i.seadn.io/s/raw/files/cc8e6a10893cd3fb322ab5e85123c7ec.jpg?w=500&auto=format?w=200&auto=format) | wardoff | <details><summary>Link</summary>[wardoff](https://opensea.io/collection/wardoff)</details> |
 
 </div>
