@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x1c1cd414fb41a...</summary>0x1c1cd414fb41a451608e5a2bef2f34485226792c</details>** | ![Image](https://i.seadn.io/s/raw/files/d6d135f0123489b47d991318d4830e21.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x1c1cd414fb41a451608e5a2bef2f34485226792c](https://opensea.io/collection/0x1c1cd414fb41a451608e5a2bef2f34485226792c)</details> |
-| **Q114** | ![Image](https://i.seadn.io/s/raw/files/516b124e9fed7ac025b2611c9f0e45ef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Q114](https://opensea.io/collection/q114)</details> |
+| **Hercules** | ![Image](https://i.seadn.io/s/raw/files/26bf4a47ca59e1fbccb6e2fcf934268e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hercules](https://opensea.io/collection/hercules-14)</details> |
+| **smartbroker** | ![Image](https://i.seadn.io/s/raw/files/345f5bdc8a9ce79153fc74629e71be9d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[smartbroker](https://opensea.io/collection/smartbroker)</details> |
+| **Carr Trip** | ![Image](https://i.seadn.io/s/raw/files/5c8390e3fa6202488491ad0aeac86053.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Carr Trip](https://opensea.io/collection/carr-trip)</details> |
 
 </div>
