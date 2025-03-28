@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **HyperCapital** | ![Image](https://i.seadn.io/s/raw/files/0da688611c8d1a7d0c6e5bc95ce842e1.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Join the unstoppable revolutio...</summary>Join the unstoppable revolution with HyperCapital</details> | <details><summary>Link</summary>[HyperCapital](https://opensea.io/collection/hypercapital)</details> |
+| **based pitbull** | ![Image](https://i.seadn.io/s/raw/files/12d586e86b35f8f5bb59871c601b85c1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[based pitbull](https://opensea.io/collection/based-pitbull)</details> |
 
 </div>
