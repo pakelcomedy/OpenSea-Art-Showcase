@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Quantum Mirage** | ![Image](https://i.seadn.io/s/raw/files/bd9f49506e25001d1acc41590ecfcdd2.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quantum Mirage](https://opensea.io/collection/quantum-mirage-9)</details> |
-| **ZER0** | ![Image](https://i.seadn.io/s/raw/files/adf7dda69d1260212be0c39e732e09fa.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ZER0](https://opensea.io/collection/zer0-7)</details> |
+| **timon** | ![Image](https://i.seadn.io/s/raw/files/90df2d10eebfc0f7f53cc1287cbadd4e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[timon](https://opensea.io/collection/timon-20)</details> |
+| **Cutiepuff** | ![Image](https://i.seadn.io/s/raw/files/17e8e7cee2a21d5d12aeff8225037962.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cutiepuff](https://opensea.io/collection/cutiepuff-6)</details> |
 
 </div>
