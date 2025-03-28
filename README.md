@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Fun** | ![Image](https://i.seadn.io/s/raw/files/1e762c4b9660985d8dd09e2cf57746d6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fun](https://opensea.io/collection/fun-237)</details> |
-| **<details><summary>Lost in thought...</summary>Lost in thoughts</details>** | ![Image](https://i.seadn.io/s/raw/files/99fd1e52128bf6385b02fd6a657cb7d2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lost in thoughts](https://opensea.io/collection/lost-in-thoughts-7)</details> |
-| **test** | ![Image](https://i.seadn.io/s/raw/files/93ae8aa0620819a9b211ecbabc45e5b0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[test](https://opensea.io/collection/test-7804)</details> |
-| **12w** | ![Image](https://i.seadn.io/s/raw/files/c551e5e2b0536465688f2553f1be8262.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[12w](https://opensea.io/collection/12w-6)</details> |
+| **mstech** | ![Image](https://i.seadn.io/s/raw/files/638209f06c15e43d739583d5a811e132.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mstech](https://opensea.io/collection/mstech-1)</details> |
+| **The Degen** | ![Image](https://i.seadn.io/s/raw/files/58430564711073121f64583fe25933f7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Degen](https://opensea.io/collection/the-degen-11)</details> |
+| **Sea shells** | ![Image](https://i.seadn.io/s/raw/files/75ba355b3a090cce78353e1183324c8f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sea shells](https://opensea.io/collection/sea-shells-3)</details> |
+| **pidec** | ![Image](https://i.seadn.io/s/raw/files/15f6ea7006177904e02223bef184bc9c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pidec](https://opensea.io/collection/pidec)</details> |
 
 </div>
