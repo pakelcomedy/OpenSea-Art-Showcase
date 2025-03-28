@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **mstech** | ![Image](https://i.seadn.io/s/raw/files/638209f06c15e43d739583d5a811e132.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mstech](https://opensea.io/collection/mstech-1)</details> |
-| **The Degen** | ![Image](https://i.seadn.io/s/raw/files/58430564711073121f64583fe25933f7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Degen](https://opensea.io/collection/the-degen-11)</details> |
-| **Sea shells** | ![Image](https://i.seadn.io/s/raw/files/75ba355b3a090cce78353e1183324c8f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sea shells](https://opensea.io/collection/sea-shells-3)</details> |
-| **pidec** | ![Image](https://i.seadn.io/s/raw/files/15f6ea7006177904e02223bef184bc9c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pidec](https://opensea.io/collection/pidec)</details> |
+| **Q4We** | ![Image](https://i.seadn.io/s/raw/files/bec5166e747cedb1ae69325fd120005f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Q4We](https://opensea.io/collection/q4we)</details> |
+| **mischief** | ![Image](https://i.seadn.io/s/raw/files/76c1171b0c64180c9758ec94a41a0777.jpg?w=500&auto=format?w=200&auto=format) | mischief | <details><summary>Link</summary>[mischief](https://opensea.io/collection/mischief-1)</details> |
+| **stud** | ![Image](https://i.seadn.io/s/raw/files/f51ddab68c072e3745138c75f4f8fc6a.jpg?w=500&auto=format?w=200&auto=format) | stud | <details><summary>Link</summary>[stud](https://opensea.io/collection/stud-10)</details> |
+| **harge** | ![Image](https://i.seadn.io/s/raw/files/483cbed064c7294e6f93e75431a557d7.jpg?w=500&auto=format?w=200&auto=format) | harge | <details><summary>Link</summary>[harge](https://opensea.io/collection/harge-3)</details> |
+| **rawl** | ![Image](https://i.seadn.io/s/raw/files/1bc69c7522314eeddef225be42cb490b.jpg?w=500&auto=format?w=200&auto=format) | rawl | <details><summary>Link</summary>[rawl](https://opensea.io/collection/rawl)</details> |
 
 </div>
