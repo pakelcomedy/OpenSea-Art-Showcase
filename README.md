@@ -6,8 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **She** | ![Image](https://i.seadn.io/s/raw/files/3d1246565d5b43832ac79ed32fe84435.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[She](https://opensea.io/collection/she-126)</details> |
-| **PANDA** | ![Image](https://i.seadn.io/s/raw/files/8f85ff746c27a983bcf2e7990f63a08d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PANDA](https://opensea.io/collection/panda-790)</details> |
-| **<details><summary>BaDiE KRu$h by ...</summary>BaDiE KRu$h by Arty It's Me</details>** | ![Image](https://i.seadn.io/s/raw/files/e03d769bf4d0edfe082aa2fdb6a8d46a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BaDiE KRu$h by Arty It's Me](https://opensea.io/collection/badie-krush-by-arty-its-me)</details> |
+| **<details><summary>Testnet by Unio...</summary>Testnet by Union</details>** | ![Image](https://i.seadn.io/s/raw/files/89e2dec5681682b6f1212a07b7ec3f7d.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0x7b77e6...</summary>https://mirror.xyz/10/0x7b77e63be6a56d9a127fbe1f23dbcafd89c5b726</details> | <details><summary>Link</summary>[Testnet by Union](https://opensea.io/collection/testnet-by-union)</details> |
+| **Underworld Pets** | ![Image](https://i.seadn.io/s/raw/files/e8ea7c809afb4030f2edb9f633d2e274.png?w=500&auto=format?w=200&auto=format) | <details><summary>...
+
+Made with [NFTs2Me.com](h...</summary>...
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Underworld Pets](https://opensea.io/collection/underworld-pets-1)</details> |
 
 </div>
