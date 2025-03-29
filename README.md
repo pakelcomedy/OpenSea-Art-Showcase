@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **god job** | ![Image](https://i.seadn.io/s/raw/files/e31c08fe724a816a3b31e9a18039f8ae.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[god job](https://opensea.io/collection/god-job)</details> |
-| **Dziura** | ![Image](https://i.seadn.io/s/raw/files/f351aaa9086e6daa43a1e6428471a518.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dziura](https://opensea.io/collection/dziura-1)</details> |
-| **kl491** | ![Image](https://i.seadn.io/s/raw/files/57323085e7ba4e236a9f44fcd8ddd21b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[kl491](https://opensea.io/collection/kl491)</details> |
-| **BA** | ![Image](https://i.seadn.io/s/raw/files/7a77e0ec6c81f5e588c6b46c864f95c2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BA](https://opensea.io/collection/ba-39)</details> |
-| **cryptoGirl** | ![Image](https://i.seadn.io/s/raw/files/a3eb9ec2366cbe38c0956c5070278d61.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cryptoGirl](https://opensea.io/collection/cryptogirl-28)</details> |
+| **<details><summary>Ghibli Reppodan...</summary>Ghibli Reppodant</details>** | ![Image](https://i.seadn.io/s/raw/files/d8b2bb081e93c5f3ec2f88860c828924.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ghibli Reppodant](https://opensea.io/collection/ghibli-reppodant)</details> |
+| **Soneium badge** | ![Image](https://i.seadn.io/s/raw/files/5ce7754a809511cfedad0dea366db85d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Soneium badge](https://opensea.io/collection/soneium-badge-11)</details> |
+| **<details><summary>Elite BasedMone...</summary>Elite BasedMoney</details>** | ![Image](https://i.seadn.io/s/raw/files/db83ccd39eb91bac1fec832920a7d872.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>XDDDDDDDDDDDDD the XDDDDDDD fu...</summary>XDDDDDDDDDDDDD the XDDDDDDD future of finance</details> | <details><summary>Link</summary>[Elite BasedMoney](https://opensea.io/collection/elite-basedmoney)</details> |
 
 </div>
