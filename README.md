@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Bynar** | ![Image](https://i.seadn.io/s/raw/files/11cf58c3919f98ecc6c2c149e70f88b7.jpg?w=500&auto=format?w=200&auto=format) | Bynar | <details><summary>Link</summary>[Bynar](https://opensea.io/collection/bynar)</details> |
-| **Jorik** | ![Image](https://i.seadn.io/s/raw/files/108e9b46ef76def383c405d2d57c133d.jpg?w=500&auto=format?w=200&auto=format) | Jorik | <details><summary>Link</summary>[Jorik](https://opensea.io/collection/jorik-4)</details> |
-| **Giggly** | ![Image](https://i.seadn.io/s/raw/files/48a851b2fb93805fe7f5cfa65eea8d8f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giggly](https://opensea.io/collection/giggly-34)</details> |
-| **<details><summary>Legend BetaDiam...</summary>Legend BetaDiamond</details>** | ![Image](https://i.seadn.io/s/raw/files/41460bd62a51092e1fd00d4d81523ec9.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>upgrading the AI-powered futur...</summary>upgrading the AI-powered future of finance</details> | <details><summary>Link</summary>[Legend BetaDiamond](https://opensea.io/collection/legend-betadiamond)</details> |
+| **Zorix** | ![Image](https://i.seadn.io/s/raw/files/a5a6ca625cbf80857bcf4b2a687e7e90.jpg?w=500&auto=format?w=200&auto=format) | Zorix | <details><summary>Link</summary>[Zorix](https://opensea.io/collection/zorix-1)</details> |
+| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/109a4b9002772a05b2dbe42c1241763d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-48)</details> |
+| **MemeGainz🐥** | ![Image](https://i.seadn.io/s/raw/files/456428f3da334d50c78b93fc38a1ae8b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>accelerating the disruptive fu...</summary>accelerating the disruptive future of finance</details> | <details><summary>Link</summary>[MemeGainz🐥](https://opensea.io/collection/memegainz-2)</details> |
+| **Fluffy** | ![Image](https://i.seadn.io/s/raw/files/84628efa39cb361da77527da9951f988.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffy](https://opensea.io/collection/fluffy-68)</details> |
+| **MMMPTR** | ![Image](https://i.seadn.io/s/raw/files/698ad965b879531d4ad9b5ba42333588.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MMMPTR](https://opensea.io/collection/mmmptr)</details> |
 
 </div>
