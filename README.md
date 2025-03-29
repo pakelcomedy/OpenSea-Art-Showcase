@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **blockcc** | ![Image](https://i.seadn.io/s/raw/files/a977729b80fd388265322b83ef7a1b27.jpg?w=500&auto=format?w=200&auto=format) | blockcc | <details><summary>Link</summary>[blockcc](https://opensea.io/collection/blockcc)</details> |
-| **Q2e** | ![Image](https://i.seadn.io/s/raw/files/62e0f78374e84480973a683d7689c18f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Q2e](https://opensea.io/collection/q2e-1)</details> |
-| **eye eye** | ![Image](https://i.seadn.io/s/raw/files/238e1eb0026ba5f746cdd9d20b0fd624.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[eye eye](https://opensea.io/collection/eye-eye-4)</details> |
+| **god job** | ![Image](https://i.seadn.io/s/raw/files/e31c08fe724a816a3b31e9a18039f8ae.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[god job](https://opensea.io/collection/god-job)</details> |
+| **Dziura** | ![Image](https://i.seadn.io/s/raw/files/f351aaa9086e6daa43a1e6428471a518.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dziura](https://opensea.io/collection/dziura-1)</details> |
+| **kl491** | ![Image](https://i.seadn.io/s/raw/files/57323085e7ba4e236a9f44fcd8ddd21b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[kl491](https://opensea.io/collection/kl491)</details> |
+| **BA** | ![Image](https://i.seadn.io/s/raw/files/7a77e0ec6c81f5e588c6b46c864f95c2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BA](https://opensea.io/collection/ba-39)</details> |
+| **cryptoGirl** | ![Image](https://i.seadn.io/s/raw/files/a3eb9ec2366cbe38c0956c5070278d61.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cryptoGirl](https://opensea.io/collection/cryptogirl-28)</details> |
 
 </div>
