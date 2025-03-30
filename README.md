@@ -6,12 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **puspita** | ![Image](https://i.seadn.io/s/raw/files/1d6be0b4caa6c3a165d4d279b467afbb.webp?w=500&auto=format?w=200&auto=format) | <details><summary>I love you
-
-Made with [NFTs2Me...</summary>I love you
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[puspita](https://opensea.io/collection/puspita)</details> |
-| **NFT EDITION 69** | ![Image](https://i.seadn.io/s/raw/files/f9a98ec38e5566ce9b21f75a8a8cc723.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFT EDITION 69](https://opensea.io/collection/nft-edition-69)</details> |
-| **QBX** | ![Image](https://i.seadn.io/s/raw/files/245d0b28ce15b53d942e0be997de9db0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[QBX](https://opensea.io/collection/qbx-15)</details> |
+| **crown11** | ![Image](https://i.seadn.io/s/raw/files/8fdb130bcb8f690ccc19f3f820d3aa22.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[crown11](https://opensea.io/collection/crown11)</details> |
+| **Super ZeroTech** | ![Image](https://i.seadn.io/s/raw/files/fc1d0c2aaf8e30b0b37988470136472c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Super ZeroTech - upgrading def...</summary>Super ZeroTech - upgrading defi forever</details> | <details><summary>Link</summary>[Super ZeroTech](https://opensea.io/collection/super-zerotech)</details> |
+| **Adorable** | ![Image](https://i.seadn.io/s/raw/files/64409e2f31c315528b876a4612a350a2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Adorable](https://opensea.io/collection/adorable-48)</details> |
+| **Adorable** | ![Image](https://i.seadn.io/s/raw/files/64409e2f31c315528b876a4612a350a2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Adorable](https://opensea.io/collection/adorable-47)</details> |
 
 </div>
