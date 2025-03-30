@@ -6,13 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Play** | ![Image](https://i.seadn.io/s/raw/files/b36c3cfa07a0913c1141f2183655478f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Play](https://opensea.io/collection/play-85)</details> |
-| **Candy** | ![Image](https://i.seadn.io/s/raw/files/642f98e32cffc73e7be80fb734b69311.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Candy](https://opensea.io/collection/candy-94)</details> |
-| **Baby Bonez 2.0** | ![Image](https://i.seadn.io/s/raw/files/6ae035177ad1da09af0af30334ee896f.png?w=500&auto=format?w=200&auto=format) | <details><summary>  Introducing The Baby Bonez 2...</summary>  Introducing The Baby Bonez 2 NFT Collection, a hauntingly adorable series that brings together the world of the macabre and the irresistibly cute. Step into a realm where miniature skeletons don stylish cloaks, blending the eerie with the endearing in a unique fusion of art and imagination.
+| **puspita** | ![Image](https://i.seadn.io/s/raw/files/1d6be0b4caa6c3a165d4d279b467afbb.webp?w=500&auto=format?w=200&auto=format) | <details><summary>I love you
 
-  Each Baby Bonez NFT is a meticulously crafted masterpiece, showcasing intricate details and fine craftsmanship. These tiny skeletal marvels are adorned in a variety of meticulously designed cloaks, each reflecting its own distinct personality and style. From regal velvets to mysterious dark fabrics, every cloak tells a story of the afterlife with a touch of whimsy.
+Made with [NFTs2Me...</summary>I love you
 
-  As you explore the collection, you'll discover Baby Bonez in various poses and settings, adding a dynamic and playful element to the overall experience. Whether they're engaged in a dance of the undead or striking a pose that defies the traditional expectations of the afterlife, these little skeletons exude charm and charisma.</details> | <details><summary>Link</summary>[Baby Bonez 2.0](https://opensea.io/collection/baby-bonez-2-0-1)</details> |
-| **pp** | ![Image](https://i.seadn.io/s/raw/files/5ab4b15a91a031af92e30adbc56e0929.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pp](https://opensea.io/collection/pp-203)</details> |
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[puspita](https://opensea.io/collection/puspita)</details> |
+| **NFT EDITION 69** | ![Image](https://i.seadn.io/s/raw/files/f9a98ec38e5566ce9b21f75a8a8cc723.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFT EDITION 69](https://opensea.io/collection/nft-edition-69)</details> |
+| **QBX** | ![Image](https://i.seadn.io/s/raw/files/245d0b28ce15b53d942e0be997de9db0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[QBX](https://opensea.io/collection/qbx-15)</details> |
 
 </div>
