@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Paintings by a ...</summary>Paintings by a Nonexistent Artist</details>** | ![Image](https://i.seadn.io/s/raw/files/d52c3617fc2648f38836d5a9453b555d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Paintings by a Nonexistent Artist](https://opensea.io/collection/paintings-by-a-nonexistent-artist)</details> |
-| **cashier** | ![Image](https://i.seadn.io/s/raw/files/7c3612ff82c4290f5d442582518a7740.jpg?w=500&auto=format?w=200&auto=format) | cashier | <details><summary>Link</summary>[cashier](https://opensea.io/collection/cashier-1)</details> |
+| **ddeleon** | ![Image](https://i.seadn.io/s/raw/files/1b87faad35f5fc32d8bfa1c1a46d32e9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ddeleon](https://opensea.io/collection/ddeleon)</details> |
+| **flowed** | ![Image](https://i.seadn.io/s/raw/files/172e7526cd66a8c15589966c3f1a88da.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[flowed](https://opensea.io/collection/flowed-1)</details> |
+| **Playful** | ![Image](https://i.seadn.io/s/raw/files/13268e7bf7fb11eb89954161f040f3b1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-60)</details> |
 
 </div>
