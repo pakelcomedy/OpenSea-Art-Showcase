@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Trendy** | ![Image](https://i.seadn.io/s/raw/files/3bc72e29cd7ab7f58f2bdbc834edd466.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trendy](https://opensea.io/collection/trendy-72)</details> |
-| **Just A Task** | ![Image](https://i.seadn.io/s/raw/files/bed195c5362b76a3f123f7d80e44c1c4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Just A Task](https://opensea.io/collection/just-a-task)</details> |
-| **evqwev** | ![Image](https://i.seadn.io/s/raw/files/0e35e3efb7bd407d722ba0424165cd8e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[evqwev](https://opensea.io/collection/evqwev)</details> |
+| **eyes** | ![Image](https://i.seadn.io/s/raw/files/0cd996fc8acccc4bfe3c3ea57e274fea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[eyes](https://opensea.io/collection/eyes-306)</details> |
+| **Cozy** | ![Image](https://i.seadn.io/s/raw/files/434d24ee69fc9e84d5c3500e588da65e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cozy](https://opensea.io/collection/cozy-96)</details> |
+| **Cozy** | ![Image](https://i.seadn.io/s/raw/files/434d24ee69fc9e84d5c3500e588da65e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cozy](https://opensea.io/collection/cozy-95)</details> |
+| **Lively** | ![Image](https://i.seadn.io/s/raw/files/a4210b78730e29fee34da4350c7785b0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-68)</details> |
+| **Apefinity Prime** | ![Image](https://i.seadn.io/s/raw/files/4ac526a55f403451b01bde2715e86ee1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Apefinity Prime](https://opensea.io/collection/apefinity-prime)</details> |
 
 </div>
