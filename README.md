@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **sr8581** | ![Image](https://i.seadn.io/s/raw/files/a5764353fed2ea29bbcbed3b685d95b0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sr8581](https://opensea.io/collection/sr8581-1)</details> |
-| **<details><summary>Lens Collect | ...</summary>Lens Collect | Profile #91586 - Publication #212</details>** | ![Image](https://i.seadn.io/s/raw/files/db21252e6ca61ec7dd8350e588def45c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lens Collect | Profile #91586 - Publication #212](https://opensea.io/collection/lens-collect-profile-91586-publication-212)</details> |
-| **<details><summary>Trump - Getting...</summary>Trump - Getting Rid Of Cents</details>** | ![Image](https://i.seadn.io/s/raw/files/19aab716586d6ea461cd01b3464799dd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trump - Getting Rid Of Cents](https://opensea.io/collection/trump-getting-rid-of-cents-1)</details> |
-| **tomahawk** | ![Image](https://i.seadn.io/s/raw/files/a9d9f5c111cb808be8928f2b64df5205.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[tomahawk](https://opensea.io/collection/tomahawk-4)</details> |
+| **Sassy** | ![Image](https://i.seadn.io/s/raw/files/0862f8944441dfeb7ac83692834dd248.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sassy](https://opensea.io/collection/sassy-120)</details> |
+| **Electric** | ![Image](https://i.seadn.io/s/raw/files/fb7c94b464e8d41bf3dc484065381c2b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Electric](https://opensea.io/collection/electric-154)</details> |
+| **Electric** | ![Image](https://i.seadn.io/s/raw/files/fb7c94b464e8d41bf3dc484065381c2b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Electric](https://opensea.io/collection/electric-153)</details> |
+| **fdfdfdf** | ![Image](https://i.seadn.io/s/raw/files/ba5e2dbaa3f5c777081d0893fc6236a7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fdfdfdf](https://opensea.io/collection/fdfdfdf-4)</details> |
+| **delicious** | ![Image](https://i.seadn.io/s/raw/files/593d4fa9026fd6b4ef43872af3db4323.jpg?w=500&auto=format?w=200&auto=format) | delicious | <details><summary>Link</summary>[delicious](https://opensea.io/collection/delicious-45)</details> |
 
 </div>
