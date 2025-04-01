@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **spell** | ![Image](https://i.seadn.io/s/raw/files/38c74f601ec65cab0fd61572c9f55c5f.jpg?w=500&auto=format?w=200&auto=format) | spell | <details><summary>Link</summary>[spell](https://opensea.io/collection/spell-31)</details> |
-| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/832ebee941521437c3be67694e924001.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-117)</details> |
-| **rest** | ![Image](https://i.seadn.io/s/raw/files/1bc69c7522314eeddef225be42cb490b.jpg?w=500&auto=format?w=200&auto=format) | rest | <details><summary>Link</summary>[rest](https://opensea.io/collection/rest-114)</details> |
-| **Bold** | ![Image](https://i.seadn.io/s/raw/files/1a6b79cab1a924289cea01bb11a42d5b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-164)</details> |
+| **foil** | ![Image](https://i.seadn.io/s/raw/files/06203d67ae6d7c3c1c1401f7e54c9222.jpg?w=500&auto=format?w=200&auto=format) | foil | <details><summary>Link</summary>[foil](https://opensea.io/collection/foil-7)</details> |
+| **matter** | ![Image](https://i.seadn.io/s/raw/files/f4ae17e102ea612ec4fbc8ad146493f0.jpg?w=500&auto=format?w=200&auto=format) | matter | <details><summary>Link</summary>[matter](https://opensea.io/collection/matter-31)</details> |
+| **Cheeky** | ![Image](https://i.seadn.io/s/raw/files/58859398fce0afb0910e32d8570bfccb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cheeky](https://opensea.io/collection/cheeky-195)</details> |
+| **Cheeky** | ![Image](https://i.seadn.io/s/raw/files/58859398fce0afb0910e32d8570bfccb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cheeky](https://opensea.io/collection/cheeky-194)</details> |
 
 </div>
