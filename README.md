@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>QulIIs Adventur...</summary>QulIIs Adventures</details>** | ![Image](https://i.seadn.io/s/raw/files/1deee24a262f2e47a3c144a8563ec9d7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[QulIIs Adventures](https://opensea.io/collection/quliis-adventures)</details> |
-| **mubarak** | ![Image](https://i.seadn.io/s/raw/files/fb8d7d0ffcd9f7a6a348817784bb4f20.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mubarak](https://opensea.io/collection/mubarak-7)</details> |
-| **Flashy** | ![Image](https://i.seadn.io/s/raw/files/d4785183d19264d30304af9bb3768461.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Flashy](https://opensea.io/collection/flashy-76)</details> |
+| **Breezy** | ![Image](https://i.seadn.io/s/raw/files/ff77e9dde9e9cf926c0da1fedac3f9b1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Breezy](https://opensea.io/collection/breezy-95)</details> |
+| **Bold** | ![Image](https://i.seadn.io/s/raw/files/196d076cfc72bd7bfe8c78e025a51b8e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-127)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/de0a701ac4cd8d993de2a6973d94b168.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-118)</details> |
 
 </div>
