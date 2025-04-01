@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sassy** | ![Image](https://i.seadn.io/s/raw/files/0862f8944441dfeb7ac83692834dd248.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sassy](https://opensea.io/collection/sassy-120)</details> |
-| **Electric** | ![Image](https://i.seadn.io/s/raw/files/fb7c94b464e8d41bf3dc484065381c2b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Electric](https://opensea.io/collection/electric-154)</details> |
-| **Electric** | ![Image](https://i.seadn.io/s/raw/files/fb7c94b464e8d41bf3dc484065381c2b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Electric](https://opensea.io/collection/electric-153)</details> |
-| **fdfdfdf** | ![Image](https://i.seadn.io/s/raw/files/ba5e2dbaa3f5c777081d0893fc6236a7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fdfdfdf](https://opensea.io/collection/fdfdfdf-4)</details> |
-| **delicious** | ![Image](https://i.seadn.io/s/raw/files/593d4fa9026fd6b4ef43872af3db4323.jpg?w=500&auto=format?w=200&auto=format) | delicious | <details><summary>Link</summary>[delicious](https://opensea.io/collection/delicious-45)</details> |
+| **spell** | ![Image](https://i.seadn.io/s/raw/files/38c74f601ec65cab0fd61572c9f55c5f.jpg?w=500&auto=format?w=200&auto=format) | spell | <details><summary>Link</summary>[spell](https://opensea.io/collection/spell-31)</details> |
+| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/832ebee941521437c3be67694e924001.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-117)</details> |
+| **rest** | ![Image](https://i.seadn.io/s/raw/files/1bc69c7522314eeddef225be42cb490b.jpg?w=500&auto=format?w=200&auto=format) | rest | <details><summary>Link</summary>[rest](https://opensea.io/collection/rest-114)</details> |
+| **Bold** | ![Image](https://i.seadn.io/s/raw/files/1a6b79cab1a924289cea01bb11a42d5b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-164)</details> |
 
 </div>
