@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Prime Kong Plan...</summary>Prime Kong Planet</details>** | ![Image](https://i.seadn.io/s/raw/files/4773c377e4514acd64429aee938ae031.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Prime Kong Planet](https://opensea.io/collection/prime-kong-planet-80)</details> |
+| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/25950781e26f0ef1e709b663b6ecaecd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-228)</details> |
 
 </div>
