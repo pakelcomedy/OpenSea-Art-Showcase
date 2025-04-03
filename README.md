@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **ryyrter** | ![Image](https://i.seadn.io/s/raw/files/9a1d286944875d6fb4a5b7819c21bfd0.jpg?w=500&auto=format?w=200&auto=format) | ryyrter | <details><summary>Link</summary>[ryyrter](https://opensea.io/collection/ryyrter)</details> |
-| **photoscape** | ![Image](https://i.seadn.io/s/raw/files/a4c18d3e1b6017856acfc17c6bdd24f9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[photoscape](https://opensea.io/collection/photoscape-1)</details> |
-| **<details><summary>CUECANVASCOLLEC...</summary>CUECANVASCOLLECTION</details>** | ![Image](https://i.seadn.io/s/raw/files/0f4d0b40b2791ec32a2c46cad3838916.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CUECANVASCOLLECTION](https://opensea.io/collection/cuecanvascollection)</details> |
-| **CUECANVAS** | ![Image](https://i.seadn.io/s/raw/files/0f4d0b40b2791ec32a2c46cad3838916.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CUECANVAS](https://opensea.io/collection/cuecanvas)</details> |
+| **we** | ![Image](https://i.seadn.io/s/raw/files/670063cc4572326aa92bd86db22fcfe9.jpg?w=500&auto=format?w=200&auto=format) | we | <details><summary>Link</summary>[we](https://opensea.io/collection/we-211)</details> |
+| **whiz** | ![Image](https://i.seadn.io/s/raw/files/e0c62323acfa4f7bb7e60277b2d004fb.jpg?w=500&auto=format?w=200&auto=format) | whiz | <details><summary>Link</summary>[whiz](https://opensea.io/collection/whiz-2)</details> |
+| **<details><summary>Rainy Friends S...</summary>Rainy Friends Series</details>** | ![Image](https://i.seadn.io/s/raw/files/b0a7a988161abaf60c6b5edb3c504acc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rainy Friends Series](https://opensea.io/collection/rainy-friends-series-51)</details> |
+| **learout** | ![Image](https://i.seadn.io/s/raw/files/88a6b592164be23332e4768b3b866846.jpg?w=500&auto=format?w=200&auto=format) | learout | <details><summary>Link</summary>[learout](https://opensea.io/collection/learout)</details> |
+| **Timeless Bricks** | ![Image](https://i.seadn.io/s/raw/files/0b43fca089ebc452995af6e76c918b4a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Timeless Bricks](https://opensea.io/collection/timeless-bricks-1)</details> |
 
 </div>
