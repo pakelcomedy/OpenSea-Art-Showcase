@@ -6,12 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ronindoggy** | ![Image](https://i.seadn.io/s/raw/files/6ea9c2ad2aecd0e4024018b83d4364a5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Ronindoggy](https://opensea.io/collection/ronindoggy)</details> |
-| **<details><summary>The Gate of All...</summary>The Gate of All Nations</details>** | ![Image](https://i.seadn.io/s/raw/files/b583b9a9f7a3f1b91929810ad505a381.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Photography
+| **<details><summary>Frostforged Com...</summary>Frostforged Companions</details>** | ![Image](https://i.seadn.io/s/raw/files/8b973bda8fddbcf970bb39a76b700683.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>“Frostforged Companions” portr...</summary>“Frostforged Companions” portrays two intrepid wanderers bonded by the unyielding spirit of the tundra. The imposing polar bear stands in a rustic Viking-inspired cloak, his gaze reflecting steadfast courage. Beside him, the fierce young warrior wields her crafted staff, adorned with totemic motifs that echo ancestral wisdom. Their attire—layered furs and hand-carved details—invokes the raw energy of a realm where survival hinges on unity. This piece explores the harmony between strength and gra
 --
-See more by Hod...</summary>Photography
---
-See more by Hodasa66 on Remx at remx.xyz/hodasa66</details> | <details><summary>Link</summary>[The Gate of All Nations](https://opensea.io/collection/the-gate-of-all-nations)</details> |
-| **nm101hjkm** | ![Image](https://i.seadn.io/s/raw/files/a6dac881a4fa0eea0dd5ee03b877fa73.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nm101hjkm](https://opensea.io/collection/nm101hjkm)</details> |
+See more by 0x09a7e0d1448a00dce5f2812f2d99e894df24a16f on Remx at remx.xyz/0x09a7e0d1448a00dce5f2812f2d99e894df24a16f</details> | <details><summary>Link</summary>[Frostforged Companions](https://opensea.io/collection/frostforged-companions)</details> |
+| **Legend XBera** | ![Image](https://i.seadn.io/s/raw/files/ff7e67e22fe61ffd414de2df991a9c10.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The gigachad bera that's accel...</summary>The gigachad bera that's accelerating web3</details> | <details><summary>Link</summary>[Legend XBera](https://opensea.io/collection/legend-xbera)</details> |
 
 </div>
