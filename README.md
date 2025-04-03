@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **nm44hjkm** | ![Image](https://i.seadn.io/s/raw/files/ebd79cb72ffeabb93619635cd74343b6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nm44hjkm](https://opensea.io/collection/nm44hjkm-1)</details> |
-| **<details><summary>Art by 2 Year O...</summary>Art by 2 Year Old</details>** | ![Image](https://i.seadn.io/s/raw/files/95efc792a6896146a9a1711966192780.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Art by 2 Year Old](https://opensea.io/collection/art-by-2-year-old)</details> |
-| **solid** | ![Image](https://i.seadn.io/s/raw/files/aea6639cfc04ffc3f5c3cd5a9b04c368.jpg?w=500&auto=format?w=200&auto=format) | solid | <details><summary>Link</summary>[solid](https://opensea.io/collection/solid-25)</details> |
-| **<details><summary>CreditoJudiciar...</summary>CreditoJudiciarioDemo</details>** | ![Image](https://i.seadn.io/s/raw/files/df6a1bc0390fd3db86a316a2f69df454.jpg?w=500&auto=format?w=200&auto=format) | Demo para Credito Judiciario | <details><summary>Link</summary>[CreditoJudiciarioDemo](https://opensea.io/collection/creditojudiciariodemo)</details> |
+| **Trovand** | ![Image](https://i.seadn.io/s/raw/files/33b82a2343508bc1c40bf374175b123c.png?w=500&auto=format?w=200&auto=format) | Trovand | <details><summary>Link</summary>[Trovand](https://opensea.io/collection/trovand)</details> |
+| **Ombrathal** | ![Image](https://i.seadn.io/s/raw/files/f234f53865d99cba09f30427053b9e7e.png?w=500&auto=format?w=200&auto=format) | Ombrathal | <details><summary>Link</summary>[Ombrathal](https://opensea.io/collection/ombrathal)</details> |
+| **E2E Test ERC721** | ![Image](https://raw.seadn.io/files/e68336bb7328767b7636ba50037010d4.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC721](https://opensea.io/collection/e2e-test-erc721-532)</details> |
+| **E2E Test ERC721** | ![Image](https://raw.seadn.io/files/85471ee1bde82270cc02367e0255bed5.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC721](https://opensea.io/collection/e2e-test-erc721-531)</details> |
+| **Pegy** | ![Image](https://i.seadn.io/s/raw/files/63a22bf9030211127d32b162e44b2075.jpg?w=500&auto=format?w=200&auto=format) | ,..., | <details><summary>Link</summary>[Pegy](https://opensea.io/collection/pegy)</details> |
 
 </div>
