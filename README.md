@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>$SHIB Reward: t...</summary>$SHIB Reward: t.me/ShibTicket</details>** | ![Image](https://i.seadn.io/s/raw/files/96fce04056074ed84fac3441bfbb1bf6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$SHIB Reward: t.me/ShibTicket](https://opensea.io/collection/shib-reward-t-me-shibticket-175)</details> |
-| **<details><summary>$SHIB Reward: t...</summary>$SHIB Reward: t.me/ShibTicket</details>** | ![Image](https://i.seadn.io/s/raw/files/96fce04056074ed84fac3441bfbb1bf6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$SHIB Reward: t.me/ShibTicket](https://opensea.io/collection/shib-reward-t-me-shibticket-174)</details> |
-| **<details><summary>$SHIB Reward: t...</summary>$SHIB Reward: t.me/ShibTicket</details>** | ![Image](https://i.seadn.io/s/raw/files/96fce04056074ed84fac3441bfbb1bf6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$SHIB Reward: t.me/ShibTicket](https://opensea.io/collection/shib-reward-t-me-shibticket-173)</details> |
+| **<details><summary>Rainy Friends S...</summary>Rainy Friends Series</details>** | ![Image](https://i.seadn.io/s/raw/files/c34eb835160c266b57cde68f4d0f66b4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rainy Friends Series](https://opensea.io/collection/rainy-friends-series-31)</details> |
+| **Brainstem NFT** | ![Image](https://raw.seadn.io/files/fa3a92f88792a46f8e98b1c9e542af64.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Brainstem NFT](https://opensea.io/collection/brainstem-nft-207)</details> |
 
 </div>
