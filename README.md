@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Naughty** | ![Image](https://i.seadn.io/s/raw/files/b1cba9739681ba32e210da878991834c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Naughty](https://opensea.io/collection/naughty-322)</details> |
-| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/5781bb53cc7ee0cc68ecc8030eef9006.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-460)</details> |
-| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/5781bb53cc7ee0cc68ecc8030eef9006.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-459)</details> |
+| **Saucy** | ![Image](https://i.seadn.io/s/raw/files/485f0f9727cbe09c7b16d6e84bec2805.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Saucy](https://opensea.io/collection/saucy-315)</details> |
+| **ChadFi** | ![Image](https://i.seadn.io/s/raw/files/743b54df8c4185786d8f7241ff807900.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>ChadFi is democratizing crypto...</summary>ChadFi is democratizing crypto fis</details> | <details><summary>Link</summary>[ChadFi](https://opensea.io/collection/chadfi-3)</details> |
+| **Trendy** | ![Image](https://i.seadn.io/s/raw/files/03ed46ec159f7b6abbe2a20f6322c0b8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trendy](https://opensea.io/collection/trendy-296)</details> |
+| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/349d5d50f08af53b45cb47b034603261.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-299)</details> |
 
 </div>
