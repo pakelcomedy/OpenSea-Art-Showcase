@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Nmjdvh746g** | ![Image](https://i.seadn.io/s/raw/files/e9353e7d651eda654288e424d16bb4d2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nmjdvh746g](https://opensea.io/collection/nmjdvh746g-2)</details> |
-| **Nmjdvh746g** | ![Image](https://i.seadn.io/s/raw/files/e9353e7d651eda654288e424d16bb4d2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nmjdvh746g](https://opensea.io/collection/nmjdvh746g)</details> |
-| **MDL_COLLECTION** | ![Image](https://i.seadn.io/s/raw/files/21a1104859b49f4acc5ac091c6bd5e9d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MDL_COLLECTION](https://opensea.io/collection/mdl-collection)</details> |
+| **<details><summary>REWARDS $SHIB -...</summary>REWARDS $SHIB - t.me/ShibTicket</details>** | ![Image](https://i.seadn.io/s/raw/files/96fce04056074ed84fac3441bfbb1bf6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[REWARDS $SHIB - t.me/ShibTicket](https://opensea.io/collection/rewards-shib-t-me-shibticket-5)</details> |
+| **IFNMONK** | ![Image](https://i.seadn.io/s/raw/files/018c8eb7d9576e7f5fc2449ffd12be5e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[IFNMONK](https://opensea.io/collection/ifnmonk)</details> |
 
 </div>
