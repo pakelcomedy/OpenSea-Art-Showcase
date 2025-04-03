@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Its Vansh** | ![Image](https://i.seadn.io/s/raw/files/307f50edb171d1864c4578ce5f6c73c8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Its Vansh](https://opensea.io/collection/its-vansh)</details> |
-| **qwe** | ![Image](https://i.seadn.io/s/raw/files/af78dcf44bda12c8c28bac03f79d7a9d.jpg?w=500&auto=format?w=200&auto=format) | wqeqwe65 | <details><summary>Link</summary>[qwe](https://opensea.io/collection/qwe-366)</details> |
-| **Bitcoin** | ![Image](https://i.seadn.io/s/raw/files/36618b0ecbca79f35c277918722ba7d0.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bitcoin](https://opensea.io/collection/bitcoin-833)</details> |
+| **Naughty** | ![Image](https://i.seadn.io/s/raw/files/b1cba9739681ba32e210da878991834c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Naughty](https://opensea.io/collection/naughty-322)</details> |
+| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/5781bb53cc7ee0cc68ecc8030eef9006.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-460)</details> |
+| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/5781bb53cc7ee0cc68ecc8030eef9006.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-459)</details> |
 
 </div>
