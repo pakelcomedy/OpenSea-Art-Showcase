@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **we** | ![Image](https://i.seadn.io/s/raw/files/670063cc4572326aa92bd86db22fcfe9.jpg?w=500&auto=format?w=200&auto=format) | we | <details><summary>Link</summary>[we](https://opensea.io/collection/we-211)</details> |
-| **whiz** | ![Image](https://i.seadn.io/s/raw/files/e0c62323acfa4f7bb7e60277b2d004fb.jpg?w=500&auto=format?w=200&auto=format) | whiz | <details><summary>Link</summary>[whiz](https://opensea.io/collection/whiz-2)</details> |
-| **<details><summary>Rainy Friends S...</summary>Rainy Friends Series</details>** | ![Image](https://i.seadn.io/s/raw/files/b0a7a988161abaf60c6b5edb3c504acc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rainy Friends Series](https://opensea.io/collection/rainy-friends-series-51)</details> |
-| **learout** | ![Image](https://i.seadn.io/s/raw/files/88a6b592164be23332e4768b3b866846.jpg?w=500&auto=format?w=200&auto=format) | learout | <details><summary>Link</summary>[learout](https://opensea.io/collection/learout)</details> |
-| **Timeless Bricks** | ![Image](https://i.seadn.io/s/raw/files/0b43fca089ebc452995af6e76c918b4a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Timeless Bricks](https://opensea.io/collection/timeless-bricks-1)</details> |
+| **thin** | ![Image](https://i.seadn.io/s/raw/files/2654fd75ab6e9536972c6930c8d7ce15.jpg?w=500&auto=format?w=200&auto=format) | thin | <details><summary>Link</summary>[thin](https://opensea.io/collection/thin-15)</details> |
+| **realestate** | ![Image](https://i.seadn.io/s/raw/files/492118ee884a345c45a4cd30300671e7.jpg?w=500&auto=format?w=200&auto=format) | realestate | <details><summary>Link</summary>[realestate](https://opensea.io/collection/realestate-5)</details> |
+| **issue** | ![Image](https://i.seadn.io/s/raw/files/b9d2c700c6100688230f9373c12758a9.jpg?w=500&auto=format?w=200&auto=format) | issue | <details><summary>Link</summary>[issue](https://opensea.io/collection/issue-18)</details> |
+| **accord** | ![Image](https://i.seadn.io/s/raw/files/89142036b57be6a62d8af1eb9a0a775c.jpg?w=500&auto=format?w=200&auto=format) | accord | <details><summary>Link</summary>[accord](https://opensea.io/collection/accord-6)</details> |
 
 </div>
