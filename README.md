@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **The Nas Coin** | ![Image](https://i.seadn.io/s/raw/files/990f9ba7679318f0eadc6de61f8c566d.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Nas Coin](https://opensea.io/collection/the-nas-coin)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12983</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12983](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12983)</details> |
+| **Nmjdvh746g** | ![Image](https://i.seadn.io/s/raw/files/e9353e7d651eda654288e424d16bb4d2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nmjdvh746g](https://opensea.io/collection/nmjdvh746g-2)</details> |
+| **Nmjdvh746g** | ![Image](https://i.seadn.io/s/raw/files/e9353e7d651eda654288e424d16bb4d2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nmjdvh746g](https://opensea.io/collection/nmjdvh746g)</details> |
+| **MDL_COLLECTION** | ![Image](https://i.seadn.io/s/raw/files/21a1104859b49f4acc5ac091c6bd5e9d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MDL_COLLECTION](https://opensea.io/collection/mdl-collection)</details> |
 
 </div>
