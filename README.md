@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **UltraTech🎯** | ![Image](https://i.seadn.io/s/raw/files/aec5fed890093ad8891edcbf8b214322.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>UltraTech🎯 is transcending cry...</summary>UltraTech🎯 is transcending crypto techs</details> | <details><summary>Link</summary>[UltraTech🎯](https://opensea.io/collection/ultratech-2)</details> |
-| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/608c863f7e569107a0ed1c971596d745.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-472)</details> |
-| **Dainty** | ![Image](https://i.seadn.io/s/raw/files/0ec4779da72508ab3bb819c89022bbc5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dainty](https://opensea.io/collection/dainty-145)</details> |
+| **Spiffy** | ![Image](https://i.seadn.io/s/raw/files/1a8804cc0ac8ac0e0d4ebdf5b58b824d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spiffy](https://opensea.io/collection/spiffy-381)</details> |
+| **Chill** | ![Image](https://i.seadn.io/s/raw/files/76b1e8f571ab59d8635f2420e2543f4a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chill](https://opensea.io/collection/chill-479)</details> |
+| **Stylish** | ![Image](https://i.seadn.io/s/raw/files/d21f80cd081398239a366a3773b5448b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Stylish](https://opensea.io/collection/stylish-389)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/0045ab5666157a624c3fda07baff431e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-372)</details> |
 
 </div>
