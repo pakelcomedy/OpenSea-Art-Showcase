@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/1ba8c920e79105b30fe961dc08798dce.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-376)</details> |
-| **Saucy** | ![Image](https://i.seadn.io/s/raw/files/13ede213a2e430aeb695ea040e6dbba8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Saucy](https://opensea.io/collection/saucy-340)</details> |
-| **Cool** | ![Image](https://i.seadn.io/s/raw/files/0c39216029335bb4fa7dc6ecccb3b28a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cool](https://opensea.io/collection/cool-880)</details> |
-| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/abe79b91c192dce4b2ade0a62ba2dffc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-552)</details> |
+| **Giggly** | ![Image](https://i.seadn.io/s/raw/files/810eee56bed1038146779503a2cc5d6a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giggly](https://opensea.io/collection/giggly-380)</details> |
+| **Zesty** | ![Image](https://i.seadn.io/s/raw/files/0d29d9195e299290698e22a147ed8698.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zesty](https://opensea.io/collection/zesty-340)</details> |
+| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/5c5a5272d8443fa83a17e97c2ec7e01b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-337)</details> |
+| **Adorable** | ![Image](https://i.seadn.io/s/raw/files/c5f7a923c072c8b0edc5cda83287659b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Adorable](https://opensea.io/collection/adorable-357)</details> |
 
 </div>
