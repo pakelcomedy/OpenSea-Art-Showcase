@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **AlphaFund** | ![Image](https://i.seadn.io/s/raw/files/951b04904a2299a5c63d07a9c33cc48c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Join the AI-powered revolution...</summary>Join the AI-powered revolution with AlphaFund</details> | <details><summary>Link</summary>[AlphaFund](https://opensea.io/collection/alphafund-1)</details> |
-| **Playful** | ![Image](https://i.seadn.io/s/raw/files/ae2e920dc6a15ee23811c438e1bd0af5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-324)</details> |
+| **<details><summary>Ethereum ACD Re...</summary>Ethereum ACD Restructuring Proposal</details>** | ![Image](https://i.seadn.io/s/raw/files/d9d7453d7d8180e7863c379fb1ec09dd.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Ethereum ACD Restructuring Pro...</summary>Ethereum ACD Restructuring Proposal
+
+Read the full post on Paragraph: https://ethdaily.io/677-1</details> | <details><summary>Link</summary>[Ethereum ACD Restructuring Proposal](https://opensea.io/collection/ethereum-acd-restructuring-proposal)</details> |
+| **<details><summary>Unadorned Facia...</summary>Unadorned Facial Expression</details>** | ![Image](https://i.seadn.io/s/raw/files/d0f55c6535ce43f93800b3ea4e0bf9b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unadorned Facial Expression](https://opensea.io/collection/unadorned-facial-expression)</details> |
 
 </div>
