@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/b980a0c2c37c220552634a89df38d7be.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-711)</details> |
-| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/66d9a67d16f1d33bae746017b97090ca.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-514)</details> |
-| **Sprightly** | ![Image](https://i.seadn.io/s/raw/files/73c60f060346595817e287bf93351ef7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sprightly](https://opensea.io/collection/sprightly-194)</details> |
-| **Bn525ghj** | ![Image](https://i.seadn.io/s/raw/files/f65d813a512865df8bfb5219c27cc4d7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bn525ghj](https://opensea.io/collection/bn525ghj-1)</details> |
-| **Sprightly** | ![Image](https://i.seadn.io/s/raw/files/73c60f060346595817e287bf93351ef7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sprightly](https://opensea.io/collection/sprightly-193)</details> |
+| **Flashy** | ![Image](https://i.seadn.io/s/raw/files/c50ca2b0cd94e072f2a6b1f8a21791b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Flashy](https://opensea.io/collection/flashy-387)</details> |
+| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/2eb8726fe45f85af8aab3bdb6d74d765.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-351)</details> |
+| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/2eb8726fe45f85af8aab3bdb6d74d765.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-350)</details> |
+| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/c2284431cb5d57b27e257952a0e33947.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-394)</details> |
+| **PrimeRocket** | ![Image](https://i.seadn.io/s/raw/files/d41365c54706c428403cf30cfb7039ad.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Join the defi revolution with ...</summary>Join the defi revolution with PrimeRocket</details> | <details><summary>Link</summary>[PrimeRocket](https://opensea.io/collection/primerocket-1)</details> |
 
 </div>
