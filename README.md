@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Ethereum ACD Re...</summary>Ethereum ACD Restructuring Proposal</details>** | ![Image](https://i.seadn.io/s/raw/files/d9d7453d7d8180e7863c379fb1ec09dd.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Ethereum ACD Restructuring Pro...</summary>Ethereum ACD Restructuring Proposal
-
-Read the full post on Paragraph: https://ethdaily.io/677-1</details> | <details><summary>Link</summary>[Ethereum ACD Restructuring Proposal](https://opensea.io/collection/ethereum-acd-restructuring-proposal)</details> |
-| **<details><summary>Unadorned Facia...</summary>Unadorned Facial Expression</details>** | ![Image](https://i.seadn.io/s/raw/files/d0f55c6535ce43f93800b3ea4e0bf9b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unadorned Facial Expression](https://opensea.io/collection/unadorned-facial-expression)</details> |
+| **Bubbly** | ![Image](https://i.seadn.io/s/raw/files/5bd1865287e6674da4b255b46f30e337.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bubbly](https://opensea.io/collection/bubbly-346)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/c0ca525ac80763ba3ad9bbb747f9c92d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-387)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/c0ca525ac80763ba3ad9bbb747f9c92d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-386)</details> |
+| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/2d612bc3ddd7a9710a3151fff6b7f635.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-543)</details> |
 
 </div>
