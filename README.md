@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **GTP Guardian** | ![Image](https://i.seadn.io/s/raw/files/fddaab076a13c3426912473740c0ba88.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GTP Guardian](https://opensea.io/collection/gtp-guardian)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 12987</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 12987](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-12987)</details> |
-| **<details><summary>Moongate Voyage...</summary>Moongate Voyager Pass</details>** | ![Image](https://i.seadn.io/s/raw/files/62d66890ae0706bd3b16b5dc0bff8ee3.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moongate Voyager Pass](https://opensea.io/collection/moongate-voyager-pass-23)</details> |
+| **Bn877ghj** | ![Image](https://i.seadn.io/s/raw/files/e5bdbb63c228d6221b1841abce161e24.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bn877ghj](https://opensea.io/collection/bn877ghj)</details> |
+| **ngfngfngfngff** | ![Image](https://i.seadn.io/s/raw/files/01dd54b45a31d963035be23eb2e603ae.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ngfngfngfngff](https://opensea.io/collection/ngfngfngfngff-1)</details> |
+| **Bn897** | ![Image](https://i.seadn.io/s/raw/files/f311bf8cbf5440219cf9c8f2fbb6c826.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bn897](https://opensea.io/collection/bn897)</details> |
 
 </div>
