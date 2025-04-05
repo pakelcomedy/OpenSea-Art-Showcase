@@ -6,11 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Bn420ghj** | ![Image](https://i.seadn.io/s/raw/files/4231fd985dcf8050d999271cb7bc6bac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bn420ghj](https://opensea.io/collection/bn420ghj)</details> |
-| **Based Peppies** | ![Image](https://i.seadn.io/s/raw/files/1a8ae85a029e6fa8687c7fcc0693419b.png?w=500&auto=format?w=200&auto=format) | <details><summary>Bringing the two most influent...</summary>Bringing the two most influential subcultures together to celebrate their influence had on futures past and present.
+| **Chic** | ![Image](https://i.seadn.io/s/raw/files/bbbd3126ab04e5899c3c42bafe8b0639.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chic](https://opensea.io/collection/chic-494)</details> |
+| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/e7e610bbdca8ded049bd9e465dfbb203.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-429)</details> |
+| **Snazzy** | ![Image](https://i.seadn.io/s/raw/files/de8114515ba16c6f92cfe7a78272ac64.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snazzy](https://opensea.io/collection/snazzy-445)</details> |
+| **Crypto Gems** | ![Image](https://i.seadn.io/s/raw/files/a73d8c6fbf4d5eb7238c2b726cdb5337.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Crypto Gems
 
+Made with [NFTs2M...</summary>Crypto Gems
 
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Based Peppies](https://opensea.io/collection/based-peppies-2)</details> |
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Crypto Gems](https://opensea.io/collection/crypto-gems-56)</details> |
 
 </div>
