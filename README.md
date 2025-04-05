@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/7bef1313eb515240d8d1f8a708171332.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-680)</details> |
-| **Playful** | ![Image](https://i.seadn.io/s/raw/files/cff56c98908c80e88a3782dfd0adaefa.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-391)</details> |
-| **Pixel Art** | ![Image](https://i.seadn.io/s/raw/files/8adce1cd91d25f0d3917284fd5b3ddd1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Art](https://opensea.io/collection/pixel-art-366)</details> |
-| **GOAT Gaming** | ![Image](https://i.seadn.io/s/raw/files/d8e9b2f482483a70c3aea89ff9334f53.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>3,333 Genesis GOATs leading th...</summary>3,333 Genesis GOATs leading the Web3 gaming evolution. Join the tribe and unlock GOATed utility in a powerful ecosystem of competitive games with prizes spanning browser, mobile, and beyond. LFGOAT!</details> | <details><summary>Link</summary>[GOAT Gaming](https://opensea.io/collection/goat-gaming-11)</details> |
+| **Chic** | ![Image](https://i.seadn.io/s/raw/files/487dd773249bb02435f6647fa2a96c76.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chic](https://opensea.io/collection/chic-505)</details> |
+| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/5496f8505e01fa8e3ce48c14a5483968.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-1304)</details> |
+| **Hilarious** | ![Image](https://i.seadn.io/s/raw/files/545ec38c60df57dc9cd13a047939b2b4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hilarious](https://opensea.io/collection/hilarious-449)</details> |
+| **DuckChain** | ![Image](https://i.seadn.io/s/raw/files/cc25c343124975b885a2ab0bac762e60.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DuckChain](https://opensea.io/collection/duckchain-2)</details> |
 
 </div>
