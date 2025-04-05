@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CyberHub** | ![Image](https://i.seadn.io/s/raw/files/8761f6145691568b322290f1505799ba.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>pushing the boundaries of the ...</summary>pushing the boundaries of the disruptive future of finance</details> | <details><summary>Link</summary>[CyberHub](https://opensea.io/collection/cyberhub-1)</details> |
-| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/dc6b32fb7143b2f485da7c04a8bf91d8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-778)</details> |
-| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/72b16c6f6a3b4d0bb66ba5a883e61737.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-528)</details> |
+| **Groovy** | ![Image](https://i.seadn.io/s/raw/files/65e3438bf42f85d5787ebbef54167f3c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Groovy](https://opensea.io/collection/groovy-583)</details> |
+| **Etarion** | ![Image](https://i.seadn.io/s/raw/files/9488856ef7b6cfeb778cceb5f63ebed0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Etarion](https://opensea.io/collection/etarion)</details> |
+| **EpicToken** | ![Image](https://i.seadn.io/s/raw/files/478a2aea207d367281298611ca34e090.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>EpicToken - XDDDDDDDDDDDDD def...</summary>EpicToken - XDDDDDDDDDDDDD defi forever</details> | <details><summary>Link</summary>[EpicToken](https://opensea.io/collection/epictoken-2)</details> |
+| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/c2a680983ce81ecbd50b457c5f8cc283.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-552)</details> |
 
 </div>
