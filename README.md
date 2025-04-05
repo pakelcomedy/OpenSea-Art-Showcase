@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Hilarious** | ![Image](https://i.seadn.io/s/raw/files/cf02ae4662ddc3d26471ba2e6982660b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hilarious](https://opensea.io/collection/hilarious-503)</details> |
-| **SigmaCoin** | ![Image](https://i.seadn.io/s/raw/files/8fe9a8a1b2d79d907f4081b030c0621b.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Join the limitless revolution ...</summary>Join the limitless revolution with SigmaCoin</details> | <details><summary>Link</summary>[SigmaCoin](https://opensea.io/collection/sigmacoin-1)</details> |
-| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/5f8d052106ca4d5fa42c5f3fe845988f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-518)</details> |
-| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/904aceadd6db6a9bc912aa9575ad67a6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-485)</details> |
+| **Chic** | ![Image](https://i.seadn.io/s/raw/files/b8071055b0abd5522bccc3f19a2a30aa.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chic](https://opensea.io/collection/chic-583)</details> |
+| **Bold** | ![Image](https://i.seadn.io/s/raw/files/fc7f000e40a59183349dcd2c6e51cba8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-535)</details> |
+| **Stylish** | ![Image](https://i.seadn.io/s/raw/files/86627ed381918ad3cbdafa7061cf85b9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Stylish](https://opensea.io/collection/stylish-548)</details> |
+| **<details><summary>E2E Test ERC115...</summary>E2E Test ERC1155</details>** | ![Image](https://raw.seadn.io/files/3088bf9986e37d0d77a2adf0ccaeea52.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC1155](https://opensea.io/collection/e2e-test-erc1155-509)</details> |
 
 </div>
