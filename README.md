@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Chic** | ![Image](https://i.seadn.io/s/raw/files/487dd773249bb02435f6647fa2a96c76.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chic](https://opensea.io/collection/chic-505)</details> |
-| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/5496f8505e01fa8e3ce48c14a5483968.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-1304)</details> |
-| **Hilarious** | ![Image](https://i.seadn.io/s/raw/files/545ec38c60df57dc9cd13a047939b2b4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hilarious](https://opensea.io/collection/hilarious-449)</details> |
-| **DuckChain** | ![Image](https://i.seadn.io/s/raw/files/cc25c343124975b885a2ab0bac762e60.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DuckChain](https://opensea.io/collection/duckchain-2)</details> |
+| **Shape NFT** | ![Image](https://i.seadn.io/s/raw/files/deb78437000fdc2ef9d4009153f8999d.jpg?w=500&auto=format?w=200&auto=format) | hello shape NFT | <details><summary>Link</summary>[Shape NFT](https://opensea.io/collection/shape-nft-3)</details> |
+| **Vibrant** | ![Image](https://i.seadn.io/s/raw/files/59c7e1bce5635a9cf9eebeb873acf28d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Vibrant](https://opensea.io/collection/vibrant-459)</details> |
+| **Cool** | ![Image](https://i.seadn.io/s/raw/files/f0a88191205371c4fcd92585b00aac7e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cool](https://opensea.io/collection/cool-967)</details> |
+| **Dreamy** | ![Image](https://i.seadn.io/s/raw/files/352c7a0340313a08e090c54df2a31490.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dreamy](https://opensea.io/collection/dreamy-532)</details> |
 
 </div>
