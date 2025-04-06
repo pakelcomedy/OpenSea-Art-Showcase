@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Funky** | ![Image](https://i.seadn.io/s/raw/files/8dcabf8039a3492f1c115cc5bbe18231.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Funky](https://opensea.io/collection/funky-576)</details> |
-| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/76680398e0bc84d8edb95251ae1626ef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-554)</details> |
-| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/1b70bf276f22f526020ca4c580a61227.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-509)</details> |
+| **turnoff** | ![Image](https://i.seadn.io/s/raw/files/f51ddab68c072e3745138c75f4f8fc6a.jpg?w=500&auto=format?w=200&auto=format) | turnoff | <details><summary>Link</summary>[turnoff](https://opensea.io/collection/turnoff-1)</details> |
+| **Witty** | ![Image](https://i.seadn.io/s/raw/files/fa098005fdab3491c2e6a6f7966aac0d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Witty](https://opensea.io/collection/witty-587)</details> |
+| **Adorable** | ![Image](https://i.seadn.io/s/raw/files/ec143656e958ad2a7a8cc93d11b01a91.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Adorable](https://opensea.io/collection/adorable-570)</details> |
+| **severe** | ![Image](https://i.seadn.io/s/raw/files/6002576e2e7875a24a16d9392425795c.jpg?w=500&auto=format?w=200&auto=format) | severe | <details><summary>Link</summary>[severe](https://opensea.io/collection/severe-10)</details> |
 
 </div>
