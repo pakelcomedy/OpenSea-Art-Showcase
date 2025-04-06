@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sassy** | ![Image](https://i.seadn.io/s/raw/files/c5ba03ed91eb8e9dbedf98479319b6f1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sassy](https://opensea.io/collection/sassy-530)</details> |
-| **<details><summary>0x27c0b266e8843...</summary>0x27c0b266e88431091e262857813c3b46ceace5fe</details>** | ![Image](https://i.seadn.io/s/raw/files/73c9366d73a7e4a618990b56fa1ea228.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x27c0b266e88431091e262857813c3b46ceace5fe](https://opensea.io/collection/0x27c0b266e88431091e262857813c3b46ceace5fe)</details> |
-| **Dainty** | ![Image](https://i.seadn.io/s/raw/files/47293f216845d9ce769e5b02843b892a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dainty](https://opensea.io/collection/dainty-250)</details> |
+| **<details><summary>0xf0eb1b77d1b87...</summary>0xf0eb1b77d1b871e02e27f1037dbb62e9c2f6566b</details>** | ![Image](https://i.seadn.io/s/raw/files/2bbe531ec742d5e44d6f77516a6ef5dd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xf0eb1b77d1b871e02e27f1037dbb62e9c2f6566b](https://opensea.io/collection/0xf0eb1b77d1b871e02e27f1037dbb62e9c2f6566b)</details> |
+| **Charming** | ![Image](https://i.seadn.io/s/raw/files/370ae2526fc9ce9461ce41a2c4ae9a79.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Charming](https://opensea.io/collection/charming-571)</details> |
+| **Bold** | ![Image](https://i.seadn.io/s/raw/files/4e18a8387ec2cb7062877cc5994bd8db.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-642)</details> |
+| **Lively** | ![Image](https://i.seadn.io/s/raw/files/4b6eea4c3dcae09e070b6258407555f2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-568)</details> |
 
 </div>
