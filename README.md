@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Witty** | ![Image](https://i.seadn.io/s/raw/files/9fe07d7abc2192ece4155f43446a63de.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Witty](https://opensea.io/collection/witty-608)</details> |
-| **<details><summary>E2E Test ERC115...</summary>E2E Test ERC1155</details>** | ![Image](https://raw.seadn.io/files/1064de032856675951f5166b846a63d2.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC1155](https://opensea.io/collection/e2e-test-erc1155-537)</details> |
+| **Cheeky** | ![Image](https://i.seadn.io/s/raw/files/8fd2cc68f74de0be1870c4cdddfb1cdf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cheeky](https://opensea.io/collection/cheeky-902)</details> |
+| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/8ed585f2636e9916226e4210fdc1d57d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-1738)</details> |
+| **Snug** | ![Image](https://i.seadn.io/s/raw/files/e8f3cf9a6dcbc54d2b3eead68ebd51a6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snug](https://opensea.io/collection/snug-285)</details> |
+| **Witty** | ![Image](https://i.seadn.io/s/raw/files/d638b7e4d550bd7ac8ee0dc1ef0f1071.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Witty](https://opensea.io/collection/witty-613)</details> |
 
 </div>
