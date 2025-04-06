@@ -6,9 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0xf0eb1b77d1b87...</summary>0xf0eb1b77d1b871e02e27f1037dbb62e9c2f6566b</details>** | ![Image](https://i.seadn.io/s/raw/files/2bbe531ec742d5e44d6f77516a6ef5dd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xf0eb1b77d1b871e02e27f1037dbb62e9c2f6566b](https://opensea.io/collection/0xf0eb1b77d1b871e02e27f1037dbb62e9c2f6566b)</details> |
-| **Charming** | ![Image](https://i.seadn.io/s/raw/files/370ae2526fc9ce9461ce41a2c4ae9a79.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Charming](https://opensea.io/collection/charming-571)</details> |
-| **Bold** | ![Image](https://i.seadn.io/s/raw/files/4e18a8387ec2cb7062877cc5994bd8db.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-642)</details> |
-| **Lively** | ![Image](https://i.seadn.io/s/raw/files/4b6eea4c3dcae09e070b6258407555f2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-568)</details> |
+| **NΞCROMΛNCΞR** | ![Image](https://i.seadn.io/s/raw/files/70fe762343a84bc7b87d46e8cd16ad64.png?w=500&auto=format?w=200&auto=format) | <details><summary>NΞCROMΛNCΞR - Original digital...</summary>NΞCROMΛNCΞR - Original digital artwork by ARTenyo👁️⃤ - 
+
+🤗 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝗳𝗼𝗿 𝗮𝗹𝗹 💲 𝘁𝗶𝗽𝘀!
+--
+See more by ARTenyo👁️⃤ - on Remx at remx.xyz/artenyo</details> | <details><summary>Link</summary>[NΞCROMΛNCΞR](https://opensea.io/collection/nkscromlncksr)</details> |
+| **Electric** | ![Image](https://i.seadn.io/s/raw/files/cc10d3ccde279e797ece72f1a9fb9b51.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Electric](https://opensea.io/collection/electric-622)</details> |
+| **Zany** | ![Image](https://i.seadn.io/s/raw/files/65df173824bf496b76e1dff19047f48e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zany](https://opensea.io/collection/zany-581)</details> |
 
 </div>
