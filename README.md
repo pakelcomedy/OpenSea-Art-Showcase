@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Lively** | ![Image](https://i.seadn.io/s/raw/files/0bc3101959ceb1a72964936f060c6551.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-664)</details> |
-| **Chill** | ![Image](https://i.seadn.io/s/raw/files/12ab0bd4379b6bc5c2fdd7d7daa3cfd4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chill](https://opensea.io/collection/chill-832)</details> |
-| **Whimsical** | ![Image](https://i.seadn.io/s/raw/files/2a06bbf77c18b9894f2532b28a4435cd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Whimsical](https://opensea.io/collection/whimsical-315)</details> |
+| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/558b4fc3279b9a29106b65a3ca7e744b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-855)</details> |
+| **Swaggy** | ![Image](https://i.seadn.io/s/raw/files/8ad48718a2e56ce9e0815ec65dfa2a51.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Swaggy](https://opensea.io/collection/swaggy-692)</details> |
+| **Swaggy** | ![Image](https://i.seadn.io/s/raw/files/8ad48718a2e56ce9e0815ec65dfa2a51.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Swaggy](https://opensea.io/collection/swaggy-691)</details> |
+| **mataadams701** | ![Image](https://i.seadn.io/s/raw/files/87383279cd4a03a7e28767144e32ccfd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mataadams701](https://opensea.io/collection/mataadams701)</details> |
+| **Sunny** | ![Image](https://i.seadn.io/s/raw/files/501779d49e53282073f243c4093ea027.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sunny](https://opensea.io/collection/sunny-811)</details> |
 
 </div>
