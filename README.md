@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/4354666acc9d181e333929086017711f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-983)</details> |
-| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/7840ac937c6a15f0033a94754b5c2bef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-982)</details> |
+| **Perky** | ![Image](https://i.seadn.io/s/raw/files/3ea7df32588523942d0f5ba4405022f2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-1377)</details> |
+| **Cheeky** | ![Image](https://i.seadn.io/s/raw/files/688910e9a8e076d146d9d5ff6f9dc571.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cheeky](https://opensea.io/collection/cheeky-963)</details> |
+| **Cool** | ![Image](https://i.seadn.io/s/raw/files/37252be76584e0203e8e6d64bf5bebbd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cool](https://opensea.io/collection/cool-1162)</details> |
+| **Zesty** | ![Image](https://i.seadn.io/s/raw/files/02816e097711f56162cafcfc2e52687f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zesty](https://opensea.io/collection/zesty-616)</details> |
 
 </div>
