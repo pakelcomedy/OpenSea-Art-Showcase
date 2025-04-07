@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Electric** | ![Image](https://i.seadn.io/s/raw/files/1524e7322688390b0b186b94340be762.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Electric](https://opensea.io/collection/electric-708)</details> |
-| **Bubbly** | ![Image](https://i.seadn.io/s/raw/files/f2681dd2dfcdcbb942999168a570ec23.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bubbly](https://opensea.io/collection/bubbly-643)</details> |
-| **Zany** | ![Image](https://i.seadn.io/s/raw/files/0cf37493234a52186c129ffa67a2a168.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zany](https://opensea.io/collection/zany-657)</details> |
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/23617ea78b8dd54e064fe2cb3ed889fd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-1407)</details> |
+| **Dapper** | ![Image](https://i.seadn.io/s/raw/files/53f428e77c5975821c1408527d9953ef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dapper](https://opensea.io/collection/dapper-733)</details> |
+| **Chill** | ![Image](https://i.seadn.io/s/raw/files/c9967fadc619ba2e781a232843586b21.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chill](https://opensea.io/collection/chill-811)</details> |
+| **Saucy** | ![Image](https://i.seadn.io/s/raw/files/43864775b7c9d5e260fd836e24cde9ee.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Saucy](https://opensea.io/collection/saucy-660)</details> |
+| **Snappy** | ![Image](https://i.seadn.io/s/raw/files/920f3e6b9bf308718072019abf70b394.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snappy](https://opensea.io/collection/snappy-694)</details> |
+| **Dapper** | ![Image](https://i.seadn.io/s/raw/files/53f428e77c5975821c1408527d9953ef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dapper](https://opensea.io/collection/dapper-732)</details> |
 
 </div>
