@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **A perfect day** | ![Image](https://i.seadn.io/s/raw/files/e3d98bf4cf33dbe7e4f0f4c089191004.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[A perfect day](https://opensea.io/collection/a-perfect-day-3)</details> |
-| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/dfca47f5812240721ff132ec7e826f63.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-859)</details> |
-| **<details><summary>0x010bc4638629d...</summary>0x010bc4638629df6609622974358ae50d598ee008</details>** | ![Image](https://i.seadn.io/s/raw/files/ed8c036d5a59a10b7d33e3a06bae953a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x010bc4638629df6609622974358ae50d598ee008](https://opensea.io/collection/0x010bc4638629df6609622974358ae50d598ee008)</details> |
-| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/dfca47f5812240721ff132ec7e826f63.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-858)</details> |
-| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/d0bc26fad53cbb348661b7f668f97f6f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-702)</details> |
+| **Lively** | ![Image](https://i.seadn.io/s/raw/files/78f31915f08c48af66c27a01923b2fef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-696)</details> |
+| **Lively** | ![Image](https://i.seadn.io/s/raw/files/9d02670ca0a54aefceeac57ec75c89f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-695)</details> |
+| **Playful** | ![Image](https://i.seadn.io/s/raw/files/90df1956c6e85616be39c50fda733f78.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-669)</details> |
+| **Snazzy** | ![Image](https://i.seadn.io/s/raw/files/f688c169179b69c5022b528fdfb374f2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snazzy](https://opensea.io/collection/snazzy-791)</details> |
 
 </div>
