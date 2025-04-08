@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Lively** | ![Image](https://i.seadn.io/s/raw/files/78f31915f08c48af66c27a01923b2fef.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-696)</details> |
-| **Lively** | ![Image](https://i.seadn.io/s/raw/files/9d02670ca0a54aefceeac57ec75c89f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-695)</details> |
-| **Playful** | ![Image](https://i.seadn.io/s/raw/files/90df1956c6e85616be39c50fda733f78.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-669)</details> |
-| **Snazzy** | ![Image](https://i.seadn.io/s/raw/files/f688c169179b69c5022b528fdfb374f2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snazzy](https://opensea.io/collection/snazzy-791)</details> |
+| **Swaggy** | ![Image](https://i.seadn.io/s/raw/files/f8de638398afab7e40386136c50b7eed.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Swaggy](https://opensea.io/collection/swaggy-706)</details> |
+| **Twinkly** | ![Image](https://i.seadn.io/s/raw/files/f8baf8952cfd0e8356cdd2f67702dea1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Twinkly](https://opensea.io/collection/twinkly-387)</details> |
+| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/68a531342233e4546bdc00e3339713b6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-723)</details> |
+| **Lively** | ![Image](https://i.seadn.io/s/raw/files/3fffd64e651b9dc37435a42aea2591f6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-702)</details> |
 
 </div>
