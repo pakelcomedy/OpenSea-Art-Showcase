@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Art by Jason** | ![Image](https://i.seadn.io/s/raw/files/dd830f61e61de016a9665b7274e67bb5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Art by Jason](https://opensea.io/collection/art-by-jason)</details> |
-| **Cozy** | ![Image](https://i.seadn.io/s/raw/files/44244cd9af75d8c7eb620749f12f8536.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cozy](https://opensea.io/collection/cozy-853)</details> |
-| **Witty** | ![Image](https://i.seadn.io/s/raw/files/6f4301dc15cfddbc79e46dca4706c754.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Witty](https://opensea.io/collection/witty-794)</details> |
+| **Vibrant** | ![Image](https://i.seadn.io/s/raw/files/4cecc6e64250acbce34d900954f413b8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Vibrant](https://opensea.io/collection/vibrant-833)</details> |
+| **Snappy** | ![Image](https://i.seadn.io/s/raw/files/b885c04a32e89c2a37cac62c0e78f270.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snappy](https://opensea.io/collection/snappy-841)</details> |
+| **Bold** | ![Image](https://i.seadn.io/s/raw/files/252d3e52247554b6dea13af391063869.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-847)</details> |
 
 </div>
