@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/883b225b4d82870222b487923035b2ac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-1020)</details> |
-| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/611ac69630a377fe23e66bcafce495d1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-861)</details> |
-| **Twinkly** | ![Image](https://i.seadn.io/s/raw/files/e81c10749a9839307c2f50cddd577562.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Twinkly](https://opensea.io/collection/twinkly-449)</details> |
-| **Twinkly** | ![Image](https://i.seadn.io/s/raw/files/e81c10749a9839307c2f50cddd577562.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Twinkly](https://opensea.io/collection/twinkly-448)</details> |
-| **Feisty** | ![Image](https://i.seadn.io/s/raw/files/bd849ccd23ab4291bb847fd07541e79a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Feisty](https://opensea.io/collection/feisty-864)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/11efdb12ef854d9fd76a9584d47e9a87.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-859)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/11efdb12ef854d9fd76a9584d47e9a87.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-858)</details> |
+| **Snazzy** | ![Image](https://i.seadn.io/s/raw/files/39307d330ac233dd40526385ae0881b4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snazzy](https://opensea.io/collection/snazzy-942)</details> |
+| **Feisty** | ![Image](https://i.seadn.io/s/raw/files/5a27fb784b9664a5f9bcc6b6a0e5042b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Feisty](https://opensea.io/collection/feisty-873)</details> |
 
 </div>
