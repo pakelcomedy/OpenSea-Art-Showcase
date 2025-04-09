@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Funky** | ![Image](https://i.seadn.io/s/raw/files/1ed46e1487c9e48d02a313257ab7c298.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Funky](https://opensea.io/collection/funky-914)</details> |
-| **Playful** | ![Image](https://i.seadn.io/s/raw/files/bf1b13028dd9290c7f14fe63d7fe2feb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-816)</details> |
-| **Playful** | ![Image](https://i.seadn.io/s/raw/files/beb49235f8fc088a5c685e4df959cbec.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-815)</details> |
+| **Perky** | ![Image](https://i.seadn.io/s/raw/files/d11e5f3a1705852313784ce2c32b13e4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-1918)</details> |
+| **Cozy** | ![Image](https://i.seadn.io/s/raw/files/6da6a1245c44e053268138b70072e797.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cozy](https://opensea.io/collection/cozy-958)</details> |
+| **Bold** | ![Image](https://i.seadn.io/s/raw/files/8e807c79fb52d0cd4ec01494f9c6cf38.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-938)</details> |
 
 </div>
