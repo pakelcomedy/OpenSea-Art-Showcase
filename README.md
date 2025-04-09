@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>SONGS: pelando ...</summary>SONGS: pelando mandarinas</details>** | ![Image](https://i.seadn.io/s/raw/files/f7af89301a3ba85108bb1f7607141926.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>la primera canción que publico...</summary>la primera canción que publico, muy sencillita, pero puse mi corazón en ella</details> | <details><summary>Link</summary>[SONGS: pelando mandarinas](https://opensea.io/collection/songs-pelando-mandarinas)</details> |
-| **Giggly** | ![Image](https://i.seadn.io/s/raw/files/dbd594444e50cdd5e97624d3e20ae9e6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giggly](https://opensea.io/collection/giggly-943)</details> |
-| **Cozy** | ![Image](https://i.seadn.io/s/raw/files/77796506738505aeec6046ab73ea65d7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cozy](https://opensea.io/collection/cozy-1010)</details> |
+| **Dainty** | ![Image](https://i.seadn.io/s/raw/files/50dbd19e8d518b614ecc48c8b8a5d9e1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dainty](https://opensea.io/collection/dainty-442)</details> |
+| **Stylish** | ![Image](https://i.seadn.io/s/raw/files/b54baa5e6b6fe75b789085da4072fa91.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Stylish](https://opensea.io/collection/stylish-984)</details> |
+| **Feisty** | ![Image](https://i.seadn.io/s/raw/files/d7016e2af6c009e6b0ce154745bb9614.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Feisty](https://opensea.io/collection/feisty-950)</details> |
 
 </div>
