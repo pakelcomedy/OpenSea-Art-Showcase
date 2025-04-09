@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Cheery** | ![Image](https://i.seadn.io/s/raw/files/8ce2ea9393e7bf282f42d810856ac236.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cheery](https://opensea.io/collection/cheery-440)</details> |
+| **Free Mint NFT** | ![Image](https://i.seadn.io/s/raw/files/f90f9ed29ba33b30262727a813f164e3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Free Mint NFT](https://opensea.io/collection/free-mint-nft-8)</details> |
+| **A 1** | ![Image](https://i.seadn.io/s/raw/files/ec38c3e08cccffbfcfd294f518401911.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[A 1](https://opensea.io/collection/a-1-13)</details> |
 
 </div>
