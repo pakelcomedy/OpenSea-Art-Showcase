@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sassy** | ![Image](https://i.seadn.io/s/raw/files/3410640459deb876a76777420a358859.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sassy](https://opensea.io/collection/sassy-864)</details> |
-| **Hilarious** | ![Image](https://i.seadn.io/s/raw/files/71e69cb442ac4e21528743f892f0fd20.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hilarious](https://opensea.io/collection/hilarious-932)</details> |
-| **Charming** | ![Image](https://i.seadn.io/s/raw/files/1473d23e34c1a6ad7190e84c1b90c080.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Charming](https://opensea.io/collection/charming-968)</details> |
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/13190668364bbc56f918a3e3de25e916.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-1976)</details> |
+| **<details><summary>SONGS: pelando ...</summary>SONGS: pelando mandarinas</details>** | ![Image](https://i.seadn.io/s/raw/files/f7af89301a3ba85108bb1f7607141926.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>la primera canción que publico...</summary>la primera canción que publico, muy sencillita, pero puse mi corazón en ella</details> | <details><summary>Link</summary>[SONGS: pelando mandarinas](https://opensea.io/collection/songs-pelando-mandarinas)</details> |
+| **Giggly** | ![Image](https://i.seadn.io/s/raw/files/dbd594444e50cdd5e97624d3e20ae9e6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giggly](https://opensea.io/collection/giggly-943)</details> |
+| **Cozy** | ![Image](https://i.seadn.io/s/raw/files/77796506738505aeec6046ab73ea65d7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cozy](https://opensea.io/collection/cozy-1010)</details> |
 
 </div>
