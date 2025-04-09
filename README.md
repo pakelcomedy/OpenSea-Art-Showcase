@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Urahara** | ![Image](https://i.seadn.io/s/raw/files/3472b315002c3ba54e60347960820b07.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Urahara](https://opensea.io/collection/urahara-5)</details> |
-| **Zesty** | ![Image](https://i.seadn.io/s/raw/files/e90fa0533a101e8725378f02961a39fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zesty](https://opensea.io/collection/zesty-875)</details> |
-| **Dainty** | ![Image](https://i.seadn.io/s/raw/files/6a54ad9b847a25e989c286ea0aea8289.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dainty](https://opensea.io/collection/dainty-420)</details> |
-| **kcsi** | ![Image](https://i.seadn.io/s/raw/files/aa443f205f2914506cbbfe1ede0264a2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[kcsi](https://opensea.io/collection/kcsi-2)</details> |
+| **Sassy** | ![Image](https://i.seadn.io/s/raw/files/3410640459deb876a76777420a358859.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sassy](https://opensea.io/collection/sassy-864)</details> |
+| **Hilarious** | ![Image](https://i.seadn.io/s/raw/files/71e69cb442ac4e21528743f892f0fd20.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hilarious](https://opensea.io/collection/hilarious-932)</details> |
+| **Charming** | ![Image](https://i.seadn.io/s/raw/files/1473d23e34c1a6ad7190e84c1b90c080.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Charming](https://opensea.io/collection/charming-968)</details> |
+| **Perky** | ![Image](https://i.seadn.io/s/raw/files/13190668364bbc56f918a3e3de25e916.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-1976)</details> |
 
 </div>
