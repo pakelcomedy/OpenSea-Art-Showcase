@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/11efdb12ef854d9fd76a9584d47e9a87.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-859)</details> |
-| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/11efdb12ef854d9fd76a9584d47e9a87.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-858)</details> |
-| **Snazzy** | ![Image](https://i.seadn.io/s/raw/files/39307d330ac233dd40526385ae0881b4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snazzy](https://opensea.io/collection/snazzy-942)</details> |
-| **Feisty** | ![Image](https://i.seadn.io/s/raw/files/5a27fb784b9664a5f9bcc6b6a0e5042b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Feisty](https://opensea.io/collection/feisty-873)</details> |
+| **replica** | ![Image](https://i.seadn.io/s/raw/files/3c02f9ba28a561b40b5bc2a2ec120705.jpg?w=500&auto=format?w=200&auto=format) | replica | <details><summary>Link</summary>[replica](https://opensea.io/collection/replica-68)</details> |
+| **<details><summary>Mutant Ronkever...</summary>Mutant Ronkeverse</details>** | ![Image](https://i.seadn.io/s/raw/files/6e8cf984d3cc3f9109630c13c6b252fe.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mutant Ronkeverse](https://opensea.io/collection/mutant-ronkeverse)</details> |
+| **replica** | ![Image](https://i.seadn.io/s/raw/files/3c02f9ba28a561b40b5bc2a2ec120705.jpg?w=500&auto=format?w=200&auto=format) | replica | <details><summary>Link</summary>[replica](https://opensea.io/collection/replica-67)</details> |
+| **Rain Tree** | ![Image](https://i.seadn.io/s/raw/files/1d6fa9c38df64ec2d98acb1875285110.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rain Tree](https://opensea.io/collection/rain-tree)</details> |
 
 </div>
