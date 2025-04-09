@@ -6,8 +6,11 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/29eb7f78a7fc574ef0eb414f5ec51362.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-2153)</details> |
-| **Sunny** | ![Image](https://i.seadn.io/s/raw/files/e168ce2f09fde5fd2113cb59adf7b23a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sunny](https://opensea.io/collection/sunny-1116)</details> |
-| **Charming** | ![Image](https://i.seadn.io/s/raw/files/7224e6138a957beb4d66b416da7e3a92.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Charming](https://opensea.io/collection/charming-1055)</details> |
+| **Trippy Heart** | ![Image](https://i.seadn.io/s/raw/files/fa3e75f4d1d69dde027c14989381e834.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trippy Heart](https://opensea.io/collection/trippy-heart)</details> |
+| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/4fdf85ab7757e6dc2f4955498a6766c3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-1550)</details> |
+| **<details><summary>The U.S. just m...</summary>The U.S. just moved closer to recycling nuclear waste</details>** | ![Image](https://i.seadn.io/s/raw/files/faadae7fddb4ef81b2c42cd9fd39cdf4.png?w=500&auto=format?w=200&auto=format) | <details><summary>The U.S. just moved closer to ...</summary>The U.S. just moved closer to recycling nuclear waste
+
+Read the full post on Paragraph: https://paragraph.com/@kaufman/the-us-just-moved-closer-to-recycling-nuclear-waste</details> | <details><summary>Link</summary>[The U.S. just moved closer to recycling nuclear waste](https://opensea.io/collection/the-u-s-just-moved-closer-to-recycling-nuclear-was)</details> |
+| **Playful** | ![Image](https://i.seadn.io/s/raw/files/848b0315c08f7c912598ebeaa431b033.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-946)</details> |
 
 </div>
