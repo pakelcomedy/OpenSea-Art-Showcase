@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/d11e5f3a1705852313784ce2c32b13e4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-1918)</details> |
-| **Cozy** | ![Image](https://i.seadn.io/s/raw/files/6da6a1245c44e053268138b70072e797.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cozy](https://opensea.io/collection/cozy-958)</details> |
-| **Bold** | ![Image](https://i.seadn.io/s/raw/files/8e807c79fb52d0cd4ec01494f9c6cf38.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bold](https://opensea.io/collection/bold-938)</details> |
+| **Giotto** | ![Image](https://i.seadn.io/s/raw/files/ebfde8c7af056c8fdce0e727eae959ab.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giotto](https://opensea.io/collection/giotto-3)</details> |
+| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/846d78bddff5e7c1891174cffa14ebf5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-913)</details> |
+| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/8beaedca07b89f8f2a9e194824182656.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-1395)</details> |
+| **Hilarious** | ![Image](https://i.seadn.io/s/raw/files/c8c24e90fa06b1e8730822cfa0da8818.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hilarious](https://opensea.io/collection/hilarious-907)</details> |
 
 </div>
