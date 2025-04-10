@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Breezy** | ![Image](https://i.seadn.io/s/raw/files/90346e4b21087f41fdf4fdd54b57f27a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Breezy](https://opensea.io/collection/breezy-1155)</details> |
-| **Giggly** | ![Image](https://i.seadn.io/s/raw/files/75075c4a8c561d45a39b614a8063510c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giggly](https://opensea.io/collection/giggly-1173)</details> |
-| **Dire Wolves** | ![Image](https://i.seadn.io/s/raw/files/630c3608ee2c69ca81be58082d89b2b3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dire Wolves](https://opensea.io/collection/dire-wolves-1)</details> |
+| **CGPT** | ![Image](https://i.seadn.io/s/raw/files/ad87446e15f85f5dab52bd67724b7db9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CGPT](https://opensea.io/collection/cgpt-987)</details> |
+| **<details><summary>Install Conscio...</summary>Install Consciousness</details>** | ![Image](https://i.seadn.io/s/raw/files/16d14aab21388cb8f4605d26e1d92526.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Install Consciousness](https://opensea.io/collection/install-consciousness)</details> |
+| **CGPT** | ![Image](https://i.seadn.io/s/raw/files/956634457c62d762e520e7c85b781bf6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CGPT](https://opensea.io/collection/cgpt-986)</details> |
+| **CGPT** | ![Image](https://i.seadn.io/s/raw/files/0ff77d2451d51d4c69b21e12399c6c43.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CGPT](https://opensea.io/collection/cgpt-985)</details> |
 
 </div>
