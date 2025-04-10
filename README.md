@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Whimsical** | ![Image](https://i.seadn.io/s/raw/files/7c34b9cf2f48e174de148f48510bc8f4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Whimsical](https://opensea.io/collection/whimsical-546)</details> |
-| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/cbf1462292bb880ed128580a6de977f1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-1721)</details> |
-| **Giggly** | ![Image](https://i.seadn.io/s/raw/files/77b449102c09f5d58409618997ce1cd3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giggly](https://opensea.io/collection/giggly-1101)</details> |
-| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/9c6ed8d0ff50ac2fbea819007fda38ff.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-3295)</details> |
-| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/cbf1462292bb880ed128580a6de977f1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-1720)</details> |
+| **Sassy** | ![Image](https://i.seadn.io/s/raw/files/91a38a0e6d311a2310dd7e2a6da414a7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sassy](https://opensea.io/collection/sassy-1038)</details> |
+| **h&** | ![Image](https://i.seadn.io/s/raw/files/5bce88b805900d35b55417696a5b077b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[h&](https://opensea.io/collection/h-872)</details> |
+| **Sprightly** | ![Image](https://i.seadn.io/s/raw/files/48caa040741ffb65bcaa464ea55b7e95.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sprightly](https://opensea.io/collection/sprightly-560)</details> |
 
 </div>
