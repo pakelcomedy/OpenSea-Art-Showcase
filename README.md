@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/87bed21f53649b24cc20f03963c6c08b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-3162)</details> |
-| **Fluffy** | ![Image](https://i.seadn.io/s/raw/files/c2e61bc354cfb685c76acf3fe57268aa.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffy](https://opensea.io/collection/fluffy-583)</details> |
-| **<details><summary>0x5b8f9868c37a1...</summary>0x5b8f9868c37a1356ba8a69228893eccd7aa72fd2</details>** | ![Image](https://i.seadn.io/s/raw/files/b757269267cb1610bc13e293fd8f6356.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x5b8f9868c37a1356ba8a69228893eccd7aa72fd2](https://opensea.io/collection/0x5b8f9868c37a1356ba8a69228893eccd7aa72fd2)</details> |
-| **Vibrant** | ![Image](https://i.seadn.io/s/raw/files/f449c3b26fc45bd57e32f842dd4a578f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Vibrant](https://opensea.io/collection/vibrant-1132)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/7f8146e842c0d0612d49b74d656a9f9a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-1051)</details> |
+| **Perky** | ![Image](https://i.seadn.io/s/raw/files/efad35b90606f4403bb60ac2e7b9c27f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-2297)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/7f8146e842c0d0612d49b74d656a9f9a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-1050)</details> |
+| **Adorable** | ![Image](https://i.seadn.io/s/raw/files/7db67766828e3d9e931bae89b30d0782.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Adorable](https://opensea.io/collection/adorable-1080)</details> |
+| **Chill** | ![Image](https://i.seadn.io/s/raw/files/89ce12d42bac64c5215ac3697ddebc50.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chill](https://opensea.io/collection/chill-1224)</details> |
 
 </div>
