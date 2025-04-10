@@ -6,10 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/7f8146e842c0d0612d49b74d656a9f9a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-1051)</details> |
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/efad35b90606f4403bb60ac2e7b9c27f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-2297)</details> |
-| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/7f8146e842c0d0612d49b74d656a9f9a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-1050)</details> |
-| **Adorable** | ![Image](https://i.seadn.io/s/raw/files/7db67766828e3d9e931bae89b30d0782.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Adorable](https://opensea.io/collection/adorable-1080)</details> |
-| **Chill** | ![Image](https://i.seadn.io/s/raw/files/89ce12d42bac64c5215ac3697ddebc50.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chill](https://opensea.io/collection/chill-1224)</details> |
+| **Createchain6** | ![Image](https://i.seadn.io/s/raw/files/c334493ecb8bf0de5c9751a43ec7482c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Createchain
+
+Made with [NFTs2M...</summary>Createchain
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Createchain6](https://opensea.io/collection/createchain6)</details> |
+| **Spiffy** | ![Image](https://i.seadn.io/s/raw/files/9be0c9e2e83da8de44a7c16928462ef6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spiffy](https://opensea.io/collection/spiffy-1087)</details> |
+| **ミント** | ![Image](https://i.seadn.io/s/raw/files/aa34c05c1657c47b0b05b696053f7e8d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ミント](https://opensea.io/collection/minto-3)</details> |
+| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/d935c5739f59ed070d238a0d91f51d6f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-3212)</details> |
 
 </div>
