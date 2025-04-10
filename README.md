@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Saucy** | ![Image](https://i.seadn.io/s/raw/files/96958262e813a956bbd74c8c1883a1b5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Saucy](https://opensea.io/collection/saucy-1009)</details> |
-| **Whimsical** | ![Image](https://i.seadn.io/s/raw/files/c672fbb498c40a5abb039b664e0c7725.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Whimsical](https://opensea.io/collection/whimsical-485)</details> |
-| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/40c46fc91c7e85621b3f7ddf2eebc6eb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-1024)</details> |
+| **vsdv** | ![Image](https://i.seadn.io/s/raw/files/1a1a25fe13a9f5dd94490f142afb6ee2.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[vsdv](https://opensea.io/collection/vsdv-126)</details> |
+| **Breezy** | ![Image](https://i.seadn.io/s/raw/files/e454c0b090f478fbb0e5304a39efda6e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Breezy](https://opensea.io/collection/breezy-1032)</details> |
+| **giraffe** | ![Image](https://i.seadn.io/s/raw/files/7eeb5286bd9c3fec86efe52f4d76c7ec.jpg?w=500&auto=format?w=200&auto=format) | giraffe | <details><summary>Link</summary>[giraffe](https://opensea.io/collection/giraffe-145)</details> |
 
 </div>
