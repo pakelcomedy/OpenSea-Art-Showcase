@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Saucy** | ![Image](https://i.seadn.io/s/raw/files/7339764364370c3c7c3fb62895a56576.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Saucy](https://opensea.io/collection/saucy-1219)</details> |
-| **<details><summary>0x05271b198258f...</summary>0x05271b198258fcc4dc5b0b13b9042f72284fc634</details>** | ![Image](https://i.seadn.io/s/raw/files/2be864d1bdd671d6daff4d0717398cda.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x05271b198258fcc4dc5b0b13b9042f72284fc634](https://opensea.io/collection/0x05271b198258fcc4dc5b0b13b9042f72284fc634)</details> |
-| **Unique** | ![Image](https://i.seadn.io/s/raw/files/bdc165636026b74c9412c9730ff841df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unique](https://opensea.io/collection/unique-1434)</details> |
-| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/6973ec79dd2f11a152d99d9861c93079.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-1201)</details> |
+| **Sweet** | ![Image](https://i.seadn.io/s/raw/files/2c11c11be218ddf2d65a2ec5c5f334fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sweet](https://opensea.io/collection/sweet-1385)</details> |
+| **Giggly** | ![Image](https://i.seadn.io/s/raw/files/942bc64594435e620c7bb943d502ad42.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giggly](https://opensea.io/collection/giggly-1224)</details> |
+| **Breezy** | ![Image](https://i.seadn.io/s/raw/files/0eef86702d0727f62ab382e7bfea86c8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Breezy](https://opensea.io/collection/breezy-1215)</details> |
+| **Giggly** | ![Image](https://i.seadn.io/s/raw/files/942bc64594435e620c7bb943d502ad42.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Giggly](https://opensea.io/collection/giggly-1223)</details> |
+| **Dapper** | ![Image](https://i.seadn.io/s/raw/files/ad3c862e1459ccf2c8e5e95337a373f8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dapper](https://opensea.io/collection/dapper-1280)</details> |
 
 </div>
