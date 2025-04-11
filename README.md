@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/5eae681e0abd67eb2b9dc234f07b5e34.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-1870)</details> |
-| **<details><summary>0x3cec2e38e6a07...</summary>0x3cec2e38e6a07bf4aced8836f655a7bcf22fa98f</details>** | ![Image](https://i.seadn.io/s/raw/files/6c987077ce9bd6567b9e60c3489bd2c5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x3cec2e38e6a07bf4aced8836f655a7bcf22fa98f](https://opensea.io/collection/0x3cec2e38e6a07bf4aced8836f655a7bcf22fa98f)</details> |
-| **Feisty** | ![Image](https://i.seadn.io/s/raw/files/478a7706ae93cca4894bca6fb8d526a6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Feisty](https://opensea.io/collection/feisty-1277)</details> |
-| **Funky** | ![Image](https://i.seadn.io/s/raw/files/95dabffcba290b56671da91f50e5443d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Funky](https://opensea.io/collection/funky-1257)</details> |
+| **Chic** | ![Image](https://i.seadn.io/s/raw/files/4e9953fe204207d91f3c4a5863583625.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chic](https://opensea.io/collection/chic-1353)</details> |
+| **Playful** | ![Image](https://i.seadn.io/s/raw/files/0dbb3c7dcf4a05575f83f83a2f9e94c0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-1227)</details> |
+| **Twinkly** | ![Image](https://i.seadn.io/s/raw/files/5cd68582ec22e6b230e052ba13e79eaa.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Twinkly](https://opensea.io/collection/twinkly-663)</details> |
+| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/c53ba3defa207b05a41b8dc16114ecf5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-3777)</details> |
 
 </div>
