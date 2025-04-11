@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Snazzy** | ![Image](https://i.seadn.io/s/raw/files/08688ebd33d52f846143351b61dc2256.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snazzy](https://opensea.io/collection/snazzy-1346)</details> |
-| **Snazzy** | ![Image](https://i.seadn.io/s/raw/files/08688ebd33d52f846143351b61dc2256.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Snazzy](https://opensea.io/collection/snazzy-1345)</details> |
+| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/54bbe49a22cf2596a2775cee910fcde1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-3687)</details> |
 
 </div>
