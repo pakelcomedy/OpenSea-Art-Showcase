@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/0552f7ada1f7a0f86976d87cccbb4b52.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-2961)</details> |
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/7aa2c9012b0054d864547cb3961478b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-2960)</details> |
-| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/fff3d731b5621cc876fb15ba26452627.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-4188)</details> |
-| **Lively** | ![Image](https://i.seadn.io/s/raw/files/4baf7d19aba0043679dd4b09aa674090.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-1361)</details> |
+| **DOGE** | ![Image](https://i.seadn.io/s/raw/files/571174ed9568fff9eda8d9c0fe2c9031.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DOGE](https://opensea.io/collection/doge-714)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/b4669ffa307945671b91795b0a62291a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-517)</details> |
+| **Swaggy** | ![Image](https://i.seadn.io/s/raw/files/4ac5b14c9cb5db65960e852dc621883c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Swaggy](https://opensea.io/collection/swaggy-1309)</details> |
 
 </div>
