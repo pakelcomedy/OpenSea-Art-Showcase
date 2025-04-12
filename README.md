@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/03b1978f60ee377cc1ec51cda5b65fcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-2145)</details> |
-| **<details><summary>0x72eff0d720f61...</summary>0x72eff0d720f615f61be9833559a351edcf8659cb</details>** | ![Image](https://i.seadn.io/s/raw/files/d8ffc1b2a12e75656e93feb00921ce97.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x72eff0d720f615f61be9833559a351edcf8659cb](https://opensea.io/collection/0x72eff0d720f615f61be9833559a351edcf8659cb)</details> |
-| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/ef090d433e9af67a25eec1d2efaedb4c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-1348)</details> |
-| **Lorita 7** | ![Image](https://i.seadn.io/s/raw/files/bbf578d1e17673e17a9638bde07a26a7.png?w=500&auto=format?w=200&auto=format) | Lorita  | <details><summary>Link</summary>[Lorita 7](https://opensea.io/collection/lorita-7)</details> |
+| **Perky** | ![Image](https://i.seadn.io/s/raw/files/0552f7ada1f7a0f86976d87cccbb4b52.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-2961)</details> |
+| **Perky** | ![Image](https://i.seadn.io/s/raw/files/7aa2c9012b0054d864547cb3961478b3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-2960)</details> |
+| **Peppy** | ![Image](https://i.seadn.io/s/raw/files/fff3d731b5621cc876fb15ba26452627.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Peppy](https://opensea.io/collection/peppy-4188)</details> |
+| **Lively** | ![Image](https://i.seadn.io/s/raw/files/4baf7d19aba0043679dd4b09aa674090.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-1361)</details> |
 
 </div>
