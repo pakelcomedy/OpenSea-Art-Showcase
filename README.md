@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Groovy** | ![Image](https://i.seadn.io/s/raw/files/6dcb1c905ddf29da188cb8f22b93684d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Groovy](https://opensea.io/collection/groovy-1461)</details> |
-| **Trendy** | ![Image](https://i.seadn.io/s/raw/files/768adc3996c7aed6b79ea77a9aa187ad.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Trendy](https://opensea.io/collection/trendy-1389)</details> |
-| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/48e490160457b1534ca5cc5d268416f5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-1378)</details> |
-| **Dreamy** | ![Image](https://i.seadn.io/s/raw/files/73b00ce9a2ded1e251840233dddad978.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dreamy](https://opensea.io/collection/dreamy-1533)</details> |
+| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/feadf02d9f7d0b4a2a4eee0f9bc40423.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-1392)</details> |
+| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/feadf02d9f7d0b4a2a4eee0f9bc40423.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-1391)</details> |
+| **Twinkly** | ![Image](https://i.seadn.io/s/raw/files/a2704454a33518934a46e0af8ed115b1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Twinkly](https://opensea.io/collection/twinkly-768)</details> |
+| **Groovy** | ![Image](https://i.seadn.io/s/raw/files/812b6ff86bae01430ab50c1c6f3e67fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Groovy](https://opensea.io/collection/groovy-1467)</details> |
 
 </div>
