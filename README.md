@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **DOGE** | ![Image](https://i.seadn.io/s/raw/files/6b9eb72ddd791e2d4e42257b60ad3129.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DOGE](https://opensea.io/collection/doge-595)</details> |
-| **DOGE** | ![Image](https://i.seadn.io/s/raw/files/87d0015d365d46cb2d43a01e72ec6ba6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DOGE](https://opensea.io/collection/doge-594)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/0033a18598e948accf2afd2eb17d7f5b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-431)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/2f5d5b60f2c0981da266b6850a459a2f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-430)</details> |
+| **Zany** | ![Image](https://i.seadn.io/s/raw/files/8c9fcc521e7aa70718cad5ce37efa7bb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zany](https://opensea.io/collection/zany-1423)</details> |
+| **Zany** | ![Image](https://i.seadn.io/s/raw/files/8c9fcc521e7aa70718cad5ce37efa7bb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zany](https://opensea.io/collection/zany-1422)</details> |
+| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/4d54d7812aa5793840173ff19972efc2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-2086)</details> |
+| **Dreamy** | ![Image](https://i.seadn.io/s/raw/files/4b63027eca2505958addf05c2bd7d3f6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dreamy](https://opensea.io/collection/dreamy-1441)</details> |
 
 </div>
