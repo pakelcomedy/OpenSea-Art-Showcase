@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Zesty** | ![Image](https://i.seadn.io/s/raw/files/a1e95bf4020aedc1b1b76e7f66698338.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zesty](https://opensea.io/collection/zesty-1519)</details> |
-| **Zesty** | ![Image](https://i.seadn.io/s/raw/files/a1e95bf4020aedc1b1b76e7f66698338.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Zesty](https://opensea.io/collection/zesty-1518)</details> |
-| **<details><summary>Playing with do...</summary>Playing with dots</details>** | ![Image](https://i.seadn.io/s/raw/files/5a1ee2dc473b145cc72606cd8d7fbab2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playing with dots](https://opensea.io/collection/playing-with-dots)</details> |
-| **Cool** | ![Image](https://i.seadn.io/s/raw/files/6eeaea5dd65045aed72eaa1576ba8fba.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cool](https://opensea.io/collection/cool-2073)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/35dded8b8551ee96ced7f41ac839cffd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5087)</details> |
+| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/9794988a3b4199638c03d925574858a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-1569)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/cb8bd4b59d652b5630012206bc5ec07e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5086)</details> |
+| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/9794988a3b4199638c03d925574858a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-1568)</details> |
+| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/d0a84919ce7767c6389260f08b92f36f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-2320)</details> |
 
 </div>
