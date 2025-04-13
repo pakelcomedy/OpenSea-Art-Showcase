@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/d68867e1a66d24f28d45ce96476c6408.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5720)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/a4a39fa152c498bb6487c58d8dbf7d0a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5719)</details> |
-| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/ff256f63dfbbbac3ef60b94fdf84b1af.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-2328)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/ed93b7b3bc396b9a3114d6c1f717c9ab.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5718)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/4d87820108b502ca3684422ebcad7344.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5832)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/97dd158654d5dca384e56945492fc9e6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5831)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/b303593474c64e494c663bd069c1e4df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5830)</details> |
 
 </div>
