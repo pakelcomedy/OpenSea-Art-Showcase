@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/4d87820108b502ca3684422ebcad7344.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5832)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/97dd158654d5dca384e56945492fc9e6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5831)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/b303593474c64e494c663bd069c1e4df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-5830)</details> |
+| **Algae Farm** | ![Image](https://i.seadn.io/s/raw/files/c27a06b5c7ab1ada8bc31d11bc5fe88a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Algae Farm](https://opensea.io/collection/algae-farm)</details> |
+| **Perky** | ![Image](https://i.seadn.io/s/raw/files/f1faca0921465bada563f263c3962b0b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-3303)</details> |
 
 </div>
