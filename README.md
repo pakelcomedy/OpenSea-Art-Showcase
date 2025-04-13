@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Lively** | ![Image](https://i.seadn.io/s/raw/files/b198e58e5b256d4f5cf89846ce9e2478.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-1497)</details> |
-| **<details><summary>0x5398a2bcb634c...</summary>0x5398a2bcb634cacc52e7bccc92fe539b3f9122f8</details>** | ![Image](https://i.seadn.io/s/raw/files/e6e9db7c5c91b77a9269c537d33cda8d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x5398a2bcb634cacc52e7bccc92fe539b3f9122f8](https://opensea.io/collection/0x5398a2bcb634cacc52e7bccc92fe539b3f9122f8)</details> |
-| **Lively** | ![Image](https://i.seadn.io/s/raw/files/b198e58e5b256d4f5cf89846ce9e2478.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-1496)</details> |
-| **Naughty** | ![Image](https://i.seadn.io/s/raw/files/39796fbe85be1bb4fc9b085b85d4cfbc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Naughty](https://opensea.io/collection/naughty-1498)</details> |
-| **Witty** | ![Image](https://i.seadn.io/s/raw/files/b28b8f25ce6ddb2d90ea1e86f9d9912d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Witty](https://opensea.io/collection/witty-1499)</details> |
+| **Groovy** | ![Image](https://i.seadn.io/s/raw/files/43dd367210de25d6cd2ff9b10b91b61c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Groovy](https://opensea.io/collection/groovy-1542)</details> |
+| **Perky** | ![Image](https://i.seadn.io/s/raw/files/eeeb9b194401bea1ac276a4b78bd333c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-3234)</details> |
+| **sea** | ![Image](https://i.seadn.io/s/raw/files/3b915bef7eca5ae84299577eca0dbb0c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sea](https://opensea.io/collection/sea-1068)</details> |
+| **Sunny** | ![Image](https://i.seadn.io/s/raw/files/ed7295ebf563b7ce2d0a0c5f64a3c30d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sunny](https://opensea.io/collection/sunny-1598)</details> |
+| **Twinkly** | ![Image](https://i.seadn.io/s/raw/files/8000ed04299a9e01cefb04afb70a2965.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Twinkly](https://opensea.io/collection/twinkly-797)</details> |
 
 </div>
