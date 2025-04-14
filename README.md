@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **TJBenn** | ![Image](https://i.seadn.io/s/raw/files/349a8142568d12516256260acfb3ccbc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TJBenn](https://opensea.io/collection/tjbenn)</details> |
-| **nickyc** | ![Image](https://i.seadn.io/s/raw/files/b6121c253e5c7e4b90e9d15fa568f84a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[nickyc](https://opensea.io/collection/nickyc)</details> |
-| **Warborn Empire** | ![Image](https://i.seadn.io/s/raw/files/37762dd8600b6db7dfaaab29687ec2df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Warborn Empire](https://opensea.io/collection/warborn-empire-7)</details> |
-| **<details><summary>Rustborn Vangua...</summary>Rustborn Vanguard</details>** | ![Image](https://i.seadn.io/s/raw/files/a57e088b61f50bdfe130ef874412996e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rustborn Vanguard](https://opensea.io/collection/rustborn-vanguard-2)</details> |
-| **kdo** | ![Image](https://i.seadn.io/s/raw/files/f4739faff044d861e93e8561b7857496.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[kdo](https://opensea.io/collection/kdo-1)</details> |
+| **inzen** | ![Image](https://i.seadn.io/s/raw/files/c042b604dd67cf06f250a6bd4e7273c2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[inzen](https://opensea.io/collection/inzen)</details> |
+| **shadow15** | ![Image](https://i.seadn.io/s/raw/files/76adc27198c04a692340c8a5b4b9b0c2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[shadow15](https://opensea.io/collection/shadow15-1)</details> |
+| **bones69** | ![Image](https://i.seadn.io/s/raw/files/ad9c6188978f593fbcdadf32eab73167.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bones69](https://opensea.io/collection/bones69)</details> |
+| **danmar** | ![Image](https://i.seadn.io/s/raw/files/731067ad3e001a5e27c1964a9d881f9d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[danmar](https://opensea.io/collection/danmar)</details> |
+| **Fizzy** | ![Image](https://i.seadn.io/s/raw/files/efb26f6f071d92612efafd641463a40b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fizzy](https://opensea.io/collection/fizzy-1648)</details> |
 
 </div>
