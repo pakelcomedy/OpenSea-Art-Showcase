@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/ce7731eacdc7fdb526e20d4ce820a010.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-1152)</details> |
-| **Void Empire** | ![Image](https://i.seadn.io/s/raw/files/197679b6a199aac9fddf21d149b1f752.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Void Empire](https://opensea.io/collection/void-empire-13)</details> |
-| **Jazzy** | ![Image](https://i.seadn.io/s/raw/files/a05d5022eaa9ebd5a5c215627a3c8c26.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Jazzy](https://opensea.io/collection/jazzy-2581)</details> |
-| **Fluffernutter** | ![Image](https://i.seadn.io/s/raw/files/6fcfb16e03ffbb7c0996bf3a1a43d664.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffernutter](https://opensea.io/collection/fluffernutter-529)</details> |
+| **<details><summary>BROKEN DAMNING ...</summary>BROKEN DAMNING TORTURE COLD SORROW</details>** | ![Image](https://i.seadn.io/s/raw/files/5a9aaf937491a2edb263311bfa93a1f1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BROKEN DAMNING TORTURE COLD SORROW](https://opensea.io/collection/broken-damning-torture-cold-sorrow)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/7c5a0a3c5ee596ec054b1082fe52c902.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-11911)</details> |
+| **jjjjj** | ![Image](https://i.seadn.io/s/raw/files/0fbc668694867936dfc86c86c33632df.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jjjjj](https://opensea.io/collection/jjjjj-5)</details> |
+| **Hurler** | ![Image](https://i.seadn.io/s/raw/files/ddc84c58980bfa619837634cf4460983.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hurler](https://opensea.io/collection/hurler)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/94ec76f20844a325d101420afa2e6180.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-11910)</details> |
 
 </div>
