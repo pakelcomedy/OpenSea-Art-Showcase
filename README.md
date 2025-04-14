@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Gleeful** | ![Image](https://i.seadn.io/s/raw/files/c8ed411ebb0703aa0488ab850f3ff8de.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gleeful](https://opensea.io/collection/gleeful-1773)</details> |
-| **Electric** | ![Image](https://i.seadn.io/s/raw/files/c7c3200f6dab95838600a81877681edb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Electric](https://opensea.io/collection/electric-1800)</details> |
-| **foxes** | ![Image](https://i.seadn.io/s/raw/files/7256ef1e4a10355456f13f49391521ae.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[foxes](https://opensea.io/collection/foxes-168)</details> |
-| **FuzzyFloofs** | ![Image](https://i.seadn.io/s/raw/files/d946b1e97f7b179cff7239a54dd79597.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FuzzyFloofs](https://opensea.io/collection/fuzzyfloofs-56)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/751d451b29b8078e953cb7ad22d98003.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-10502)</details> |
+| **<details><summary>Nightshade Domi...</summary>Nightshade Dominion</details>** | ![Image](https://i.seadn.io/s/raw/files/40b073ffe211ddc14243142b75527f43.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nightshade Dominion](https://opensea.io/collection/nightshade-dominion-10)</details> |
+| **btbart** | ![Image](https://i.seadn.io/s/raw/files/d1e3325c4eb4805db4d247a6d5dfc3bd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[btbart](https://opensea.io/collection/btbart)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/b173f06ce9d59f0bdb98f7898fdb5660.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-10501)</details> |
+| **Saucy** | ![Image](https://i.seadn.io/s/raw/files/59784e7f95b76ab37bbc96c16c7d3568.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Saucy](https://opensea.io/collection/saucy-1727)</details> |
 
 </div>
