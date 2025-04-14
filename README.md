@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/fa6d899d2b2a5e616cae76676488ea09.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-12624)</details> |
-| **<details><summary>$CAKE: t.me/Cla...</summary>$CAKE: t.me/ClaimCake</details>** | ![Image](https://i.seadn.io/s/raw/files/b6b1f5864b0d5a922376644a0f62f063.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$CAKE: t.me/ClaimCake](https://opensea.io/collection/cake-t-me-claimcake-604)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/f61242140cc896a00d41ad363c9e2fbd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-12623)</details> |
-| **<details><summary>$CAKE visit: t....</summary>$CAKE visit: t.me/ClaimCake</details>** | ![Image](https://i.seadn.io/s/raw/files/b6b1f5864b0d5a922376644a0f62f063.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[$CAKE visit: t.me/ClaimCake](https://opensea.io/collection/cake-visit-t-me-claimcake-301)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/7d060967bf667634561ad9ee9c5f3ef2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-12622)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/3f86fde2693f7474244d9026f95072fb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-13012)</details> |
+| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/2b829444612a33e567a00d3c34689d65.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-868)</details> |
+| **s0cr4t3s** | ![Image](https://i.seadn.io/s/raw/files/aa3c79c79e1124849c06db6526f49d69.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[s0cr4t3s](https://opensea.io/collection/s0cr4t3s)</details> |
+| **ctheo** | ![Image](https://i.seadn.io/s/raw/files/a58e715e4c758c6c0b30c5c5015f8275.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ctheo](https://opensea.io/collection/ctheo)</details> |
+| **parade** | ![Image](https://i.seadn.io/s/raw/files/1901f8e71e3c92baf87abe1df0d58abd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[parade](https://opensea.io/collection/parade-16)</details> |
 
 </div>
