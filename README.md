@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sassy** | ![Image](https://i.seadn.io/s/raw/files/521a14be3ae58911b385218c45363eb2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sassy](https://opensea.io/collection/sassy-1668)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/3539b2635d9570705726b0b4b8b0e168.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-858)</details> |
-| **HyperLoop Rage** | ![Image](https://i.seadn.io/s/raw/files/a991f843f56d849effe43ff8589c6646.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HyperLoop Rage](https://opensea.io/collection/hyperloop-rage)</details> |
-| **Sprightly** | ![Image](https://i.seadn.io/s/raw/files/e4703a35e0537504f35addb577d9a518.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sprightly](https://opensea.io/collection/sprightly-911)</details> |
+| **Cool** | ![Image](https://i.seadn.io/s/raw/files/4d98aa22f88a4c02f4762cb80c2bdaa6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cool](https://opensea.io/collection/cool-2303)</details> |
+| **<details><summary>VF x Topps Chro...</summary>VF x Topps Chrome Spotlight</details>** | ![Image](https://i.seadn.io/s/raw/files/ba7c1d77b79b0a23e0fbc50fdaf106ad.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[VF x Topps Chrome Spotlight](https://opensea.io/collection/vf-x-topps-chrome-spotlight)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/efbf1c2a0416805f3ce8272930b70ff5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-14464)</details> |
+| **a** | ![Image](https://i.seadn.io/s/raw/files/195592940cb8344c44829b73a2ae0051.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[a](https://opensea.io/collection/a-2012)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/1cba62b9b6fefcaaae296da29a9b87f8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-14463)</details> |
 
 </div>
