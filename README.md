@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Breezy** | ![Image](https://i.seadn.io/s/raw/files/10f063ac03f935ae8271af1c3ec3af8b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Breezy](https://opensea.io/collection/breezy-1829)</details> |
-| **h** | ![Image](https://i.seadn.io/s/raw/files/5514a2d85531809ac6bdddac88e5d0bd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[h](https://opensea.io/collection/h-1046)</details> |
-| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/cd408de5f1a59a99eb8c916c0b63ebe9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-1110)</details> |
-| **Mischievous** | ![Image](https://i.seadn.io/s/raw/files/6855b15f6fce2162d170c12734085be7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mischievous](https://opensea.io/collection/mischievous-1818)</details> |
+| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/56a7e07a8d94bc88ec650f29cdc3ec9d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-1772)</details> |
+| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/b080eaa1f877a506a8563ff46f5b0a1d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-1849)</details> |
+| **Playful** | ![Image](https://i.seadn.io/s/raw/files/92e469e79fe05f3410aa9b92e2e0813e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playful](https://opensea.io/collection/playful-1754)</details> |
+| **Spunky** | ![Image](https://i.seadn.io/s/raw/files/35b16a5efc452ba3d9b476b21365f3e7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spunky](https://opensea.io/collection/spunky-2857)</details> |
+| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/01c0e2c45e49e5a395521416945a110f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-1771)</details> |
 
 </div>
