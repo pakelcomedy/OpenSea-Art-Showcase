@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Cool** | ![Image](https://i.seadn.io/s/raw/files/4d98aa22f88a4c02f4762cb80c2bdaa6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cool](https://opensea.io/collection/cool-2303)</details> |
-| **<details><summary>VF x Topps Chro...</summary>VF x Topps Chrome Spotlight</details>** | ![Image](https://i.seadn.io/s/raw/files/ba7c1d77b79b0a23e0fbc50fdaf106ad.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[VF x Topps Chrome Spotlight](https://opensea.io/collection/vf-x-topps-chrome-spotlight)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/efbf1c2a0416805f3ce8272930b70ff5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-14464)</details> |
-| **a** | ![Image](https://i.seadn.io/s/raw/files/195592940cb8344c44829b73a2ae0051.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[a](https://opensea.io/collection/a-2012)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/1cba62b9b6fefcaaae296da29a9b87f8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-14463)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/03153a22b4994ce0d305cf66aff2bc48.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-2150)</details> |
+| **Llriedel** | ![Image](https://i.seadn.io/s/raw/files/7a5aa5f3f77e6e75755633062f35fdc6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Llriedel](https://opensea.io/collection/llriedel)</details> |
+| **deweys** | ![Image](https://i.seadn.io/s/raw/files/0f7ea20c5baed3b6272b558225cd0437.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[deweys](https://opensea.io/collection/deweys)</details> |
+| **3r1** | ![Image](https://i.seadn.io/s/raw/files/7e6b7a1fcc43d1f60a01c70caf0a1cbd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[3r1](https://opensea.io/collection/3r1-1)</details> |
+| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/8834c90dec916e777c1461e85b871a2b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-14603)</details> |
 
 </div>
