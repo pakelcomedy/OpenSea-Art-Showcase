@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/c4c962a00cbce4c3c81718cf56c2eff9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-2476)</details> |
-| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/5803861634b7b1f1a4b2c1113e250a75.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-2475)</details> |
-| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/2026df953f49472ec51d69b54ce35045.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-2474)</details> |
-| **Perky** | ![Image](https://i.seadn.io/s/raw/files/e3cda83594fbe9a85d62bd8cb19e06a3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Perky](https://opensea.io/collection/perky-3944)</details> |
+| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/a8095e5e432dac17fe25b6e8e6c12b18.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-1759)</details> |
+| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/6621c67f8e845e7f77172a902a941653.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-2773)</details> |
+| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/1248d521dbccbc561a0b670b9a51e2a4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-2772)</details> |
+| **Fluffernutter** | ![Image](https://i.seadn.io/s/raw/files/a4300dd98589865c7220d5fe1181cc84.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffernutter](https://opensea.io/collection/fluffernutter-1325)</details> |
+| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/aaa9860612cc89aec46bfe562728848b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-1758)</details> |
 
 </div>
