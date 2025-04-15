@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/a9a5783b7f4a43833c0ff2a4fd5d4af6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-14160)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/5f3f7301965baf3a180aeb6fbc1cb02d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-14158)</details> |
-| **CAKE** | ![Image](https://i.seadn.io/s/raw/files/f9bd40423db3745a7a43a4c0428f2f25.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CAKE](https://opensea.io/collection/cake-14157)</details> |
+| **Sassy** | ![Image](https://i.seadn.io/s/raw/files/521a14be3ae58911b385218c45363eb2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sassy](https://opensea.io/collection/sassy-1668)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/3539b2635d9570705726b0b4b8b0e168.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-858)</details> |
+| **HyperLoop Rage** | ![Image](https://i.seadn.io/s/raw/files/a991f843f56d849effe43ff8589c6646.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HyperLoop Rage](https://opensea.io/collection/hyperloop-rage)</details> |
+| **Sprightly** | ![Image](https://i.seadn.io/s/raw/files/e4703a35e0537504f35addb577d9a518.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sprightly](https://opensea.io/collection/sprightly-911)</details> |
 
 </div>
