@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Spectral Forged** | ![Image](https://i.seadn.io/s/raw/files/91c434dd5b34893df685689109bbdf05.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spectral Forged](https://opensea.io/collection/spectral-forged-17)</details> |
-| **<details><summary>WIN - t.ly/panc...</summary>WIN - t.ly/pancakeswap.finance</details>** | ![Image](https://i.seadn.io/s/raw/files/4ddde00c1d61b39a03bca9bb746a2dd5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WIN - t.ly/pancakeswap.finance](https://opensea.io/collection/win-t-ly-pancakeswap-finance-105)</details> |
-| **<details><summary>Win: t.ly/panca...</summary>Win: t.ly/pancakeswap.finance</details>** | ![Image](https://i.seadn.io/s/raw/files/4ddde00c1d61b39a03bca9bb746a2dd5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Win: t.ly/pancakeswap.finance](https://opensea.io/collection/win-t-ly-pancakeswap-finance-104)</details> |
-| **Lively** | ![Image](https://i.seadn.io/s/raw/files/fd6166895e417a5888f432fe0a9d329a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-1952)</details> |
+| **Fluffernutter** | ![Image](https://i.seadn.io/s/raw/files/7ff77b31c70ec1ca6abb122ee1a4a08b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffernutter](https://opensea.io/collection/fluffernutter-2129)</details> |
+| **ss** | ![Image](https://i.seadn.io/s/raw/files/ee91c8cdee2d99a471d44bd2b9c2e71f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ss](https://opensea.io/collection/ss-367)</details> |
+| **CrypticCipher78** | ![Image](https://i.seadn.io/s/raw/files/4b053a961443ebf0e97e267a9a4f81b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CrypticCipher78](https://opensea.io/collection/crypticcipher78-29)</details> |
 
 </div>
