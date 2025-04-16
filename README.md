@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/845fdfb3e398b44d88d79f8deef1f590.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-2529)</details> |
-| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/a1bcd6122ebc6805d155571e9bb81dc5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-2528)</details> |
-| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/d6915eaee186594417601808bdea291d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-4073)</details> |
-| **Fluffernutter** | ![Image](https://i.seadn.io/s/raw/files/4a5cf719caa9fd59ed7c50c123ff3d4c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fluffernutter](https://opensea.io/collection/fluffernutter-2003)</details> |
+| **Spectral Forged** | ![Image](https://i.seadn.io/s/raw/files/91c434dd5b34893df685689109bbdf05.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spectral Forged](https://opensea.io/collection/spectral-forged-17)</details> |
+| **<details><summary>WIN - t.ly/panc...</summary>WIN - t.ly/pancakeswap.finance</details>** | ![Image](https://i.seadn.io/s/raw/files/4ddde00c1d61b39a03bca9bb746a2dd5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WIN - t.ly/pancakeswap.finance](https://opensea.io/collection/win-t-ly-pancakeswap-finance-105)</details> |
+| **<details><summary>Win: t.ly/panca...</summary>Win: t.ly/pancakeswap.finance</details>** | ![Image](https://i.seadn.io/s/raw/files/4ddde00c1d61b39a03bca9bb746a2dd5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Win: t.ly/pancakeswap.finance](https://opensea.io/collection/win-t-ly-pancakeswap-finance-104)</details> |
+| **Lively** | ![Image](https://i.seadn.io/s/raw/files/fd6166895e417a5888f432fe0a9d329a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lively](https://opensea.io/collection/lively-1952)</details> |
 
 </div>
