@@ -6,11 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Spicy** | ![Image](https://i.seadn.io/s/raw/files/ea149f99ccd0692ca7f4d692eb701d47.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Spicy](https://opensea.io/collection/spicy-1906)</details> |
-| **ReepzTech** | ![Image](https://i.seadn.io/s/raw/files/e7394c68cc48d3640b2418225a18fcfe.png?w=500&auto=format?w=200&auto=format) | <details><summary>Reepz
-
-Made with [NFTs2Me.com]...</summary>Reepz
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[ReepzTech](https://opensea.io/collection/reepztech)</details> |
+| **<details><summary>0xe112d5ffc7f23...</summary>0xe112d5ffc7f2355bbc9e6c7514c6f6dc8742a0ae</details>** | ![Image](https://i.seadn.io/s/raw/files/b81ef06e5a533429ee30419c66fd44bb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xe112d5ffc7f2355bbc9e6c7514c6f6dc8742a0ae](https://opensea.io/collection/0xe112d5ffc7f2355bbc9e6c7514c6f6dc8742a0ae)</details> |
 
 </div>
