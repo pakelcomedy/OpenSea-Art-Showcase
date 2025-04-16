@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FluffyPupNFT** | ![Image](https://i.seadn.io/s/raw/files/a70d979b74393fe47398078552a02b21.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FluffyPupNFT](https://opensea.io/collection/fluffypupnft-130)</details> |
-| **Storm Wardens** | ![Image](https://i.seadn.io/s/raw/files/1972fc684f052061728a80505f1da509.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Storm Wardens](https://opensea.io/collection/storm-wardens-13)</details> |
-| **Leviathan Order** | ![Image](https://i.seadn.io/s/raw/files/fc05a54d5d2b4da0b532e16346b48b66.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Leviathan Order](https://opensea.io/collection/leviathan-order-20)</details> |
+| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/7932214e62d95ac2c26b3e3e369853d5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-4748)</details> |
+| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/e8a959530a91f44edbf2a4bf85daff23.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-2947)</details> |
+| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/18dd45c37a2e9ec0becaa5bc070feac4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-2946)</details> |
 
 </div>
