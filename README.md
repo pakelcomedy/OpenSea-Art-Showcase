@@ -6,8 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/7932214e62d95ac2c26b3e3e369853d5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-4748)</details> |
-| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/e8a959530a91f44edbf2a4bf85daff23.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-2947)</details> |
-| **CosmicPup** | ![Image](https://i.seadn.io/s/raw/files/18dd45c37a2e9ec0becaa5bc070feac4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmicPup](https://opensea.io/collection/cosmicpup-2946)</details> |
+| **FuzzyFluffs** | ![Image](https://i.seadn.io/s/raw/files/3c20c00bb6c0f70340b6f224ef38bfcd.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FuzzyFluffs](https://opensea.io/collection/fuzzyfluffs-432)</details> |
+| **CutieFluffies** | ![Image](https://i.seadn.io/s/raw/files/2c524988f44fb234cd51a4b6891d7ef4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CutieFluffies](https://opensea.io/collection/cutiefluffies-95)</details> |
+| **<details><summary>BabyDogeGalaxy-...</summary>BabyDogeGalaxy-729X</details>** | ![Image](https://i.seadn.io/s/raw/files/b172ff92107b58d6524acdcd07d8d9c0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BabyDogeGalaxy-729X](https://opensea.io/collection/babydogegalaxy-729x-4)</details> |
+| **The seagull** | ![Image](https://i.seadn.io/s/raw/files/548d262d588f17a605c72d812da7709f.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Nature photography
+--
+See more...</summary>Nature photography
+--
+See more by Hodasa66 on Remx at remx.xyz/hodasa66</details> | <details><summary>Link</summary>[The seagull](https://opensea.io/collection/the-seagull-3)</details> |
 
 </div>
