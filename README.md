@@ -6,6 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0xe112d5ffc7f23...</summary>0xe112d5ffc7f2355bbc9e6c7514c6f6dc8742a0ae</details>** | ![Image](https://i.seadn.io/s/raw/files/b81ef06e5a533429ee30419c66fd44bb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xe112d5ffc7f2355bbc9e6c7514c6f6dc8742a0ae](https://opensea.io/collection/0xe112d5ffc7f2355bbc9e6c7514c6f6dc8742a0ae)</details> |
+| **Degenerate Apes** | ![Image](https://i.seadn.io/s/raw/files/8f2da84bf787672566e7193a32ec0d4a.png?w=500&auto=format?w=200&auto=format) | <details><summary>Degenerate Apes
+
+Made with [NF...</summary>Degenerate Apes
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Degenerate Apes](https://opensea.io/collection/degenerate-apes-19)</details> |
+| **<details><summary>LUMINOUS SENTIN...</summary>LUMINOUS SENTINELS</details>** | ![Image](https://i.seadn.io/s/raw/files/5bdf4e253f967709f1d9770fcc200392.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LUMINOUS SENTINELS](https://opensea.io/collection/luminous-sentinels-1)</details> |
+| **<details><summary>LUMINOUS SENTIN...</summary>LUMINOUS SENTINELS</details>** | ![Image](https://i.seadn.io/s/raw/files/c469c311badb1a13a21761fdb983d9bf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LUMINOUS SENTINELS](https://opensea.io/collection/luminous-sentinels)</details> |
+| **etefr** | ![Image](https://i.seadn.io/s/raw/files/4d1a27ca4e629f84872c10454289bc0e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[etefr](https://opensea.io/collection/etefr)</details> |
 
 </div>
