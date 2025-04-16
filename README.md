@@ -6,13 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Degenerate Apes** | ![Image](https://i.seadn.io/s/raw/files/8f2da84bf787672566e7193a32ec0d4a.png?w=500&auto=format?w=200&auto=format) | <details><summary>Degenerate Apes
-
-Made with [NF...</summary>Degenerate Apes
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Degenerate Apes](https://opensea.io/collection/degenerate-apes-19)</details> |
-| **<details><summary>LUMINOUS SENTIN...</summary>LUMINOUS SENTINELS</details>** | ![Image](https://i.seadn.io/s/raw/files/5bdf4e253f967709f1d9770fcc200392.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LUMINOUS SENTINELS](https://opensea.io/collection/luminous-sentinels-1)</details> |
-| **<details><summary>LUMINOUS SENTIN...</summary>LUMINOUS SENTINELS</details>** | ![Image](https://i.seadn.io/s/raw/files/c469c311badb1a13a21761fdb983d9bf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[LUMINOUS SENTINELS](https://opensea.io/collection/luminous-sentinels)</details> |
-| **etefr** | ![Image](https://i.seadn.io/s/raw/files/4d1a27ca4e629f84872c10454289bc0e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[etefr](https://opensea.io/collection/etefr)</details> |
+| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/f183cd7004411820f941b581a0a82dec.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-1876)</details> |
+| **Quirky** | ![Image](https://i.seadn.io/s/raw/files/f183cd7004411820f941b581a0a82dec.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Quirky](https://opensea.io/collection/quirky-1875)</details> |
+| **Cool** | ![Image](https://i.seadn.io/s/raw/files/d092078ef40f8aad7934a9cb37ba88a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cool](https://opensea.io/collection/cool-2456)</details> |
+| **Flashy** | ![Image](https://i.seadn.io/s/raw/files/1142344e18b46ca7a1fdf9da3d60cf5d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Flashy](https://opensea.io/collection/flashy-1918)</details> |
 
 </div>
