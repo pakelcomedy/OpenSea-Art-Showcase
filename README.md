@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **CosmoPup** | ![Image](https://i.seadn.io/s/raw/files/7228ab88dfec5e49f6662c9c2fcb576a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CosmoPup](https://opensea.io/collection/cosmopup-6152)</details> |
-| **CutieFloof** | ![Image](https://i.seadn.io/s/raw/files/c80ac016f7481590eec3034a1ddb6d0c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CutieFloof](https://opensea.io/collection/cutiefloof-586)</details> |
+| **<details><summary>Sandwatch AI NF...</summary>Sandwatch AI NFTs</details>** | ![Image](https://i.seadn.io/s/raw/files/2dd6c9028edcf928c8f73236bf086518.png?w=500&auto=format?w=200&auto=format) | Bring your NFT to life | <details><summary>Link</summary>[Sandwatch AI NFTs](https://opensea.io/collection/sandwatch-ai-nfts-3)</details> |
 
 </div>
