@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **soneium-girl** | ![Image](https://i.seadn.io/s/raw/files/6883d2ad04bf06b3ec58d4077f0ae764.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[soneium-girl](https://opensea.io/collection/soneium-girl-4)</details> |
+| **Tiger** | ![Image](https://i.seadn.io/s/raw/files/7ba1952032cba624cdbc04106627edb3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tiger](https://opensea.io/collection/tiger-720)</details> |
+| **Golden sunset** | ![Image](https://i.seadn.io/s/raw/files/2949317cadf43bb5eb6abe3e253a2125.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Golden sunset](https://opensea.io/collection/golden-sunset-5)</details> |
 
 </div>
