@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **The Couple** | ![Image](https://i.seadn.io/s/raw/files/dc5d471cb7c8b8c579ad4430d903f5a6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Detail shot of my big brother ...</summary>Detail shot of my big brother and wife painting portrait I painted in 2021.
---
-See more by Samuel Momoh  on Remx at remx.xyz/artsam2</details> | <details><summary>Link</summary>[The Couple](https://opensea.io/collection/the-couple-5)</details> |
-| **<details><summary>0x09a8dfbc4457a...</summary>0x09a8dfbc4457aa3c042feb2df050430e98c62610</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x09a8dfbc4457aa3c042feb2df050430e98c62610](https://opensea.io/collection/0x09a8dfbc4457aa3c042feb2df050430e98c62610)</details> |
-| **Sunrise** | ![Image](https://i.seadn.io/s/raw/files/3923b134c5e603c8376b52838a246cca.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sunrise](https://opensea.io/collection/sunrise-308)</details> |
+| **shell luce** | ![Image](https://i.seadn.io/s/raw/files/ee0e27b91c2eb7bb0fa25ea694da40f3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[shell luce](https://opensea.io/collection/shell-luce)</details> |
+| **Bouncy puppy** | ![Image](https://i.seadn.io/s/raw/files/8f0479acaf760aef8b4381a0531bb002.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bouncy puppy](https://opensea.io/collection/bouncy-puppy-1)</details> |
+| **By3** | ![Image](https://i.seadn.io/s/raw/files/b52202b79e105e4d497c49242efb01a0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[By3](https://opensea.io/collection/by3)</details> |
+| **shell maneki** | ![Image](https://i.seadn.io/s/raw/files/53e9c222ea444d9e628a61cc92fa2865.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[shell maneki](https://opensea.io/collection/shell-maneki)</details> |
 
 </div>
