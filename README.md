@@ -6,13 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Mystical Scary ...</summary>Mystical Scary Monster by Lunnaoe x Reddit Collectible Avatars</details>** | ![Image](https://i.seadn.io/s/raw/files/752c0ff592882bc302312d41a13f2747.png?w=500&auto=format?w=200&auto=format) | <details><summary>This series was created by Red...</summary>This series was created by Reddit user Lunnaoe as a part of the Collectible Avatars Creator Program. You can [check out the creator's profile on Reddit](https://www.reddit.com/user/lunnaoe/).
-
-Collectible Avatars are limited-edition avatars from Reddit that provide owners with unique benefits on the Reddit platform. The Creator Collection was made by independent creators in partnership with Reddit. When you purchase a Collectible Avatar, you become the owner of it. This means you can keep it, trade it, sell it, or use it on Reddit as your avatar, where Collectible Avatar owners get a special profile treatment that makes them stand out.
-
-[Learn More About Collectible Avatars on Reddit](https://reddithelp.com/hc/en-us/articles/6213835889044).
-
-[View the Previews Terms](https://www.redditinc.com/policies/previews-terms).</details> | <details><summary>Link</summary>[Mystical Scary Monster by Lunnaoe x Reddit Collectible Avatars](https://opensea.io/collection/mystical-scary-monster-by-lunnaoe-x-reddit-collect)</details> |
-| **DROP** | ![Image](https://i.seadn.io/s/raw/files/09a3894e3bad262f361c9340cec3c816.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DROP](https://opensea.io/collection/drop-242)</details> |
+| **rocketdance** | ![Image](https://i.seadn.io/s/raw/files/d1982d9f5d208b6c7f04940c51ff76de.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[rocketdance](https://opensea.io/collection/rocketdance)</details> |
+| **<details><summary>The Invisible S...</summary>The Invisible Scream</details>** | ![Image](https://i.seadn.io/s/raw/files/d2cc1f06c53a3feda569a2aab9b1d255.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Invisible Scream](https://opensea.io/collection/the-invisible-scream)</details> |
+| **fhdsfh** | ![Image](https://i.seadn.io/s/raw/files/cb5a23107dbb735530d3532cc92a2b42.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fhdsfh](https://opensea.io/collection/fhdsfh)</details> |
+| **BERALOVER** | ![Image](https://i.seadn.io/s/raw/files/d92267d4f5a96ef4c90a98ee6afcfe00.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BERALOVER](https://opensea.io/collection/beralover)</details> |
 
 </div>
