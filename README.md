@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **towel** | ![Image](https://i.seadn.io/s/raw/files/ad16e235cc0c537407b989133cd071ab.png?w=500&auto=format?w=200&auto=format) | towel | <details><summary>Link</summary>[towel](https://opensea.io/collection/towel-16)</details> |
-| **Silence** | ![Image](https://i.seadn.io/s/raw/files/cf52a5b167f694bbdd33311763c1d17f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Silence](https://opensea.io/collection/silence-115)</details> |
+| **Movement** | ![Image](https://raw.seadn.io/files/fb19d5b44550374e825f39efcd0dcdf7.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Movement](https://opensea.io/collection/movement-63)</details> |
+| **sizepaper** | ![Image](https://i.seadn.io/s/raw/files/d4dcca7d19c6efd3430dd7903c6063fe.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sizepaper](https://opensea.io/collection/sizepaper)</details> |
+| **ChatGpt_Ninja** | ![Image](https://i.seadn.io/s/raw/files/7aa048d639bea715fa24a29b06b6e86e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ChatGpt_Ninja](https://opensea.io/collection/chatgpt-ninja)</details> |
 
 </div>
