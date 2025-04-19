@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/2756d48dcc9c6284cd08ab03b9b6fb5a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-12499)</details> |
+| **xi hu mei jing** | ![Image](https://i.seadn.io/s/raw/files/eb4eb9cb9b2fe30fff3d63f3edb3d841.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[xi hu mei jing](https://opensea.io/collection/xi-hu-mei-jing)</details> |
 
 </div>
