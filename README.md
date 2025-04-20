@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Party Membershi...</summary>Party Memberships: StormFund</details>** | ![Image](https://i.seadn.io/s/raw/files/d927d3099257832e7e94bc703b32b1e5.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents mem...</summary>This collection represents memberships in the following Party: StormFund. Head to https://base.party.app/party/0x350cdefb61306b77baf8d75306ac9f4f783a10d3 to view the Party's latest activity.</details> | <details><summary>Link</summary>[Party Memberships: StormFund](https://opensea.io/collection/party-memberships-stormfund)</details> |
-| **crumblealone** | ![Image](https://i.seadn.io/s/raw/files/3a2752ce5f7a94ecfd4b82e802f31227.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[crumblealone](https://opensea.io/collection/crumblealone)</details> |
+| **100 % art** | ![Image](https://i.seadn.io/s/raw/files/fd626ddc82f410811684d9ab10f9065e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[100 % art](https://opensea.io/collection/100-art-3)</details> |
+| **Moto Success** | ![Image](https://i.seadn.io/s/raw/files/2945001c6a105e12ed3c7e477a6f74e9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Moto Success](https://opensea.io/collection/moto-success-2)</details> |
 
 </div>
