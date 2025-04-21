@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **opposestruggle** | ![Image](https://i.seadn.io/s/raw/files/fd158376012408ad279192628dd4a50d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[opposestruggle](https://opensea.io/collection/opposestruggle)</details> |
-| **Red beauty** | ![Image](https://i.seadn.io/s/raw/files/c8e9f3f35e2d6ccfc4758e6425204f89.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Red beauty](https://opensea.io/collection/red-beauty-4)</details> |
+| **<details><summary>Party Membershi...</summary>Party Memberships: Epsilon Labs Corporation</details>** | ![Image](https://i.seadn.io/s/raw/files/d927d3099257832e7e94bc703b32b1e5.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents mem...</summary>This collection represents memberships in the following Party: Epsilon Labs Corporation. Head to https://base.party.app/party/0xf5b6f56f9074ac5333c1b005d2c50c696ee86391 to view the Party's latest activity.</details> | <details><summary>Link</summary>[Party Memberships: Epsilon Labs Corporation](https://opensea.io/collection/party-memberships-epsilon-labs-corporation)</details> |
 
 </div>
