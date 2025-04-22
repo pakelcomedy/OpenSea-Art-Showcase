@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **gigastors** | ![Image](https://i.seadn.io/s/raw/files/cb8d3fd3fdc83eca42731a8e4a6aa5f0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[gigastors](https://opensea.io/collection/gigastors)</details> |
-| **Furion** | ![Image](https://i.seadn.io/s/raw/files/4a4de7db81f4e69a124c276f3cf04338.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Furion](https://opensea.io/collection/furion-3)</details> |
-| **ableaction** | ![Image](https://i.seadn.io/s/raw/files/ba6f4af56f0732e3bd7b8504bca14250.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ableaction](https://opensea.io/collection/ableaction)</details> |
+| **hospital** | ![Image](https://i.seadn.io/s/raw/files/660d4353d8de7472b8f54e17337ecc01.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hospital](https://opensea.io/collection/hospital-20)</details> |
+| **speakerupt** | ![Image](https://i.seadn.io/s/raw/files/2ba46986e99ec1ab8052f995926b89dc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[speakerupt](https://opensea.io/collection/speakerupt)</details> |
+| **acceptable** | ![Image](https://i.seadn.io/s/raw/files/5f23cd1c13cba1bca05c5534dcdf7a4a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[acceptable](https://opensea.io/collection/acceptable-18)</details> |
 
 </div>
