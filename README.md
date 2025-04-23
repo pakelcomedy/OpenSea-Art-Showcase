@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **hospital** | ![Image](https://i.seadn.io/s/raw/files/660d4353d8de7472b8f54e17337ecc01.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hospital](https://opensea.io/collection/hospital-20)</details> |
-| **speakerupt** | ![Image](https://i.seadn.io/s/raw/files/2ba46986e99ec1ab8052f995926b89dc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[speakerupt](https://opensea.io/collection/speakerupt)</details> |
-| **acceptable** | ![Image](https://i.seadn.io/s/raw/files/5f23cd1c13cba1bca05c5534dcdf7a4a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[acceptable](https://opensea.io/collection/acceptable-18)</details> |
+| **coinchurn** | ![Image](https://i.seadn.io/s/raw/files/4c6cbd39fe85973087de134c1c6ca88e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[coinchurn](https://opensea.io/collection/coinchurn)</details> |
+| **moralyou** | ![Image](https://i.seadn.io/s/raw/files/078fcd2795b530a81d039ca30be62402.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[moralyou](https://opensea.io/collection/moralyou)</details> |
+| **Galaxy Fun** | ![Image](https://i.seadn.io/s/raw/files/2fe77eb0e25f563ac9ea6a6178710c3a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Galaxy Fun](https://opensea.io/collection/galaxy-fun-3)</details> |
+| **clinicinput** | ![Image](https://i.seadn.io/s/raw/files/9bb1c3e8d385689a154347d41e7d0ed3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[clinicinput](https://opensea.io/collection/clinicinput)</details> |
+| **dinosaurblack** | ![Image](https://i.seadn.io/s/raw/files/dd8953ddd311944a6f65e306c2c0d973.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dinosaurblack](https://opensea.io/collection/dinosaurblack)</details> |
 
 </div>
