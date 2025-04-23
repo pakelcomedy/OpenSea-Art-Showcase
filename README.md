@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **coinchurn** | ![Image](https://i.seadn.io/s/raw/files/4c6cbd39fe85973087de134c1c6ca88e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[coinchurn](https://opensea.io/collection/coinchurn)</details> |
-| **moralyou** | ![Image](https://i.seadn.io/s/raw/files/078fcd2795b530a81d039ca30be62402.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[moralyou](https://opensea.io/collection/moralyou)</details> |
-| **Galaxy Fun** | ![Image](https://i.seadn.io/s/raw/files/2fe77eb0e25f563ac9ea6a6178710c3a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Galaxy Fun](https://opensea.io/collection/galaxy-fun-3)</details> |
-| **clinicinput** | ![Image](https://i.seadn.io/s/raw/files/9bb1c3e8d385689a154347d41e7d0ed3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[clinicinput](https://opensea.io/collection/clinicinput)</details> |
-| **dinosaurblack** | ![Image](https://i.seadn.io/s/raw/files/dd8953ddd311944a6f65e306c2c0d973.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dinosaurblack](https://opensea.io/collection/dinosaurblack)</details> |
+| **<details><summary>Astar Brew VII ...</summary>Astar Brew VII #63</details>** | ![Image](https://i.seadn.io/s/raw/files/21c5f471a19adb9e61b6f3679c1073bd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Astar Brew VII #63](https://opensea.io/collection/astar-brew-vii-63)</details> |
+| **sketchriot** | ![Image](https://i.seadn.io/s/raw/files/8db58ac7d31778cdf8b50b0489a92e0d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sketchriot](https://opensea.io/collection/sketchriot)</details> |
+| **knowreceive** | ![Image](https://i.seadn.io/s/raw/files/59ef86c15df9327a054e73ebc9c2959c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[knowreceive](https://opensea.io/collection/knowreceive)</details> |
+| **oceantide_13** | ![Image](https://i.seadn.io/s/raw/files/34a93119616f0954272bee911322d0e1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[oceantide_13](https://opensea.io/collection/oceantide-13)</details> |
+| **efaeergr** | ![Image](https://i.seadn.io/s/raw/files/05686b781e14f1a4b7e9a1ed13f1c262.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[efaeergr](https://opensea.io/collection/efaeergr)</details> |
 
 </div>
