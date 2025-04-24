@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **lius** | ![Image](https://i.seadn.io/s/raw/files/5ccb00fdae584ccf34806be8a89ec25a.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lius](https://opensea.io/collection/lius-4)</details> |
-| **typeduck** | ![Image](https://i.seadn.io/s/raw/files/16e5dc11f925c3a42b0b5aa707cb68d6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[typeduck](https://opensea.io/collection/typeduck)</details> |
-| **<details><summary>Ethereal Artifa...</summary>Ethereal Artifacts</details>** | ![Image](https://raw.seadn.io/files/988fed33baa9a2dc67aa80b6090ddedf.svg?w=200&auto=format) | <details><summary>Explore the realm of coded rea...</summary>Explore the realm of coded realities, challenging perception.</details> | <details><summary>Link</summary>[Ethereal Artifacts](https://opensea.io/collection/ethereal-artifacts-18)</details> |
+| **Halloween** | ![Image](https://i.seadn.io/s/raw/files/2aa208655a41494d35d899e2c02b0fe6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Halloween](https://opensea.io/collection/halloween-270)</details> |
+| **<details><summary>0xdcc553f39ffb7...</summary>0xdcc553f39ffb7b6fee073fdaa9626b66bcd3e381</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xdcc553f39ffb7b6fee073fdaa9626b66bcd3e381](https://opensea.io/collection/0xdcc553f39ffb7b6fee073fdaa9626b66bcd3e381)</details> |
 
 </div>
