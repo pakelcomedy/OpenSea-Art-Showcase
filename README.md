@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Visit blazing-e...</summary>Visit blazing-eth.net to claim rewards</details>** | ![Image](https://i.seadn.io/s/raw/files/41d938efb2b524f9265ba87de126b153.png?w=500&auto=format?w=200&auto=format) | <details><summary>Visit blazing-eth.net to claim...</summary>Visit blazing-eth.net to claim rewards</details> | <details><summary>Link</summary>[Visit blazing-eth.net to claim rewards](https://opensea.io/collection/visit-blazing-eth-net-to-claim-rewards-13)</details> |
+| **flag** | ![Image](https://i.seadn.io/s/raw/files/0f99fdca7d7a11970316f6cd91348189.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[flag](https://opensea.io/collection/flag-71)</details> |
+| **TJG** | ![Image](https://i.seadn.io/s/raw/files/4bb2a352b102e42487c8383bb98509ba.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[TJG](https://opensea.io/collection/tjg-2)</details> |
 
 </div>
