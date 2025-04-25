@@ -6,9 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Party Membershi...</summary>Party Memberships: TurboChain</details>** | ![Image](https://i.seadn.io/s/raw/files/d927d3099257832e7e94bc703b32b1e5.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents mem...</summary>This collection represents memberships in the following Party: TurboChain. Head to https://base.party.app/party/0x4d7831aa25a192158232c2dad97fe5b069d11eea to view the Party's latest activity.</details> | <details><summary>Link</summary>[Party Memberships: TurboChain](https://opensea.io/collection/party-memberships-turbochain-4)</details> |
-| **<details><summary>SONGS: primaver...</summary>SONGS: primavera</details>** | ![Image](https://i.seadn.io/s/raw/files/b555b26b19dab470a045f9fa04b07bcf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SONGS: primavera](https://opensea.io/collection/songs-primavera)</details> |
-| **DAOnt Care** | ![Image](https://i.seadn.io/s/raw/files/f8a561ad778397c87defc2844f0c1363.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DAOnt Care](https://opensea.io/collection/daont-care)</details> |
-| **<details><summary>Mint Fast Cry L...</summary>Mint Fast Cry Later</details>** | ![Image](https://i.seadn.io/s/raw/files/095c598832ff300f710248b7283ca5fc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mint Fast Cry Later](https://opensea.io/collection/mint-fast-cry-later)</details> |
+| **witnesshybrid** | ![Image](https://i.seadn.io/s/raw/files/233c7df1052a72cf76499f55228f47b4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[witnesshybrid](https://opensea.io/collection/witnesshybrid)</details> |
+| **<details><summary>NFT Dumpster Di...</summary>NFT Dumpster Dive</details>** | ![Image](https://i.seadn.io/s/raw/files/1bd8ed1da82b38aaef0929907653ad1e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NFT Dumpster Dive](https://opensea.io/collection/nft-dumpster-dive-1)</details> |
+| **Conquer** | ![Image](https://i.seadn.io/s/raw/files/ed894829933d013038a113d37dba3500.png?w=500&auto=format?w=200&auto=format) | <details><summary>Conquer
+--
+See more by Wanjiga...</summary>Conquer
+--
+See more by Wanjigallery  on Remx at remx.xyz/wanjigallery</details> | <details><summary>Link</summary>[Conquer](https://opensea.io/collection/conquer-4)</details> |
+| **Copy-Paste Cult** | ![Image](https://i.seadn.io/s/raw/files/0c4fb5f1714dd8e6f49a31fda4ea0390.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Copy-Paste Cult](https://opensea.io/collection/copy-paste-cult-1)</details> |
 
 </div>
