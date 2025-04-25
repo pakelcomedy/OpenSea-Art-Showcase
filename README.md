@@ -6,11 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **THINK** | ![Image](https://i.seadn.io/s/raw/files/9dfbad1f693557b40031275501346d08.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[THINK](https://opensea.io/collection/think-68)</details> |
-| **Quactanyl** | ![Image](https://i.seadn.io/s/raw/files/f4dd3db8195ac59919e7c5e90e884507.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Quactanyl is the kinetic spark...</summary>Quactanyl is the kinetic spark of the Soneium realm — a bright, bouncy pulse of waddling motion and boundless energy. With two wide eyes and a thumbs-up in every dimension, he powers up the grid one flap at a time.
-
-The Core Movements collection gathers high-energy avatars built for flow, activation, and lighthearted dominance across the Soneium landscape.
-
-Walk bright. Flap bold. Quack on-chain.</details> | <details><summary>Link</summary>[Quactanyl](https://opensea.io/collection/quactanyl)</details> |
+| **<details><summary>SONGS: AURAL ST...</summary>SONGS: AURAL STEP</details>** | ![Image](https://i.seadn.io/s/raw/files/2e40aadd6007ffd500b3535d91c1ae1d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>energia alfa oscura energialfa...</summary>energia alfa oscura energialfaoscurawvfi@gmail.com</details> | <details><summary>Link</summary>[SONGS: AURAL STEP](https://opensea.io/collection/songs-aural-step)</details> |
+| **<details><summary>0xa84a5a2e2dd78...</summary>0xa84a5a2e2dd783329e18bcfc872351d1c13cb164</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xa84a5a2e2dd783329e18bcfc872351d1c13cb164](https://opensea.io/collection/0xa84a5a2e2dd783329e18bcfc872351d1c13cb164)</details> |
+| **<details><summary>BYTNFT Collecti...</summary>BYTNFT Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/9ac16a9c429dde8bd19b4d64ebd12374.png?w=500&auto=format?w=200&auto=format) | <details><summary>Official BYTNFT Collection on ...</summary>Official BYTNFT Collection on Base Network</details> | <details><summary>Link</summary>[BYTNFT Collection](https://opensea.io/collection/bytnft-collection)</details> |
 
 </div>
