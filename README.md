@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Shapes - Shapes...</summary>Shapes - Shapes #3</details>** | ![Image](https://i.seadn.io/s/raw/files/f3d87c47f5d5ddfa1289cb824f726d1d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Created by Shapes on Sound. Le...</summary>Created by Shapes on Sound. Leave a comment on the song at https://www.sound.xyz/shapes/shapes-3</details> | <details><summary>Link</summary>[Shapes - Shapes #3](https://opensea.io/collection/shapes-shapes-3)</details> |
+| **NOOKT** | ![Image](https://i.seadn.io/s/raw/files/b8dac7c4c6362e923fda21be9e1d899d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NOOKT](https://opensea.io/collection/nookt)</details> |
+| **Gentle Light** | ![Image](https://i.seadn.io/s/raw/files/32f18953de7b1e34caa1262b6e4d72ff.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gentle Light](https://opensea.io/collection/gentle-light-1)</details> |
 
 </div>
