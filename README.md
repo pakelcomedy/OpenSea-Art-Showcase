@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **music** | ![Image](https://i.seadn.io/s/raw/files/15e8df4a9880cc52b752c863ba005e19.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[music](https://opensea.io/collection/music-437)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 69abde19-94fc-45c1-959f-cf9ef8e6643e</details>** | ![Image](https://i.seadn.io/s/raw/files/5161bfec3b83fe5c88694460e2e9b7d4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 69abde19-94fc-45c1-959f-cf9ef8e6643e](https://opensea.io/collection/unidentified-contract-69abde19-94fc-45c1-959f-cf9e)</details> |
+| **foundation** | ![Image](https://i.seadn.io/s/raw/files/6f60e9ff0c36a9ce64d0decd1b5618d5.jpg?w=500&auto=format?w=200&auto=format) | foundation | <details><summary>Link</summary>[foundation](https://opensea.io/collection/foundation-62)</details> |
+| **<details><summary>0x098533325c3cc...</summary>0x098533325c3ccb3230098571dfc155b8fed7db40</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x098533325c3ccb3230098571dfc155b8fed7db40](https://opensea.io/collection/0x098533325c3ccb3230098571dfc155b8fed7db40)</details> |
+| **summon** | ![Image](https://i.seadn.io/s/raw/files/3a8499a4e06190f29615c530774e105d.jpg?w=500&auto=format?w=200&auto=format) | summon | <details><summary>Link</summary>[summon](https://opensea.io/collection/summon-3)</details> |
+| **dumb** | ![Image](https://i.seadn.io/s/raw/files/038c581cae04bf79b1ab3846fd5aa25e.jpg?w=500&auto=format?w=200&auto=format) | dumb | <details><summary>Link</summary>[dumb](https://opensea.io/collection/dumb-28)</details> |
 
 </div>
