@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **NOOKT** | ![Image](https://i.seadn.io/s/raw/files/b8dac7c4c6362e923fda21be9e1d899d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[NOOKT](https://opensea.io/collection/nookt)</details> |
-| **Gentle Light** | ![Image](https://i.seadn.io/s/raw/files/32f18953de7b1e34caa1262b6e4d72ff.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Gentle Light](https://opensea.io/collection/gentle-light-1)</details> |
+| **music** | ![Image](https://i.seadn.io/s/raw/files/15e8df4a9880cc52b752c863ba005e19.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[music](https://opensea.io/collection/music-437)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 69abde19-94fc-45c1-959f-cf9ef8e6643e</details>** | ![Image](https://i.seadn.io/s/raw/files/5161bfec3b83fe5c88694460e2e9b7d4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 69abde19-94fc-45c1-959f-cf9ef8e6643e](https://opensea.io/collection/unidentified-contract-69abde19-94fc-45c1-959f-cf9e)</details> |
 
 </div>
