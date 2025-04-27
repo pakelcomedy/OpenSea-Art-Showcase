@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **giraffecraft** | ![Image](https://i.seadn.io/s/raw/files/7416a3b7c7ce6380b18f4d4249c20799.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[giraffecraft](https://opensea.io/collection/giraffecraft)</details> |
+| **<details><summary>PizzaKing of Ma...</summary>PizzaKing of Magic Realism</details>** | ![Image](https://i.seadn.io/s/raw/files/01b6dda392a75c73a790e5b5f55e1fc1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PizzaKing of Magic Realism](https://opensea.io/collection/pizzaking-of-magic-realism)</details> |
 
 </div>
