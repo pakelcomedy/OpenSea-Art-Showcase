@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>PizzaKing of Ma...</summary>PizzaKing of Magic Realism</details>** | ![Image](https://i.seadn.io/s/raw/files/01b6dda392a75c73a790e5b5f55e1fc1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PizzaKing of Magic Realism](https://opensea.io/collection/pizzaking-of-magic-realism)</details> |
+| **Envy** | ![Image](https://i.seadn.io/s/raw/files/70d97c4f423a90d4a32e2a4da7ba8c2b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Envy](https://opensea.io/collection/envy-13)</details> |
+| **emptyestate** | ![Image](https://i.seadn.io/s/raw/files/1b9838b464749fb97cb8c55667113382.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[emptyestate](https://opensea.io/collection/emptyestate)</details> |
 
 </div>
