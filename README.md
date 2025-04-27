@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Chain of Cringe** | ![Image](https://i.seadn.io/s/raw/files/e3bbba410f0ff9d503c78c32587607b9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chain of Cringe](https://opensea.io/collection/chain-of-cringe)</details> |
+| **<details><summary>Bera NFT Lotter...</summary>Bera NFT Lottery</details>** | ![Image](https://i.seadn.io/s/raw/files/bcbb073ab4ce2f4806926629bb02f383.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bera NFT Lottery](https://opensea.io/collection/bera-nft-lottery-1196)</details> |
+| **Anima111** | ![Image](https://i.seadn.io/s/raw/files/73e8187fad8e3afc276be9ae13b8015f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Anima111](https://opensea.io/collection/anima111)</details> |
 
 </div>
