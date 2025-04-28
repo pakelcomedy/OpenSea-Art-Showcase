@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Forgotten Fragm...</summary>Forgotten Fragments</details>** | ![Image](https://i.seadn.io/s/raw/files/c2c01a6f629a2d658f8004efeb57db03.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Forgotten Fragments](https://opensea.io/collection/forgotten-fragments-1)</details> |
-| **Radiant Bastion** | ![Image](https://i.seadn.io/s/raw/files/5366ffb13923f7e65ee4027e8ae27322.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Radiant Bastion](https://opensea.io/collection/radiant-bastion)</details> |
-| **QuantumBagelBot** | ![Image](https://i.seadn.io/s/raw/files/ea3ed3f3c0893de948c5339f7c847cdb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[QuantumBagelBot](https://opensea.io/collection/quantumbagelbot)</details> |
+| **calmwire** | ![Image](https://i.seadn.io/s/raw/files/c9a27082cadf32fa03543f58ce2d0a53.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[calmwire](https://opensea.io/collection/calmwire)</details> |
+| **<details><summary>Surrealist Drea...</summary>Surrealist Dreamscape</details>** | ![Image](https://i.seadn.io/s/raw/files/527bfa02f014cd512a8dd1ade4e28d5e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Surrealist Dreamscape](https://opensea.io/collection/surrealist-dreamscape-1)</details> |
+| **Pixel Pharaohs** | ![Image](https://i.seadn.io/s/raw/files/1f9bd9bd33c2c59aced1b37dc174bda0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Pharaohs](https://opensea.io/collection/pixel-pharaohs-1)</details> |
+| **Cyber-Boy** | ![Image](https://i.seadn.io/s/raw/files/3593e15b393e9c2d12ecee8968465730.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Cyber-Boy](https://opensea.io/collection/cyber-boy-5)</details> |
 
 </div>
