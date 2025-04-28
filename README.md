@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sewweni** | ![Image](https://i.seadn.io/s/raw/files/a6d61efd44c35ec994c29f2bb0bd1f96.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sewweni](https://opensea.io/collection/sewweni)</details> |
-| **<details><summary>Portrait Painti...</summary>Portrait Painting</details>** | ![Image](https://i.seadn.io/s/raw/files/8d8c3a34a43f76160a95623e5d72ffc1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Made this beautiful portrait p...</summary>Made this beautiful portrait painting in 2021, oil Paints on archival paper
---
-See more by Mimi on Remx at remx.xyz/miracle-1111</details> | <details><summary>Link</summary>[Portrait Painting](https://opensea.io/collection/portrait-painting-13)</details> |
+| **Zyncoin** | ![Image](https://i.seadn.io/s/raw/files/723861298f49b1e7eaba2e380dee7e0d.png?w=500&auto=format?w=200&auto=format) | Zyncoin | <details><summary>Link</summary>[Zyncoin](https://opensea.io/collection/zyncoin)</details> |
+| **MANCHEGO** | ![Image](https://i.seadn.io/s/raw/files/52ee64d043e43803e9abecb12f6bfbc5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MANCHEGO](https://opensea.io/collection/manchego)</details> |
+| **<details><summary>hello-from-abus...</summary>hello-from-abusers-pol</details>** | ![Image](https://i.seadn.io/s/raw/files/12257c5deb4105b6893051d38fbed406.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hello-from-abusers-pol](https://opensea.io/collection/hello-from-abusers-pol)</details> |
 
 </div>
