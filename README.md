@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **systemaddress** | ![Image](https://i.seadn.io/s/raw/files/6515e767546b6ddfecd4bb5912ee4e8d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[systemaddress](https://opensea.io/collection/systemaddress)</details> |
-| **BleepSunBear** | ![Image](https://i.seadn.io/s/raw/files/2439c86b0598e055f130334ec28e3a11.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BleepSunBear](https://opensea.io/collection/bleepsunbear)</details> |
+| **spawnsnap** | ![Image](https://i.seadn.io/s/raw/files/680d2d9550b8d7c0a683e3f3b66bbeea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[spawnsnap](https://opensea.io/collection/spawnsnap)</details> |
+| **APE** | ![Image](https://i.seadn.io/s/raw/files/d659fab9be2cc7dfc3b36c5cf9f1c8b4.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[APE](https://opensea.io/collection/ape-663)</details> |
+| **afraidargue** | ![Image](https://i.seadn.io/s/raw/files/8d88b793d2cda424723fc897c6812db4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[afraidargue](https://opensea.io/collection/afraidargue)</details> |
 
 </div>
