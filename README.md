@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **startdumb** | ![Image](https://i.seadn.io/s/raw/files/7eed317f16d2f0f4e62a8c3960da4bbd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[startdumb](https://opensea.io/collection/startdumb)</details> |
-| **jugy** | ![Image](https://i.seadn.io/s/raw/files/05d2f44acb43fc5bb94952fe63acc55d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jugy](https://opensea.io/collection/jugy-2)</details> |
-| **jtgyu** | ![Image](https://i.seadn.io/s/raw/files/d99be93c1623c1b7c148472c4365aab6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jtgyu](https://opensea.io/collection/jtgyu)</details> |
-| **Auckland** | ![Image](https://i.seadn.io/s/raw/files/12e5c5ba225b3a90aedc0c42207d161d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Auckland](https://opensea.io/collection/auckland-12)</details> |
+| **DJ Wolf** | ![Image](https://i.seadn.io/s/raw/files/c3229e122ceadac1bf71ca0357f2f282.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DJ Wolf](https://opensea.io/collection/dj-wolf)</details> |
+| **oiltoss** | ![Image](https://i.seadn.io/s/raw/files/f7e97a74e23b329443c9f8f99e636a12.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[oiltoss](https://opensea.io/collection/oiltoss)</details> |
+| **cousinspeak** | ![Image](https://i.seadn.io/s/raw/files/f60190fb174cd7f223daf3ba091c64d4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cousinspeak](https://opensea.io/collection/cousinspeak)</details> |
 
 </div>
