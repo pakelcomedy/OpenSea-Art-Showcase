@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **deerwoman** | ![Image](https://i.seadn.io/s/raw/files/54578ee88b5805fa3343c5dd4950adc7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[deerwoman](https://opensea.io/collection/deerwoman)</details> |
-| **Chameleon** | ![Image](https://i.seadn.io/s/raw/files/f60958ed0ca05b902095bc4a41b2790d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Chameleon](https://opensea.io/collection/chameleon-57)</details> |
-| **gfh** | ![Image](https://i.seadn.io/s/raw/files/dbad24658274d54effe549aee89b31a3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[gfh](https://opensea.io/collection/gfh-111)</details> |
-| **utilitydestroy** | ![Image](https://i.seadn.io/s/raw/files/d94194f13d34205e7fe35be202749371.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[utilitydestroy](https://opensea.io/collection/utilitydestroy)</details> |
-| **jgtk** | ![Image](https://i.seadn.io/s/raw/files/3d2d8db75997b8d6ee5256bfe95d3fb2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jgtk](https://opensea.io/collection/jgtk)</details> |
+| **Fractured Suns** | ![Image](https://i.seadn.io/s/raw/files/b7b72697f1ee1d9481f0938c2d800dae.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fractured Suns](https://opensea.io/collection/fractured-suns)</details> |
+| **talentdraw** | ![Image](https://i.seadn.io/s/raw/files/f7a653fbc0c0064721ebbd3b7eec6d4e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[talentdraw](https://opensea.io/collection/talentdraw)</details> |
+| **<details><summary>185379's Follow...</summary>185379's Follower</details>** | ![Image](https://i.seadn.io/s/raw/files/19f9f090920392cc3650cbdf4361755b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[185379's Follower](https://opensea.io/collection/185379-s-follower)</details> |
 
 </div>
