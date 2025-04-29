@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Blinky OG WHALE...</summary>Blinky OG WHALES Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/a4c400f7cc026a21d14d6a466bffcc6f.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Official Blinky OG WHALES Coll...</summary>Official Blinky OG WHALES Collection NFT</details> | <details><summary>Link</summary>[Blinky OG WHALES Collection](https://opensea.io/collection/blinky-og-whales-collection)</details> |
-| **Freedom** | ![Image](https://i.seadn.io/s/raw/files/feee02aaa3c68e493a6a1d6aeb558c2a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Freedom](https://opensea.io/collection/freedom-491)</details> |
+| **lampwrap** | ![Image](https://i.seadn.io/s/raw/files/e78e7c518145c74d4c5c52855a110472.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lampwrap](https://opensea.io/collection/lampwrap)</details> |
+| **tangled worlds** | ![Image](https://i.seadn.io/s/raw/files/9a80521bd9a497cbafd88d700569c3a1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[tangled worlds](https://opensea.io/collection/tangled-worlds)</details> |
+| **officegarage** | ![Image](https://i.seadn.io/s/raw/files/c5f8a9d2b08cb102910c8ed9bad34af4.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[officegarage](https://opensea.io/collection/officegarage)</details> |
+| **pavemoment** | ![Image](https://i.seadn.io/s/raw/files/a485123645544be1e57a129d74ba6083.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pavemoment](https://opensea.io/collection/pavemoment)</details> |
 
 </div>
