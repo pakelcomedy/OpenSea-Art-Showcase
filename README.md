@@ -6,6 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **shedalarm** | ![Image](https://i.seadn.io/s/raw/files/888dfc24c9d8cdc6bc0369ebe0c54681.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[shedalarm](https://opensea.io/collection/shedalarm)</details> |
+| **WEQ** | ![Image](https://i.seadn.io/s/raw/files/5f61c613681eaf869ca7b0878e872c26.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WEQ](https://opensea.io/collection/weq-25)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 939dab5b-8b87-45a8-85fd-a65632007e7e</details>** | ![Image](https://i.seadn.io/s/raw/files/77e07d5da1294f79060a4dff3fa5b503.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 939dab5b-8b87-45a8-85fd-a65632007e7e](https://opensea.io/collection/unidentified-contract-939dab5b-8b87-45a8-85fd-a656)</details> |
 
 </div>
