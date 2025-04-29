@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event** | ![Image](https://i.seadn.io/s/raw/files/28fb8cac07ddec3e57b75ad2ba0b8590.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-40403)</details> |
-| **Nimbra** | ![Image](https://i.seadn.io/s/raw/files/7442c5cb9fa9fa4cc0515fa25d0325e9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nimbra](https://opensea.io/collection/nimbra)</details> |
+| **lazyseminar** | ![Image](https://i.seadn.io/s/raw/files/d4475fbb24ec17c80bb7e9364ce1aa48.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lazyseminar](https://opensea.io/collection/lazyseminar)</details> |
+| **<details><summary>PIXEL ORIGINAL ...</summary>PIXEL ORIGINAL ANIMAL</details>** | ![Image](https://i.seadn.io/s/raw/files/16c2ecef5255f4dc0931aa262dc573af.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PIXEL ORIGINAL ANIMAL](https://opensea.io/collection/pixel-original-animal)</details> |
+| **firstmaid** | ![Image](https://i.seadn.io/s/raw/files/7cd45cb8e034ad29ed5d0b19b23f5c08.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[firstmaid](https://opensea.io/collection/firstmaid)</details> |
 
 </div>
