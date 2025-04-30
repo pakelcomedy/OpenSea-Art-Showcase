@@ -6,11 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Photography eve...</summary>Photography everywhere</details>** | ![Image](https://i.seadn.io/s/raw/files/39fd018a32e0944a8b029cc2fca8c8a9.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Photography is the best minima...</summary>Photography is the best minimal decorative for every atmosphere. 
-These are samples of our physical photographs, available as digital print in our Etsy shop. You can find the link in our bio link.
---
-See more by Mayudrops on Remx at remx.xyz/mayudrops</details> | <details><summary>Link</summary>[Photography everywhere](https://opensea.io/collection/photography-everywhere)</details> |
-| **CrimsonDust** | ![Image](https://i.seadn.io/s/raw/files/45fa192986287192d99408509ca5c392.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CrimsonDust](https://opensea.io/collection/crimsondust)</details> |
-| **PISOSPRO** | ![Image](https://i.seadn.io/s/raw/files/e7135ecfc63e2b3bfd9feda90a08b3c2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PISOSPRO](https://opensea.io/collection/pisospro)</details> |
+| **Shib Pass** | ![Image](https://i.seadn.io/s/raw/files/f59fdbdcd183f7d67803cb0e9b8c4cb9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Shib Pass](https://opensea.io/collection/shib-pass-1201)</details> |
+| **coooola w** | ![Image](https://i.seadn.io/s/raw/files/55c651a58b1abf53003aa8f3b9b60524.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[coooola w](https://opensea.io/collection/coooola-w)</details> |
+| **largedynamic** | ![Image](https://i.seadn.io/s/raw/files/b349c5f2d41ff9bfd6dbe4d0dbe7bfbf.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[largedynamic](https://opensea.io/collection/largedynamic)</details> |
+| **Event** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-40488)</details> |
 
 </div>
