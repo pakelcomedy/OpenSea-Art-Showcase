@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **lazyseminar** | ![Image](https://i.seadn.io/s/raw/files/d4475fbb24ec17c80bb7e9364ce1aa48.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[lazyseminar](https://opensea.io/collection/lazyseminar)</details> |
-| **<details><summary>PIXEL ORIGINAL ...</summary>PIXEL ORIGINAL ANIMAL</details>** | ![Image](https://i.seadn.io/s/raw/files/16c2ecef5255f4dc0931aa262dc573af.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PIXEL ORIGINAL ANIMAL](https://opensea.io/collection/pixel-original-animal)</details> |
-| **firstmaid** | ![Image](https://i.seadn.io/s/raw/files/7cd45cb8e034ad29ed5d0b19b23f5c08.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[firstmaid](https://opensea.io/collection/firstmaid)</details> |
+| **Shib Pass** | ![Image](https://i.seadn.io/s/raw/files/f59fdbdcd183f7d67803cb0e9b8c4cb9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Shib Pass](https://opensea.io/collection/shib-pass-1140)</details> |
+| **<details><summary>Between Worlds ...</summary>Between Worlds #38</details>** | ![Image](https://i.seadn.io/s/raw/files/21e38a3092d542a1c2482ae4c6f63031.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Between two worlds... choose b...</summary>Between two worlds... choose between the known and the unknown...
+Pic: Freepik | Animation: Higgsfield (#CrashZoomOut)
+--
+See more by TeBits on Remx at remx.xyz/tebits</details> | <details><summary>Link</summary>[Between Worlds #38](https://opensea.io/collection/between-worlds-38)</details> |
+| **RD3** | ![Image](https://i.seadn.io/s/raw/files/3e786cb386f5b587da65232fde3d794b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[RD3](https://opensea.io/collection/rd3)</details> |
+| **MemeFund** | ![Image](https://i.seadn.io/s/raw/files/3bb19801ac5b25b1a61464a5b8cee2d3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>pushing the boundaries of the ...</summary>pushing the boundaries of the unstoppable future of finance</details> | <details><summary>Link</summary>[MemeFund](https://opensea.io/collection/memefund-2)</details> |
 
 </div>
