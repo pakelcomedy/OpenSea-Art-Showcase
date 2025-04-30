@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **At The Village** | ![Image](https://i.seadn.io/s/raw/files/dbe0a351d31ead745f46568cdb8a1581.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[At The Village](https://opensea.io/collection/at-the-village)</details> |
-| **Burning Mist** | ![Image](https://i.seadn.io/s/raw/files/227cc34e042408e714cff8f5bc5970f5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Burning Mist](https://opensea.io/collection/burning-mist)</details> |
+| **art in my soul** | ![Image](https://i.seadn.io/s/raw/files/1e9bd5e4e5fd891999cafd6412ac6aba.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[art in my soul](https://opensea.io/collection/art-in-my-soul-1)</details> |
+| **Event** | ![Image](https://i.seadn.io/s/raw/files/28fb8cac07ddec3e57b75ad2ba0b8590.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-40770)</details> |
+| **mono** | ![Image](https://i.seadn.io/s/raw/files/8a5d1f0471d2b74684b59e1c25c15b2d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mono](https://opensea.io/collection/mono-74)</details> |
+| **<details><summary>Crows in My Fee...</summary>Crows in My Feed</details>** | ![Image](https://i.seadn.io/s/raw/files/6e441d634e9d467eef24c259a592c59b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crows in My Feed](https://opensea.io/collection/crows-in-my-feed)</details> |
 
 </div>
