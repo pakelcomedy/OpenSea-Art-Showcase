@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **DarkwaveTokens** | ![Image](https://i.seadn.io/s/raw/files/4f3c4db9c550a348e2358aa0ac0a684f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DarkwaveTokens](https://opensea.io/collection/darkwavetokens)</details> |
-| **CrimsonNest** | ![Image](https://i.seadn.io/s/raw/files/3d35a4fe41a6ec1927a5b51d49337859.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CrimsonNest](https://opensea.io/collection/crimsonnest)</details> |
-| **CyberFragments** | ![Image](https://i.seadn.io/s/raw/files/6a53411887e01a7464b70fc6b6a557e7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CyberFragments](https://opensea.io/collection/cyberfragments)</details> |
+| **<details><summary>0x01737c0d3c36e...</summary>0x01737c0d3c36e36f5217c8d90ca6e7a256bee639</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x01737c0d3c36e36f5217c8d90ca6e7a256bee639](https://opensea.io/collection/0x01737c0d3c36e36f5217c8d90ca6e7a256bee639)</details> |
+| **<details><summary>Heritage Echoes...</summary>Heritage Echoes: Village Veranda No. 1</details>** | ![Image](https://i.seadn.io/s/raw/files/01e5caae1e70a8f31ab17902100f8f37.png?w=500&auto=format?w=200&auto=format) | <details><summary>Inspired by one of the heritag...</summary>Inspired by one of the heritage rich house in my native place made with voxel. This is one of the art i gave for curation
+--
+See more by SGLinestrates on Remx at remx.xyz/sglinestrates</details> | <details><summary>Link</summary>[Heritage Echoes: Village Veranda No. 1](https://opensea.io/collection/heritage-echoes-village-veranda-no-1)</details> |
 
 </div>
