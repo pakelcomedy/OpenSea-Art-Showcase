@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event** | ![Image](https://i.seadn.io/s/raw/files/28fb8cac07ddec3e57b75ad2ba0b8590.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-42143)</details> |
-| **<details><summary>Stellar Revenan...</summary>Stellar Revenants</details>** | ![Image](https://i.seadn.io/s/raw/files/dfffb1a857935f793d8fa1b0a6d86ab7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Stellar Revenants](https://opensea.io/collection/stellar-revenants)</details> |
-| **Data Seekers** | ![Image](https://i.seadn.io/s/raw/files/236c016f720c757447b02060961f3e31.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Data Seekers](https://opensea.io/collection/data-seekers)</details> |
-| **Nebula Shifters** | ![Image](https://i.seadn.io/s/raw/files/e155b1a6810980709f8b4da0fd8a3ae6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Nebula Shifters](https://opensea.io/collection/nebula-shifters)</details> |
+| **teste01** | ![Image](https://i.seadn.io/s/raw/files/96034fc32f5a4b307bd649ce97a44d88.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[teste01](https://opensea.io/collection/teste01-1)</details> |
+| **E2E Test ERC721** | ![Image](https://raw.seadn.io/files/80a587c7d1e46173cce9e5df07da1b57.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC721](https://opensea.io/collection/e2e-test-erc721-1211)</details> |
 
 </div>
