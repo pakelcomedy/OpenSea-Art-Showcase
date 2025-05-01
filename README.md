@@ -6,7 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0xe0de020a404d7...</summary>0xe0de020a404d78ebd185017e6c16da989ba6fd17</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xe0de020a404d78ebd185017e6c16da989ba6fd17](https://opensea.io/collection/0xe0de020a404d78ebd185017e6c16da989ba6fd17)</details> |
-| **SHARE** | ![Image](https://i.seadn.io/s/raw/files/262e61c7659cd532636413ad4bcb86c1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SHARE](https://opensea.io/collection/share-3510)</details> |
+| **Event** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-42415)</details> |
+| **Coin Ghosts** | ![Image](https://i.seadn.io/s/raw/files/6feb439309848cb6bbc42fa58a69ff01.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Coin Ghosts](https://opensea.io/collection/coin-ghosts)</details> |
+| **<details><summary>Electric Vestig...</summary>Electric Vestige</details>** | ![Image](https://i.seadn.io/s/raw/files/12c4073d146b11d77294cae5a38ba1bc.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Electric Vestige](https://opensea.io/collection/electric-vestige)</details> |
+| **Event** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-42414)</details> |
 
 </div>
