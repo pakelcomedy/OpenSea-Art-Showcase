@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **crinortity1986** | ![Image](https://i.seadn.io/s/raw/files/be73e953bf254b17f0afd2f96775ca3a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[crinortity1986](https://opensea.io/collection/crinortity1986)</details> |
-| **Butties** | ![Image](https://i.seadn.io/s/raw/files/4e2a31014314a70991cf627b1f92186c.webp?w=500&auto=format?w=200&auto=format) | <details><summary>**Butties** is a cheeky and hi...</summary>**Butties** is a cheeky and hilarious NFT collection celebrating all things booty, blending bold humor, playful art, and unapologetic vibes for the truly irreverent collector.
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Butties](https://opensea.io/collection/butties-13)</details> |
-| **Bankruptcy** | ![Image](https://i.seadn.io/s/raw/files/8f2804cbabe39993d2ebc5da33413fbd.png?w=500&auto=format?w=200&auto=format) | <details><summary>"Bankruptcy is a raw and edgy ...</summary>"Bankruptcy is a raw and edgy NFT collection capturing the highs and lows of degen culture, where risk meets reality in a world of financial chaos and comeback stories."
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Bankruptcy](https://opensea.io/collection/bankruptcy-199)</details> |
+| **<details><summary>Seasons of Tran...</summary>Seasons of Tranquility</details>** | ![Image](https://i.seadn.io/s/raw/files/2ec5d53a8bcad2c604765ccb2a2307cc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Seasons of Tranquility](https://opensea.io/collection/seasons-of-tranquility)</details> |
+| **IDOLATRIWORKS** | ![Image](https://i.seadn.io/s/raw/files/7a82619bdab60d23558d9c07b8c6ec85.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[IDOLATRIWORKS](https://opensea.io/collection/idolatriworks)</details> |
+| **SnakeL** | ![Image](https://i.seadn.io/s/raw/files/13d73d04f7433e1405a31f824b778a32.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SnakeL](https://opensea.io/collection/snakel)</details> |
 
 </div>
