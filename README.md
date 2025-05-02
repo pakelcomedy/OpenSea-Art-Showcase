@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **L'amour** | ![Image](https://i.seadn.io/s/raw/files/6d548a357f418f2512902b636848c088.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[L'amour](https://opensea.io/collection/l-amour-2)</details> |
-| **<details><summary>VTT Core Theore...</summary>VTT Core Theoretical Access Series</details>** | ![Image](https://i.seadn.io/s/raw/files/34077dcc574764ea217769b4dfe3c9f5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[VTT Core Theoretical Access Series](https://opensea.io/collection/vtt-core-theoretical-access-series)</details> |
-| **beodanito** | ![Image](https://i.seadn.io/s/raw/files/cb3307dcebeac2330e144016005116c6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[beodanito](https://opensea.io/collection/beodanito-72)</details> |
-| **Tantok** | ![Image](https://i.seadn.io/s/raw/files/01d12d98dad8c4db71bf5bce446419be.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tantok](https://opensea.io/collection/tantok)</details> |
+| **beodanito** | ![Image](https://i.seadn.io/s/raw/files/2a4b51353c42da893d21c6d091edca22.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[beodanito](https://opensea.io/collection/beodanito-83)</details> |
+| **<details><summary>0x8973f1c5f9004...</summary>0x8973f1c5f9004af871964900c9bcc155f801829f</details>** | ![Image](https://i.seadn.io/s/raw/files/2dc0d538030fb7dd545f7220e6e23bbe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x8973f1c5f9004af871964900c9bcc155f801829f](https://opensea.io/collection/0x8973f1c5f9004af871964900c9bcc155f801829f)</details> |
+| **Sapphire Frost** | ![Image](https://i.seadn.io/s/raw/files/a6e89403fb2e858cc66e2fa08e1d2ab9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sapphire Frost](https://opensea.io/collection/sapphire-frost)</details> |
 
 </div>
