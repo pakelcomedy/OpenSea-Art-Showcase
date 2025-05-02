@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>The Llamas On D...</summary>The Llamas On Decal by XCOPY Off5</details>** | ![Image](https://i.seadn.io/s/raw/files/c1534b34a27f9b6f5d8eeefe3560d7bc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Llamas On Decal by XCOPY Off5](https://opensea.io/collection/the-llamas-on-decal-by-xcopy-off5)</details> |
-| **Noise Interlace** | ![Image](https://i.seadn.io/s/raw/files/2a413794a46dea68979ef6a26c07a372.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Noise Interlace](https://opensea.io/collection/noise-interlace)</details> |
-| **<details><summary>The Llamas On D...</summary>The Llamas On Decal by XCOPY Off4</details>** | ![Image](https://i.seadn.io/s/raw/files/c1534b34a27f9b6f5d8eeefe3560d7bc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[The Llamas On Decal by XCOPY Off4](https://opensea.io/collection/the-llamas-on-decal-by-xcopy-off4)</details> |
-| **<details><summary>Acurast Process...</summary>Acurast Processor Lite</details>** | ![Image](https://i.seadn.io/s/raw/files/36488586011cfea811db6a535945d5f2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Acurast Processor Lite](https://opensea.io/collection/acurast-processor-lite)</details> |
+| **Kusya** | ![Image](https://i.seadn.io/s/raw/files/fb498dc03fd9586709ea8ded41b3c01c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Kusya](https://opensea.io/collection/kusya-4)</details> |
+| **60plus** | ![Image](https://i.seadn.io/s/raw/files/0347fde2e671039748ef166dedf6795d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[60plus](https://opensea.io/collection/60plus)</details> |
+| **ytjerhetrj12254** | ![Image](https://i.seadn.io/s/raw/files/9c598f558c42042fecb0f0c5f2cb8f1c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ytjerhetrj12254](https://opensea.io/collection/ytjerhetrj12254)</details> |
 
 </div>
