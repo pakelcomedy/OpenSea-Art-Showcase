@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Virtual Rebels** | ![Image](https://i.seadn.io/s/raw/files/4c4cc0051bfb3d654b605fe18e628e1f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Virtual Rebels](https://opensea.io/collection/virtual-rebels)</details> |
-| **Dream Invaders** | ![Image](https://i.seadn.io/s/raw/files/4c4cc0051bfb3d654b605fe18e628e1f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dream Invaders](https://opensea.io/collection/dream-invaders)</details> |
-| **Pixel Seers** | ![Image](https://i.seadn.io/s/raw/files/13cc4e51cc8682c3c77c92d8b690ca26.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Seers](https://opensea.io/collection/pixel-seers)</details> |
-| **beodanito** | ![Image](https://i.seadn.io/s/raw/files/71f578b6318c6ff8cf289841eedd73cd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[beodanito](https://opensea.io/collection/beodanito-50)</details> |
+| **OK COMPUTERS** | ![Image](https://i.seadn.io/s/raw/files/7f9c6d53419bdbbff931f6b1dd129a86.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OK COMPUTERS](https://opensea.io/collection/ok-computers-20)</details> |
+| **<details><summary>Arcane Berserke...</summary>Arcane Berserkers</details>** | ![Image](https://i.seadn.io/s/raw/files/7ab0497fb9d2eed708f21c2f7443b1b0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Arcane Berserkers](https://opensea.io/collection/arcane-berserkers)</details> |
+| **Pixel Whales** | ![Image](https://i.seadn.io/s/raw/files/7ed71aef5536ab613d7c42a73551fb77.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Whales](https://opensea.io/collection/pixel-whales-2)</details> |
+| **Lunar Hackers** | ![Image](https://i.seadn.io/s/raw/files/7ab0497fb9d2eed708f21c2f7443b1b0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lunar Hackers](https://opensea.io/collection/lunar-hackers)</details> |
 
 </div>
