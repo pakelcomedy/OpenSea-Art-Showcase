@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **OK COMPUTERS** | ![Image](https://i.seadn.io/s/raw/files/7f9c6d53419bdbbff931f6b1dd129a86.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OK COMPUTERS](https://opensea.io/collection/ok-computers-20)</details> |
-| **<details><summary>Arcane Berserke...</summary>Arcane Berserkers</details>** | ![Image](https://i.seadn.io/s/raw/files/7ab0497fb9d2eed708f21c2f7443b1b0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Arcane Berserkers](https://opensea.io/collection/arcane-berserkers)</details> |
-| **Pixel Whales** | ![Image](https://i.seadn.io/s/raw/files/7ed71aef5536ab613d7c42a73551fb77.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Whales](https://opensea.io/collection/pixel-whales-2)</details> |
-| **Lunar Hackers** | ![Image](https://i.seadn.io/s/raw/files/7ab0497fb9d2eed708f21c2f7443b1b0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Lunar Hackers](https://opensea.io/collection/lunar-hackers)</details> |
+| **L'amour** | ![Image](https://i.seadn.io/s/raw/files/6d548a357f418f2512902b636848c088.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[L'amour](https://opensea.io/collection/l-amour-2)</details> |
+| **<details><summary>VTT Core Theore...</summary>VTT Core Theoretical Access Series</details>** | ![Image](https://i.seadn.io/s/raw/files/34077dcc574764ea217769b4dfe3c9f5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[VTT Core Theoretical Access Series](https://opensea.io/collection/vtt-core-theoretical-access-series)</details> |
+| **beodanito** | ![Image](https://i.seadn.io/s/raw/files/cb3307dcebeac2330e144016005116c6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[beodanito](https://opensea.io/collection/beodanito-72)</details> |
+| **Tantok** | ![Image](https://i.seadn.io/s/raw/files/01d12d98dad8c4db71bf5bce446419be.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tantok](https://opensea.io/collection/tantok)</details> |
 
 </div>
