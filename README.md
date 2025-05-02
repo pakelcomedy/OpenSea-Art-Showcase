@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Seasons of Tran...</summary>Seasons of Tranquility</details>** | ![Image](https://i.seadn.io/s/raw/files/2ec5d53a8bcad2c604765ccb2a2307cc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Seasons of Tranquility](https://opensea.io/collection/seasons-of-tranquility)</details> |
-| **IDOLATRIWORKS** | ![Image](https://i.seadn.io/s/raw/files/7a82619bdab60d23558d9c07b8c6ec85.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[IDOLATRIWORKS](https://opensea.io/collection/idolatriworks)</details> |
-| **SnakeL** | ![Image](https://i.seadn.io/s/raw/files/13d73d04f7433e1405a31f824b778a32.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SnakeL](https://opensea.io/collection/snakel)</details> |
+| **Virtual Rebels** | ![Image](https://i.seadn.io/s/raw/files/4c4cc0051bfb3d654b605fe18e628e1f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Virtual Rebels](https://opensea.io/collection/virtual-rebels)</details> |
+| **Dream Invaders** | ![Image](https://i.seadn.io/s/raw/files/4c4cc0051bfb3d654b605fe18e628e1f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Dream Invaders](https://opensea.io/collection/dream-invaders)</details> |
+| **Pixel Seers** | ![Image](https://i.seadn.io/s/raw/files/13cc4e51cc8682c3c77c92d8b690ca26.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixel Seers](https://opensea.io/collection/pixel-seers)</details> |
+| **beodanito** | ![Image](https://i.seadn.io/s/raw/files/71f578b6318c6ff8cf289841eedd73cd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[beodanito](https://opensea.io/collection/beodanito-50)</details> |
 
 </div>
