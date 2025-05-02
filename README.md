@@ -6,14 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>OMMOS Quantum S...</summary>OMMOS Quantum Spark</details>** | ![Image](https://i.seadn.io/s/raw/files/92fa8f189dd30470a6304cfbb3078507.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OMMOS Quantum Spark](https://opensea.io/collection/ommos-quantum-spark)</details> |
-| **wertygo** | ![Image](https://i.seadn.io/s/raw/files/2aaa19be5da7553524db39a52c88ef2b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wertygo](https://opensea.io/collection/wertygo-1)</details> |
-| **Raspberry** | ![Image](https://i.seadn.io/s/raw/files/3ac8b8836366a99265f5f7cba6430a7e.jpg?w=500&auto=format?w=200&auto=format) | Raspberry | <details><summary>Link</summary>[Raspberry](https://opensea.io/collection/raspberry-22)</details> |
-| **<details><summary>OMMOS Void Puls...</summary>OMMOS Void Pulse</details>** | ![Image](https://i.seadn.io/s/raw/files/afcd45559d6f58cbb065b188f90f8ea1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OMMOS Void Pulse](https://opensea.io/collection/ommos-void-pulse)</details> |
-| **MonaFrida #1** | ![Image](https://i.seadn.io/s/raw/files/0973bdae5f7b5460e54deb161f0c30b1.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Secret in Balmask
---
-See more ...</summary>Secret in Balmask
---
-See more by AED GRAPHY on Remx at remx.xyz/aed-graphy</details> | <details><summary>Link</summary>[MonaFrida #1](https://opensea.io/collection/monafrida-1)</details> |
+| **crinortity1986** | ![Image](https://i.seadn.io/s/raw/files/be73e953bf254b17f0afd2f96775ca3a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[crinortity1986](https://opensea.io/collection/crinortity1986)</details> |
+| **Butties** | ![Image](https://i.seadn.io/s/raw/files/4e2a31014314a70991cf627b1f92186c.webp?w=500&auto=format?w=200&auto=format) | <details><summary>**Butties** is a cheeky and hi...</summary>**Butties** is a cheeky and hilarious NFT collection celebrating all things booty, blending bold humor, playful art, and unapologetic vibes for the truly irreverent collector.
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Butties](https://opensea.io/collection/butties-13)</details> |
+| **Bankruptcy** | ![Image](https://i.seadn.io/s/raw/files/8f2804cbabe39993d2ebc5da33413fbd.png?w=500&auto=format?w=200&auto=format) | <details><summary>"Bankruptcy is a raw and edgy ...</summary>"Bankruptcy is a raw and edgy NFT collection capturing the highs and lows of degen culture, where risk meets reality in a world of financial chaos and comeback stories."
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Bankruptcy](https://opensea.io/collection/bankruptcy-199)</details> |
 
 </div>
