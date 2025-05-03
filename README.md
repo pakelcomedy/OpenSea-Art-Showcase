@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **E2E Test ERC721** | ![Image](https://raw.seadn.io/files/1a84a4ba8b44a3472cdf8162bcd2e8a4.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC721](https://opensea.io/collection/e2e-test-erc721-1263)</details> |
-| **Elon Doge** | ![Image](https://i.seadn.io/s/raw/files/f1ffa1837178a71bdacdf9b98c26b016.webp?w=500&auto=format?w=200&auto=format) | <details><summary>Elon Doge 111
-
-Made with [NFTs...</summary>Elon Doge 111
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Elon Doge](https://opensea.io/collection/elon-doge-13)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/0c32d68447dfdec4b4b83c9791cf39da.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-1438)</details> |
+| **PrimeInu🌌** | ![Image](https://i.seadn.io/s/raw/files/5a4bce91c4481c66d17627f322e1b5c3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>revolutionizing the gigachad f...</summary>revolutionizing the gigachad future of finance</details> | <details><summary>Link</summary>[PrimeInu🌌](https://opensea.io/collection/primeinu-3)</details> |
+| **Event** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-43801)</details> |
+| **Panda Club** | ![Image](https://i.seadn.io/s/raw/files/d9ebb3ae9090a6127a57c5222558fb02.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Random Panda Club (RPC) is a p...</summary>Random Panda Club (RPC) is a place for people striving to make their dreams come true in web3.0. We are black and white, we are cool and nice, we are confident and modest. Most important of all, we define ourselves.<br><br>One step at a time, RPC will reveal a grand world to everyone. This NFT collection is more than just a PFP, it is also a series of awe-inspiring stories waiting for you to explore.<br><br>Travelers who dare dream, come build your own story in PandaVerse with us.</details> | <details><summary>Link</summary>[Panda Club](https://opensea.io/collection/panda-club-8)</details> |
 
 </div>
