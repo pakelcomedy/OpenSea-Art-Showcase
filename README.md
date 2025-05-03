@@ -6,15 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Date with Jen ❤...</summary>Date with Jen ❤️</details>** | ![Image](https://i.seadn.io/s/raw/files/1f988cafcdf4668e58502db000f57ec9.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>NYC Street Photography 
-Photog...</summary>NYC Street Photography 
-Photographer: POP Buchanan
-Lower Manhattan
---
-See more by Meta is Dope on Remx at remx.xyz/metaisdope</details> | <details><summary>Link</summary>[Date with Jen ❤️](https://opensea.io/collection/date-with-jen)</details> |
-| **<details><summary>Win 135.000$: t...</summary>Win 135.000$: t.ly/pancakeswap.finance</details>** | ![Image](https://i.seadn.io/s/raw/files/dc5f3acfd1294a8c19ab18afb5dc06bb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Win 135.000$: t.ly/pancakeswap.finance](https://opensea.io/collection/win-135-000-t-ly-pancakeswap-finance-3763)</details> |
-| **<details><summary>Win 135.000$: t...</summary>Win 135.000$: t.ly/pancakeswap.finance</details>** | ![Image](https://i.seadn.io/s/raw/files/dc5f3acfd1294a8c19ab18afb5dc06bb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Win 135.000$: t.ly/pancakeswap.finance](https://opensea.io/collection/win-135-000-t-ly-pancakeswap-finance-3762)</details> |
-| **<details><summary>Win 135.000$: t...</summary>Win 135.000$: t.ly/pancakeswap.finance</details>** | ![Image](https://i.seadn.io/s/raw/files/dc5f3acfd1294a8c19ab18afb5dc06bb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Win 135.000$: t.ly/pancakeswap.finance](https://opensea.io/collection/win-135-000-t-ly-pancakeswap-finance-3761)</details> |
-| **<details><summary>Win 135.000$: t...</summary>Win 135.000$: t.ly/pancakeswap.finance</details>** | ![Image](https://i.seadn.io/s/raw/files/dc5f3acfd1294a8c19ab18afb5dc06bb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Win 135.000$: t.ly/pancakeswap.finance](https://opensea.io/collection/win-135-000-t-ly-pancakeswap-finance-3760)</details> |
+| **mactsicirpa1980** | ![Image](https://i.seadn.io/s/raw/files/af53d8aa2f5a2b0eaa770d66258c19e9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mactsicirpa1980](https://opensea.io/collection/mactsicirpa1980)</details> |
+| **BeraMoon** | ![Image](https://i.seadn.io/s/raw/files/489a891e772ba223ffeea0648d600a82.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>BeraMoon is accelerating crypt...</summary>BeraMoon is accelerating crypto moons</details> | <details><summary>Link</summary>[BeraMoon](https://opensea.io/collection/beramoon-3)</details> |
+| **GOODtEST** | ![Image](https://i.seadn.io/s/raw/files/3b805ade9d693c0a00ec3fc9bf3c99dd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GOODtEST](https://opensea.io/collection/goodtest-3)</details> |
+| **DucDukss** | ![Image](https://i.seadn.io/s/raw/files/ce1ca86adbbc1155f0314f3fa7c99425.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DucDukss](https://opensea.io/collection/ducdukss)</details> |
 
 </div>
