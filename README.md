@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **HODL** | ![Image](https://i.seadn.io/s/raw/files/3abeeededea56c825ae7996037e73ec1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[HODL](https://opensea.io/collection/hodl-98)</details> |
-| **Schizo Gremlins** | ![Image](https://i.seadn.io/s/raw/files/e8a0f08a9f70ddaef705599c794671da.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Schizo Gremlins](https://opensea.io/collection/schizo-gremlins-39)</details> |
-| **yo** | ![Image](https://i.seadn.io/s/raw/files/c526680d5e4823845cb9f64f7023933e.jpg?w=500&auto=format?w=200&auto=format) | - | <details><summary>Link</summary>[yo](https://opensea.io/collection/yo-187)</details> |
+| **<details><summary>GeometricHarmon...</summary>GeometricHarmony</details>** | ![Image](https://raw.seadn.io/files/1a5e8e61eb894557b6a1ca02d70dc428.svg?w=200&auto=format) |  | <details><summary>Link</summary>[GeometricHarmony](https://opensea.io/collection/geometricharmony-336)</details> |
+| **My subscription** | ![Image](https://raw.seadn.io/files/1eb552277d9d43e5532c5febb3e8e2cb.svg?w=200&auto=format) |  | <details><summary>Link</summary>[My subscription](https://opensea.io/collection/my-subscription-186)</details> |
+| **<details><summary>Quantum ProTend...</summary>Quantum ProTendies</details>** | ![Image](https://i.seadn.io/s/raw/files/9875ed4f29eaa96ae49adf32e9449da3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Quantum ProTendies - maximizin...</summary>Quantum ProTendies - maximizing defi forever</details> | <details><summary>Link</summary>[Quantum ProTendies](https://opensea.io/collection/quantum-protendies)</details> |
+| **dashboard** | ![Image](https://i.seadn.io/s/raw/files/df34be6508a1d7fe246b22ce23fc5c34.png?w=500&auto=format?w=200&auto=format) | dashboard | <details><summary>Link</summary>[dashboard](https://opensea.io/collection/dashboard-7)</details> |
 
 </div>
