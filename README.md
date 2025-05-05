@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **BabyToadz** | ![Image](https://i.seadn.io/s/raw/files/a1d811f0f609c4874dea7934345e6624.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BabyToadz](https://opensea.io/collection/babytoadz-19)</details> |
-| **Seal Army** | ![Image](https://i.seadn.io/s/raw/files/c310603f5250906c22a0adaf001f64e8.png?w=500&auto=format?w=200&auto=format) | <details><summary>Seal Army is a dynamic NFT col...</summary>Seal Army is a dynamic NFT collection featuring a squad of fearless, playful seals, each with its own unique personality, ready to take over the digital seas!</details> | <details><summary>Link</summary>[Seal Army](https://opensea.io/collection/seal-army-217)</details> |
-| **ooppd** | ![Image](https://raw.seadn.io/files/d4e391b552ce28940baa79a4eda297dd.svg?w=200&auto=format) |  | <details><summary>Link</summary>[ooppd](https://opensea.io/collection/ooppd)</details> |
-| **renu** | ![Image](https://i.seadn.io/s/raw/files/0bafb6a7b2b14c3e4fa339c8eeb36bd6.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[renu](https://opensea.io/collection/renu)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/0c32d68447dfdec4b4b83c9791cf39da.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-2281)</details> |
+| **<details><summary>0x35c2c30ea56a6...</summary>0x35c2c30ea56a69f90677afae39b4501adf7b5d7a</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x35c2c30ea56a69f90677afae39b4501adf7b5d7a](https://opensea.io/collection/0x35c2c30ea56a69f90677afae39b4501adf7b5d7a)</details> |
+| **NeoHub** | ![Image](https://i.seadn.io/s/raw/files/34b281027ab653c51159218faf093f1b.jpg?w=500&auto=format?w=200&auto=format) | NeoHub - evolving defi forever | <details><summary>Link</summary>[NeoHub](https://opensea.io/collection/neohub-1)</details> |
+| **Web3** | ![Image](https://i.seadn.io/s/raw/files/48f831df651bc804bb4d10f3d7601326.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Web3](https://opensea.io/collection/web3-153)</details> |
 
 </div>
