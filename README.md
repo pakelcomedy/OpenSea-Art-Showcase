@@ -6,9 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Schizo Gremlins** | ![Image](https://i.seadn.io/s/raw/files/e8a0f08a9f70ddaef705599c794671da.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Schizo Gremlins](https://opensea.io/collection/schizo-gremlins-140)</details> |
-| **velocity** | ![Image](https://i.seadn.io/s/raw/files/6fc75fce8c5c99d4635cd5894f4ef919.png?w=500&auto=format?w=200&auto=format) | velocity | <details><summary>Link</summary>[velocity](https://opensea.io/collection/velocity-22)</details> |
-| **jmbt owo** | ![Image](https://i.seadn.io/s/raw/files/65568fa54bd689006194b9d9a5d4e190.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[jmbt owo](https://opensea.io/collection/jmbt-owo)</details> |
-| **GrimChains** | ![Image](https://i.seadn.io/s/raw/files/5021e661cb9cbd1145ce54ae6be37c05.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GrimChains](https://opensea.io/collection/grimchains)</details> |
+| **<details><summary>Hyper AlphaVers...</summary>Hyper AlphaVerse</details>** | ![Image](https://i.seadn.io/s/raw/files/48b9d5a6dcba188fa78d3dc4dcd307bf.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>upgrading the trending future ...</summary>upgrading the trending future of finance</details> | <details><summary>Link</summary>[Hyper AlphaVerse](https://opensea.io/collection/hyper-alphaverse)</details> |
+| **famous** | ![Image](https://i.seadn.io/s/raw/files/11f1c6b3deb1d7bde49c436ba489d486.png?w=500&auto=format?w=200&auto=format) | famous | <details><summary>Link</summary>[famous](https://opensea.io/collection/famous-48)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/0c32d68447dfdec4b4b83c9791cf39da.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-2643)</details> |
+| **Pepe Portraits** | ![Image](https://i.seadn.io/s/raw/files/ca206e0d66a5e45eb083915b6146b894.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pepe Portraits](https://opensea.io/collection/pepe-portraits-365)</details> |
+| **BitWarriors** | ![Image](https://i.seadn.io/s/raw/files/c29479ac817f3a6e13958746c3d6bf87.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BitWarriors](https://opensea.io/collection/bitwarriors-2)</details> |
 
 </div>
