@@ -6,17 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **fun5xxx** | ![Image](https://i.seadn.io/s/raw/files/6080ec5d64fddf6bcd96653a06b00900.png?w=500&auto=format?w=200&auto=format) | <details><summary>fun5xxx
-
-Made with [NFTs2Me.co...</summary>fun5xxx
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[fun5xxx](https://opensea.io/collection/fun5xxx-2)</details> |
-| **Shard Factory** | ![Image](https://i.seadn.io/s/raw/files/da21c41e824f85b748d74c6e8b1194e7.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Shard Factory](https://opensea.io/collection/shard-factory)</details> |
-| **Butarek Vitalin** | ![Image](https://i.seadn.io/s/raw/files/e8cf45d815a01dae69bda137fa82318f.png?w=500&auto=format?w=200&auto=format) | mek etherum gret agen | <details><summary>Link</summary>[Butarek Vitalin](https://opensea.io/collection/butarek-vitalin-623)</details> |
-| **Apple** | ![Image](https://i.seadn.io/s/raw/files/fab5775da75a7e8b9c67e3e68aa54b89.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Elppa
-
-Made with [NFTs2Me.com]...</summary>Elppa
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Apple](https://opensea.io/collection/apple-529)</details> |
+| **Abstract Punks** | ![Image](https://i.seadn.io/s/raw/files/2777b05017566d662ab3d089534cab6f.png?w=500&auto=format?w=200&auto=format) | <details><summary>Abstract Punks is a classic OG...</summary>Abstract Punks is a classic OG punk collection on Abstract Chain, staying true to the original punk spirit while thriving in a new digital frontier.</details> | <details><summary>Link</summary>[Abstract Punks](https://opensea.io/collection/abstract-punks-290)</details> |
+| **Legendary Apes** | ![Image](https://i.seadn.io/s/raw/files/8ccc3cfbab15443fdc4417fb7da07bbb.gif?w=500&auto=format?w=200&auto=format) | <details><summary>Legendary Apes is an epic NFT ...</summary>Legendary Apes is an epic NFT collection featuring iconic apes with bold designs, celebrating their status as true legends of the digital jungle.</details> | <details><summary>Link</summary>[Legendary Apes](https://opensea.io/collection/legendary-apes-573)</details> |
+| **meet** | ![Image](https://raw.seadn.io/files/5b7a960f48745ef53346ec649f044a83.svg?w=200&auto=format) |  | <details><summary>Link</summary>[meet](https://opensea.io/collection/meet-47)</details> |
+| **Lego Punks** | ![Image](https://i.seadn.io/s/raw/files/40d50881268959b4a61f23c36cf33d41.gif?w=500&auto=format?w=200&auto=format) | <details><summary>LEGO Punks is a playful NFT co...</summary>LEGO Punks is a playful NFT collection that reimagines the punk aesthetic using iconic LEGO-inspired designs, combining creativity, nostalgia, and rebellious spirit in every piece.</details> | <details><summary>Link</summary>[Lego Punks](https://opensea.io/collection/lego-punks-713)</details> |
 
 </div>
