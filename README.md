@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x35c2c30ea56a6...</summary>0x35c2c30ea56a69f90677afae39b4501adf7b5d7a</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x35c2c30ea56a69f90677afae39b4501adf7b5d7a](https://opensea.io/collection/0x35c2c30ea56a69f90677afae39b4501adf7b5d7a)</details> |
-| **NeoHub** | ![Image](https://i.seadn.io/s/raw/files/34b281027ab653c51159218faf093f1b.jpg?w=500&auto=format?w=200&auto=format) | NeoHub - evolving defi forever | <details><summary>Link</summary>[NeoHub](https://opensea.io/collection/neohub-1)</details> |
-| **Web3** | ![Image](https://i.seadn.io/s/raw/files/48f831df651bc804bb4d10f3d7601326.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Web3](https://opensea.io/collection/web3-153)</details> |
+| **BabyToadz** | ![Image](https://i.seadn.io/s/raw/files/38ab4fb08ab15222d5d48d7de6e1104e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BabyToadz](https://opensea.io/collection/babytoadz-34)</details> |
+| **Abs CrocZ** | ![Image](https://i.seadn.io/s/raw/files/84f7f69cb52d966143b0d048ad13e608.png?w=500&auto=format?w=200&auto=format) | <details><summary>The CrocZ are a collection of ...</summary>The CrocZ are a collection of 1,111 unique and randomly generated NFT's hangin' out at the $SWAMP.</details> | <details><summary>Link</summary>[Abs CrocZ](https://opensea.io/collection/abs-crocz-30)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/0c32d68447dfdec4b4b83c9791cf39da.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-2329)</details> |
 
 </div>
