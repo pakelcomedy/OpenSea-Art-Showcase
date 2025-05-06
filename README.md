@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **MILADY** | ![Image](https://i.seadn.io/s/raw/files/b76e15e30af21c6ca1c6235c992fbe74.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MILADY](https://opensea.io/collection/milady-112)</details> |
-| **<details><summary>crosschain EvoM...</summary>crosschain EvoMint</details>** | ![Image](https://i.seadn.io/s/raw/files/db76f4472c7e094706d27cf2a98edeee.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[crosschain EvoMint](https://opensea.io/collection/crosschain-evomint)</details> |
-| **shrill** | ![Image](https://i.seadn.io/s/raw/files/3872f298d3685575dc860d5152475da1.png?w=500&auto=format?w=200&auto=format) | shrill | <details><summary>Link</summary>[shrill](https://opensea.io/collection/shrill-10)</details> |
+| **Pixelady Maker** | ![Image](https://i.seadn.io/s/raw/files/f6e48279c36156a14974b52ce174a17d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pixelady Maker](https://opensea.io/collection/pixelady-maker-32)</details> |
+| **Architecture** | ![Image](https://i.seadn.io/s/raw/files/9a964f25d608e10646aeca5a130294d8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Architecture](https://opensea.io/collection/architecture-127)</details> |
+| **ERGE54144** | ![Image](https://i.seadn.io/s/raw/files/c25c2bc0abeced3672ca161d67b6e476.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ERGE54144](https://opensea.io/collection/erge54144)</details> |
+| **Penguin Girls** | ![Image](https://i.seadn.io/s/raw/files/30187982794853786a16bdd29b2a8de7.png?w=500&auto=format?w=200&auto=format) | <details><summary>Welcome to Penguin Girls on Ab...</summary>Welcome to Penguin Girls on Abstract! The collection of NFT's celebrates the legendary Penguins and combines awesome art with Web3 innovation on Abstract Blockchain!</details> | <details><summary>Link</summary>[Penguin Girls](https://opensea.io/collection/penguin-girls-13)</details> |
 
 </div>
