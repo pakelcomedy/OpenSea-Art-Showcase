@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x93a0f612c3595...</summary>0x93a0f612c35957f7cb8d6b16e78ea3a5386abf6b</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x93a0f612c35957f7cb8d6b16e78ea3a5386abf6b](https://opensea.io/collection/0x93a0f612c35957f7cb8d6b16e78ea3a5386abf6b)</details> |
-| **travel** | ![Image](https://i.seadn.io/s/raw/files/2eb3456448445f33bdd634a186337840.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[travel](https://opensea.io/collection/travel-317)</details> |
-| **cihuy** | ![Image](https://i.seadn.io/s/raw/files/52d839abb91bf705f72da17cd9245b61.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[cihuy](https://opensea.io/collection/cihuy-1)</details> |
+| **Deserted** | ![Image](https://i.seadn.io/s/raw/files/fa7b1cfbe49357cc4a8bcc80855a52f7.png?w=500&auto=format?w=200&auto=format) | <details><summary>as the rays align with the san...</summary>as the rays align with the sand defines a perfect resonation of natures alignment
+--
+See more by JohnO on Remx at remx.xyz/johno</details> | <details><summary>Link</summary>[Deserted](https://opensea.io/collection/deserted-5)</details> |
+| **tell42maid** | ![Image](https://i.seadn.io/s/raw/files/9eb5c65b18743c88028c65165390622d.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[tell42maid](https://opensea.io/collection/tell42maid)</details> |
+| **<details><summary>huddle meeting_...</summary>huddle meeting_1</details>** | ![Image](https://i.seadn.io/s/raw/files/ef7d9b538001930e6faeec7a43b97561.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[huddle meeting_1](https://opensea.io/collection/huddle-meeting-1-1)</details> |
 
 </div>
