@@ -6,12 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **SeedED123** | ![Image](https://i.seadn.io/s/raw/files/45d4dfb2f7cf14743054211291663d5f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SeedED123](https://opensea.io/collection/seeded123)</details> |
-| **AdalCV** | ![Image](https://i.seadn.io/s/raw/files/f9b071a868c821cac1bbb01000fa7556.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AdalCV](https://opensea.io/collection/adalcv)</details> |
-| **<details><summary>Ape Wave Gremli...</summary>Ape Wave Gremlins</details>** | ![Image](https://i.seadn.io/s/raw/files/a2c35d42ecb53e37f7b27092bf927972.gif?w=500&auto=format?w=200&auto=format) | <details><summary>4444 Ape Wave Gremlins In ApeC...</summary>4444 Ape Wave Gremlins In ApeChain
-
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Ape Wave Gremlins](https://opensea.io/collection/ape-wave-gremlins)</details> |
-| **<details><summary>GameGuru Galler...</summary>GameGuru Gallery</details>** | ![Image](https://i.seadn.io/s/raw/files/7d9ca426dae76787854a423d881637cd.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GameGuru Gallery](https://opensea.io/collection/gameguru-gallery)</details> |
-| **oriented** | ![Image](https://i.seadn.io/s/raw/files/d1774358cb0e59820effacc0867542b7.png?w=500&auto=format?w=200&auto=format) | oriented | <details><summary>Link</summary>[oriented](https://opensea.io/collection/oriented-11)</details> |
+| **earth** | ![Image](https://i.seadn.io/s/raw/files/c2590236dd4e8c23e12d5b522098f732.png?w=500&auto=format?w=200&auto=format) | earth | <details><summary>Link</summary>[earth](https://opensea.io/collection/earth-397)</details> |
+| **<details><summary>0x95d3847183152...</summary>0x95d3847183152f75faad0d5c4f5889c6c697621c</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x95d3847183152f75faad0d5c4f5889c6c697621c](https://opensea.io/collection/0x95d3847183152f75faad0d5c4f5889c6c697621c)</details> |
+| **bilikop** | ![Image](https://i.seadn.io/s/raw/files/fca5904c212e30c1e91e6669a1ce32ab.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[bilikop](https://opensea.io/collection/bilikop)</details> |
+| **Tok39comE** | ![Image](https://i.seadn.io/s/raw/files/cfdb3226cb0b21fb497f58c0cdcaff89.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Tok39comE](https://opensea.io/collection/tok39come)</details> |
 
 </div>
