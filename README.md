@@ -6,9 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Reward Voucher** | ![Image](https://i.seadn.io/s/raw/files/73a4da634b5a0ef27a8b092b5ce7d26a.jpg?w=500&auto=format?w=200&auto=format) | Reward Voucher | <details><summary>Link</summary>[Reward Voucher](https://opensea.io/collection/reward-voucher-256)</details> |
-| **Reward Voucher** | ![Image](https://i.seadn.io/s/raw/files/73a4da634b5a0ef27a8b092b5ce7d26a.jpg?w=500&auto=format?w=200&auto=format) | Reward Voucher | <details><summary>Link</summary>[Reward Voucher](https://opensea.io/collection/reward-voucher-255)</details> |
-| **ClusterCl8** | ![Image](https://i.seadn.io/s/raw/files/073054a072a927b7cadef4c0a142f36e.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ClusterCl8](https://opensea.io/collection/clustercl8)</details> |
-| **Reward Voucher** | ![Image](https://i.seadn.io/s/raw/files/73a4da634b5a0ef27a8b092b5ce7d26a.jpg?w=500&auto=format?w=200&auto=format) | Reward Voucher | <details><summary>Link</summary>[Reward Voucher](https://opensea.io/collection/reward-voucher-254)</details> |
+| **<details><summary>0xd7e75303aeb26...</summary>0xd7e75303aeb266102a6c0d8dd30f756e64a8a853</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xd7e75303aeb266102a6c0d8dd30f756e64a8a853](https://opensea.io/collection/0xd7e75303aeb266102a6c0d8dd30f756e64a8a853)</details> |
 
 </div>
