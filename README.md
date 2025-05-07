@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **os** | ![Image](https://i.seadn.io/s/raw/files/ddfe087f9847345cfc85649683598f83.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[os](https://opensea.io/collection/os-34)</details> |
-| **vveey** | ![Image](https://raw.seadn.io/files/d9a364d5873fdba1eb1daea05d3944be.svg?w=200&auto=format) |  | <details><summary>Link</summary>[vveey](https://opensea.io/collection/vveey)</details> |
-| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-1438)</details> |
-| **Llama Avax Art** | ![Image](https://i.seadn.io/s/raw/files/2f79b2f7278636dbae9634a2712c1ad0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Llama Avax Art](https://opensea.io/collection/llama-avax-art)</details> |
+| **<details><summary>Forest That Wan...</summary>Forest That Wandered</details>** | ![Image](https://i.seadn.io/s/raw/files/0a5f7de51852654e0f936d9de43a1fc5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Forest That Wandered](https://opensea.io/collection/forest-that-wandered)</details> |
+| **E** | ![Image](https://i.seadn.io/s/raw/files/d2444d4a22b8d7f8f8604e9029550488.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[E](https://opensea.io/collection/e-1935)</details> |
+| **baseball** | ![Image](https://i.seadn.io/s/raw/files/2ec3fe214aff2471105442474de55657.png?w=500&auto=format?w=200&auto=format) | baseball | <details><summary>Link</summary>[baseball](https://opensea.io/collection/baseball-48)</details> |
+| **<details><summary>0xef458a9bb3c8d...</summary>0xef458a9bb3c8d36b94c7b3f77fc2848faadb3e8c</details>** | ![Image](https://i.seadn.io/s/raw/files/2dc0d538030fb7dd545f7220e6e23bbe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xef458a9bb3c8d36b94c7b3f77fc2848faadb3e8c](https://opensea.io/collection/0xef458a9bb3c8d36b94c7b3f77fc2848faadb3e8c)</details> |
 
 </div>
