@@ -6,8 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **rainy** | ![Image](https://i.seadn.io/s/raw/files/8621c2eda17c18ce096d9b336023d40f.png?w=500&auto=format?w=200&auto=format) | rainy | <details><summary>Link</summary>[rainy](https://opensea.io/collection/rainy-21)</details> |
-| **<details><summary>Arizona Collect...</summary>Arizona Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/4ce99ee73c45c943f593beff76091311.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Arizona Collection](https://opensea.io/collection/arizona-collection-3)</details> |
-| **My subscription** | ![Image](https://raw.seadn.io/files/ba48e7c735f7df3050624aec38f1ce78.svg?w=200&auto=format) |  | <details><summary>Link</summary>[My subscription](https://opensea.io/collection/my-subscription-712)</details> |
+| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-2300)</details> |
+| **bagel** | ![Image](https://i.seadn.io/s/raw/files/0674c800e06c0699932f5c16a463d35d.png?w=500&auto=format?w=200&auto=format) | bagel | <details><summary>Link</summary>[bagel](https://opensea.io/collection/bagel-7)</details> |
+| **choker** | ![Image](https://i.seadn.io/s/raw/files/e07b180bcaaaffa632dd0661ef07d72d.png?w=500&auto=format?w=200&auto=format) | choker | <details><summary>Link</summary>[choker](https://opensea.io/collection/choker-1)</details> |
+| **artificer** | ![Image](https://i.seadn.io/s/raw/files/d5cc95baa085c0d5c0f00de2664af30e.png?w=500&auto=format?w=200&auto=format) | artificer | <details><summary>Link</summary>[artificer](https://opensea.io/collection/artificer-1)</details> |
+| **sport** | ![Image](https://i.seadn.io/s/raw/files/34f240e150bca8a853628fef763d90af.png?w=500&auto=format?w=200&auto=format) | sport | <details><summary>Link</summary>[sport](https://opensea.io/collection/sport-226)</details> |
 
 </div>
