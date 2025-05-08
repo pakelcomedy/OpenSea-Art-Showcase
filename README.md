@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **twist** | ![Image](https://i.seadn.io/s/raw/files/b3bbd14bc5bbaf7a0c428f8cc028f615.png?w=500&auto=format?w=200&auto=format) | twist | <details><summary>Link</summary>[twist](https://opensea.io/collection/twist-37)</details> |
-| **dgdrtfdr** | ![Image](https://i.seadn.io/s/raw/files/45607f49530c3d1a6df2010783a742a2.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dgdrtfdr](https://opensea.io/collection/dgdrtfdr)</details> |
-| **sfryhftg** | ![Image](https://i.seadn.io/s/raw/files/48b449546b5816d52e9ca91b9f94cc76.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sfryhftg](https://opensea.io/collection/sfryhftg)</details> |
+| **tarvel** | ![Image](https://i.seadn.io/s/raw/files/1268cdd85228429c74fbd241ec51900c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[tarvel](https://opensea.io/collection/tarvel-247)</details> |
+| **hakj** | ![Image](https://i.seadn.io/s/raw/files/967e049bca0acc2747072c48e20edcdf.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[hakj](https://opensea.io/collection/hakj)</details> |
 
 </div>
