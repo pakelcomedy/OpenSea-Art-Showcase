@@ -6,12 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Still life. Joy** | ![Image](https://i.seadn.io/s/raw/files/ba5ee5a02906f1765c2ef72265eb179a.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Digital drawing, Procreate
---
-...</summary>Digital drawing, Procreate
---
-See more by OhHungryArtist on Remx at remx.xyz/ohhungryartist</details> | <details><summary>Link</summary>[Still life. Joy](https://opensea.io/collection/still-life-joy)</details> |
-| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/609d3702b4878036afc2a0b5307b0fac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-13093)</details> |
-| **catcher** | ![Image](https://i.seadn.io/s/raw/files/a018d65265d212e6d150d9ad6133f470.png?w=500&auto=format?w=200&auto=format) | catcher | <details><summary>Link</summary>[catcher](https://opensea.io/collection/catcher-3)</details> |
+| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-2159)</details> |
+| **pixel boss** | ![Image](https://i.seadn.io/s/raw/files/f66038462ed0b5b73bc8080a2abf8d83.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[pixel boss](https://opensea.io/collection/pixel-boss-1)</details> |
+| **E** | ![Image](https://i.seadn.io/s/raw/files/d2444d4a22b8d7f8f8604e9029550488.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[E](https://opensea.io/collection/e-2092)</details> |
 
 </div>
