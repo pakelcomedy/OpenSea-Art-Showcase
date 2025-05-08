@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **drake** | ![Image](https://i.seadn.io/s/raw/files/00855d0ff82b3a7c6fa7ab56b1fc0c11.png?w=500&auto=format?w=200&auto=format) | drake | <details><summary>Link</summary>[drake](https://opensea.io/collection/drake-50)</details> |
-| **Glitch Garden** | ![Image](https://i.seadn.io/s/raw/files/2ef8a1dbeccbd24a13d8babcb74fd150.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Glitch Garden](https://opensea.io/collection/glitch-garden-4)</details> |
+| **twist** | ![Image](https://i.seadn.io/s/raw/files/b3bbd14bc5bbaf7a0c428f8cc028f615.png?w=500&auto=format?w=200&auto=format) | twist | <details><summary>Link</summary>[twist](https://opensea.io/collection/twist-37)</details> |
+| **dgdrtfdr** | ![Image](https://i.seadn.io/s/raw/files/45607f49530c3d1a6df2010783a742a2.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dgdrtfdr](https://opensea.io/collection/dgdrtfdr)</details> |
+| **sfryhftg** | ![Image](https://i.seadn.io/s/raw/files/48b449546b5816d52e9ca91b9f94cc76.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sfryhftg](https://opensea.io/collection/sfryhftg)</details> |
 
 </div>
