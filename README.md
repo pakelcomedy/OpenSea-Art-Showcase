@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Celestial Haze** | ![Image](https://i.seadn.io/s/raw/files/43d91a67efc55a2f940bb052b7c5c22d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Celestial Haze](https://opensea.io/collection/celestial-haze)</details> |
-| **FarmGPU 4090** | ![Image](https://i.seadn.io/s/raw/files/e885ac6a7cc4acf641c7c9fa91ee60e1.png?w=500&auto=format?w=200&auto=format) | <details><summary>This collection represents all...</summary>This collection represents all the 4090s that are run by FarmGPU in their datacenters on the Silicon Protocol. Deposit these NFTs at https://app.silicon.net to participate in the Silicon Network.</details> | <details><summary>Link</summary>[FarmGPU 4090](https://opensea.io/collection/farmgpu-4090)</details> |
-| **supliece** | ![Image](https://i.seadn.io/s/raw/files/2473fa77abff364c15d4c85430555283.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[supliece](https://opensea.io/collection/supliece)</details> |
+| **rainy** | ![Image](https://i.seadn.io/s/raw/files/8621c2eda17c18ce096d9b336023d40f.png?w=500&auto=format?w=200&auto=format) | rainy | <details><summary>Link</summary>[rainy](https://opensea.io/collection/rainy-21)</details> |
+| **<details><summary>Arizona Collect...</summary>Arizona Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/4ce99ee73c45c943f593beff76091311.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Arizona Collection](https://opensea.io/collection/arizona-collection-3)</details> |
+| **My subscription** | ![Image](https://raw.seadn.io/files/ba48e7c735f7df3050624aec38f1ce78.svg?w=200&auto=format) |  | <details><summary>Link</summary>[My subscription](https://opensea.io/collection/my-subscription-712)</details> |
 
 </div>
