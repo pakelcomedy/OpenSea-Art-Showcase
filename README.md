@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0xe11775c485275...</summary>0xe11775c485275833ad751f8dd76c17a6e2ff4850</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0xe11775c485275833ad751f8dd76c17a6e2ff4850](https://opensea.io/collection/0xe11775c485275833ad751f8dd76c17a6e2ff4850)</details> |
-| **G** | ![Image](https://i.seadn.io/s/raw/files/ac06a72eb8661259c05b6687c03ee841.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[G](https://opensea.io/collection/g-2130)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 5565188a-6585-4205-ab06-a1dc3cceb3ae</details>** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 5565188a-6585-4205-ab06-a1dc3cceb3ae](https://opensea.io/collection/unidentified-contract-5565188a-6585-4205-ab06-a1dc)</details> |
-| **dimension** | ![Image](https://i.seadn.io/s/raw/files/3620a5426befac1de24305c6923c910c.png?w=500&auto=format?w=200&auto=format) | dimension | <details><summary>Link</summary>[dimension](https://opensea.io/collection/dimension-33)</details> |
-| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-2644)</details> |
+| **E** | ![Image](https://i.seadn.io/s/raw/files/d2444d4a22b8d7f8f8604e9029550488.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[E](https://opensea.io/collection/e-2209)</details> |
+| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-2669)</details> |
+| **Don8Dvcrse** | ![Image](https://i.seadn.io/s/raw/files/2b35ed42ee292e1249d7c3a9fb3c6a1b.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Don8Dvcrse](https://opensea.io/collection/don8dvcrse)</details> |
+| **mlks** | ![Image](https://raw.seadn.io/files/c3ba6e6d05774fadb25311727b917af5.svg?w=200&auto=format) |  | <details><summary>Link</summary>[mlks](https://opensea.io/collection/mlks)</details> |
+| **eastRem1D** | ![Image](https://i.seadn.io/s/raw/files/382607dd62ecc1b70187196cca5183e2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[eastRem1D](https://opensea.io/collection/eastrem1d)</details> |
 
 </div>
