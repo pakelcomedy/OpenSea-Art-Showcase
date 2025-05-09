@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **E** | ![Image](https://i.seadn.io/s/raw/files/d2444d4a22b8d7f8f8604e9029550488.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[E](https://opensea.io/collection/e-2158)</details> |
-| **mohu** | ![Image](https://i.seadn.io/s/raw/files/ebdd48bbd261d53e7dc688e66f7b81e1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[mohu](https://opensea.io/collection/mohu-1)</details> |
-| **asha** | ![Image](https://i.seadn.io/s/raw/files/73943cccd6582281f2120c4595a8df89.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[asha](https://opensea.io/collection/asha-5)</details> |
-| **xiaowangzi** | ![Image](https://i.seadn.io/s/raw/files/df39c826cee4e5e7a2059cf43531724a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[xiaowangzi](https://opensea.io/collection/xiaowangzi)</details> |
+| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-2465)</details> |
+| **G** | ![Image](https://i.seadn.io/s/raw/files/ac06a72eb8661259c05b6687c03ee841.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[G](https://opensea.io/collection/g-2082)</details> |
+| **kopy** | ![Image](https://i.seadn.io/s/raw/files/77c0dc72238acdbcf84773f6615e2f92.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[kopy](https://opensea.io/collection/kopy-1)</details> |
+| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-2464)</details> |
 
 </div>
