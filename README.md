@@ -6,10 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-2300)</details> |
-| **bagel** | ![Image](https://i.seadn.io/s/raw/files/0674c800e06c0699932f5c16a463d35d.png?w=500&auto=format?w=200&auto=format) | bagel | <details><summary>Link</summary>[bagel](https://opensea.io/collection/bagel-7)</details> |
-| **choker** | ![Image](https://i.seadn.io/s/raw/files/e07b180bcaaaffa632dd0661ef07d72d.png?w=500&auto=format?w=200&auto=format) | choker | <details><summary>Link</summary>[choker](https://opensea.io/collection/choker-1)</details> |
-| **artificer** | ![Image](https://i.seadn.io/s/raw/files/d5cc95baa085c0d5c0f00de2664af30e.png?w=500&auto=format?w=200&auto=format) | artificer | <details><summary>Link</summary>[artificer](https://opensea.io/collection/artificer-1)</details> |
-| **sport** | ![Image](https://i.seadn.io/s/raw/files/34f240e150bca8a853628fef763d90af.png?w=500&auto=format?w=200&auto=format) | sport | <details><summary>Link</summary>[sport](https://opensea.io/collection/sport-226)</details> |
+| **travel** | ![Image](https://i.seadn.io/s/raw/files/25ca0e426416ecc28d4f6261b8f818b8.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[travel](https://opensea.io/collection/travel-538)</details> |
+| **institute** | ![Image](https://i.seadn.io/s/raw/files/37944cb85688321a64c276bf73fdb08b.png?w=500&auto=format?w=200&auto=format) | institute | <details><summary>Link</summary>[institute](https://opensea.io/collection/institute-6)</details> |
+| **E** | ![Image](https://i.seadn.io/s/raw/files/d2444d4a22b8d7f8f8604e9029550488.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[E](https://opensea.io/collection/e-2142)</details> |
 
 </div>
