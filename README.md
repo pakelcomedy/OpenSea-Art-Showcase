@@ -6,14 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract f03d5815-fb51-4436-ad84-90ebea96713d</details>** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract f03d5815-fb51-4436-ad84-90ebea96713d](https://opensea.io/collection/unidentified-contract-f03d5815-fb51-4436-ad84-90eb)</details> |
-| **<details><summary>May Cancer Awar...</summary>May Cancer Awareness</details>** | ![Image](https://i.seadn.io/s/raw/files/9203bf67150f018034781d7d22263db4.png?w=500&auto=format?w=200&auto=format) | <details><summary>May Cancer Awareness
-
-Read the...</summary>May Cancer Awareness
-
-Read the full post on Paragraph: https://paragraph.com/@tutticancerwarriors/may-cancer-awareness</details> | <details><summary>Link</summary>[May Cancer Awareness](https://opensea.io/collection/may-cancer-awareness)</details> |
-| **timpani** | ![Image](https://i.seadn.io/s/raw/files/2a3421bf52a414b2e111a96bf00556fc.png?w=500&auto=format?w=200&auto=format) | timpani | <details><summary>Link</summary>[timpani](https://opensea.io/collection/timpani-2)</details> |
-| **<details><summary>GoC's tribute -...</summary>GoC's tribute - Arbitrum</details>** | ![Image](https://i.seadn.io/s/raw/files/d2e40820c4543c6a6c9cc0b5d818dbad.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GoC's tribute - Arbitrum](https://opensea.io/collection/goc-s-tribute-arbitrum)</details> |
-| **<details><summary>A world of happ...</summary>A world of happiness</details>** | ![Image](https://i.seadn.io/s/raw/files/ee6fc5f7ac9fe87350402c327ee5ef84.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[A world of happiness](https://opensea.io/collection/a-world-of-happiness)</details> |
+| **T** | ![Image](https://i.seadn.io/s/raw/files/996913debefdf1bfb635c222ad2c92ea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[T](https://opensea.io/collection/t-2752)</details> |
+| **DrStov3** | ![Image](https://i.seadn.io/s/raw/files/9c891a1bec3cc8aeec02908d302c93c9.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DrStov3](https://opensea.io/collection/drstov3)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 4e9e525a-4bf0-4735-87e1-ce57adb6b02d</details>** | ![Image](https://i.seadn.io/s/raw/files/cf57d187551dd413e4295042fa0b97b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 4e9e525a-4bf0-4735-87e1-ce57adb6b02d](https://opensea.io/collection/unidentified-contract-4e9e525a-4bf0-4735-87e1-ce57)</details> |
+| **E2E Test ERC721** | ![Image](https://raw.seadn.io/files/edfc49e10984ce6db6dc542c7a267046.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC721](https://opensea.io/collection/e2e-test-erc721-1423)</details> |
+| **obscene** | ![Image](https://i.seadn.io/s/raw/files/fa696bab826e4bc12a33c70d9ff92358.png?w=500&auto=format?w=200&auto=format) | obscene | <details><summary>Link</summary>[obscene](https://opensea.io/collection/obscene-3)</details> |
 
 </div>
