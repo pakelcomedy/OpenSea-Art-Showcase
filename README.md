@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Pudgy World Jou...</summary>Pudgy World Journey</details>** | ![Image](https://i.seadn.io/s/raw/files/b599dc27edeac671fb28a0da4c4e5f4e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Pudgy World Journey](https://opensea.io/collection/pudgy-world-journey-3)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 3474ebc5-e345-4dff-916d-778138510bd1</details>** | ![Image](https://i.seadn.io/s/raw/files/cf57d187551dd413e4295042fa0b97b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 3474ebc5-e345-4dff-916d-778138510bd1](https://opensea.io/collection/unidentified-contract-3474ebc5-e345-4dff-916d-7781)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 92d755b0-716a-4c03-b061-296298a75c1c</details>** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 92d755b0-716a-4c03-b061-296298a75c1c](https://opensea.io/collection/unidentified-contract-92d755b0-716a-4c03-b061-2962)</details> |
+| **Happy Kittens** | ![Image](https://i.seadn.io/s/raw/files/b7c38a6fcb27655210ac108bf7fc54b7.gif?w=500&auto=format?w=200&auto=format) | <details><summary>Happy Kittens
+
+Made with [NFTs...</summary>Happy Kittens
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Happy Kittens](https://opensea.io/collection/happy-kittens-5)</details> |
+| **M** | ![Image](https://i.seadn.io/s/raw/files/38065b30275c84490ea0920ec5ba5949.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[M](https://opensea.io/collection/m-1674)</details> |
+| **fff** | ![Image](https://i.seadn.io/s/raw/files/69ce99eb2ea8ab8e4f7e55af1b76868e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[fff](https://opensea.io/collection/fff-282)</details> |
 
 </div>
