@@ -6,7 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **analogy** | ![Image](https://i.seadn.io/s/raw/files/32d48d9fafede14fecd193fb247493e5.png?w=500&auto=format?w=200&auto=format) | analogy | <details><summary>Link</summary>[analogy](https://opensea.io/collection/analogy-2)</details> |
-| **Fables** | ![Image](https://i.seadn.io/s/raw/files/021278b5c9025cd8ebcd05351bcc89ac.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Fables](https://opensea.io/collection/fables-6)</details> |
+| **#35 – 2025.04** | ![Image](https://i.seadn.io/s/raw/files/60f64c6ebce711dda2348f66d3a307f0.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0x7c8b0f...</summary>https://mirror.xyz/10/0x7c8b0fc37e0c4e62f8d037dd8e4c273d9413c73e</details> | <details><summary>Link</summary>[#35 – 2025.04](https://opensea.io/collection/35-2025-04)</details> |
+| **horse** | ![Image](https://i.seadn.io/s/raw/files/ef32a946ed829599d0cd6303ac86392c.png?w=500&auto=format?w=200&auto=format) | horse | <details><summary>Link</summary>[horse](https://opensea.io/collection/horse-529)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 85772569-e542-49a7-b1fd-ae4b4215995a</details>** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 85772569-e542-49a7-b1fd-ae4b4215995a](https://opensea.io/collection/unidentified-contract-85772569-e542-49a7-b1fd-ae4b)</details> |
 
 </div>
