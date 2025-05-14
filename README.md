@@ -6,16 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **S** | ![Image](https://i.seadn.io/s/raw/files/9e71d5e6348fe1b90fa3faca079f1eea.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[S](https://opensea.io/collection/s-2239)</details> |
-| **GAZELLE_APE** | ![Image](https://i.seadn.io/s/raw/files/dcd6f855a831aa21312a18ae469e4f26.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GAZELLE_APE](https://opensea.io/collection/gazelle-ape)</details> |
-| **Setar player I** | ![Image](https://i.seadn.io/s/raw/files/180dee80a65c0bc7c3d8667f7d722889.png?w=500&auto=format?w=200&auto=format) | <details><summary>Symphony of the Dead - 007
-Mad...</summary>Symphony of the Dead - 007
-Made with Stable Diffusion AI + Sora + Chat GPT
-1024x1536 pixels 
-Soltan
---
-See more by Soltan on Remx at remx.xyz/cryptosoltan</details> | <details><summary>Link</summary>[Setar player I](https://opensea.io/collection/setar-player-i)</details> |
-| **DAWN** | ![Image](https://i.seadn.io/s/raw/files/a04f1c97b4f3e0286f2f2e613b05d813.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DAWN](https://opensea.io/collection/dawn-83)</details> |
-| **<details><summary>🎁 10ETH Reward ...</summary>🎁 10ETH Reward at eeth.lat</details>** | ![Image](https://i.seadn.io/s/raw/files/61b9e97b63fa73b6c4156ab662b924d6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[🎁 10ETH Reward at eeth.lat](https://opensea.io/collection/10eth-reward-at-eeth-lat-15)</details> |
+| **<details><summary>0x9496af050aa8a...</summary>0x9496af050aa8a90e669db131d609dcad15075be9</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x9496af050aa8a90e669db131d609dcad15075be9](https://opensea.io/collection/0x9496af050aa8a90e669db131d609dcad15075be9)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract de5a1c93-62a2-40fd-af48-27622361b6b6</details>** | ![Image](https://i.seadn.io/s/raw/files/cf57d187551dd413e4295042fa0b97b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract de5a1c93-62a2-40fd-af48-27622361b6b6](https://opensea.io/collection/unidentified-contract-de5a1c93-62a2-40fd-af48-2762)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 1732754a-89b6-4193-b0ac-80ae3d3967a9</details>** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 1732754a-89b6-4193-b0ac-80ae3d3967a9](https://opensea.io/collection/unidentified-contract-1732754a-89b6-4193-b0ac-80ae)</details> |
 
 </div>
