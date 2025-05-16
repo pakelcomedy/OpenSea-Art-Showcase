@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **b** | ![Image](https://i.seadn.io/s/raw/files/9e27647d30e670feab210e8e34a98f91.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-4630)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/184e879e8a72d766d5e53fa9cfa29237.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-4629)</details> |
-| **Un2** | ![Image](https://i.seadn.io/s/raw/files/eae7b79d7dd34827cb05049cf959713a.jpg?w=500&auto=format?w=200&auto=format) | Unique 2 | <details><summary>Link</summary>[Un2](https://opensea.io/collection/un2)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract f04603c7-caa2-4a9c-91fe-1b976903a1eb</details>** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract f04603c7-caa2-4a9c-91fe-1b976903a1eb](https://opensea.io/collection/unidentified-contract-f04603c7-caa2-4a9c-91fe-1b97)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract b080ac35-58e2-4d47-9164-9553c86a163f</details>** | ![Image](https://i.seadn.io/s/raw/files/e9acf51ddce687ccf33c485e916aec1b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract b080ac35-58e2-4d47-9164-9553c86a163f](https://opensea.io/collection/unidentified-contract-b080ac35-58e2-4d47-9164-9553)</details> |
 
 </div>
