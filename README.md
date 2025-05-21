@@ -6,9 +6,14 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract 8d57165c-d6ae-4ab5-85e5-390523ee090a</details>** | ![Image](https://i.seadn.io/s/raw/files/e9acf51ddce687ccf33c485e916aec1b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 8d57165c-d6ae-4ab5-85e5-390523ee090a](https://opensea.io/collection/unidentified-contract-8d57165c-d6ae-4ab5-85e5-3905)</details> |
-| **precious** | ![Image](https://i.seadn.io/s/raw/files/48273d08a1132c9363ca378f7647cabd.png?w=500&auto=format?w=200&auto=format) | precious | <details><summary>Link</summary>[precious](https://opensea.io/collection/precious-35)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/c17defe12e0ea1cd603439d3e196338f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-12076)</details> |
-| **<details><summary>FuzzyElephantTr...</summary>FuzzyElephantTrumpet</details>** | ![Image](https://i.seadn.io/s/raw/files/b43e56bc026a9e42f1889bdc852ffeac.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FuzzyElephantTrumpet](https://opensea.io/collection/fuzzyelephanttrumpet-1)</details> |
+| **Apes** | ![Image](https://i.seadn.io/s/raw/files/e3c07c83e60f0dafd679a1837c244bad.webp?w=500&auto=format?w=200&auto=format) | <details><summary>AP PART ONE
+
+Made with [NFTs2M...</summary>AP PART ONE
+
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Apes](https://opensea.io/collection/apes-135)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract f6fcca09-ed9e-44cc-86f4-7e2a086ccbb3</details>** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract f6fcca09-ed9e-44cc-86f4-7e2a086ccbb3](https://opensea.io/collection/unidentified-contract-f6fcca09-ed9e-44cc-86f4-7e2a)</details> |
+| **opwolf** | ![Image](https://i.seadn.io/s/raw/files/4b4d3980afc9d359ee055d994977e9d5.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[opwolf](https://opensea.io/collection/opwolf)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract aa04a528-3980-4275-aad4-4803e0da2918</details>** | ![Image](https://i.seadn.io/s/raw/files/e9acf51ddce687ccf33c485e916aec1b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract aa04a528-3980-4275-aad4-4803e0da2918](https://opensea.io/collection/unidentified-contract-aa04a528-3980-4275-aad4-4803)</details> |
+| **Collection** | ![Image](https://i.seadn.io/s/raw/files/cf57d187551dd413e4295042fa0b97b2.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Collection](https://opensea.io/collection/collection-1846)</details> |
 
 </div>
