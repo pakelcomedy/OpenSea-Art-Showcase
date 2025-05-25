@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract eddf37a6-63a8-4b2c-8af9-792c38f39e34</details>** | ![Image](https://i.seadn.io/s/raw/files/e9acf51ddce687ccf33c485e916aec1b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract eddf37a6-63a8-4b2c-8af9-792c38f39e34](https://opensea.io/collection/unidentified-contract-eddf37a6-63a8-4b2c-8af9-792c)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 765a25f8-efe0-4334-bf6b-69faae763f58</details>** | ![Image](https://i.seadn.io/s/raw/files/a837708742ad8afcb35eb60ba787976d.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 765a25f8-efe0-4334-bf6b-69faae763f58](https://opensea.io/collection/unidentified-contract-765a25f8-efe0-4334-bf6b-69fa)</details> |
 
 </div>
