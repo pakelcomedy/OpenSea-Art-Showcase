@@ -6,8 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **SONGS: DIOR** | ![Image](https://i.seadn.io/s/raw/files/f989790494279808c37ee28718ce652e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[SONGS: DIOR](https://opensea.io/collection/songs-dior)</details> |
-| **<details><summary>0x2b0a80a82ef8a...</summary>0x2b0a80a82ef8a872158640baaf2e3dd3c129fb18</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x2b0a80a82ef8a872158640baaf2e3dd3c129fb18](https://opensea.io/collection/0x2b0a80a82ef8a872158640baaf2e3dd3c129fb18)</details> |
-| **d** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-2677)</details> |
+| **<details><summary>Angel of the Fi...</summary>Angel of the Firewall</details>** | ![Image](https://i.seadn.io/s/raw/files/f257e3b2707428754ac4cc84d4b03f64.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Kneeling in code, praying in s...</summary>Kneeling in code, praying in silence. This is the protector of broken systems—the ones still worth saving.
+
+I’m only $100 away from covering the cost of my recertification as a drug and alcohol counselor. If this piece moves you, I’m asking for support—whether through collecting, tipping, or even sharing the word.
+--
+See more by Chazz Gold on Remx at remx.xyz/chazzgold</details> | <details><summary>Link</summary>[Angel of the Firewall](https://opensea.io/collection/angel-of-the-firewall)</details> |
+| **Xj2jX** | ![Image](https://raw.seadn.io/files/c26a54db97f9c3399320656705127d85.svg?w=200&auto=format) |  | <details><summary>Link</summary>[Xj2jX](https://opensea.io/collection/xj2jx)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/1a092e792a9266ec815c4ff83d87fdc0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-2741)</details> |
 
 </div>
