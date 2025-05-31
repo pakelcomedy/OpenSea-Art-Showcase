@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Lambo OmegaCoin** | ![Image](https://i.seadn.io/s/raw/files/3b2423acb4ecffa3ea6ec54e5eadd4fd.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The next-gen coin that's pushi...</summary>The next-gen coin that's pushing the boundaries of web3</details> | <details><summary>Link</summary>[Lambo OmegaCoin](https://opensea.io/collection/lambo-omegacoin)</details> |
-| **J.** | ![Image](https://i.seadn.io/s/raw/files/9e56c7f8bc3aa7a8aa8f7f1d0306681c.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[J.](https://opensea.io/collection/j-711)</details> |
-| **<details><summary>Artevia Collect...</summary>Artevia Collection</details>** | ![Image](https://i.seadn.io/s/raw/files/6a25d0f7e885c1ceffaa9222b824328f.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Artevia Collection](https://opensea.io/collection/artevia-collection-1)</details> |
+| **CryptoAiArt** | ![Image](https://i.seadn.io/s/raw/files/5178ed7dcc05ed77d4927d1e6d46df2f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[CryptoAiArt](https://opensea.io/collection/cryptoaiart-3)</details> |
+| **<details><summary>EASY CHINESE WI...</summary>EASY CHINESE WITH MI</details>** | ![Image](https://i.seadn.io/s/raw/files/e7c1f5954c0f82f8bed9fdf1131d74fb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[EASY CHINESE WITH MI](https://opensea.io/collection/easy-chinese-with-mi)</details> |
 
 </div>
