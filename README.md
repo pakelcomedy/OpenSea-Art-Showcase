@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **MemeExchange** | ![Image](https://i.seadn.io/s/raw/files/727d9be8a88384f12b15456c0290a22e.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>accelerating the defi future o...</summary>accelerating the defi future of finance</details> | <details><summary>Link</summary>[MemeExchange](https://opensea.io/collection/memeexchange-3)</details> |
-| **sdhgdgfj** | ![Image](https://i.seadn.io/s/raw/files/99c9cdb90680fd1f898d8bb665ab2581.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[sdhgdgfj](https://opensea.io/collection/sdhgdgfj)</details> |
-| **doctor** | ![Image](https://i.seadn.io/s/raw/files/ed1a60c1e8ffb3c2db1d90bd8b0ee151.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[doctor](https://opensea.io/collection/doctor-71)</details> |
-| **OWL** | ![Image](https://i.seadn.io/s/raw/files/444127638eb4ab54b22e8c273e857796.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[OWL](https://opensea.io/collection/owl-255)</details> |
+| **your license** | ![Image](https://i.seadn.io/s/raw/files/eff4b6a16e58a61b84e0498b604af3b1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[your license](https://opensea.io/collection/your-license-2)</details> |
+| **PUPPY.** | ![Image](https://i.seadn.io/s/raw/files/6740eab1d8d9712fdf418f0889ed1163.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PUPPY.](https://opensea.io/collection/puppy-192)</details> |
+| **wrap8praise** | ![Image](https://i.seadn.io/s/raw/files/5ee865ae636fb40f98a2d329077fd530.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[wrap8praise](https://opensea.io/collection/wrap8praise)</details> |
 
 </div>
