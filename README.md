@@ -6,11 +6,12 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ice Cube** | ![Image](https://i.seadn.io/s/raw/files/ca3bcef38147beacec7a9f42d7a916f6.webp?w=500&auto=format?w=200&auto=format) | <details><summary>This is a community driven pro...</summary>This is a community driven project
+| **Failed Airdrops** | ![Image](https://i.seadn.io/s/raw/files/b9f9d78c8cd5e7d3d6f11265d826dde3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Failed Airdrops (FAIR) is a Bo...</summary>Failed Airdrops (FAIR) is a Bonding Curved ERC-1155 token created on mint.club.
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[Ice Cube](https://opensea.io/collection/ice-cube-14)</details> |
-| **Boring** | ![Image](https://i.seadn.io/s/raw/files/f03aa9abb3ce94233ebc88f2376cc544.webp?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Boring](https://opensea.io/collection/boring-28)</details> |
-| **2joyu** | ![Image](https://i.seadn.io/s/raw/files/3734395967e39db42486a63b711049ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[2joyu](https://opensea.io/collection/2joyu)</details> |
-| **Diva** | ![Image](https://i.seadn.io/s/raw/files/6568055da4411164d702d23bd330e7ae.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Diva](https://opensea.io/collection/diva-33)</details> |
+Backed by Wrapped Ether (WETH) on Base chain.
+
+https://mint.club/nft/base/FAIR</details> | <details><summary>Link</summary>[Failed Airdrops](https://opensea.io/collection/failed-airdrops)</details> |
+| **Mecha Wreck** | ![Image](https://i.seadn.io/s/raw/files/41085201d7a9213657ba324a59c2a80b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Mecha Wreck](https://opensea.io/collection/mecha-wreck-1)</details> |
+| **Yasemin Arts** | ![Image](https://i.seadn.io/s/raw/files/db687516696d605459deaf8bf5e3cda1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Yasemin Arts](https://opensea.io/collection/yasemin-arts)</details> |
 
 </div>
