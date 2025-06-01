@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **MOROJ** | ![Image](https://i.seadn.io/s/raw/files/54ce136edce1535cee7d9013ac42c29c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[MOROJ](https://opensea.io/collection/moroj)</details> |
-| **PepeCash🎮** | ![Image](https://i.seadn.io/s/raw/files/eba80de8bd9b03379afad7dfd65045b9.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>PepeCash🎮 is pushing the bound...</summary>PepeCash🎮 is pushing the boundaries of crypto cashs</details> | <details><summary>Link</summary>[PepeCash🎮](https://opensea.io/collection/pepecash-8)</details> |
+| **UltraSwap🔥** | ![Image](https://i.seadn.io/s/raw/files/e7113614f17f789a4fcb0c367c7de37a.webp?w=500&auto=format?w=200&auto=format) | <details><summary>UltraSwap🔥 - democratizing def...</summary>UltraSwap🔥 - democratizing defi forever</details> | <details><summary>Link</summary>[UltraSwap🔥](https://opensea.io/collection/ultraswap-3)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/b2b438f0fc14280a7871087ccb4f492a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-5664)</details> |
 
 </div>
