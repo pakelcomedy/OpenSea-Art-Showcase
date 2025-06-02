@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>🎁 10ETH Reward ...</summary>🎁 10ETH Reward at eeth.lat</details>** | ![Image](https://i.seadn.io/s/raw/files/61b9e97b63fa73b6c4156ab662b924d6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[🎁 10ETH Reward at eeth.lat](https://opensea.io/collection/10eth-reward-at-eeth-lat-125)</details> |
-| **<details><summary>Window to a Rai...</summary>Window to a Rainy World .</details>** | ![Image](https://i.seadn.io/s/raw/files/5561b6ec752034d2fb7a9e3589e001f8.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The world softens when seen th...</summary>The world softens when seen through raindrops.
---
-See more by Sahar Moussavi on Remx at remx.xyz/sahar-moussavi</details> | <details><summary>Link</summary>[Window to a Rainy World .](https://opensea.io/collection/window-to-a-rainy-world)</details> |
+| **UltraToken🌙** | ![Image](https://i.seadn.io/s/raw/files/4edb364eff656fc3a73bed9550972505.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>UltraToken🌙 is redefining cryp...</summary>UltraToken🌙 is redefining crypto tokens</details> | <details><summary>Link</summary>[UltraToken🌙](https://opensea.io/collection/ultratoken-1)</details> |
+| **ABSTRACT GYM** | ![Image](https://i.seadn.io/s/raw/files/9a50ca435c69d0cffdea2a56b986d7b3.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[ABSTRACT GYM](https://opensea.io/collection/abstract-gym)</details> |
+| **<details><summary>G.G Banana Brig...</summary>G.G Banana Brigade</details>** | ![Image](https://i.seadn.io/s/raw/files/051f6ca69ee33d34e9847314aa4dc2aa.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[G.G Banana Brigade](https://opensea.io/collection/g-g-banana-brigade)</details> |
 
 </div>
