@@ -6,16 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **dutyl8lite** | ![Image](https://i.seadn.io/s/raw/files/42f41bbbeab31d1be0c8c8795bfe7c82.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dutyl8lite](https://opensea.io/collection/dutyl8lite)</details> |
-| **Abstract Plane** | ![Image](https://i.seadn.io/s/raw/files/d33c584e118ef51479fa7f86e74abd07.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Abstract Plane](https://opensea.io/collection/abstract-plane-3)</details> |
-| **childhood fear** | ![Image](https://i.seadn.io/s/raw/files/8c7788f494d4d522f75ef204fbd70cdd.webp?w=500&auto=format?w=200&auto=format) | <details><summary>childhood fear
+| **1mposter** | ![Image](https://i.seadn.io/s/raw/files/a0f30adcc0e91d4ed10b57a1cef45920.gif?w=500&auto=format?w=200&auto=format) | <details><summary>1mposter
 
-Made with [NFT...</summary>childhood fear
+Made with [NFTs2Me.c...</summary>1mposter
 
-Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[childhood fear](https://opensea.io/collection/childhood-fear-1)</details> |
-| **Rosa** | ![Image](https://i.seadn.io/s/raw/files/60424d9b5570e84ca5c800cbc9fabfc9.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Roses wither;
-But in the heart...</summary>Roses wither;
-But in the heart of a lover,
-They'll live forever.</details> | <details><summary>Link</summary>[Rosa](https://opensea.io/collection/rosa-57)</details> |
+Made with [NFTs2Me.com](https://nfts2me.com/)</details> | <details><summary>Link</summary>[1mposter](https://opensea.io/collection/1mposter-1)</details> |
+| **IZUNA #14** | ![Image](https://i.seadn.io/s/raw/files/c534401bb8121c49e00f31412dc8c63a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[IZUNA #14](https://opensea.io/collection/izuna-14)</details> |
+| **Degen NeoHub** | ![Image](https://i.seadn.io/s/raw/files/8b63c76bc48cc8be961506eee30909e6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Degen NeoHub - maximizing defi...</summary>Degen NeoHub - maximizing defi forever</details> | <details><summary>Link</summary>[Degen NeoHub](https://opensea.io/collection/degen-neohub)</details> |
+| **E2E Test ERC721** | ![Image](https://raw.seadn.io/files/bd6820c3f8d76463d315a1b8ce5dc812.svg?w=200&auto=format) | A test token | <details><summary>Link</summary>[E2E Test ERC721](https://opensea.io/collection/e2e-test-erc721-1983)</details> |
 
 </div>
