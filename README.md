@@ -6,10 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract b7b9143d-4e50-462d-bfde-a508b2bf3916</details>** | ![Image](https://i.seadn.io/s/raw/files/654b7e9c6f93abe8d20f6c1ead4af558.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract b7b9143d-4e50-462d-bfde-a508b2bf3916](https://opensea.io/collection/unidentified-contract-b7b9143d-4e50-462d-bfde-a508)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 3854aad5-1c17-4918-9ae7-2497d13f279f</details>** | ![Image](https://i.seadn.io/s/raw/files/654b7e9c6f93abe8d20f6c1ead4af558.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 3854aad5-1c17-4918-9ae7-2497d13f279f](https://opensea.io/collection/unidentified-contract-3854aad5-1c17-4918-9ae7-2497)</details> |
-| **Trader Rex** | ![Image](https://i.seadn.io/s/raw/files/d8c1d7eb06c55e1c7cdef0980b541cdf.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Too short to click. Too stubbo...</summary>Too short to click. Too stubborn to stop. Meet Trader Rex, the confused dino trying to survive the market with tiny arms and massive regrets.
-
-1/1 PFP</details> | <details><summary>Link</summary>[Trader Rex](https://opensea.io/collection/trader-rex)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-17862)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 1ee20d28-ffb1-49fa-a912-efcc7046ea56</details>** | ![Image](https://i.seadn.io/s/raw/files/654b7e9c6f93abe8d20f6c1ead4af558.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 1ee20d28-ffb1-49fa-a912-efcc7046ea56](https://opensea.io/collection/unidentified-contract-1ee20d28-ffb1-49fa-a912-efcc)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-7120)</details> |
+| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-1678)</details> |
 
 </div>
