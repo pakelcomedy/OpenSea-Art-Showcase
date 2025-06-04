@@ -6,8 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **d** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-7545)</details> |
-| **d** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-7544)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 4d4a7079-6116-47ae-87ad-3b2ff2b3b689</details>** | ![Image](https://i.seadn.io/s/raw/files/654b7e9c6f93abe8d20f6c1ead4af558.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 4d4a7079-6116-47ae-87ad-3b2ff2b3b689](https://opensea.io/collection/unidentified-contract-4d4a7079-6116-47ae-87ad-3b2f)</details> |
+| **GIF Life** | ![Image](https://i.seadn.io/s/raw/files/6364f8baa031e5074b21e531ef5162f2.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[GIF Life](https://opensea.io/collection/gif-life-1)</details> |
+| **<details><summary>ENRIQUECERNOS P...</summary>ENRIQUECERNOS PODCAST</details>** | ![Image](https://i.seadn.io/s/raw/files/49bdf4b7dba8bface2984c5f05385548.png?w=500&auto=format?w=200&auto=format) | <details><summary>Este NFT conmemora tu decisión...</summary>Este NFT conmemora tu decisión de formar parte de Enriquecernos, una comunidad que cree que la verdadera riqueza va más allá del dinero.
+Como oyente y pionero, estás dando un paso hacia el equilibrio entre mente, cuerpo, espíritu y negocios.</details> | <details><summary>Link</summary>[ENRIQUECERNOS PODCAST](https://opensea.io/collection/enriquecernos-podcast)</details> |
+| **BTC Boy** | ![Image](https://i.seadn.io/s/raw/files/fb8b683e3306c70a7b2011e6d00ef969.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[BTC Boy](https://opensea.io/collection/btc-boy-2)</details> |
 
 </div>
