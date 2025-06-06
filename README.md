@@ -6,8 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **DeciSurp5** | ![Image](https://i.seadn.io/s/raw/files/3061ee606f99b3c8ed4bea2eb6d7f530.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[DeciSurp5](https://opensea.io/collection/decisurp5)</details> |
-| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-2562)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-18387)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/ec0b573a89747f1823384435a70bd5c9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-8537)</details> |
+| **BeraGold** | ![Image](https://i.seadn.io/s/raw/files/6a5a4d990ef8181d6c3f0fb1acfb9b1d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>The revolutionary gold that's ...</summary>The revolutionary gold that's maximizing web3</details> | <details><summary>Link</summary>[BeraGold](https://opensea.io/collection/beragold-4)</details> |
 
 </div>
