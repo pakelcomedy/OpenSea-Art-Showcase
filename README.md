@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **WPI** | ![Image](https://i.seadn.io/s/raw/files/64c9d9507d9c74b4a1caf402981c32b6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WPI](https://opensea.io/collection/wpi-1)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-19139)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-19138)</details> |
-| **d** | ![Image](https://i.seadn.io/s/raw/files/ec0b573a89747f1823384435a70bd5c9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-8915)</details> |
+| **PUNK BASE** | ![Image](https://i.seadn.io/s/raw/files/82a98c86fc7babee6b4456ed896badd7.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[PUNK BASE](https://opensea.io/collection/punk-base-3)</details> |
+| **<details><summary>SETHIX Gnostici...</summary>SETHIX Gnosticism</details>** | ![Image](https://i.seadn.io/s/raw/files/f952034ec3e8595700bdc93b3f727e7b.png?w=500&auto=format?w=200&auto=format) | <details><summary>https://mirror.xyz/10/0xe16bd6...</summary>https://mirror.xyz/10/0xe16bd6233661406e5eb9103f755833979cdb464d</details> | <details><summary>Link</summary>[SETHIX Gnosticism](https://opensea.io/collection/sethix-gnosticism)</details> |
+| **GoldPesa Mines** | ![Image](https://raw.seadn.io/files/6adefa6d251697aeac8822eb118ed6e0.svg?w=200&auto=format) |  | <details><summary>Link</summary>[GoldPesa Mines](https://opensea.io/collection/goldpesa-mines-5)</details> |
 
 </div>
