@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-3285)</details> |
-| **flowers flowers** | ![Image](https://i.seadn.io/s/raw/files/5cadb21ea61451eb94fa7ca34ae9dc9e.jpg?w=500&auto=format?w=200&auto=format) | 
-flowers | <details><summary>Link</summary>[flowers flowers](https://opensea.io/collection/flowers-1303)</details> |
-| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-3284)</details> |
+| **WPI** | ![Image](https://i.seadn.io/s/raw/files/64c9d9507d9c74b4a1caf402981c32b6.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[WPI](https://opensea.io/collection/wpi-1)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-19139)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-19138)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/ec0b573a89747f1823384435a70bd5c9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-8915)</details> |
 
 </div>
