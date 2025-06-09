@@ -6,8 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-3780)</details> |
-| **d** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-8968)</details> |
-| **<details><summary>Heave Away, Me ...</summary>Heave Away, Me Jolly Boys</details>** | ![Image](https://i.seadn.io/s/raw/files/d87b8ee0b0a390f292fb51e1c15e8029.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Heave Away, Me Jolly Boys](https://opensea.io/collection/heave-away-me-jolly-boys-2)</details> |
+| **Bored Ape Land** | ![Image](https://i.seadn.io/s/raw/files/e83a6855749571fbabb71bf4e1b08935.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Bored Ape Land](https://opensea.io/collection/bored-ape-land)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/ff8b9730f335add0454890e9ace2be83.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-19740)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/ec0b573a89747f1823384435a70bd5c9.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-8991)</details> |
 
 </div>
