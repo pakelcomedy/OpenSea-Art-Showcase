@@ -6,9 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract f584860a-0c9d-4e2b-9c93-3119d4925564</details>** | ![Image](https://i.seadn.io/s/raw/files/5a3ac3ffe42033afff2632c8556a0bbc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract f584860a-0c9d-4e2b-9c93-3119d4925564](https://opensea.io/collection/unidentified-contract-f584860a-0c9d-4e2b-9c93-3119)</details> |
-| **dreamup** | ![Image](https://i.seadn.io/s/raw/files/69845b77cbed765ec977193513a390dd.jpg?w=500&auto=format?w=200&auto=format) | dreamup | <details><summary>Link</summary>[dreamup](https://opensea.io/collection/dreamup-4)</details> |
-| **emperor** | ![Image](https://i.seadn.io/s/raw/files/2e1ae352dd517384302fd0d46249b530.jpg?w=500&auto=format?w=200&auto=format) | emperor | <details><summary>Link</summary>[emperor](https://opensea.io/collection/emperor-32)</details> |
-| **tremendous** | ![Image](https://i.seadn.io/s/raw/files/04499df05727df647aaab4accb6089dc.jpg?w=500&auto=format?w=200&auto=format) | tremendous | <details><summary>Link</summary>[tremendous](https://opensea.io/collection/tremendous-18)</details> |
+| **holdback** | ![Image](https://i.seadn.io/s/raw/files/14e22f2f48394cc02dacfc9d213a2a76.jpg?w=500&auto=format?w=200&auto=format) | holdback | <details><summary>Link</summary>[holdback](https://opensea.io/collection/holdback-1)</details> |
+| **fossil** | ![Image](https://i.seadn.io/s/raw/files/6ab7e835304ff026561a83f5c105e4dc.jpg?w=500&auto=format?w=200&auto=format) | fossil | <details><summary>Link</summary>[fossil](https://opensea.io/collection/fossil-25)</details> |
+| **ake** | ![Image](https://i.seadn.io/s/raw/files/670063cc4572326aa92bd86db22fcfe9.jpg?w=500&auto=format?w=200&auto=format) | ake | <details><summary>Link</summary>[ake](https://opensea.io/collection/ake-5)</details> |
+| **addup** | ![Image](https://i.seadn.io/s/raw/files/bc1909688153907acd489f9f5feebe3b.jpg?w=500&auto=format?w=200&auto=format) | addup | <details><summary>Link</summary>[addup](https://opensea.io/collection/addup-2)</details> |
 
 </div>
