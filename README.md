@@ -6,10 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **slipper** | ![Image](https://i.seadn.io/s/raw/files/d74d8eee59ffef61b6fbfab77df20bba.jpg?w=500&auto=format?w=200&auto=format) | slipper | <details><summary>Link</summary>[slipper](https://opensea.io/collection/slipper-10)</details> |
-| **rake** | ![Image](https://i.seadn.io/s/raw/files/065743a9da1532c6295e66188bc96533.jpg?w=500&auto=format?w=200&auto=format) | rake | <details><summary>Link</summary>[rake](https://opensea.io/collection/rake-11)</details> |
-| **d** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-9341)</details> |
-| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-4025)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract a72848db-ab28-4756-9dac-193931e1280f</details>** | ![Image](https://i.seadn.io/s/raw/files/5a3ac3ffe42033afff2632c8556a0bbc.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract a72848db-ab28-4756-9dac-193931e1280f](https://opensea.io/collection/unidentified-contract-a72848db-ab28-4756-9dac-1939)</details> |
+| **extort** | ![Image](https://i.seadn.io/s/raw/files/76c1171b0c64180c9758ec94a41a0777.jpg?w=500&auto=format?w=200&auto=format) | extort | <details><summary>Link</summary>[extort](https://opensea.io/collection/extort-3)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/fd31eb18db3d9f0943975f738cdcdeca.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-20089)</details> |
+| **fur** | ![Image](https://i.seadn.io/s/raw/files/a0f7a6269bdf3d2aac03582c5549079c.jpg?w=500&auto=format?w=200&auto=format) | fur | <details><summary>Link</summary>[fur](https://opensea.io/collection/fur-22)</details> |
+| **thinkover** | ![Image](https://i.seadn.io/s/raw/files/fcc2aae6757a55876350271fd4e6e681.jpg?w=500&auto=format?w=200&auto=format) | thinkover | <details><summary>Link</summary>[thinkover](https://opensea.io/collection/thinkover-1)</details> |
+| **pretty** | ![Image](https://i.seadn.io/s/raw/files/68eac5c7771fe2a1d38e56bb45a15aa8.jpg?w=500&auto=format?w=200&auto=format) | pretty | <details><summary>Link</summary>[pretty](https://opensea.io/collection/pretty-93)</details> |
 
 </div>
