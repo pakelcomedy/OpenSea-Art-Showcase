@@ -6,14 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **b** | ![Image](https://i.seadn.io/s/raw/files/fd31eb18db3d9f0943975f738cdcdeca.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-20498)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/ff8b9730f335add0454890e9ace2be83.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-20497)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 1b600e28-26dd-4cb5-a820-7eef814185e3</details>** | ![Image](https://i.seadn.io/s/raw/files/654b7e9c6f93abe8d20f6c1ead4af558.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 1b600e28-26dd-4cb5-a820-7eef814185e3](https://opensea.io/collection/unidentified-contract-1b600e28-26dd-4cb5-a820-7eef)</details> |
-| **DEFISTATION** | ![Image](https://i.seadn.io/s/raw/files/13010e1cbbed17792ad1a773d012bc44.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>DEFISTATION (DEFIS) is a Bondi...</summary>DEFISTATION (DEFIS) is a Bonding Curved ERC-1155 token created on mint.club.
-
-Backed by USD Coin (USDC) on Polygon chain.
-
-https://mint.club/nft/polygon/DEFIS</details> | <details><summary>Link</summary>[DEFISTATION](https://opensea.io/collection/defistation)</details> |
-| **b** | ![Image](https://i.seadn.io/s/raw/files/ff8b9730f335add0454890e9ace2be83.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-20496)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 974e74e4-e83d-4918-95b1-dd45fa1e99b1</details>** | ![Image](https://i.seadn.io/s/raw/files/1a693295f55119077e8d45462c4f021b.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 974e74e4-e83d-4918-95b1-dd45fa1e99b1](https://opensea.io/collection/unidentified-contract-974e74e4-e83d-4918-95b1-dd45)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-9953)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-20537)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 40a9d743-f550-40dd-8e83-96c0d4917a07</details>** | ![Image](https://i.seadn.io/s/raw/files/1a693295f55119077e8d45462c4f021b.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 40a9d743-f550-40dd-8e83-96c0d4917a07](https://opensea.io/collection/unidentified-contract-40a9d743-f550-40dd-8e83-96c0)</details> |
 
 </div>
