@@ -6,9 +6,8 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-4312)</details> |
-| **starter** | ![Image](https://i.seadn.io/s/raw/files/ece617bea0e3e627f9432ff85b11749c.jpg?w=500&auto=format?w=200&auto=format) | starter | <details><summary>Link</summary>[starter](https://opensea.io/collection/starter-26)</details> |
-| **shib-gain.com** | ![Image](https://i.seadn.io/s/raw/files/3dc3aba347aa4a86c628d3ca81b9c220.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[shib-gain.com](https://opensea.io/collection/shib-gain-com-8)</details> |
-| **Thooms-Pixel** | ![Image](https://i.seadn.io/s/raw/files/fb924180cf3d0b14d869200526de1f6f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Thooms-Pixel](https://opensea.io/collection/thooms-pixel)</details> |
+| **d** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[d](https://opensea.io/collection/d-9989)</details> |
+| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-4333)</details> |
+| **spatula** | ![Image](https://i.seadn.io/s/raw/files/b3d9e6726ebf6f32ec2b000fa63e1c46.jpg?w=500&auto=format?w=200&auto=format) | spatula | <details><summary>Link</summary>[spatula](https://opensea.io/collection/spatula-5)</details> |
 
 </div>
