@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ff8b9730f335add0454890e9ace2be83.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ddc764e87c58de051444695aaf8fbbe2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
 
 This token is a collectible that lives on the Ethereum blockchain
 
@@ -16,8 +16,9 @@ Additional Content:
 - [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
 - [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
 - [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-214)</details> |
-| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-4991)</details> |
-| **<details><summary>0x8fbe64a2fbe23...</summary>0x8fbe64a2fbe23657bf3dafbe43e03a472c275c27</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x8fbe64a2fbe23657bf3dafbe43e03a472c275c27](https://opensea.io/collection/0x8fbe64a2fbe23657bf3dafbe43e03a472c275c27)</details> |
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-236)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 9d650f01-6c2c-4a64-a198-2630e11c44aa</details>** | ![Image](https://i.seadn.io/s/raw/files/37df2cc17567b57cc16920caa4dcdc71.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 9d650f01-6c2c-4a64-a198-2630e11c44aa](https://opensea.io/collection/unidentified-contract-9d650f01-6c2c-4a64-a198-2630)</details> |
+| **dueling** | ![Image](https://i.seadn.io/s/raw/files/f8c32ff8d764d1c30dd7a10226b3b629.jpg?w=500&auto=format?w=200&auto=format) | dueling | <details><summary>Link</summary>[dueling](https://opensea.io/collection/dueling-3)</details> |
+| **b** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[b](https://opensea.io/collection/b-22018)</details> |
 
 </div>
