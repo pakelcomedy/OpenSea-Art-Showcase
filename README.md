@@ -6,9 +6,40 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Necronomicon Vo...</summary>Necronomicon Vol.3</details>** | ![Image](https://i.seadn.io/s/raw/files/7543d11022af9de8ee2f6849889785c1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Necronomicon Vol.3](https://opensea.io/collection/necronomicon-vol-3)</details> |
-| **Simone** | ![Image](https://i.seadn.io/s/raw/files/490fee01062e031dd6f983c51674ea0c.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Simone](https://opensea.io/collection/simone-9)</details> |
-| **<details><summary>Prehistoric Aci...</summary>Prehistoric Acidic Reptile</details>** | ![Image](https://i.seadn.io/s/raw/files/03eaadb796def50dd301d1a9389ca4be.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Prehistoric Acidic Reptile](https://opensea.io/collection/prehistoric-acidic-reptile)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 90a9acd9-60de-4f10-8b8d-da3a1e40f1e9</details>** | ![Image](https://i.seadn.io/s/raw/files/37df2cc17567b57cc16920caa4dcdc71.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 90a9acd9-60de-4f10-8b8d-da3a1e40f1e9](https://opensea.io/collection/unidentified-contract-90a9acd9-60de-4f10-8b8d-da3a)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 480a29f9-846f-46db-90af-d8874e7fbbc5</details>** | ![Image](https://i.seadn.io/s/raw/files/37df2cc17567b57cc16920caa4dcdc71.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 480a29f9-846f-46db-90af-d8874e7fbbc5](https://opensea.io/collection/unidentified-contract-480a29f9-846f-46db-90af-d887)</details> |
+| **AB** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[AB](https://opensea.io/collection/ab-4982)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ff8b9730f335add0454890e9ace2be83.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+
+This token is a collectible that lives on the Ethereum blockchain
+
+Additional Content:
+
+- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
+- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
+- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
+- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-198)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/fd31eb18db3d9f0943975f738cdcdeca.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+
+This token is a collectible that lives on the Ethereum blockchain
+
+Additional Content:
+
+- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
+- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
+- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
+- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-197)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ff8b9730f335add0454890e9ace2be83.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+
+This token is a collectible that lives on the Ethereum blockchain
+
+Additional Content:
+
+- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
+- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
+- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
+- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-196)</details> |
 
 </div>
