@@ -6,8 +6,28 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FRIENDSHIP** | ![Image](https://i.seadn.io/s/raw/files/3bf71ddb7f77c51087c9a14ef38430c3.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FRIENDSHIP](https://opensea.io/collection/friendship-71)</details> |
-| **dark-city** | ![Image](https://i.seadn.io/s/raw/files/bd07f7cfe0fc5a11ba0ff3082734c136.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[dark-city](https://opensea.io/collection/dark-city-17)</details> |
-| **Digital Artwork** | ![Image](https://i.seadn.io/s/raw/files/95f05fc725f9d70088fed6eaccf859d1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Digital Artwork](https://opensea.io/collection/digital-artwork-15)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ddc764e87c58de051444695aaf8fbbe2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+
+This token is a collectible that lives on the Ethereum blockchain
+
+Additional Content:
+
+- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
+- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
+- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
+- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-762)</details> |
+| **<details><summary>League of Kingd...</summary>League of Kingdoms Skin</details>** | ![Image](https://i.seadn.io/s/raw/files/e137bc2c8c3ea3309d6d78a9784e8109.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[League of Kingdoms Skin](https://opensea.io/collection/league-of-kingdoms-skin-39)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/fd31eb18db3d9f0943975f738cdcdeca.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+
+This token is a collectible that lives on the Ethereum blockchain
+
+Additional Content:
+
+- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
+- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
+- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
+- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-761)</details> |
 
 </div>
