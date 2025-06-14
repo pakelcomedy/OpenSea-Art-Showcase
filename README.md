@@ -6,20 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **habitat** | ![Image](https://i.seadn.io/s/raw/files/cae5ad169de4c1a33e3a1d6d31ef36a9.jpg?w=500&auto=format?w=200&auto=format) | habitat | <details><summary>Link</summary>[habitat](https://opensea.io/collection/habitat-30)</details> |
-| **MasterSex** | ![Image](https://i.seadn.io/s/raw/files/6d8e03421461d1354ca8685fdb348f4d.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>redefining the unstoppable fut...</summary>redefining the unstoppable future of finance</details> | <details><summary>Link</summary>[MasterSex](https://opensea.io/collection/mastersex-4)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/fd31eb18db3d9f0943975f738cdcdeca.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-776)</details> |
-| **Super ChadFund** | ![Image](https://i.seadn.io/s/raw/files/7ec130847fd6233ff4a84e1166bcbde6.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>Super is maximizing crypto fun...</summary>Super is maximizing crypto funds</details> | <details><summary>Link</summary>[Super ChadFund](https://opensea.io/collection/super-chadfund)</details> |
-| **bouquet** | ![Image](https://i.seadn.io/s/raw/files/95c20c9cc1b2bbe5fdbf7d4cdd4baa27.jpg?w=500&auto=format?w=200&auto=format) | bouquet | <details><summary>Link</summary>[bouquet](https://opensea.io/collection/bouquet-54)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 0102640d-1ab2-4043-87b4-bf5ececd2e07</details>** | ![Image](https://i.seadn.io/s/raw/files/37df2cc17567b57cc16920caa4dcdc71.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 0102640d-1ab2-4043-87b4-bf5ececd2e07](https://opensea.io/collection/unidentified-contract-0102640d-1ab2-4043-87b4-bf5e)</details> |
+| **HyperFi** | ![Image](https://i.seadn.io/s/raw/files/550fca34a34b9d6abf687b1dc2d6ba57.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>transcending the metaverse fut...</summary>transcending the metaverse future of finance</details> | <details><summary>Link</summary>[HyperFi](https://opensea.io/collection/hyperfi-7)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 5abd2fa9-da14-4344-a73a-c2bb91e431be</details>** | ![Image](https://i.seadn.io/s/raw/files/37df2cc17567b57cc16920caa4dcdc71.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 5abd2fa9-da14-4344-a73a-c2bb91e431be](https://opensea.io/collection/unidentified-contract-5abd2fa9-da14-4344-a73a-c2bb)</details> |
+| **JobsMato** | ![Image](https://i.seadn.io/s/raw/files/ebeae530b8e577324bbac5e3b84a5fb1.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[JobsMato](https://opensea.io/collection/jobsmato)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 0b1e36ad-9207-40a4-8f59-f518e883d8ba</details>** | ![Image](https://i.seadn.io/s/raw/files/37df2cc17567b57cc16920caa4dcdc71.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 0b1e36ad-9207-40a4-8f59-f518e883d8ba](https://opensea.io/collection/unidentified-contract-0b1e36ad-9207-40a4-8f59-f518)</details> |
 
 </div>
