@@ -6,7 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/fd31eb18db3d9f0943975f738cdcdeca.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
 
 This token is a collectible that lives on the Ethereum blockchain
 
@@ -16,9 +16,9 @@ Additional Content:
 - [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
 - [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
 - [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-2070)</details> |
-| **<details><summary>Playground Open...</summary>Playground Open Ticketing Ecosystem Event 13151</details>** | ![Image](https://i.seadn.io/s/raw/files/ad4b567b5e819f5eb9dc8588aeb6896f.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Playground Open Ticketing Ecosystem Event 13151](https://opensea.io/collection/playground-open-ticketing-ecosystem-event-13151)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/60425129d8b9674a48735150e2622dcb.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-2144)</details> |
+| **FRATERNITY** | ![Image](https://i.seadn.io/s/raw/files/378bb8be966a5b4612065d3fc58b1d45.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FRATERNITY](https://opensea.io/collection/fraternity-1)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
 
 This token is a collectible that lives on the Ethereum blockchain
 
@@ -28,7 +28,7 @@ Additional Content:
 - [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
 - [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
 - [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-2069)</details> |
-| **<details><summary>Storia della Li...</summary>Storia della Lira - Lire Segrete L. 500 Argento</details>** | ![Image](https://i.seadn.io/s/raw/files/fc627fe7e14606144aa83bebdc67af1a.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Storia della Lira - Lire Segrete L. 500 Argento](https://opensea.io/collection/storia-della-lira-lire-segrete-l-500-argento)</details> |
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-2143)</details> |
+| **<details><summary>La Rivoluzione ...</summary>La Rivoluzione di Dio</details>** | ![Image](https://i.seadn.io/s/raw/files/81817a1c9e15a2e22825f8e7e7d388d1.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[La Rivoluzione di Dio](https://opensea.io/collection/la-rivoluzione-di-dio-3)</details> |
 
 </div>
