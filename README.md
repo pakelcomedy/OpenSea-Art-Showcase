@@ -6,38 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-3859)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-3858)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-3857)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 96133634-82d0-4706-b5b1-40c048d5d0a0</details>** | ![Image](https://i.seadn.io/s/raw/files/a764663a5bc941d303ca81defbe8e6ac.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 96133634-82d0-4706-b5b1-40c048d5d0a0](https://opensea.io/collection/unidentified-contract-96133634-82d0-4706-b5b1-40c0)</details> |
+| **<details><summary>ChatGPT、Midjour...</summary>ChatGPT、Midjourney 大熱，我們都是 AI 無產階級</details>** | ![Image](https://i.seadn.io/s/raw/files/3bf3ef818b79b620e2ee39b113b979ee.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>今時今日，不寫 ChatGPT，是跟流量和演算法過不去；不寫...</summary>今時今日，不寫 ChatGPT，是跟流量和演算法過不去；不寫 AI，都不好意思跟人家說自己是科技作者了。偏偏我上一次寫 AI 已經是 2020 年，人肉 AI 除外。?...</details> | <details><summary>Link</summary>[ChatGPT、Midjourney 大熱，我們都是 AI 無產階級](https://opensea.io/collection/chatgpt-midjourney-da-re-wo-men-du-shi-ai-wu-chan)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract ad4cc2dc-3096-4aec-af1f-1c55ae038418</details>** | ![Image](https://i.seadn.io/s/raw/files/a764663a5bc941d303ca81defbe8e6ac.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract ad4cc2dc-3096-4aec-af1f-1c55ae038418](https://opensea.io/collection/unidentified-contract-ad4cc2dc-3096-4aec-af1f-1c55)</details> |
+| **<details><summary>香港角川NFT開售卻滯銷，是資...</summary>香港角川NFT開售卻滯銷，是資訊不足還是動漫粉絲不買單？</details>** | ![Image](https://i.seadn.io/s/raw/files/d894ed7ad4c6e56bc063e52a0d0a11c2.gif?w=500&auto=format?w=200&auto=format) | <details><summary>香港角川於上月毫無先兆地公佈發售NFT，選擇了近期人氣輕小說...</summary>香港角川於上月毫無先兆地公佈發售NFT，選擇了近期人氣輕小說《不時輕聲地以俄語遮羞的鄰座艾莉同學》為藍本，公售...</details> | <details><summary>Link</summary>[香港角川NFT開售卻滯銷，是資訊不足還是動漫粉絲不買單？](https://opensea.io/collection/xiang-gang-jiao-chuan-nftkai-shou-que-zhi-xiao-s-1)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 3319a02a-b150-488e-afd2-ade549bdad13</details>** | ![Image](https://i.seadn.io/s/raw/files/a764663a5bc941d303ca81defbe8e6ac.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 3319a02a-b150-488e-afd2-ade549bdad13](https://opensea.io/collection/unidentified-contract-3319a02a-b150-488e-afd2-ade5)</details> |
 
 </div>
