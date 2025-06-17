@@ -6,30 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract 7ad4036b-a90b-4646-82a9-b7306ec3e2bb</details>** | ![Image](https://i.seadn.io/s/raw/files/4e104055d0efa6a7476555699f52a8b9.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 7ad4036b-a90b-4646-82a9-b7306ec3e2bb](https://opensea.io/collection/unidentified-contract-7ad4036b-a90b-4646-82a9-b730)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract c7d56bd1-3282-47f9-bc0b-21bb8e624089</details>** | ![Image](https://i.seadn.io/s/raw/files/4e104055d0efa6a7476555699f52a8b9.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract c7d56bd1-3282-47f9-bc0b-21bb8e624089](https://opensea.io/collection/unidentified-contract-c7d56bd1-3282-47f9-bc0b-21bb)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/2e51f0ced806697ab50f64bcf41b01fe.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-4936)</details> |
-| **faulty** | ![Image](https://i.seadn.io/s/raw/files/9701731639f261835230984d150b0aff.png?w=500&auto=format?w=200&auto=format) | faulty | <details><summary>Link</summary>[faulty](https://opensea.io/collection/faulty-3)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/f20d5b3ed93d4d69d0d04611050454f3.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-4935)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 39822785-83ed-4118-ad3d-55725c785ed2</details>** | ![Image](https://i.seadn.io/s/raw/files/4e104055d0efa6a7476555699f52a8b9.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 39822785-83ed-4118-ad3d-55725c785ed2](https://opensea.io/collection/unidentified-contract-39822785-83ed-4118-ad3d-5572)</details> |
+| **空想的晨曦 圖.文 東加豆** | ![Image](https://i.seadn.io/s/raw/files/43529e238f56c0ca68c2e2bf2c41fcd4.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>空想的晨曦 圖.文 東加豆 一天之計在於晨。我習慣了每天實行...</summary>空想的晨曦 圖.文 東加豆 一天之計在於晨。我習慣了每天實行已經安排好的工作。實行是一種習慣，對於某些人來說是不容易的。把工作按時完成也是一種習慣，尤其是不需向別人交代的事情。因為這包含了多方面的配合，除了專心、規律、時間控制、 身心健康還有拒絕。</details> | <details><summary>Link</summary>[空想的晨曦 圖.文 東加豆](https://opensea.io/collection/kong-xiang-de-chen-xi-tu-wen-dong-jia-dou)</details> |
+| **<details><summary>阿豆舊話香港情 *香煙* (東...</summary>阿豆舊話香港情 *香煙* (東加豆)</details>** | ![Image](https://i.seadn.io/s/raw/files/c57282c5f2aedf485c4393605d4a5312.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>阿豆舊話香港情 *香煙* (東加豆) (口語錄音文本) + ...</summary>阿豆舊話香港情 *香煙* (東加豆) (口語錄音文本) + (粵語拼音-見底部)  大家好嘛… 我係…東加豆…豆豆呀… 今日呢..都有一個..話題..想同大家..講下.. 就係前嗰排呢,好多人投訴呀.. 加稅..加得咁犀利嘅香煙呀 加稅..加得咁犀利…最受惠係咩單位呢.. </details> | <details><summary>Link</summary>[阿豆舊話香港情 *香煙* (東加豆)](https://opensea.io/collection/a-dou-jiu-hua-xiang-gang-qing-xiang-yan-dong-jia-1)</details> |
+| **2023兔年 給大家的祝福** | ![Image](https://i.seadn.io/s/raw/files/f04c050d44274c393614eb9cb48323d7.png?w=500&auto=format?w=200&auto=format) | <details><summary>大家好，我叫阿豆。平時我都忙著，沒有時間"整色整水"。其實我...</summary>大家好，我叫阿豆。平時我都忙著，沒有時間"整色整水"。其實我可以很清閒，但我選擇了忙碌。因為自覺懂的很少，學的要多。今天是年三十晚，已經把家務安排得妥善之餘，有點時間整色整水了。因為平時我都忙著，沒有時間跟別人打交道，真的見諒！交朋友，我很樂意的，只是自己有點自閉型，真的見諒！</details> | <details><summary>Link</summary>[2023兔年 給大家的祝福](https://opensea.io/collection/2023tu-nian-gei-da-jia-de-zhu-fu)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 093441c1-0d70-4044-9da1-049ebc248028</details>** | ![Image](https://i.seadn.io/s/raw/files/4e104055d0efa6a7476555699f52a8b9.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 093441c1-0d70-4044-9da1-049ebc248028](https://opensea.io/collection/unidentified-contract-093441c1-0d70-4044-9da1-049e)</details> |
 
 </div>
