@@ -6,20 +6,13 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract 3153c912-9994-45e1-91ca-0d9831c41121</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 3153c912-9994-45e1-91ca-0d9831c41121](https://opensea.io/collection/unidentified-contract-3153c912-9994-45e1-91ca-0d98)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 3f44aa52-5990-4a48-b94a-c55a60cea7e7</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 3f44aa52-5990-4a48-b94a-c55a60cea7e7](https://opensea.io/collection/unidentified-contract-3f44aa52-5990-4a48-b94a-c55a)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract b8c10579-4848-46dd-bcd4-f74af0e215b9</details>** | ![Image](https://i.seadn.io/s/raw/files/104bf387dad8775eaf6d28ae99bd2f72.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract b8c10579-4848-46dd-bcd4-f74af0e215b9](https://opensea.io/collection/unidentified-contract-b8c10579-4848-46dd-bcd4-f74a)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ff8b9730f335add0454890e9ace2be83.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+| **<details><summary>Unidentified co...</summary>Unidentified contract a5e8d4f7-e8f2-4edd-b39b-ab1026b7724b</details>** | ![Image](https://i.seadn.io/s/raw/files/104bf387dad8775eaf6d28ae99bd2f72.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract a5e8d4f7-e8f2-4edd-b39b-ab1026b7724b](https://opensea.io/collection/unidentified-contract-a5e8d4f7-e8f2-4edd-b39b-ab10)</details> |
+| **<details><summary>King Ghidorah M...</summary>King Ghidorah Mountainscape Traditional Art Color 10 Epic</details>** | ![Image](https://i.seadn.io/s/raw/files/44809677aaae69ce3f5665daea7e5644.png?w=500&auto=format?w=200&auto=format) | <details><summary>A Traditional Art NFT from the...</summary>A Traditional Art NFT from the 2021 Godzilla Rage Across Time NFT Collection by Topps; a collection of Godzilla NFTs that celebrate the iconic monsters of the Godzilla universe with a core focus on the Rage Across Time comic #5. 
 
-This token is a collectible that lives on the Ethereum blockchain
+This King Ghidorah Mountainscape Traditional Art NFT is an original woodblock-style artwork depicting some of the most popular monsters from the Godzilla universe and Rage Across Time comic #5.
 
-Additional Content:
+This animated version has been brought to life with dynamic, looping motion and sound effects!
 
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-9521)</details> |
-| **<details><summary>FOURTY FOUR YEA...</summary>FOURTY FOUR YEARS BY BEEPLE</details>** | ![Image](https://i.seadn.io/s/raw/files/ec25685084314a3f90c235dad252698b.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[FOURTY FOUR YEARS BY BEEPLE](https://opensea.io/collection/fourty-four-years-by-beeple)</details> |
+The 2021 Godzilla Rage Across Time NFT Collection features over 150 unique NFT collectibles including animated comics, animated art, special rookie cards and 3D Toppsicles. Visit ToppsNFTs.com for more details.</details> | <details><summary>Link</summary>[King Ghidorah Mountainscape Traditional Art Color 10 Epic](https://opensea.io/collection/king-ghidorah-mountainscape-traditional-art-colo-3)</details> |
 
 </div>
