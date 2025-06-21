@@ -6,30 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/d60d3d8c2123beb5f02ce9ae1d3ddf7c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-9856)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract a5c2cb8e-3a6d-486d-93cf-93e04a298ee8</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract a5c2cb8e-3a6d-486d-93cf-93e04a298ee8](https://opensea.io/collection/unidentified-contract-a5c2cb8e-3a6d-486d-93cf-93e0)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 25a993cc-afce-4cfe-bbae-2b399b4c8526</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 25a993cc-afce-4cfe-bbae-2b399b4c8526](https://opensea.io/collection/unidentified-contract-25a993cc-afce-4cfe-bbae-2b39)</details> |
-| **Truths** | ![Image](https://i.seadn.io/s/raw/files/04c760a0d12414cb70a04793ef626c13.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Truths](https://opensea.io/collection/truths-1)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ff8b9730f335add0454890e9ace2be83.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-9855)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 215f7131-9cff-4fe4-acc1-62ef05e04789</details>** | ![Image](https://i.seadn.io/s/raw/files/104bf387dad8775eaf6d28ae99bd2f72.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 215f7131-9cff-4fe4-acc1-62ef05e04789](https://opensea.io/collection/unidentified-contract-215f7131-9cff-4fe4-acc1-62ef)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 643e6808-8560-4950-8356-baca127783a4</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 643e6808-8560-4950-8356-baca127783a4](https://opensea.io/collection/unidentified-contract-643e6808-8560-4950-8356-baca)</details> |
+| **leash** | ![Image](https://i.seadn.io/s/raw/files/0ff8a988b3cb80b7c043c2b219a31ce8.png?w=500&auto=format?w=200&auto=format) | leash | <details><summary>Link</summary>[leash](https://opensea.io/collection/leash-8)</details> |
+| **Wandering** | ![Image](https://i.seadn.io/s/raw/files/26448d87a265ec50a6e3ccb9f663fdac.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Wandering](https://opensea.io/collection/wandering-13)</details> |
+| **<details><summary>Crypto Finder A...</summary>Crypto Finder AI</details>** | ![Image](https://i.seadn.io/s/raw/files/b36a320bcf129337132c88a9960c3686.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Crypto Finder AI](https://opensea.io/collection/crypto-finder-ai-1)</details> |
 
 </div>
