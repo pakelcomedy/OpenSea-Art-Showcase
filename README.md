@@ -6,20 +6,10 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Sadly Emo Women** | ![Image](https://i.seadn.io/s/raw/files/74c3b718d2966e5400343b7e99e452b0.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Sadly Emo Women](https://opensea.io/collection/sadly-emo-women)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 626d34b4-6951-40c3-8047-a31455186a38</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 626d34b4-6951-40c3-8047-a31455186a38](https://opensea.io/collection/unidentified-contract-626d34b4-6951-40c3-8047-a314)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/d60d3d8c2123beb5f02ce9ae1d3ddf7c.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-9643)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 71d6180b-33a5-43c0-a16a-b0499d5880a5</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 71d6180b-33a5-43c0-a16a-b0499d5880a5](https://opensea.io/collection/unidentified-contract-71d6180b-33a5-43c0-a16a-b049)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract bf9c4066-d1c5-4781-8b4c-cbc02c52fec5</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract bf9c4066-d1c5-4781-8b4c-cbc02c52fec5](https://opensea.io/collection/unidentified-contract-bf9c4066-d1c5-4781-8b4c-cbc0)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 497370ed-c8c1-4490-a4b2-f335f46d912e</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 497370ed-c8c1-4490-a4b2-f335f46d912e](https://opensea.io/collection/unidentified-contract-497370ed-c8c1-4490-a4b2-f335)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 4b17ac76-3d91-4933-b699-5f81cdda7806</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 4b17ac76-3d91-4933-b699-5f81cdda7806](https://opensea.io/collection/unidentified-contract-4b17ac76-3d91-4933-b699-5f81)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract a93a6178-7d3b-498f-ae02-19cd7c538afd</details>** | ![Image](https://i.seadn.io/s/raw/files/104bf387dad8775eaf6d28ae99bd2f72.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract a93a6178-7d3b-498f-ae02-19cd7c538afd](https://opensea.io/collection/unidentified-contract-a93a6178-7d3b-498f-ae02-19cd)</details> |
+| **Neon Oasiscore** | ![Image](https://i.seadn.io/s/raw/files/bd20f6628f4f2c27f42ed77b36ffdf39.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Neon Oasiscore](https://opensea.io/collection/neon-oasiscore)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 8b5b8ca8-b939-4e6a-8995-d504b759f37b</details>** | ![Image](https://i.seadn.io/s/raw/files/017a61ef6fc52ccb267bda798d7334ea.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 8b5b8ca8-b939-4e6a-8995-d504b759f37b](https://opensea.io/collection/unidentified-contract-8b5b8ca8-b939-4e6a-8995-d504)</details> |
 
 </div>
