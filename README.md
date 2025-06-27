@@ -6,7 +6,17 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract 922edf49-18c8-43f5-940f-52893a452cb3</details>** | ![Image](https://i.seadn.io/s/raw/files/7bcffd5e974c148aaba93cda878384a5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 922edf49-18c8-43f5-940f-52893a452cb3](https://opensea.io/collection/unidentified-contract-922edf49-18c8-43f5-940f-5289)</details> |
-| **<details><summary>0x3949dfad4d984...</summary>0x3949dfad4d9846e661fc1564ae091301a27ad943</details>** | ![Image](https://i.seadn.io/s/raw/files/0120dbe70465f91ae019e541cba50a56.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[0x3949dfad4d9846e661fc1564ae091301a27ad943](https://opensea.io/collection/0x3949dfad4d9846e661fc1564ae091301a27ad943)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/904bb28cb6a8a65a243187d64ef69d70.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+
+This token is a collectible that lives on the Ethereum blockchain
+
+Additional Content:
+
+- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
+- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
+- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
+- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-15744)</details> |
+| **Rodeo posts** | ![Image](https://i.seadn.io/s/raw/files/af147b721c493b097952593d10eb8d72.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Rodeo posts](https://opensea.io/collection/rodeo-posts-13918)</details> |
 
 </div>
