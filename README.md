@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Event** | ![Image](https://i.seadn.io/s/raw/files/f91e038ef392026278cd44518c7228c1.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Event](https://opensea.io/collection/event-47447)</details> |
+| **<details><summary>t.ly/claimcake ...</summary>t.ly/claimcake - 135.000$ Win</details>** | ![Image](https://i.seadn.io/s/raw/files/9052e9fdcde6c8115be9d4cf4bb70596.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[t.ly/claimcake - 135.000$ Win](https://opensea.io/collection/t-ly-claimcake-135-000-win-231)</details> |
 
 </div>
