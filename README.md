@@ -6,8 +6,30 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract 65eb224b-4338-4271-9fc7-efb58cf062c1</details>** | ![Image](https://i.seadn.io/s/raw/files/e86404459f0a28661c41bd910f8b5899.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 65eb224b-4338-4271-9fc7-efb58cf062c1](https://opensea.io/collection/unidentified-contract-65eb224b-4338-4271-9fc7-efb5)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 74fd6d5d-1dda-4240-b0d7-f40be7180f36</details>** | ![Image](https://i.seadn.io/s/raw/files/e86404459f0a28661c41bd910f8b5899.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 74fd6d5d-1dda-4240-b0d7-f40be7180f36](https://opensea.io/collection/unidentified-contract-74fd6d5d-1dda-4240-b0d7-f40b)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract ff26d743-8638-4865-86f5-d75a3a8502f5</details>** | ![Image](https://i.seadn.io/s/raw/files/7bcffd5e974c148aaba93cda878384a5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract ff26d743-8638-4865-86f5-d75a3a8502f5](https://opensea.io/collection/unidentified-contract-ff26d743-8638-4865-86f5-d75a)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/b741935e8b1d3fd64bb7464f95eb780f.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+
+This token is a collectible that lives on the Ethereum blockchain
+
+Additional Content:
+
+- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
+- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
+- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
+- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-17563)</details> |
+| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ba1a166b7de6419d5384b9f8e98fe1c2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
+
+This token is a collectible that lives on the Ethereum blockchain
+
+Additional Content:
+
+- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
+- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
+- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
+- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
+</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-17562)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 89a7931e-733c-4a6f-b5d2-6176adb7fa68</details>** | ![Image](https://i.seadn.io/s/raw/files/7bcffd5e974c148aaba93cda878384a5.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 89a7931e-733c-4a6f-b5d2-6176adb7fa68](https://opensea.io/collection/unidentified-contract-89a7931e-733c-4a6f-b5d2-6176)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract 0400c102-2c4d-46fa-9385-63a9a2dd15df</details>** | ![Image](https://i.seadn.io/s/raw/files/e86404459f0a28661c41bd910f8b5899.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 0400c102-2c4d-46fa-9385-63a9a2dd15df](https://opensea.io/collection/unidentified-contract-0400c102-2c4d-46fa-9385-63a9)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract b8aa76bf-7dd8-43c5-9bef-b5e0123a4e8e</details>** | ![Image](https://i.seadn.io/s/raw/files/e86404459f0a28661c41bd910f8b5899.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract b8aa76bf-7dd8-43c5-9bef-b5e0123a4e8e](https://opensea.io/collection/unidentified-contract-b8aa76bf-7dd8-43c5-9bef-b5e0)</details> |
 
 </div>
