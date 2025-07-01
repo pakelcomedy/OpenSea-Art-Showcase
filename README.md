@@ -6,19 +6,9 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>Unidentified co...</summary>Unidentified contract b2de04d7-5b5a-4827-8b25-9cc77e65b1b5</details>** | ![Image](https://i.seadn.io/s/raw/files/1a5902a65b73520349e52c048baee5e0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract b2de04d7-5b5a-4827-8b25-9cc77e65b1b5](https://opensea.io/collection/unidentified-contract-b2de04d7-5b5a-4827-8b25-9cc7)</details> |
-| **<details><summary>"Content" Condo...</summary>"Content" Condor</details>** | ![Image](https://i.seadn.io/s/raw/files/ba1a166b7de6419d5384b9f8e98fe1c2.jpg?w=500&auto=format?w=200&auto=format) | <details><summary>This token is verifiable for a...</summary>This token is verifiable for admission to VeeCon 2023, 2024
-
-This token is a collectible that lives on the Ethereum blockchain
-
-Additional Content:
-
-- [Character Vector](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3164.svg)
-- [Character Image](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/4003.png) 
-- [Character Creation Video](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/849.mp4)
-- [Character with Gary Vaynerchuk](https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/833.jpg) 
-</details> | <details><summary>Link</summary>["Content" Condor](https://opensea.io/collection/content-condor-18301)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract e1e04d3f-93fb-4c23-921c-32cc1453ece2</details>** | ![Image](https://i.seadn.io/s/raw/files/ca0309f935b3906c3d7a3c089ebdf541.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract e1e04d3f-93fb-4c23-921c-32cc1453ece2](https://opensea.io/collection/unidentified-contract-e1e04d3f-93fb-4c23-921c-32cc)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 1bec9596-12c2-4886-b07f-7a0722b1c0f2</details>** | ![Image](https://i.seadn.io/s/raw/files/ca0309f935b3906c3d7a3c089ebdf541.gif?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 1bec9596-12c2-4886-b07f-7a0722b1c0f2](https://opensea.io/collection/unidentified-contract-1bec9596-12c2-4886-b07f-7a07)</details> |
+| **<details><summary>Hyperspace Anta...</summary>Hyperspace Antagonist</details>** | ![Image](https://i.seadn.io/s/raw/files/6e113704958073f9870335a75fabf1eb.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Hyperspace Antagonist](https://opensea.io/collection/hyperspace-antagonist)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract b18fe904-4e15-40ba-9433-79b135e0918f</details>** | ![Image](https://i.seadn.io/s/raw/files/1a5902a65b73520349e52c048baee5e0.png?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract b18fe904-4e15-40ba-9433-79b135e0918f](https://opensea.io/collection/unidentified-contract-b18fe904-4e15-40ba-9433-79b1)</details> |
+| **<details><summary>Unidentified co...</summary>Unidentified contract df036d6e-ed93-4195-8ab2-8ba49bc04511</details>** | ![Image](https://i.seadn.io/s/raw/files/c37dfbbc7db85bb655460718b26fd37e.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract df036d6e-ed93-4195-8ab2-8ba49bc04511](https://opensea.io/collection/unidentified-contract-df036d6e-ed93-4195-8ab2-8ba4)</details> |
+| **#0 117 0d10** | ![Image](https://i.seadn.io/s/raw/files/f053834f05a4c1a44a3127b0358dc117.jpg?w=500&auto=format?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 0d10](https://opensea.io/collection/0-117-0d10)</details> |
 
 </div>
