@@ -6,7 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **#0 117 d9a9** | ![Image](https://i2.seadn.io/base/0x2ebd4845c54c605b2a1cc8dafecab2db12c57cf0/53834f05a4c1a44a3127b0358dc117/f053834f05a4c1a44a3127b0358dc117.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 d9a9](https://opensea.io/collection/0-117-d9a9)</details> |
-| **<details><summary>Unidentified co...</summary>Unidentified contract 7decd883-de0d-4b04-b9ea-41d815745901</details>** | ![Image](https://i2.seadn.io/optimism/0x0665c09242fd6f77d367b5c7bc25e71af38be10f/491c7c8baf5b9fd34f71da19f53443/49491c7c8baf5b9fd34f71da19f53443.png?w=200&auto=format) |  | <details><summary>Link</summary>[Unidentified contract 7decd883-de0d-4b04-b9ea-41d815745901](https://opensea.io/collection/unidentified-contract-7decd883-de0d-4b04-b9ea-41d8)</details> |
+| **#0 117 c120** | ![Image](https://i2.seadn.io/base/0x2ebd4845c54c605b2a1cc8dafecab2db12c57cf0/53834f05a4c1a44a3127b0358dc117/f053834f05a4c1a44a3127b0358dc117.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 c120](https://opensea.io/collection/0-117-c120)</details> |
 
 </div>
