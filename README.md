@@ -6,9 +6,7 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **#0 117 b27f** | ![Image](https://i2.seadn.io/base/0xe0e7932e6badbb888e9ab0beb33ebe0be1a9de78/53834f05a4c1a44a3127b0358dc117/f053834f05a4c1a44a3127b0358dc117.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 b27f](https://opensea.io/collection/0-117-b27f-1)</details> |
-| **#0 117 7cd9** | ![Image](https://i2.seadn.io/base/0xe0e7932e6badbb888e9ab0beb33ebe0be1a9de78/53834f05a4c1a44a3127b0358dc117/f053834f05a4c1a44a3127b0358dc117.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 7cd9](https://opensea.io/collection/0-117-7cd9)</details> |
-| **#0 117 2330** | ![Image](https://i2.seadn.io/base/0xe0e7932e6badbb888e9ab0beb33ebe0be1a9de78/53834f05a4c1a44a3127b0358dc117/f053834f05a4c1a44a3127b0358dc117.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 2330](https://opensea.io/collection/0-117-2330)</details> |
-| **#0 117 ce67** | ![Image](https://i2.seadn.io/base/0xe0e7932e6badbb888e9ab0beb33ebe0be1a9de78/53834f05a4c1a44a3127b0358dc117/f053834f05a4c1a44a3127b0358dc117.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 ce67](https://opensea.io/collection/0-117-ce67-2)</details> |
+| **#0 117 47ee** | ![Image](https://i2.seadn.io/base/0xe0e7932e6badbb888e9ab0beb33ebe0be1a9de78/53834f05a4c1a44a3127b0358dc117/f053834f05a4c1a44a3127b0358dc117.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 47ee](https://opensea.io/collection/0-117-47ee)</details> |
+| **#0 117 245e** | ![Image](https://i2.seadn.io/base/0xe0e7932e6badbb888e9ab0beb33ebe0be1a9de78/53834f05a4c1a44a3127b0358dc117/f053834f05a4c1a44a3127b0358dc117.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[#0 117 245e](https://opensea.io/collection/0-117-245e)</details> |
 
 </div>
