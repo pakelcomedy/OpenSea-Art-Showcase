@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x63749babb30eb...</summary>0x63749babb30eb9e2656d50e978d3fa27b7adef38</details>** | ![Image](https://raw2.seadn.io/optimism/0x96f833790b6289f9dc7cf0954284072f68363a76/d1a52f391443ca62f20a76578e33d6/51d1a52f391443ca62f20a76578e33d6.mov?w=200&auto=format) |  | <details><summary>Link</summary>[0x63749babb30eb9e2656d50e978d3fa27b7adef38](https://opensea.io/collection/0x63749babb30eb9e2656d50e978d3fa27b7adef38)</details> |
+| **<details><summary>0xd33e21b6c7fc6...</summary>0xd33e21b6c7fc652444440d3b1ddec1a944076656</details>** | ![Image](https://i2.seadn.io/optimism/0xaa5a57aea0360a3ef97ca3dbd730dfef1fef5765/0553b06cfcbe6ba9b1e38bdc613fda/0e0553b06cfcbe6ba9b1e38bdc613fda.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[0xd33e21b6c7fc652444440d3b1ddec1a944076656](https://opensea.io/collection/0xd33e21b6c7fc652444440d3b1ddec1a944076656)</details> |
 
 </div>
