@@ -6,6 +6,5 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **<details><summary>0x8437504294524...</summary>0x843750429452457f4a45cac587ce57fdd44c37b9</details>** | ![Image](https://i2.seadn.io/optimism/0x92b597b3406e72420b29d9f1d4fc07d0f61da0e0/cd48b9c80f065878c35ba9992a028f/08cd48b9c80f065878c35ba9992a028f.gif?w=200&auto=format) |  | <details><summary>Link</summary>[0x843750429452457f4a45cac587ce57fdd44c37b9](https://opensea.io/collection/0x843750429452457f4a45cac587ce57fdd44c37b9)</details> |
 
 </div>
