@@ -6,6 +6,6 @@
 
 | Collection Name                       | Image                                                                                     | Description                       | OpenSea Link                                                                                          |
 |---------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
-| **FAUVTOSHI NFT** | ![Image](https://i2.seadn.io/collection/fauvtoshi-nft/image_type_logo/4e486bb5463492f434cb2c2b7571e8/6c4e486bb5463492f434cb2c2b7571e8.png?w=200&auto=format) |  | <details><summary>Link</summary>[FAUVTOSHI NFT](https://opensea.io/collection/fauvtoshi-nft)</details> |
+| **Gamblerz** | ![Image](https://i2.seadn.io/collection/gamblerz-552817850/image_type_logo/c903dadaeff005ea44ab50b5f5e503/01c903dadaeff005ea44ab50b5f5e503.jpeg?w=200&auto=format) |  | <details><summary>Link</summary>[Gamblerz](https://opensea.io/collection/gamblerz-552817850)</details> |
 
 </div>
